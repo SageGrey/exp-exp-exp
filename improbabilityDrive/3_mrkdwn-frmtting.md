@@ -1,5 +1,4 @@
-# Would you like to see the menu? 
-
+# Markdown Formatting Options
 
 Lookup when want help: Git Hub Flavored Markdown
 
@@ -8,14 +7,14 @@ Lookup when want help: Git Hub Flavored Markdown
 ### Smaller Than That Title
 #### Even Smaller Title
 ##### Maybe still a title?
-###### Different from above?
-###### I cant tell??
-####### what about here?  
-######## what about there??  
+###### Smallest Hash Possible  
+Default Text
+
+
 
 **BOLD**  
 *Italics*  
-_Italics Too_  
+_Italics Another Way_  
         
         Indent, and space from above title
         
