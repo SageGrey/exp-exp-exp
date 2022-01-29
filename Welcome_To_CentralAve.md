@@ -6,7 +6,7 @@ If you happen to be looking for a place to start, word on the street is that the
 [La Provence](HostessStation.md)  
 Buffalo Exchance  
 Zinc Bar & Bistro  
-Lobo Theater  
+[Lobo Theater](lobby.md)
 Walk around the corner  
 Walk towards UNM  
 ![Central Ave](i1.jpeg)
