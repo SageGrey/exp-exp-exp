@@ -18,5 +18,5 @@ Sage
 ##### Act 3 -- Hudson News, Monte Vista Library   
 
 
-### [Back to Lobby](xxxxx_locations/2_loboLobby.md)
-### [Back to Central Ave](Welcome_To_CentralAve.md)
+### [Back to Lobby](https://github.com/SageGrey/exp-exp-exp/blob/main/xxxxx_locations/2_loboLobby.md)
+### [Back to Central Ave](https://github.com/SageGrey/exp-exp-exp/blob/main/Welcome_To_CentralAve.md)
