@@ -6,7 +6,7 @@ If you happen to be looking for a place to start, word on the street is that the
 La Provence 
 Buffalo Exchance  
 Zinc Bar & Bistro  
-[Lobo Theater](LoboTheater/Lobby.md)
-Walk around the corner  
+[Lobo Theater](LoboTheater/Lobby.md)  
+[Walk around the corner to Monte Vista](MonteVista/SchoolMap.md)  
 Walk towards UNM  
 ![Central Ave](i1.jpeg)
