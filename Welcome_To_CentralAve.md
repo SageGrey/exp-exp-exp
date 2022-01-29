@@ -3,10 +3,10 @@
 
 If you happen to be looking for a place to start, word on the street is that there is a high-concept play performed by elementary schoolers about to start at the Lobo.
 
-##### [La Provence](LaProvence/HostessStation.md)  
+##### La Provence
 ##### Buffalo Exchance  
 ##### Zinc Bar & Bistro  
-##### [Lobo Theater](LoboTheater/Lobby.md)  
-##### [Walk around the corner to Monte Vista]
+##### [Lobo Theater](xxxxx_locations/2_loboLobby.md)  
+##### [Walk around the corner to Monte Vista](xxxxx_locations/1_SchoolMap.md)
 #### Walk towards UNM  
 
