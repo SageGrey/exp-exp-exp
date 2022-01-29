@@ -18,7 +18,7 @@ P118 Janet Wilson
 P200 Janice Ross  
 P317 Michael Rosenfeld  
 P371 Eden Attar  
-P382 Jenny Odell
-P303 Ivan Illich
+P382 Jenny Odell  
+P303 Ivan Illich  
 P403 Carole Voulgaris  
 
