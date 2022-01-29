@@ -1,7 +1,7 @@
 # bib-bib-bib
 Reading Notes  of All Authors
  
-  **Brown, Adrienne Maree. "Emergent Strategies." AK Press, 2017. **
+  **Brown, Adrienne Maree. "Emergent Strategies."** AK Press, 2017. 
  
                 23: Definitions
                 25: Lineage of Emergent Strategies
@@ -27,15 +27,15 @@ Reading Notes  of All Authors
                 57: Utopias that are just different monocultures  
 
 **Coughlin-Bogue, Tobin "Queering Skateable Space: How Dispersing Skate Spots Defuses
-Toxic Masculinity." Urban Pamphleteer #8: Skateboardings, 2020. 18-20**
+Toxic Masculinity."** Urban Pamphleteer #8: Skateboardings, 2020. 18-20
 
 **Dupont, Tyler. From Core to Consumer: The Informal Hierarchy of the Skateboard Scene. Journal of Contemporary Ethnography Vol. 43(5), 2014), 556-581**
                 
-**Greer, Alex "A historical assessment of home buyout policy: Are we learning or just failing?"
-Section 1: Policy Learning Theory (Social, Instrumental) **
+**Greer, Alex "A historical assessment of home buyout policy: Are we learning or just failing?"**
+Section 1: Policy Learning Theory (Social, Instrumental) 
 
-**Harvey, David. 1985. “On planning the ideology of planning,” in The Urbanization of Capital. Baltimore:
-Johns Hopkins University Press: 165-184. **
+**Harvey, David. 1985. “On planning the ideology of planning,”** in The Urbanization of Capital. Baltimore:
+Johns Hopkins University Press: 165-184.
 
                  165: Intro
                  166: Social Reproduction
@@ -68,9 +68,9 @@ Johns Hopkins University Press: 165-184. **
             
             `**Context:** Peter Hall is a prolific marxist, economic geographer. 
             
-**Howell O. Skatepark as Neoliberal Playground: Urban Governance, Recreation Space, and the Cultivation of Personal Responsibility._Space and Culture_. 2008;11(4):475-496.**
+**Howell O. Skatepark as Neoliberal Playground: Urban Governance, Recreation Space, and the Cultivation of Personal Responsibility**._Space and Culture_. 2008;11(4):475-496.
 
-**Illich, Ivan. "Deschooling Society" Marion Boyers Publishing, 2002**
+**Illich, Ivan. "Deschooling Society"** Marion Boyers Publishing, 2002
 
                ` 1: Service and Value (institutionalization of value)
                    2: Disservice to the rich and poor
@@ -95,8 +95,8 @@ Johns Hopkins University Press: 165-184. **
                     22: Medieval town education`
                ` 23: Karl Marx Child Labor`
                
-***Jerold S. Kayden and Adam Tanaka, Real Estate Financial Analysis for Public 
-and Private Development, Class Note #1 (2022), pp. 1-11***
+**Jerold S. Kayden and Adam Tanaka, Real Estate Financial Analysis for Public 
+and Private Development, Class Note #1** (2022), pp. 1-11
                     1: Copyright
                     2: Intro to 3 primary tools
                     3: 3 Tools in Table
@@ -110,11 +110,11 @@ and Private Development, Class Note #1 (2022), pp. 1-11***
                     11: Capitalized Value
                     
 
-**Kilberth, V., & Schwier, J. (2019). Skateboarding Between Subculture and the Olympics : A Youth Culture under Pressure from Commercialization and Sportification (KörperKulturen). Bielefeld: Transcript-Verlag.**
+**Kilberth, V., & Schwier, J. (2019). Skateboarding Between Subculture and the Olympics : A Youth Culture under Pressure from Commercialization and Sportification** (KörperKulturen). Bielefeld: Transcript-Verlag.
 
- **Liao,  Jilleen . Instaposts. Urban Pamphleteer #8: Skateboardings, 2020. 30-31**
+ **Liao,  Jilleen . Instaposts.** Urban Pamphleteer #8: Skateboardings, 2020. 30-31
  
-**Scott, James C. “The High-Modernist City: An Experiment and a Critique.” Yale University Press, 2008.**
+**Scott, James C. “The High-Modernist City: An Experiment and a Critique.”** Yale University Press, 2008.
 
 
                 126: Brailia lack of city, "Brasilitis"
@@ -133,7 +133,7 @@ and Private Development, Class Note #1 (2022), pp. 1-11***
                 144: Tankel: Humility in Planning
                 
 **Thomas, June Manning. 1994. “Planning History and the Black Urban Experience: Linkages and
-Contemporary Implications,” Journal of Planning Education and Research 14: 1-11.**
+Contemporary Implications,**” Journal of Planning Education and Research 14: 1-11.
 
 
                255: Lit Review
@@ -145,7 +145,7 @@ Contemporary Implications,” Journal of Planning Education and Research 14: 1-1
                261: Hopeful Spin
                262: Importance for planners to learn material
     
-**Yochim, E. (2010)._Skate life : Re-imagining white masculinity_. Ann Arbor: University of Michigan Press.**
+**Yochim, E. (2010)._Skate life : Re-imagining white masculinity_**. Ann Arbor: University of Michigan Press.
 
 
 
