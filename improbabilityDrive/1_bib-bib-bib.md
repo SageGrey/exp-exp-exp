@@ -37,9 +37,17 @@ Toxic Masculinity."** Urban Pamphleteer #8: Skateboardings, 2020. 18-20
 [Engels, Friedrich.1845. “The Great Towns.”](http://gofile.me/6WhDC/8K48J765f) in The Condition of the Working-Class in England in 1844, in The City Reader, Richard T. LeGates and Frederic Stout, eds. Routledge,
 2003: 58-66.
    
-       58:Bio of Engels while writing The Condition of the Working Class in England in 1844 (1845)
-       59: Further Reading Reccomendations
-       60:
+        `Transfer to Zettle: 
+        
+ The notion of anti-homeless policing is documented by Mark Engels in his 1845 work in his chapter "The Great Towns" from his 1845 work, The Conditions of the Working Class in England in 1844. "If he can get no work he may steal, if he is not afraid of the police, or starve, in which case the police will take care that he does so in a quiet an inoffensive manner.'
+..        
+       58:Bio of Engels while writing The Condition of the Working Class in England in 1844 (1845)  
+       59: Further Reading Reccomendations  
+       60a: Isolated condition of man in Great Towns
+       60b: Starvation
+  
+       61a: City layout seperates borgeoisie from workers
+       61b:
                 
 **Greer, Alex "A historical assessment of home buyout policy: Are we learning or just failing?"**
 Section 1: Policy Learning Theory (Social, Instrumental) 
