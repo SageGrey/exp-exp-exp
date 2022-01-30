@@ -97,17 +97,19 @@ Johns Hopkins University Press: 165-184.
                
 **Jerold S. Kayden and Adam Tanaka, Real Estate Financial Analysis for Public 
 and Private Development, Class Note #1** (2022), pp. 1-11
-                    1: Copyright
-                    2: Intro to 3 primary tools
-                    3: 3 Tools in Table
-                    4: Pro Forma
-                    5: Gross Income, Vacancy
-                    6: operating Expenses, Real Estate Taxes
-                    7: Net Operating Income, Debt Service
-                    8: Cash Flow After Financing
-                    9: Measuring Performance
-                    10: Return, Total Assets Equity
-                    11: Capitalized Value
+
+
+                    1: Copyright  
+                    2: Intro to 3 primary tools  
+                    3: 3 Tools in Table  
+                    4: Pro Forma  
+                    5: Gross Income, Vacancy  
+                    6: operating Expenses, Real Estate Taxes  
+                    7: Net Operating Income, Debt Service  
+                    8: Cash Flow After Financing  
+                    9: Measuring Performance  
+                    10: Return, Total Assets Equity  
+                    11: Capitalized Value  
                     
 
 **Kilberth, V., & Schwier, J. (2019). Skateboarding Between Subculture and the Olympics : A Youth Culture under Pressure from Commercialization and Sportification** (KörperKulturen). Bielefeld: Transcript-Verlag.
