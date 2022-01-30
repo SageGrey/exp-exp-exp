@@ -1,3 +1,6 @@
+
+ 
+ 
  # The Stacks
 ###### Reading Notes  of All Authors
  
@@ -115,9 +118,16 @@ and Private Development](http://gofile.me/6WhDC/cvKMNKgSv), Class Note #1 (2022)
                     11: Capitalized Value  
                     
 
+[Johnson, Walter. 2013. “Introduction: Boom,”](http://gofile.me/6WhDC/Ci7UFKV23) River of Dark Dreams: Slavery and Empire in the Cotton Kingdom. Cambridge, MA: Harvard University Press, 2013: 1-17.
+
 **Kilberth, V., & Schwier, J. (2019). Skateboarding Between Subculture and the Olympics : A Youth Culture under Pressure from Commercialization and Sportification** (KörperKulturen). Bielefeld: Transcript-Verlag.
 
  **Liao,  Jilleen . Instaposts.** Urban Pamphleteer #8: Skateboardings, 2020. 30-31
+ 
+ [Mumford, Lewis. 1961. “Paleotechnic Paradise: Coketown.”](http://gofile.me/6WhDC/b36RG7Y3v) In The City in History: Its Origins, Its Transformations, and Its Prospects, London: Secker & Warburg, 1961: 446-481 [skim: focus on sections 5 and 6]
+ 
+ 
+[Madden, David and Marcuse, Peter. 2016. “Introduction: The Residential is Political,”](http://gofile.me/6WhDC/kUzhyZKyy) In Defense of Housing: The Politics of Crisis. London, New York: Verso, 2016: 7-12
  
 **Scott, James C. “The High-Modernist City: An Experiment and a Critique.”** Yale University Press, 2008.
 
