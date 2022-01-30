@@ -34,8 +34,8 @@
 # Readings
 [Copied From The Stacks](https://github.com/SageGrey/exp-exp-exp/blob/main/improbabilityDrive/1_bib-bib-bib.md) 
 
-1. **Jerold S. Kayden and Adam Tanaka, Real Estate Financial Analysis for Public 
-and Private Development, Class Note #1** (2022), pp. 1-11
+1. **[Jerold S. Kayden and Adam Tanaka, Real Estate Financial Analysis for Public 
+and Private Development](http://gofile.me/6WhDC/cvKMNKgSv), Class Note #1** (2022), pp. 1-11
 
 
                     1: Copyright  
