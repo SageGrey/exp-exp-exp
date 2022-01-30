@@ -1,15 +1,29 @@
 # Notes from Public Private Development
 ### Jerold Kayden, GSD Spring 2022
- .  
- ..  
- ...     
+ . OH: 2-4pm Wednesday   
+ ..  Gund 105  
+ ... Spring 2022      
  ....  
 
  
 # Staff Picks 
----------->`A building is a machine that makes the land pay || Cass Gilbert, Early 20th Century Architect`
+---------->[A building is a machine that makes the land pay](https://github.com/SageGrey/exp-exp-exp/blob/main/zzzzz_cards/2.BuildingsPay_CassQuotes.md)  `|| Cass Gilbert, Early 20th Century Architect`
 
 ---------->`**Parts of A Pro Forma**
+ 
+          Gross Income
+          (Vacancy)
+          _Additional Income_
+          Effective Gross Income
+          (Operating Expenses)
+          (Real Estate Taxes)
+          (Replacement Reserve)
+          _(Other Recurring Expenses)_
+          Net Operating Income
+          _(Debt Services)_
+          Cash Flow After Financing
+          (Tax Payment)
+          Cash Flow After Taxes 
 
  .  
  ..  
@@ -39,22 +53,17 @@ and Private Development, Class Note #1** (2022), pp. 1-11
  ....  
 
 
-# Vocab Bank
-
-**REFA** --> Real Estate Financial Analysis 
-**Underwriting** --> Analyzing the Deal
-
- .  
- ..  
- ...     
- ....  
-
-# General Notes 
+# Class Notes 
 
 #### Formatting Notes:  
        
        Section Header `### ---------->`
        Cannot do underline in markdown, treat italics as underline
+       
+### ----------> Vocab Bank
+
+    **REFA** --> Real Estate Financial Analysis 
+    **Underwriting** --> Analyzing the Deal 
 
 
 ### ---------->Kaydens Candid Caveats 
