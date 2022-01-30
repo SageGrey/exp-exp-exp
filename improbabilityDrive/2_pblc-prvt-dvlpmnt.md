@@ -1,11 +1,20 @@
 # Notes from Public Private Development
 ### Jerold Kayden, GSD Spring 2022
+ .  
+ ..  
+ ...     
+ ....  
 
-
+ 
 # Staff Picks 
 ---------->`A building is a machine that makes the land pay || Cass Gilbert, Early 20th Century Architect`
 
 ---------->`**Parts of A Pro Forma**
+
+ .  
+ ..  
+ ...     
+ ....  
 
 
 # Readings
@@ -24,18 +33,31 @@ and Private Development, Class Note #1** (2022), pp. 1-11
                     9: Measuring Performance  
                     10: Return, Total Assets Equity  
                     11: Capitalized Value  
+ .  
+ ..  
+ ...     
+ ....  
 
 
-# Class Notes
-
-##### **Vocab Bank**
+# Vocab Bank
 
 **REFA** --> Real Estate Financial Analysis 
 **Underwriting** --> Analyzing the Deal
 
-##### General Notes
+ .  
+ ..  
+ ...     
+ ....  
 
----------->`Kaydens Candid Caveats 
+# General Notes 
+
+#### Formatting Notes:  
+       
+       Section Header `### ---------->`
+       Cannot do underline in markdown, treat italics as underline
+
+
+### ---------->Kaydens Candid Caveats 
      
      1. Refa skills dont guarantee a succesful real estate career. Personality counts
      2. Garbage (Data) In, Garbage Out
@@ -43,11 +65,11 @@ and Private Development, Class Note #1** (2022), pp. 1-11
         (At the end of negotiations, try to leave with everyone feeling good)
      4. Be(A)ware  the tower of babel. Ask names of terms, many things have many synonyms. 
      
-----------> Parts of a Pro Forma 
+### ----------> Parts of a Pro Forma 
  Latin: As a matter of form  
  Occurs in a "Stabalized Year" || Syn: Operating, Standard  
  Uses Actual, Estimated (or manipulated)  
- Note: (_italics_ should be underlined, can't underline in markdown)  
+ *Note:* (_italics_ should be underlined, can't underline in markdown)  
  
           Gross Income
           (Vacancy)
