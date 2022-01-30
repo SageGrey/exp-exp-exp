@@ -64,6 +64,7 @@ and Private Development, Class Note #1** (2022), pp. 1-11
 
     **REFA** --> Real Estate Financial Analysis 
     **Underwriting** --> Analyzing the Deal 
+    **NOI** --> Net Operating Income, "Free and Clear," Net Income Before Financing, Cash Flow Before Financing
 
 
 ### ---------->Kaydens Candid Caveats 
@@ -121,17 +122,48 @@ and Private Development, Class Note #1** (2022), pp. 1-11
 **Operating**
     
     SCRUITINIZE THIS SECTION, CAN BE MANIPULATED V EASY
-    --> Minor Repairs
+    --> Minor Repairs, Utilities
     --> Management, Broker Fees, Doormen, etc. 
-    --> Utilites
-    
+    --> Expense Stops: 
+        Maximum amount of expense per square foot paid by owner  
+        All else paid by tenant  
+        Ex: 10$/Square Foot
+        
     A ROOKIE MISTAKE:
     Someone saying they will do it themselves so dont put in cost. 
     problem 1 --> what happens if they get sick
     problem 2 --> opportunity cost of their labor
     Moral: put in an imputed amount for your own labor
     
-    so 
+**Real Estate Taxes**
+`Assessed Value of Land` x `Tax Rate` = `Property Tax`
+    
+     DONT CONFUSE WITH OTHER TAXES
+     Property Tax
+     Properties generally assessed by gov every 1-3 years
+     Commercial rates tend to be higher 
+        --> Home Voter Hypothesis
+     Other: Annual Occupancy Taxes
+     
+**Replacement Reserve** 
+ 
+     -->Major Repiars  
+     --> Capital Expenditures  
+     --> Tenant Fit Outs  
+    
+**Net Operating Income**    
+
+     ---> Net Operaing Income (NOI)
+     SYNONYMS: Cash Flow Before Financing, Free and Clear, Net Income Before Financing
+     
+**Debt Service** 
+
+     ---> Payments on Debt Owed
+     ---> Sometimes called "Financing Payment"
+     Two Components of Debt Service
+     1. DEBT --> How much debt
+     2. EQUITY --> Amount Dev/Investory used to begin with
+
     
      
      
