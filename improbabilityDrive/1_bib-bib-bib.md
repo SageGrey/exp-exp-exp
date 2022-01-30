@@ -36,6 +36,10 @@ Toxic Masculinity."** Urban Pamphleteer #8: Skateboardings, 2020. 18-20
 
 [Engels, Friedrich.1845. “The Great Towns.”](http://gofile.me/6WhDC/8K48J765f) in The Condition of the Working-Class in England in 1844, in The City Reader, Richard T. LeGates and Frederic Stout, eds. Routledge,
 2003: 58-66.
+   
+       58:Bio of Engels while writing The Condition of the Working Class in England in 1844 (1845)
+       59: Further Reading Reccomendations
+       60:
                 
 **Greer, Alex "A historical assessment of home buyout policy: Are we learning or just failing?"**
 Section 1: Policy Learning Theory (Social, Instrumental) 
@@ -123,8 +127,7 @@ and Private Development](http://gofile.me/6WhDC/cvKMNKgSv), Class Note #1 (2022)
 **Kilberth, V., & Schwier, J. (2019). Skateboarding Between Subculture and the Olympics : A Youth Culture under Pressure from Commercialization and Sportification** (KörperKulturen). Bielefeld: Transcript-Verlag.
 
  **Liao,  Jilleen . Instaposts.** Urban Pamphleteer #8: Skateboardings, 2020. 30-31
- 
- [Mumford, Lewis. 1961. “Paleotechnic Paradise: Coketown.”](http://gofile.me/6WhDC/b36RG7Y3v) In The City in History: Its Origins, Its Transformations, and Its Prospects, London: Secker & Warburg, 1961: 446-481 [skim: focus on sections 5 and 6]
+[Mumford, Lewis. 1961. “Paleotechnic Paradise: Coketown.”](http://gofile.me/6WhDC/b36RG7Y3v) In The City in History: Its Origins, Its Transformations, and Its Prospects, London: Secker & Warburg, 1961: 446-481 [skim: focus on sections 5 and 6]
  
  
 [Madden, David and Marcuse, Peter. 2016. “Introduction: The Residential is Political,”](http://gofile.me/6WhDC/kUzhyZKyy) In Defense of Housing: The Politics of Crisis. London, New York: Verso, 2016: 7-12
