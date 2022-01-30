@@ -95,8 +95,8 @@ Johns Hopkins University Press: 165-184.
                     22: Medieval town education`
                ` 23: Karl Marx Child Labor`
                
-**Jerold S. Kayden and Adam Tanaka, Real Estate Financial Analysis for Public 
-and Private Development, Class Note #1** (2022), pp. 1-11
+[Jerold S. Kayden and Adam Tanaka, Real Estate Financial Analysis for Public 
+and Private Development](http://gofile.me/6WhDC/cvKMNKgSv), Class Note #1 (2022), pp. 1-11
 
 
                     1: Copyright  
