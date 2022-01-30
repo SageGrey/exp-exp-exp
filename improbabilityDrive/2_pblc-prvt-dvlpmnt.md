@@ -1,2 +1,111 @@
 # Notes from Public Private Development
 ### Jerold Kayden, GSD Spring 2022
+
+
+# Staff Picks 
+---------->`A building is a machine that makes the land pay || Cass Gilbert, Early 20th Century Architect`
+
+---------->`**Parts of A Pro Forma**
+
+
+# Readings
+1. **Jerold S. Kayden and Adam Tanaka, Real Estate Financial Analysis for Public 
+and Private Development, Class Note #1** (2022), pp. 1-11
+
+
+                    1: Copyright  
+                    2: Intro to 3 primary tools  
+                    3: 3 Tools in Table  
+                    4: Pro Forma  
+                    5: Gross Income, Vacancy  
+                    6: operating Expenses, Real Estate Taxes  
+                    7: Net Operating Income, Debt Service  
+                    8: Cash Flow After Financing  
+                    9: Measuring Performance  
+                    10: Return, Total Assets Equity  
+                    11: Capitalized Value  
+
+
+# Class Notes
+
+##### **Vocab Bank**
+
+**REFA** --> Real Estate Financial Analysis 
+**Underwriting** --> Analyzing the Deal
+
+##### General Notes
+
+---------->`Kaydens Candid Caveats 
+     
+     1. Refa skills dont guarantee a succesful real estate career. Personality counts
+     2. Garbage (Data) In, Garbage Out
+     3. Play the Long Game, Don't Burn Bridges 
+        (At the end of negotiations, try to leave with everyone feeling good)
+     4. Be(A)ware  the tower of babel. Ask names of terms, many things have many synonyms. 
+     
+----------> Parts of a Pro Forma 
+ Latin: As a matter of form  
+ Occurs in a "Stabalized Year" || Syn: Operating, Standard  
+ Uses Actual, Estimated (or manipulated)  
+ Note: (_italics_ should be underlined, can't underline in markdown)  
+ 
+          Gross Income
+          (Vacancy)
+          _Additional Income_
+          Effective Gross Income
+          (Operating Expenses)
+          (Real Estate Taxes)
+          (Replacement Reserve)
+          _(Other Recurring Expenses)_
+          Net Operating Income
+          _(Debt Services)_
+          Cash Flow After Financing
+          (Tax Payment)
+          Cash Flow After Taxes 
+          
+ **Gross Income**
+ 
+       --> Rent  
+       --> Note: 
+           Difference between Square Footage AND Net Rentable Square Footage  
+           Percentage Rents (Some Retail pays a PERCENTAGE of sales instead of fixed rent  
+           "Face Rent" vs "Effective Rent" (If Landlord gives a deal such as 1-month free)
+**Additional Income**
+
+           Vending, Laundry, Concierge, Etc. 
+**Vacancy** 
+
+     --> The unrented square feet owing to time taken to rent
+     --> RENT UP PERIOD 
+         example: if it takes 1/2 year to find a tenant every 12 years. 
+         .5/12.5 --> 4% vacancy
+     --> Looks generally at market conditions (Strong or Weak) 
+     --> Can also be tenants not paying
+     
+**Effective Gross Income**
+
+    --> Net Revenue
+    (Face Rent + Additional) - Vacancy
+    
+**Operating**
+    
+    SCRUITINIZE THIS SECTION, CAN BE MANIPULATED V EASY
+    --> Minor Repairs
+    --> Management, Broker Fees, Doormen, etc. 
+    --> Utilites
+    
+    A ROOKIE MISTAKE:
+    Someone saying they will do it themselves so dont put in cost. 
+    problem 1 --> what happens if they get sick
+    problem 2 --> opportunity cost of their labor
+    Moral: put in an imputed amount for your own labor
+    
+    so 
+    
+     
+     
+           
+         
+     
+ 
+      
