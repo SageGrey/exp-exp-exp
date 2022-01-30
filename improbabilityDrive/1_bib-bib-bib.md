@@ -30,6 +30,9 @@
 Toxic Masculinity."** Urban Pamphleteer #8: Skateboardings, 2020. 18-20
 
 **Dupont, Tyler. From Core to Consumer: The Informal Hierarchy of the Skateboard Scene. Journal of Contemporary Ethnography Vol. 43(5), 2014), 556-581**
+
+[Engels, Friedrich.1845. “The Great Towns.”](http://gofile.me/6WhDC/8K48J765f) in The Condition of the Working-Class in England in 1844, in The City Reader, Richard T. LeGates and Frederic Stout, eds. Routledge,
+2003: 58-66.
                 
 **Greer, Alex "A historical assessment of home buyout policy: Are we learning or just failing?"**
 Section 1: Policy Learning Theory (Social, Instrumental) 
