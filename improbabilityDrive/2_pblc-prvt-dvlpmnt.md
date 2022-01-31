@@ -69,6 +69,8 @@ and Private Development](http://gofile.me/6WhDC/cvKMNKgSv), Class Note #1** (202
     **NOI** --> Net Operating Income, "Free and Clear," Net Income Before Financing, Cash Flow Before Financing
     **Debt Dervice** --> Interest + Amortization
     **Positive Financial Leverage** --> When able to get a lower interest rate than what the rate of your investment growth could yield.
+    **Amortization** --> "Payments of principle (the original amount that was loaned)
+    **Principle** --> (The origianl amount that was loaned)   
 
 
 ### ---------->Kaydens Candid Caveats 
@@ -175,7 +177,36 @@ and Private Development](http://gofile.me/6WhDC/cvKMNKgSv), Class Note #1** (202
      2. Permanent Loan
      
      Conventional Mortgage Loan
+     -> Mortgage vs Mortgage Loan 
      --> MOST PEOPLE THINK OF MORTGAGE AS: Type of Loan that uses real estate as collateral
+     --> Mortgage is actually a LIEN
+         Lien--> legal claim held by the lender on the property of the borrower
+         Mortgage provides security for the lender.
+         Loan is _secured_ by the mortgage
+         
+         
+     --> Loan to Value Ratios
+     Common today for Developer to recieve loans for 60% of costs to build
+     
+     --> Conventional Fixed-Rate Mortgage Loan
+          -->Interest amount is fixed
+          --> Amount paid to lender does not vary (30 year loan)
+          --> You are paying "Debt Service" 
+          
+          --> Debt Service = Interest + Amortization 
+            AmortizLoan Amount * Loan Constant
+          --> Amortization = "Repayment of Mortgage Loan itself (Principle)
+          --> Principle (The origianl amount that was loaned)  
+          
+          --> Look at a Constant Chart/Schedule 
+               --> Rows (Interest Rate)  
+               --> Number of Years
+               
+               
+TASK
+`Put in Loan Payments Diagram`
+
+
 
     
     
