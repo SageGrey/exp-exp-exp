@@ -67,6 +67,8 @@ and Private Development](http://gofile.me/6WhDC/cvKMNKgSv), Class Note #1** (202
     **REFA** --> Real Estate Financial Analysis 
     **Underwriting** --> Analyzing the Deal 
     **NOI** --> Net Operating Income, "Free and Clear," Net Income Before Financing, Cash Flow Before Financing
+    **Debt Dervice** --> Interest + Amortization
+    **Positive Financial Leverage** --> When able to get a lower interest rate than what the rate of your investment growth could yield.
 
 
 ### ---------->Kaydens Candid Caveats 
@@ -162,10 +164,20 @@ and Private Development](http://gofile.me/6WhDC/cvKMNKgSv), Class Note #1** (202
 
      ---> Payments on Debt Owed
      ---> Sometimes called "Financing Payment"
+     --> Debt Service = Interest + Amortization
+     --> Borrow as much as possible due to "Positive Financial Leverage" (able to make more money off of your money than the interest on debt costs)
      Two Components of Debt Service
      1. DEBT --> How much debt
      2. EQUITY --> Amount Dev/Investory used to begin with
+     
+     Types of Loans
+     1. Construction Loans
+     2. Permanent Loan
+     
+     Conventional Mortgage Loan
+     --> MOST PEOPLE THINK OF MORTGAGE AS: Type of Loan that uses real estate as collateral
 
+    
     
      
      
