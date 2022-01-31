@@ -207,22 +207,25 @@ and Private Development](http://gofile.me/6WhDC/cvKMNKgSv), Class Note #1** (202
             2. Take the constant mortgage payment
             Constant Mortgage Payment - Interest Payment = Amortization
             
-          Tax Payment Calculation** 
+Tax Payment Calculation** 
+
           Tax Payment = Taxable Income x Tax Rate
           Tax Income DOES NOT EQUAL the Tax Payment, Do this calculation in a seperate place so you don't accidentally swap them. 
           
-          Allowable Income _Tax Deductions_ from taxable income 
-          You can DECUT your EXPENSES from your income
+Allowable Income **Tax Deductions** from taxable income 
+          You can DEDUCT your EXPENSES from your income
           --> Mortgage loan interest (just the interest part, not the amortization)
           --> Operating Expenses
           --> Real Estate Taxes
-          --> Depreciation of Property (to account for the theoretical deterioration of the property)
+          --> Depreciation of Property 
+               --> To account for the theoretical deterioration of the property
+               --> Basically a built-in subsidy              
          
-         NOT DEDUCTABLE 
-          --> Amortization
+         You CANNNOT DEDUCT 
+          --> Amortization (This would amount to paying money to yourself, not an expense)
           --> Replacement Reserve not Deductable
           
-          Calculating Taxable Income
+Calculating Taxable Income (two places it can be done)
           
           NOI 
           - Interest
@@ -231,7 +234,7 @@ and Private Development](http://gofile.me/6WhDC/cvKMNKgSv), Class Note #1** (202
           _______________________
           Taxable Income
           
-          CFAF
+          CFAF (cash flow after financing)
           - Depreciation
           + Amrotization
           + Replacement Reserve
