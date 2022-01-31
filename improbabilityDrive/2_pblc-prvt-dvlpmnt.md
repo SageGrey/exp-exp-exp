@@ -202,9 +202,24 @@ and Private Development](http://gofile.me/6WhDC/cvKMNKgSv), Class Note #1** (202
                --> Rows (Interest Rate)  
                --> Number of Years
                
-               
-TASK
+           STEPS
+            1. First calculate interest payment (Outstanding Loan x Interest Rate)
+            2. Take the constant mortgage payment
+            Constant Mortgage Payment - Interest Payment = Amortization
+            
+          Tax Payment Calculation 
+          Tax Payment = Taxable Income x Tax Rate
+    
+    
+TASK 1
 `Put in Loan Payments Diagram`
+
+TASK 2 
+`Put Amortization Calculations into a Zettle Note`
+
+
+Income Remaining one the debt has been serviced
+--Income that is distributed to investors and limited partners who then have to pay INCOME taxes on it. 
 
 
 
