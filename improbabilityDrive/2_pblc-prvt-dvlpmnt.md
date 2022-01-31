@@ -71,6 +71,7 @@ and Private Development](http://gofile.me/6WhDC/cvKMNKgSv), Class Note #1** (202
     **Positive Financial Leverage** --> When able to get a lower interest rate than what the rate of your investment growth could yield.
     **Amortization** --> "Payments of principle (the original amount that was loaned)
     **Principle** --> (The origianl amount that was loaned)   
+    **Free and Clear** --> Above the debt service, "cash on cost"
 
 
 ### ---------->Kaydens Candid Caveats 
@@ -255,9 +256,35 @@ Income Remaining one the debt has been serviced
 
 
 
+**Return Measures (Rates of Returns)**
+      
+     Asset Value x Rate of Return = Income
+     
+     Rate of Return = Income / Asset Value
+     
+Return on Total Assets 
+
+     --> Measure of profitability based on total asset cost (or value)
+     --> Same as income returned, or "Free and Clear" 
+     
+     ROTA = NOI/Total Development Cost
+     _Return on Equity_ -->
     
+Return on Equity
+
+    --> Incone returned on equity invested
+    -->Also known as "Cash on Cash"
+    --> If ROE is greater than ROTA you have positive leverage
+    ROE = Cash Flow After Taxes/Equity Invested
+    
+Cap (Capitalization) Rates
+    
+    Market derived rates (percentages) based on market data of ratio of recently sold property NOIs and dales prices 
+    Cap Rate = NOIs/Sales Price
     
      
+take-away
+`Money flows to the highest risk adjusted return`
      
            
          
