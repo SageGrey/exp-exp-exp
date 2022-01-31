@@ -282,12 +282,18 @@ Cap (Capitalization) Rates
     Market derived rates (percentages) based on market data of ratio of recently sold property NOIs and dales prices 
     Cap Rate = NOIs/Sales Price
     
+    Higher the cap rate, the lower the value
+    (Lower cap rate, higher value)
+    
+    Capitalized Value = NOI/ Cap Rate
      
 take-away
 `Money flows to the highest risk adjusted return`
      
            
          
-     
+`FUZZY ON` 
+[--Cap Rates why the higher cap rate, lower value]
+[-- ROE vs ROTA]
  
       
