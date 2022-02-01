@@ -1,6 +1,3 @@
-
- 
- 
  # The Stacks
 ###### Reading Notes  of All Authors
  
