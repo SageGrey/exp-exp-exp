@@ -166,10 +166,29 @@ and Private Development](http://gofile.me/6WhDC/cvKMNKgSv), Class Note #1 (2022)
 [Mumford, Lewis. 1961. “Paleotechnic Paradise: Coketown.”](http://gofile.me/6WhDC/b36RG7Y3v) In The City in History: Its Origins, Its Transformations, and Its Prospects, London: Secker & Warburg, 1961: 446-481 [skim: focus on sections 5 and 6]  
            
            Skimmed
-           446:
+           446:Loss of work + play balance
+           447: Shift to industrialization
+           448: Factors to population growth
+           449: Growth of cities, scale
+           450: Mining Bad
+           451: Railroads also bad
+           452: Laissez-Faire, Utilitarianis 
+           453: Laissez-Faire didn't lead to freedom (like it was supposed to)
+           454: Belief in pre-ordained harmony --> Privitization, Free-Market
+           455: idk
+           456: From water power to steam
+           457: Locating systems to be near labor that can't default on rental payments to company owned property
+           458: Pollution
  
  
 [Madden, David and Marcuse, Peter. 2016. “Introduction: The Residential is Political,”](http://gofile.me/6WhDC/kUzhyZKyy) In Defense of Housing: The Politics of Crisis. London, New York: Verso, 2016: 7-12
+   
+        7: Housing Crisis Context
+        8: Need Wider Perspective
+        9: Lefebvre + Engels
+        10: Problem with term "Housing Crisis," 2008
+        11: Housing always been pretty rough
+        12: Radical ideas must contend with
 
 
  
