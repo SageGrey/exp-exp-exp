@@ -1,0 +1,90 @@
+{
+  "main": {
+    "id": "8a65afa7a19ca4e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1609c85d92f6112",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4e880b9c52fbf385",
+    "type": "split",
+    "children": [
+      {
+        "id": "8fd2235abbd3813d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98f409339c5abf3a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f0c5412054b97196",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a26f4b01d5b4cea2",
+    "type": "split",
+    "children": [
+      {
+        "id": "a20d9389b9907c6d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3e9af4ae9e4edeb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f1609c85d92f6112",
+  "lastOpenFiles": [
+    "improbabilityDrive/2_pblc-prvt-dvlpmnt.md",
+    "improbabilityDrive/0_inventory.md"
+  ]
+}

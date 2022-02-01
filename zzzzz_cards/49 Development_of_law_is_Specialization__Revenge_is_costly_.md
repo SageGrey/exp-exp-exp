@@ -1,0 +1,20 @@
+# Development of law is Specialization (Revenge is costly)
+
+Richard Posner argues that revenge is the forerunner to law. That as soon as a society can afford to specialize the legal profession, it does so. In its development, the law becoems increasingly sepcialized. 
+
+null
+
+Revenge is costly 
+
+## null
+
+Richard Postner, The Problems with Jurisprudence [ID 17]
+
+## null
+
+Judicial Theatrics
+Legal Philosophy/History
+
+## null
+
+104
