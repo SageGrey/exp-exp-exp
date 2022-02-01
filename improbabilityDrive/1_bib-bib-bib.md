@@ -142,6 +142,23 @@ and Private Development](http://gofile.me/6WhDC/cvKMNKgSv), Class Note #1 (2022)
 
 [Johnson, Walter. 2013. “Introduction: Boom,”](http://gofile.me/6WhDC/Ci7UFKV23) River of Dark Dreams: Slavery and Empire in the Cotton Kingdom. Cambridge, MA: Harvard University Press, 2013: 1-17.
 
+          1. Boat Explosion Story
+          2. Context of American Slavery in Missippi Valley
+          3. Jefferson's Dream of Yeoman Farmers
+          4. Disperal of Louisiana and Mississippi
+          5. Empire of Liberty --> instead, Cotton Kingdom
+          6. Steamboats as investments
+          7. New Orleans, Counter-Culture
+          8. Spatial Limits of Profits of Steamboats
+          9. Simplification of land/people, Gossyplum Barbadense (type of cotton)
+          10: idk
+          11: Merchant Capital, Resentment Brewing
+          12: Depression of 1837, Political/Financial Conditions
+          13: Boom + Bust w/ slavery --> rich can't liquidate assets 
+          14: Globalism desire of south
+          15: Cuba/Nicaragua/Virginia questions
+          16: "The South" is agreed upon as concept
+
 **Kilberth, V., & Schwier, J. (2019). Skateboarding Between Subculture and the Olympics : A Youth Culture under Pressure from Commercialization and Sportification** (KörperKulturen). Bielefeld: Transcript-Verlag.
 
  **Liao,  Jilleen . Instaposts.** Urban Pamphleteer #8: Skateboardings, 2020. 30-31  
