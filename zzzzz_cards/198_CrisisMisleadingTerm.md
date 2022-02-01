@@ -6,7 +6,7 @@ The use of the term "crisis" when applied to certain facets of society can be mi
 ## Note Sequence
 [198a](198a_HousingCrisisMadden.md), [198b](198b_EngelsCrisis.md)
 
-##
+## Keywords
 Critiques of Capitalism, Housing
 
 ## Citation 
