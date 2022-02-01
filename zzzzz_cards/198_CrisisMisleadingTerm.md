@@ -1,4 +1,4 @@
-# Crisis as a misleading term
+# "Crisis" as a misleading term
 
 The use of the term "crisis" when applied to certain facets of society can be misleading. The idea of there being a "crisis" invokes the metaphor of a natural disaster where there has been a sudden disturbance which has thrown the sytstem into chaos. 
 [However, this framing often misses that "the crisis" while severe is not a new phenomenon, but rather a feature of a given social system.](198a_HousingCrisisMadden.md). 
