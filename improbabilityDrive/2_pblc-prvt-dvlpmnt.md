@@ -7,9 +7,19 @@
 
  
 # Staff Picks 
----------->[A building is a machine that makes the land pay](https://github.com/SageGrey/exp-exp-exp/blob/main/zzzzz_cards/2.BuildingsPay_CassQuotes.md)  `|| Cass Gilbert, Early 20th Century Architect`
 
----------->`**Parts of A Pro Forma**
+#### Vocab Bank
+**REFA** --> Real Estate Financial Analysis   
+**Underwriting** --> Analyzing the Deal   
+**NOI** --> Net Operating Income, "Free and Clear," Net Income Before Financing, Cash Flow Before Financing  
+**Debt Dervice** --> Interest + Amortization  
+**[Positive Financial Leverage](https://github.com/SageGrey/exp-exp-exp/blob/main/zzzzz_cards/207_PositiveFinancialLeverage.md)** --> When able to get a lower interest rate than what the rate of your investment growth could yield.  
+**[Amortization](https://github.com/SageGrey/exp-exp-exp/blob/main/zzzzz_cards/206_Amortization.md)** --> "Payments of principle (the original amount that was loaned)  
+**Principle** --> (The origianl amount that was loaned)     
+**Free and Clear** --> Above the debt service, "cash on cost"  
+
+#### Key Concepts
+---------->`**[Parts of A Pro Forma](https://github.com/SageGrey/exp-exp-exp/blob/main/zzzzz_cards/203_Pro%20Forma.md)**
  
           Gross Income
           (Vacancy)
@@ -24,6 +34,9 @@
           Cash Flow After Financing
           (Tax Payment)
           Cash Flow After Taxes 
+
+#### Quotes/ZTLKN
+---------->[A building is a machine that makes the land pay](https://github.com/SageGrey/exp-exp-exp/blob/main/zzzzz_cards/2.BuildingsPay_CassQuotes.md)  `|| Cass Gilbert, Early 20th Century Architect`
 
  .  
  ..  
@@ -60,19 +73,7 @@ and Private Development](http://gofile.me/6WhDC/cvKMNKgSv), Class Note #1** (202
 #### Formatting Notes:  
        
        Section Header `### ---------->`
-       Cannot do underline in markdown, treat italics as underline
-       
-### ----------> Vocab Bank
-
-    **REFA** --> Real Estate Financial Analysis 
-    **Underwriting** --> Analyzing the Deal 
-    **NOI** --> Net Operating Income, "Free and Clear," Net Income Before Financing, Cash Flow Before Financing
-    **Debt Dervice** --> Interest + Amortization
-    **Positive Financial Leverage** --> When able to get a lower interest rate than what the rate of your investment growth could yield.
-    **Amortization** --> "Payments of principle (the original amount that was loaned)
-    **Principle** --> (The origianl amount that was loaned)   
-    **Free and Clear** --> Above the debt service, "cash on cost"
-
+     
 
 ### ---------->Kaydens Candid Caveats 
      
