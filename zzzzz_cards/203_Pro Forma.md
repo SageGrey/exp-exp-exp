@@ -1,4 +1,7 @@
-# Pro Forma Components
+# Pro Forma 
+Latin: As a matter of form  
+Occurs in a "Stabalized Year" || Syn: Operating, Standard  
+Uses Actual, Estimated (or manipulated)  
 
 _note about formatting + [accounting conventions](https://github.com/SageGrey/exp-exp-exp/blob/main/zzzzz_cards/204_accountingFormatting.md)_ 
 
