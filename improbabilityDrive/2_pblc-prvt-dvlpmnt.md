@@ -163,7 +163,7 @@ and Private Development](http://gofile.me/6WhDC/cvKMNKgSv), Class Note #1** (202
      ---> Net Operaing Income (NOI)
      SYNONYMS: Cash Flow Before Financing, Free and Clear, Net Income Before Financing
      
-**Debt Service (Interest + Amortization)** 
+[**Debt Service (Interest + Amortization)** ](https://github.com/SageGrey/exp-exp-exp/blob/main/zzzzz_cards/205_Debt%20Service.md)
 
      ---> Payments on Debt Owed
      ---> Sometimes called "Financing Payment"
