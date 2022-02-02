@@ -36,3 +36,5 @@ this will tell the computer to look `up` one folder from its current location an
 [example](../zzzzz_cards/0_inventory.md) 
 
 this is a [external link](http://www.meadowlarke.org)
+
+![This is a photo](https://images.fineartamerica.com/images-medium-large-5/one-mobster-holds-a-large-briefcase-edward-steed.jpg)
