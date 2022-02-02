@@ -10,6 +10,9 @@ To calculate for a fixed-rate mortgage -->
      ..
      EQUATION---> Constant Mortgage Payment - Interest Payment = Amortization
 
+
+![amortization and interest rate](https://github.com/SageGrey/exp-exp-exp/blob/main/ooooo_mixedMedia/i4_amortization_schedule_30year_fixed.gif)
+
 ## Backlinks
 205, PPD Notes
 
