@@ -1,6 +1,6 @@
 # Festivus Celebration
 
-For the following reasons
+For the following reasons 
 1. I could
 3. It made me laugh  
 
