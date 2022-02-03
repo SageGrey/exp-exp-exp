@@ -3,7 +3,7 @@
 Tips and Theory on good graphic design
 
 #### Perception
-[4. Order of Eyesight](4_Order_of_Eyesight.md) 
+[4. Order of Eyesight](4_Order_of_Eyesight.md)   
 [6. Eye Span](6_Eye_Span.md) 
 
 
