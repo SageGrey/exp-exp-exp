@@ -7,7 +7,7 @@ For the following reasons
 I decided to structure my thoughts as a [festivus celebration](https://www.youtube.com/watch?v=HX55AzGku5Y). Feel free to pop-around
 
 [Dining Room](https://github.com/SageGrey/exp-exp-exp/blob/main/xxxxx_locations/4_DiningRoom.md) -- Airing of the Grievances   
-Kitchen -- Feats of Strength  
+Kitchen -- Feats of Strength 
 Living Room -- Festivus Pole  
 Back Porch -- Festivus Miracles 
 
