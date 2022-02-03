@@ -6,14 +6,7 @@ When you want to get the gist of an idea or evoke feelings.
 
 When you want to suggest an idea without too much pushback over the specifics. 
 
-## null
-
-Emphasis
-Graphic Design
-NIMBYism
-
-## null
-
+#### Links
 5
 ## null
 
