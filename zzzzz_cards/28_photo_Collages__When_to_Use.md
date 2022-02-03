@@ -6,15 +6,9 @@ When you want to get the gist of an idea or evoke feelings.
 
 When you want to suggest an idea without too much pushback over the specifics. 
 
-## null
-
-Emphasis
-Graphic Design
-NIMBYism
+#### Links
+[5. Emphasize with color](5_Emphasize_with_Color.md)
 
 ## null
 
-5
-## null
-
-5, 29, 30, 31
+ 29, 30, 31

@@ -1,6 +1,3 @@
-
- 
- 
  # The Stacks
 ###### Reading Notes  of All Authors
  
@@ -142,13 +139,55 @@ and Private Development](http://gofile.me/6WhDC/cvKMNKgSv), Class Note #1 (2022)
 
 [Johnson, Walter. 2013. “Introduction: Boom,”](http://gofile.me/6WhDC/Ci7UFKV23) River of Dark Dreams: Slavery and Empire in the Cotton Kingdom. Cambridge, MA: Harvard University Press, 2013: 1-17.
 
+          1. Boat Explosion Story
+          2. Context of American Slavery in Missippi Valley
+          3. Jefferson's Dream of Yeoman Farmers
+          4. Disperal of Louisiana and Mississippi
+          5. Empire of Liberty --> instead, Cotton Kingdom
+          6. Steamboats as investments
+          7. New Orleans, Counter-Culture
+          8. Spatial Limits of Profits of Steamboats
+          9. Simplification of land/people, Gossyplum Barbadense (type of cotton)
+          10: idk
+          11: Merchant Capital, Resentment Brewing
+          12: Depression of 1837, Political/Financial Conditions
+          13: Boom + Bust w/ slavery --> rich can't liquidate assets 
+          14: Globalism desire of south
+          15: Cuba/Nicaragua/Virginia questions
+          16: "The South" is agreed upon as concept
+
 **Kilberth, V., & Schwier, J. (2019). Skateboarding Between Subculture and the Olympics : A Youth Culture under Pressure from Commercialization and Sportification** (KörperKulturen). Bielefeld: Transcript-Verlag.
 
- **Liao,  Jilleen . Instaposts.** Urban Pamphleteer #8: Skateboardings, 2020. 30-31
-[Mumford, Lewis. 1961. “Paleotechnic Paradise: Coketown.”](http://gofile.me/6WhDC/b36RG7Y3v) In The City in History: Its Origins, Its Transformations, and Its Prospects, London: Secker & Warburg, 1961: 446-481 [skim: focus on sections 5 and 6]
+ **Liao,  Jilleen . Instaposts.** Urban Pamphleteer #8: Skateboardings, 2020. 30-31  
+ 
+[Mumford, Lewis. 1961. “Paleotechnic Paradise: Coketown.”](http://gofile.me/6WhDC/b36RG7Y3v) In The City in History: Its Origins, Its Transformations, and Its Prospects, London: Secker & Warburg, 1961: 446-481 [skim: focus on sections 5 and 6]  
+           
+           Skimmed
+           446:Loss of work + play balance
+           447: Shift to industrialization
+           448: Factors to population growth
+           449: Growth of cities, scale
+           450: Mining Bad
+           451: Railroads also bad
+           452: Laissez-Faire, Utilitarianis 
+           453: Laissez-Faire didn't lead to freedom (like it was supposed to)
+           454: Belief in pre-ordained harmony --> Privitization, Free-Market
+           455: idk
+           456: From water power to steam
+           457: Locating systems to be near labor that can't default on rental payments to company owned property
+           458: Pollution
  
  
 [Madden, David and Marcuse, Peter. 2016. “Introduction: The Residential is Political,”](http://gofile.me/6WhDC/kUzhyZKyy) In Defense of Housing: The Politics of Crisis. London, New York: Verso, 2016: 7-12
+   
+        7: Housing Crisis Context
+        8: Need Wider Perspective
+        9: Lefebvre + Engels
+        10: Problem with term "Housing Crisis," 2008
+        11: Housing always been pretty rough
+        12: Radical ideas must contend with
+
+
  
 **Scott, James C. “The High-Modernist City: An Experiment and a Critique.”** Yale University Press, 2008.
 
