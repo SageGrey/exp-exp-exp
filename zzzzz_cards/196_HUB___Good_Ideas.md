@@ -6,4 +6,4 @@ Sometimes things that we must do can be done in a way that is far more clever. W
 
 
 #### No Category
-[138. Shoplifter Influencer](138_Shoplifter_Influencer)
+[138. Shoplifter Influencer](138_Shoplifter_Influencer.md)
