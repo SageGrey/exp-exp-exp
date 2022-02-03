@@ -14,7 +14,11 @@ Tips and Theory on good graphic design
 [19. Staits and Trees Indenting](19_Stairs_and_Trees.md)     
 [28. Photo Collage](https://github.com/SageGrey/exp-exp-exp/blob/main/zzzzz_cards/28_photo_Collages__When_to_Use.md)
 
+#### Graphs 
+
+[41. Graphing Multiple Variables](41_Graphing_Multivariables.md)
+
  7, 
  8,
  9, 
- 10, 11, 14, 15, 16, 17, 18, 20, 24, 26, 27,  29, 31, 41, 79, 113
+ 10, 11, 14, 15, 16, 17, 18, 20, 24, 26, 27,  29, 31, 79, 113
