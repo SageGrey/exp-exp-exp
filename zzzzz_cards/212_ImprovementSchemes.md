@@ -9,3 +9,5 @@ Urban Renewal
 
 #### Citation
 Eve Blau, Histories and Theories, Spring 2022
+
+Photos are in: Marie de Thézy , author of MARVILLE PARIS, Hazan, 1994
