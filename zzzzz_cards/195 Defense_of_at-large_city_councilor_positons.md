@@ -1,7 +1,9 @@
 # Defense of at-large city councilor positons
 
-One positive aspect described by Adam Baccke for [z 194]Lowells all at-large councilors[/z] was that this system allowed the city to make decisions that considered the whole city instead of having narrow-sighted factions competing for specific neighborhood interests.  
+One positive aspect described by Adam Baccke for [Lowells all at-large councilors](https://github.com/SageGrey/exp-exp-exp/edit/main/zzzzz_cards/194%20Lowell_City_Councilor_Lawsuit.md) was that this system allowed the city to make decisions that considered the whole city instead of having narrow-sighted factions competing for specific neighborhood interests.  
 
-## null
+#### Parent Card
+[Lowells all at-large councilors](https://github.com/SageGrey/exp-exp-exp/edit/main/zzzzz_cards/194%20Lowell_City_Councilor_Lawsuit.md)
 
-194
+#### Citation
+Adam Baccke, GSD Core Studio Instructor, Spring 2022
