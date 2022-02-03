@@ -6,6 +6,6 @@ Today (12/20/2020) on the T I encountered three shoplifters comparing the clothe
 Love the idea of celebrity shoplifters sponsored by companies.  
 
 #### Links
-[HUB card: Good Ideas]
-[HUB card: Boston Memories](
+[HUB card: Good Ideas](196_HUB___Good_Ideas.md)  
+[HUB card: Boston Memories](213_HUB_BostonMemories.md)
 
