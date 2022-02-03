@@ -4,10 +4,10 @@ The tendency to fill up blank spaces with objects and elements instead of leavin
 
 Seen in opposition to [z 9]Value Perception[/z]
 
-## null
+## Keywords
 
 Graphic Design
 
-## null
+## Links
 
 7, 9
