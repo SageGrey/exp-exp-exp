@@ -5,7 +5,7 @@ Luhmann's sytem which employed the clever use of a "slip box" is documented in h
 
 ### Important Elements of Zettlekasten Method
 [Permanent Notes](215_PermanentNotes.md)   
-Slip Box   
+[Slip Box](216_AddingToTheSlipBox.md)   
 Note Sequences   
 Reading Notes   
 
