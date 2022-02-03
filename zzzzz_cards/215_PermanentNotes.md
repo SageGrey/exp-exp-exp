@@ -13,3 +13,5 @@ We might remember the keyword, but lose the context or clarity of what exactly a
 
 2. **Forces a check for comprehension** Often when we hear or read something, we believe we understand it. It is often not until we go to write it down or carefully explain it to someone else that we realize that there are holes in our understanding, or worse, that the idea doesn't make sense at all. 
 By forcing the note taker to write out the idea in full, it provides the note taker a chance to guage how well the information is understood as well as providing an opportunity to return to the source material while it is still close by. 
+
+Once you have a permanent note, you then **[add it to your "slip box"](216_AddingToTheSlipBox.md)** or "zettlekasten"
