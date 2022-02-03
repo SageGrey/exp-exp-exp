@@ -33,4 +33,4 @@ The introduction of **Watts Steam Engine (1700-1840s)** severed this connection 
      --> 2. Establishment of open markets for labor
      --> 3. Intl dependency on slave labor
 
-~1865 once slums were visible, there became a desire to hide them away with the development of **Improvement Schemes** which are in many ways a pre-cursor to urban renewal schemes. The stated intentions were to improve circulation, etc. 
+~1865 once slums were visible, there became a desire to hide them away with the development of [**Improvement Schemes**](https://github.com/SageGrey/exp-exp-exp/blob/main/zzzzz_cards/212_ImprovementSchemes.md) which are in many ways a pre-cursor to urban renewal schemes. The stated intentions were to improve circulation, etc. 
