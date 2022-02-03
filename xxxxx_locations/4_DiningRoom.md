@@ -28,8 +28,10 @@ Hello! Take a seat, you are just in time. Airing of the Grievances is starting, 
            ||    | | |_  /| | |\   _| ||     ||
            ||    | \__, / | | |  \<__/ |     ||
       
- ["Files" and "Folders" are metaphors I dont love](https://github.com/SageGrey/exp-exp-exp/blob/main/zzzzz_cards/210_OfficeCultureMetaphors.md)      
+ -->["Files" and "Folders" are metaphors I dont love](https://github.com/SageGrey/exp-exp-exp/blob/main/zzzzz_cards/210_OfficeCultureMetaphors.md)   
+ -->[Say my name, Say my name](https://github.com/SageGrey/exp-exp-exp/blob/main/zzzzz_cards/211_sayMyNameGoogle.md)
 
+----------------------------------------
 
 [Return to Entry Hall](https://github.com/SageGrey/exp-exp-exp/edit/main/xxxxx_locations/3_FestivusCelebration.md)  
 Kitchen  
