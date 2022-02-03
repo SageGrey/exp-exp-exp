@@ -4,7 +4,7 @@ The Zettlekasten method is a method of thinking, writing and notetaking develope
 Luhmann's sytem which employed the clever use of a "slip box" is documented in his own writing, "[Kommunikation mit Zettelkästen](http://luhmann.surge.sh/communicating-with-slip-boxes) (Communicating with Slip Boxes) as well as in Sonkhe Ahren's book, [How To Take Smart Notes](https://www.sloww.co/how-to-take-smart-notes/)
 
 ### Important Elements of Zettlekasten Method
-[Permanent Notes](215_PermanentNotes.md) ---> Start here for an explanation of the Zettlekasten Method
+[Permanent Notes](215_PermanentNotes.md) ---> _Start here for an explanation of the Zettlekasten Method_    
 [Slip Box](216_AddingToTheSlipBox.md)   
 Note Sequences   
 Reading Notes   
