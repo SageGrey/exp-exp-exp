@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f1609c85d92f6112",
+        "id": "58cc166e5e95d327",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "zzzzz_cards/180 Most_Learning_Happens_Casually_.md",
+            "mode": "source",
+            "source": true
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ivan illic",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -45,11 +49,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 371,
+    "collapsed": true
   },
   "right": {
     "id": "a26f4b01d5b4cea2",
@@ -65,13 +71,14 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "zzzzz_cards/180 Most_Learning_Happens_Casually_.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -79,20 +86,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "f1609c85d92f6112",
+  "active": "58cc166e5e95d327",
   "lastOpenFiles": [
-    "zzzzz_cards/191 There_are_patterns_in_a_keysmash.md",
-    "zzzzz_cards/8 Horror_Vacui.md",
-    "zzzzz_cards/7 Worst_Image.md",
-    "zzzzz_cards/6 Eye_Span.md",
-    "zzzzz_cards/5 Emphasize_with_Color.md",
-    "zzzzz_cards/4 Order_of_Eyesight.md",
-    "zzzzz_cards/0_inventory.md",
-    "zzzzz_cards/106 Two_Faces_of_Zoning.md",
-    "zzzzz_cards/147 Penn_Central_Case.md",
-    "zzzzz_cards/145 Parking_Stackers.md"
+    "zzzzz_cards/180 Most_Learning_Happens_Casually_.md",
+    "zzzzz_cards/178_Schooling_of_The_Imagination__reliance_on_institutions__learning_on_ones_own_unreliable_.md",
+    "zzzzz_cards/184 Education_for_All_means_Education_by_All.md",
+    "zzzzz_cards/185 Youtube___Ivan_Illich.md",
+    "zzzzz_cards/186 Barrier_to_Education_for_All__Imagination_is_All_Schooled_Up.md",
+    "zzzzz_cards/213_HUB_BostonMemories.md",
+    "zzzzz_cards/138_Shoplifter_Influencer.md",
+    "zzzzz_cards/196_HUB___Good_Ideas.md",
+    "zzzzz_cards/130_Advent_Calandar_for_Plan_Components.md",
+    "improbabilityDrive/0_inventory.md"
   ]
 }
