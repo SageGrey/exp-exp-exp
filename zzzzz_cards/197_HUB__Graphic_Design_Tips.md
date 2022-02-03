@@ -9,4 +9,12 @@ Tips and Theory on good graphic design
 
 #### Emphasize 
 [5. Emphasize with color](5_Emphasize_with_Color.md)
- 5, 7, 8, 9, 10, 11, 14, 15, 16, 17, 18, 19, 20, 24, 26, 27, 28, 29, 31, 41, 79, 113
+
+#### Tools 
+
+[28. Photo Collage](https://github.com/SageGrey/exp-exp-exp/blob/main/zzzzz_cards/28_photo_Collages__When_to_Use.md)
+
+ 7, 
+ 8,
+ 9, 
+ 10, 11, 14, 15, 16, 17, 18, 19, 20, 24, 26, 27,  29, 31, 41, 79, 113
