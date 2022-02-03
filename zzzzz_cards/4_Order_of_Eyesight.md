@@ -6,5 +6,5 @@ There is an order in which we register information. We learned in middle school 
 PreTerm Workshop, David Gamble [ID 1]
 
 #### Links
-[197. HUB CARD: Graphic Design](197_HUB__Graphic_Design_Tips.md)
+[197. HUB CARD: Graphic Design](197_HUB__Graphic_Design_Tips.md)  
 [6. Eye Span](6_Eye_Span.md)
