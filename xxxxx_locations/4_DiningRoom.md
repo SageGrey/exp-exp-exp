@@ -28,6 +28,7 @@ Hello! Take a seat, you are just in time. Airing of the Grievances is starting, 
            ||    | | |_  /| | |\   _| ||     ||
            ||    | \__, / | | |  \<__/ |     ||
       
+ ### Grievances 
  -->["Files" and "Folders" are metaphors I dont love](https://github.com/SageGrey/exp-exp-exp/blob/main/zzzzz_cards/210_OfficeCultureMetaphors.md)     
  -->[Say my name, Say my name](https://github.com/SageGrey/exp-exp-exp/blob/main/zzzzz_cards/211_sayMyNameGoogle.md)  
  
@@ -47,7 +48,7 @@ Community model of disability
 
 ----------------------------------------
 
-**Navigation**  
+### Navigation 
 [Return to Entry Hall](3_FestivusCelebration.md)    
 Living Room -- Feats of Strength    
 Back Porch -- Festivus Miracles   
