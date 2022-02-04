@@ -8,12 +8,8 @@ Luhmann's sytem which employed the clever use of a "slip box" is documented in h
 [Slip Box + Note Sequences](216_AddingToTheSlipBox.md)   
 Reading Notes   
 
-### The Zettlekasten is incredible
-The problems with writing a paper from a blank page  
-
-### Digital Zettlekasten Tools
-ZKN  
-GitHub   
+### Digital Zettlekasten Tools  
+GitHub Zettlekasten   
 Obsidian   
 
 ### Personal Reflections
