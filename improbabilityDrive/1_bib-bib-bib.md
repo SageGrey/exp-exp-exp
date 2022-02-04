@@ -250,6 +250,11 @@ Contemporary Implications,**” Journal of Planning Education and Research 14: 1
                260: Lingering Effects
                261: Hopeful Spin
                262: Importance for planners to learn material
+ 
+**[Wilson, Ara “The Infrastructure of Intimacy,”](http://gofile.me/6WhDC/oub6lvijF)** Signs: Journal of Women in Culture and Society 41, no. 2 (January 2016): 247–80.  
+
+**[Winner, Langdon “Do Artifacts Have Politics?”](http://gofile.me/6WhDC/oub6lvijF)** Daedalus 109, no. 1 (1980): 121–36.
+              
     
 **Yochim, E. (2010)._Skate life : Re-imagining white masculinity_**. Ann Arbor: University of Michigan Press.
 
