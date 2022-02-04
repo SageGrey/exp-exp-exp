@@ -4,7 +4,7 @@ For the following reasons
 1. I could
 3. It made me laugh  
 
-I decided to structure my sensory map as a [festivus celebration](https://www.youtube.com/watch?v=HX55AzGku5Y). Feel free to pop-around, if you would like structure, [here]() is an argument for this counting as a map. 
+I decided to structure my sensory map as a [festivus celebration](https://www.youtube.com/watch?v=HX55AzGku5Y). Feel free to pop-around, if you would like structure, [here is some background](220_whyThisCountsAsAMap.md) 
 
 [Dining Room](https://github.com/SageGrey/exp-exp-exp/blob/main/xxxxx_locations/4_DiningRoom.md) -- Airing of the Grievances    
 Kitchen -- Feats of Strength   
