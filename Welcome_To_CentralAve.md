@@ -3,6 +3,7 @@
 
 If you happen to be looking for a place to start, word on the street is that there is a high-concept play performed by elementary schoolers about to start at the Lobo.
 
+##### [Festivus Celebration](xxxxx_locations/3_FestivusCelebration.md)
 ##### La Provence
 ##### Buffalo Exchance  
 ##### Zinc Bar & Bistro  
