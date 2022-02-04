@@ -29,6 +29,11 @@
 **Coughlin-Bogue, Tobin "Queering Skateable Space: How Dispersing Skate Spots Defuses
 Toxic Masculinity."** Urban Pamphleteer #8: Skateboardings, 2020. 18-20
 
+Deb Cowen, “Infrastructures of Empire and Resistance,” Verso Books blog (January 25, 
+2017): https://www.versobooks.com/blogs/3067-infrastructures-of-empire-and-resistance
+
+      1. 
+
 **Dupont, Tyler. From Core to Consumer: The Informal Hierarchy of the Skateboard Scene. Journal of Contemporary Ethnography Vol. 43(5), 2014), 556-581**
 
 [Engels, Friedrich.1845. “The Great Towns.”](http://gofile.me/6WhDC/8K48J765f) in The Condition of the Working-Class in England in 1844, in The City Reader, Richard T. LeGates and Frederic Stout, eds. Routledge,
