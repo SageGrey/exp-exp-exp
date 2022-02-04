@@ -9,6 +9,7 @@ Related: You can see [Reading Notes](https://github.com/SageGrey/exp-exp-exp/blo
 
 **Note**: I switched this week from the open-source zettlkasten platform [ZKN](http://zettelkasten.danielluedecke.de/en/) to creating my own version manually in GitHub. If you are interested in starting a zettlekasten, I think ZKN is great[^1], I just wanted ability to play with it spatially. This conversion broke my links between cards that I am in the process of adding back in. 
 
-
+[Back to Zettlekasten Method](https://github.com/SageGrey/exp-exp-exp/edit/main/zzzzz_cards/214_ZettlekastenMethod.md)    
+[Back to Festivus Pole](https://github.com/SageGrey/exp-exp-exp/blob/main/xxxxx_locations/5_livingRoom.md)
 
 [^1]: Fair warning, a lot of the documentation for the program is in German
