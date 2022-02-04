@@ -4,5 +4,7 @@ In Ivan Illich's book 'Tools for Conviviality' (1973) he describes tools that ha
 
 **Convivial tools** are the opposite. Instead “Convivial tools are those which give each person who uses them the greatest opportunity to enrich the environment with the fruits of his or her vision"[^1]. 
 
+#### Links
+[Spinning Jenny](202_SpinningJenny.md)
 
 [^1]: (Illich, Tools for Conviviality, pg num not known)
