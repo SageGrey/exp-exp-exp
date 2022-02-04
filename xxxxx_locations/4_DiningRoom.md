@@ -50,7 +50,7 @@ Community model of disability
 
 ### Navigation 
 [Return to Entry Hall](3_FestivusCelebration.md)    
-Living Room -- Feats of Strength    
-Back Porch -- Festivus Miracles   
+[Living Room](5_livingRoom.md)-- Festivus Pole    
+Back Porch -- Feats of Strength 
 
 ASCII art citation: lc, Samule J Neptune
