@@ -6,4 +6,30 @@ For context, up until one week ago, I have been filled with shame about my file 
 
 So when the new task of choosing a name came for my new system, the name Port Authority stood out to me. I liked the play on the words, and I liked thinking of my file storage as a not-very-nice place that nonetheless boasts strong affection in the hearts of millions. 
 
-I actually 
+I actually liked thinking about my file structure as Port Authority so much, that I decided to use it as a way to understand where I was putting the files. 
+
+
+![image](https://user-images.githubusercontent.com/34726888/152586037-8a71be36-23cc-416f-ab81-4a54673aec8b.png)
+
+
+Instead of thinking about my files using [file and folders metaphors](https://github.com/SageGrey/exp-exp-exp/blob/main/zzzzz_cards/210_OfficeCultureMetaphors.md), I'm now trying to make a system that falls somewhere between a memory palace and a MUSH network. 
+
+
+![image](https://user-images.githubusercontent.com/34726888/152586232-8da39d0b-9c3a-441b-aefe-61aac3d89d09.png)
+
+**Things Im Trying:**
+Because I find it really funny to mix the MOST type-A system I can think of with this experiment, I'm using the library of congress shorthands when possible (L--> Education, HQ--> Family). 
+
+I'm also trying to play with the notion of WHAT gets put into storage. Some of my rooms, are filled not with documents but simply with gems. For example, the Au Bon Pain in the Main Concourse is just Tuca and Bertie memes. 
+
+I am also, where possible, trying to breakdown barriers between subjects. The Hudson News in the Main Concourse holds all readings for all courses, although there are shelves that are sorted by theme (as well as a staff pics shelf).
+
+![image](https://user-images.githubusercontent.com/34726888/152587215-60f537ef-4bb7-4ca9-9b6d-202aac88f3ca.png)
+
+
+I've also done some fire containment: 
+![image](https://user-images.githubusercontent.com/34726888/152587270-e9366ee3-7d20-4e3b-a65f-6ea31f73d441.png)
+
+
+
+
