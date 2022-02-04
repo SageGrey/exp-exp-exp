@@ -14,4 +14,6 @@ In the digital world, there are many options for ways to create links between no
 
 3. **Visualizing Connections** Thinking with a zettlekasten reminds me of the difference between doing long-division my head vs doing it on paper. Yes, it is technically possible to do the calculations in my head, but it is so much faster, powerful and accurare to do it on paper. 
 
-4. **Getting Rid of the Blank Page** 
+4. **Getting Rid of the Blank Page** What a zettlekasten essentially does in a traditional essay writing project is that it front-loads the work. At the moment of research, much of the text is written and citations collected. What this allows is the banishment of the "blank white page" at the beginning of an essay. 
+
+ 
