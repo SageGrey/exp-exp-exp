@@ -1,1 +1,6 @@
-# Adding to the Slip Box
+# Adding to the Slip Box, Note Sequences
+
+In the original version of the Zettlekasten, Nikolas Luhmann would take his [permanent notes](215_PermanentNotes.md) and add them to his slip box. To add a card, he would peruse through the cards in the slip box until he saw one that could connect to the card he was putting in. He would then put the new note behind that initial note, in essence linking these ideas. As he added more cards to the slip-box, these clusters of notes would take form creating **note sequences**. When Luhmann would then go to write a paper, what he would begin with were note sequences that had accumulated in his zettlekasten. The task of the paper then was not starting from scratch, but rather, editing these note sequences. Luhmann was known to reference his slip box as his converstaion partner and emphasized its centrality in his work. 
+
+
+In the digital world, there are many options for ways to create links between notes. While Luhmann was limited to a handful of links per card (he would have to handwrite out the card each time he would want to link it) digital storage allows a theoretically unlimited number of links per note. A crucial element however is that _**these links are not the same as keywords or hashtags,**_ the notes are connected not by a category or theme, but by a specific connection that brings two(or more) disperate ideas together. 
