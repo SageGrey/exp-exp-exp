@@ -8,8 +8,7 @@ I decided to structure my sensory map as a [festivus celebration](https://www.yo
 Feel free to pop-around. But if you like structure, [here is some background](../zzzzz_cards/220_whyThisCountsAsAMap.md) 
 
 [Dining Room](https://github.com/SageGrey/exp-exp-exp/blob/main/xxxxx_locations/4_DiningRoom.md) -- Airing of the Grievances    
-Kitchen -- Feats of Strength   
 [Living Room](5_livingRoom.md) -- Festivus Pole + Presents   
-Back Porch -- Festivus Miracles 
+Back Porch -- Feats of Strength
 
 ![FestivusRestOFUs](https://github.com/SageGrey/exp-exp-exp/blob/main/ooooo_mixedMedia/i6_festivusForRestOfUs.jpg)
