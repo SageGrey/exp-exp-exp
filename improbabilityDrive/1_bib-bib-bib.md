@@ -251,9 +251,46 @@ Contemporary Implications,**” Journal of Planning Education and Research 14: 1
                261: Hopeful Spin
                262: Importance for planners to learn material
  
-**[Wilson, Ara “The Infrastructure of Intimacy,”](http://gofile.me/6WhDC/oub6lvijF)** Signs: Journal of Women in Culture and Society 41, no. 2 (January 2016): 247–80.  
+**[Wilson, Ara “The Infrastructure of Intimacy,”](http://gofile.me/6WhDC/oub6lvijF)** Signs: Journal of Women in Culture and Society 41, no. 2 (January 2016): 247–80.
+
+               247: Intro
+               248: Lit Review
+               249: fuzzy Definitions of Infrastructure
+               250: intimacy Studies
+               251: Intamacy Studies > Sexuality Studies
+               252: Commercialization of intimacy
+               253: Intro to Argument
+               254-5: Modern Bathroom controversies
+               256: Military bathroom designs
+               257: St Louis Cruising Bathrooms
+               258: WPA infrastructure
+               259: Sex work in public spaces
+               260: Phones/SMS
+               261: Monopoly Structures
+               262: Resistance to Telephone Poles
+               263: Quoting Leigh Star
+               264: Infr'as fuzzy definition
+               265: Actor-Theory network
+               266: Objects/Animals have agency
+               267: Geneology of word infrastructure
+               268: Public Good, Failure of Markets
+               269: Goal of infr to facilitate economic activity
+               270: Hidden or Colonial sublime
+               271: "Under developed nations"
+               272: P3s + Decline of public infrastructure
+               273: Failed Infrastructures
+               274: Infra is good to study argument
+               275: questions Infra surfaces
+               
 
 **[Winner, Langdon “Do Artifacts Have Politics?”](http://gofile.me/6WhDC/oub6lvijF)** Daedalus 109, no. 1 (1980): 121–36.
+
+          no page numbers but recollection
+             Robert Moses 9ft tall underpasses 
+             Agriculture research at land grand universites that went to tomato harvesters
+             To what extent does certain technology require certain political structures 
+             Ships, Factories, Atom Bomb --> Authoritative, unDemocratic
+             
               
     
 **Yochim, E. (2010)._Skate life : Re-imagining white masculinity_**. Ann Arbor: University of Michigan Press.
