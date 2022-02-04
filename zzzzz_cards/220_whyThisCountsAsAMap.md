@@ -9,4 +9,4 @@ I have gathered some observations on how digitial infrastructure has influenced 
 
 The presents under the [festivus pole](5_livingRoom.md) are where I have described some of the [convivial tools](219_ConvivialTools.md) I've started using
 
-I just want to go back to the beginning. [Sure thing](3_FestivusCelebration.md)
+I just want to go back to the beginning. [Sure thing](../xxxxx_locations/3_FestivusCelebration.md)
