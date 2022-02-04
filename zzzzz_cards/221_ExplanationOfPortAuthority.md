@@ -32,4 +32,13 @@ I've also done some fire containment:
 
 
 
+**Will this system Break-down?** 
+Too soon to see, but I think it has a better shot than past attempts for a few reasons. 
 
+1. **Touring the Palace Gardens, Ethics of Care** One of the pieces of advice that I found when searching for file storage best practices was to occasionally "tour the palace gardens" and tidy the way you would a physical space. There are two main ways that I see to make yourself do this. The first is through self-discipline and the second is by cultivating joy in the act of tidying. Self discipline has failed me so far (hi adhd), but I think the possibility of taking pride in world-building and rediscovering gifts I've left myself has a real shot. 
+
+2. **Space is the place** I take great pride in taking care of my physical living spaces. The idea of cleaning or caring for an abstract space doesn't click, taking care of port authority does. 
+
+3. **Stubborness** If this breaks down I have to admit that to my roomates who have been watching me get very excited about this over the last week. Pride is powerful. 
+
+#### I've had enough, return to the [Festivus Pole](https://github.com/SageGrey/exp-exp-exp/blob/main/xxxxx_locations/5_livingRoom.md)
