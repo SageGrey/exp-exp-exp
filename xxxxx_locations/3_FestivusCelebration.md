@@ -5,7 +5,7 @@ For the following reasons
 3. It made me laugh  
 
 I decided to structure my sensory map as a [festivus celebration](https://www.youtube.com/watch?v=HX55AzGku5Y).  
-Feel free to pop-around, if you would like structure, [here is some background](../zzzzz_cards/220_whyThisCountsAsAMap.md) 
+Feel free to pop-around. But if you like structure, [here is some background](../zzzzz_cards/220_whyThisCountsAsAMap.md) 
 
 [Dining Room](https://github.com/SageGrey/exp-exp-exp/blob/main/xxxxx_locations/4_DiningRoom.md) -- Airing of the Grievances    
 Kitchen -- Feats of Strength   
