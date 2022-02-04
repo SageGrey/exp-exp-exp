@@ -3,7 +3,7 @@
 A fundamental component of the [Zettlekasten Method](214_ZettlekastenMethod.md) is taking fleeting notes--the notes we make as we go through our day, listen to a lecture, read a paper-- into **permanent notes**. 
 
 A permanent note is:   
---> A single idea that is fully explained in your own words, using complete sentences.   
+--> A single idea that is fully explained, in your own words, using complete sentences.   
 --> That includes full citation information
 
 There are a few reasons for this transformation:
