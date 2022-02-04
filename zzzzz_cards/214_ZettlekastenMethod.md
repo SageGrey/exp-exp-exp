@@ -5,8 +5,7 @@ Luhmann's sytem which employed the clever use of a "slip box" is documented in h
 
 ### Important Elements of Zettlekasten Method
 [Permanent Notes](215_PermanentNotes.md) ---> _Start here for an explanation of the Zettlekasten Method_    
-[Slip Box](216_AddingToTheSlipBox.md)   
-Note Sequences   
+[Slip Box + Note Sequences](216_AddingToTheSlipBox.md)   
 Reading Notes   
 
 ### The Zettlekasten is incredible
@@ -18,6 +17,7 @@ GitHub
 Obsidian   
 
 ### Personal Reflections
-Driving to Niagra Falls
+[Driving to Niagra Falls](218_LiberationandTrauma.md)
+
 
 
