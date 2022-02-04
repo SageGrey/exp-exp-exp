@@ -8,7 +8,7 @@ I decided to structure my thoughts as a [festivus celebration](https://www.youtu
 
 [Dining Room](https://github.com/SageGrey/exp-exp-exp/blob/main/xxxxx_locations/4_DiningRoom.md) -- Airing of the Grievances    
 Kitchen -- Feats of Strength   
-Living Room -- Festivus Pole    
+[Living Room](5_livingRoom.md) -- Festivus Pole + Presents   
 Back Porch -- Festivus Miracles 
 
 ![FestivusRestOFUs](https://github.com/SageGrey/exp-exp-exp/blob/main/ooooo_mixedMedia/i6_festivusForRestOfUs.jpg)
