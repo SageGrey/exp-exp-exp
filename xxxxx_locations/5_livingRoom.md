@@ -23,7 +23,7 @@
                                   /__\
                                  //  \\
   
- ------------> [**Git Hub Zettlekasten**](214_ZettlekastenMethod.md)   
+ ------------> [**Git Hub Zettlekasten**](../zzzzz_cards/214_ZettlekastenMethod.md)   
   ------------>  **Port Authority Spatialized Files**   
   ------------>  **Bullett Journal**   
   
