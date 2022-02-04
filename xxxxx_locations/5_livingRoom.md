@@ -16,7 +16,7 @@
                         |'-========OoO===='-.
                         | ||'-.____'-.'-.____'-.
                         | ||  |      |  |      |
-                         '-|  |      |  |      |  This Festivus we are all getting new infrastructure!
+                         '-|  |      |  |      |  This Festivus we are all getting counterhegemonic infrastructure!
                             '-|______|__|______|
                                '-.--./**).--.-'
                                    .' .'
