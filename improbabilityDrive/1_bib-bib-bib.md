@@ -1,5 +1,6 @@
- # The Stacks
+ # The Stacks[^1]
 ###### Reading Notes  of All Authors
+
  
   **Brown, Adrienne Maree. "Emergent Strategies."** AK Press, 2017. 
  
@@ -29,10 +30,23 @@
 **Coughlin-Bogue, Tobin "Queering Skateable Space: How Dispersing Skate Spots Defuses
 Toxic Masculinity."** Urban Pamphleteer #8: Skateboardings, 2020. 18-20
 
-Deb Cowen, “Infrastructures of Empire and Resistance,” Verso Books blog (January 25, 
+**Deb Cowen, “[Infrastructures of Empire and Resistance](http://gofile.me/6WhDC/VlARGlPoa)**,” Verso Books blog (January 25, 
 2017): https://www.versobooks.com/blogs/3067-infrastructures-of-empire-and-resistance
 
-      1. 
+      2. Naming current struggles for justice
+      3. Heathrow and Calais (informal refugee settlement in france or maybe england?)
+      4. Infrastructure does not simply reflect existing inequality, but also engineers and entrenches
+      5. Connecting and Restricing capabilities
+      6. Notion of infra as fixed
+      7. Infrastructure to spatially fix capital, imperialism infrastructure as apology
+      8. Canadian examples
+      9. Fugitive Infrastructures, Underground Railroad, DAPL
+      10. Winona LaDuke
+      %% "Infrastructure is by definition future oriented; it is assembled in the service of worlds to come"
+      11. Churches and Border Wall
+
+   
+      
 
 **Dupont, Tyler. From Core to Consumer: The Informal Hierarchy of the Skateboard Scene. Journal of Contemporary Ethnography Vol. 43(5), 2014), 556-581**
 
@@ -208,6 +222,22 @@ and Private Development](http://gofile.me/6WhDC/cvKMNKgSv), Class Note #1 (2022)
                 140: Slum Clearance/People Not Static
                 144: Tankel: Humility in Planning
                 
+**[Star, Susan Leigh “The Ethnography of Infrastructure,”](http://gofile.me/6WhDC/M5nnn2GSr)** American Behavioral Scientist 43(3), 1999: 377–91. 
+
+               378: Reading phonebooks more interesting than reading many infra. documents
+               379: MUDS! Symbolic Sewers
+               380: One person's infrastructure are anothers barrier. Infra as fundamentally relational
+               381-2: **Definitions of Infra elements**
+               383: Ethnography
+               384-5 MAster Narratives
+               386: Making things visible
+               387: MAgnification process, work of assemblage
+               388: Indicators/records/artifacts
+               
+               
+               
+               
+                
 **Thomas, June Manning. 1994. “Planning History and the Black Urban Experience: Linkages and
 Contemporary Implications,**” Journal of Planning Education and Research 14: 1-11.
 
@@ -223,4 +253,4 @@ Contemporary Implications,**” Journal of Planning Education and Research 14: 1
     
 **Yochim, E. (2010)._Skate life : Re-imagining white masculinity_**. Ann Arbor: University of Michigan Press.
 
-
+[^1]: Want to read: Colson Whiteheads book The Underground Railroad
