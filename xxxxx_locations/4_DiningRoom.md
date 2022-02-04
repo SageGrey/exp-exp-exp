@@ -32,8 +32,8 @@ Hello! Take a seat, you are just in time. Airing of the Grievances is starting, 
  -->[Say my name, Say my name](https://github.com/SageGrey/exp-exp-exp/blob/main/zzzzz_cards/211_sayMyNameGoogle.md)  
  
 
-**Grievences held but not yet aired**
- Papers not great learning tools     
+**Grievences held but not yet aired**   
+ Papers not great learning tools        
  --> Everything is not an argument    
  --> The only thing I have from high school are final papers that I will never reread    
  --> Tools and databases (like Canvas) that dissapear once you are out of school are not useful things to learn   
