@@ -25,6 +25,6 @@
   
  ------------> [**Git Hub Zettlekasten**](../zzzzz_cards/214_ZettlekastenMethod.md)   
   ------------>  [**Port Authority Spatialized Files**](../zzzzz_cards/221_ExplanationOfPortAuthority.md)   
-  ------------>  **Bullett Journal**   
+  ------------>  **Bulett Journal**   
   
   
