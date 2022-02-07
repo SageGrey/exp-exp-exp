@@ -11,21 +11,24 @@ _note about formatting + [accounting conventions](https://github.com/SageGrey/ex
       --> Bold indicates key cash flows in
 
 #### Components 
+ Gross Income      
+ ..(Vacancy)   
+ Additional Income  
+ **= Effective Gross Income**  
+ 
+..(Operating Expenses)  
+ ..(Real Estate Taxes)  
+..(Replacement Reserve)  
+ ..(Other Recurring Expenses)  
+ **= Total Expenses**    
+ 
+<><>><><><add/subtract><><><><><><>   
+**= Net Operating Income**  
+([Debt Service](205_DebtService.md))  
 
-               Gross Income     
-               ..(Vacancy)  
-               Additional Income  
-               _______________________  
-               **Effective Gross Income**  
-               ..(Operating Expenses)  
-               ..(Real Estate Taxes)  
-               ..(Replacement Reserve)  
-               ..(Other Recurring Expenses)  
-               _______________________  
-                **Net Operating Income**  
-                ..(Debt Service)  
-                _____________________
-                **Cash Flow After Financing**  
-                ..(Tax Payment)  
-                ______________________  
-                **Cash Flow After Taxes** `
+<><>><><><add/subtract><><><><><><>    
+**= Cash Flow After Financing**  
+..(Tax Payment)  
+
+<><>><><><add/subtract><><><><><><>    
+ **= Cash Flow After Taxes** `
