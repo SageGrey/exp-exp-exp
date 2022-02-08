@@ -132,6 +132,18 @@ Johns Hopkins University Press: 165-184.
                    48: ode to the town-country, man-woman metaphor
                    50-1: Financial Arangements of Garden City
                    52-3: Diagram of Garden City
+                   54-5: Layout of Garden CIty
+                   56: Farmers + Produce Market
+                   57 "philanthropic" institutions (deaf, asylums)
+                   138: chapter 12 intro quotes
+                   139: Obtaining land
+                   140-1: Solution to cities growing, North Adelaid
+                   142-3 connected garden cities 
+                   144: Railways, Compared to Londons Suburbs
+                   145: History of Londons Rail Development. 
+                   146: Selfishness/Grandeiose language about new model and lvoe
+                   147: power of vested interests
+                   148: Financial predictions
 
 **Illich, Ivan. "Deschooling Society"** Marion Boyers Publishing, 2002
 
