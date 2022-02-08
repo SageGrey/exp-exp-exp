@@ -1,4 +1,13 @@
- # The Stacks[^1]
+
+
+Unwin, Raymond. 1912. Nothing Gained by Overcrowding! How the Garden City type of  development may 
+benefit both owner and occupier. London: P.S. King & Son, 1912: 2-25. [Skim: focus on diagrams 
++ images] 
+Tafuri, Manfredo and Francesco Dal Co. 1979. “The Birth of Modern Town Planning: European 
+Experiments: From the English Company Towns to the Theory of the Garden City (1850-1918),” 
+Modern Architecture. New York: Abrams, 1979: 26-39. 
+
+# The Stacks[^1]
 ###### Reading Notes  of All Authors
 
  
@@ -109,6 +118,20 @@ Johns Hopkins University Press: 165-184.
             `**Context:** Peter Hall is a prolific marxist, economic geographer. 
             
 **Howell O. Skatepark as Neoliberal Playground: Urban Governance, Recreation Space, and the Cultivation of Personal Responsibility**._Space and Culture_. 2008;11(4):475-496.
+
+
+[Howard, Ebenezer. 1898. “Introduction”, ch1 “The Town and Country Magnet,”](http://gofile.me/6WhDC/0dVlJDmEh) ch 2 and “Social Cities,”  ch13 “The Future of London,” in Garden Cities of Tomorrow, 1898. 
+
+                   41: Disagreements in society, generational
+                   42: no disagreement that migration to overcrowded cities is bad, root of all bad
+                   43: Describing sordid living conditions
+                   44: posing question, how to restore people to land
+                   45: discussion of "attractions", magnets and needles metaphor
+                   46: 3 magnet diagram
+                   47: 3 magnet discussion
+                   48: ode to the town-country, man-woman metaphor
+                   50-1: Financial Arangements of Garden City
+                   52-3: Diagram of Garden City
 
 **Illich, Ivan. "Deschooling Society"** Marion Boyers Publishing, 2002
 
