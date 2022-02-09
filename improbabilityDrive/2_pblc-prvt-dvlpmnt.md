@@ -3,7 +3,10 @@
  . OH: 2-4pm Wednesday   
  ..  Gund 105  
  ... Spring 2022      
- ....  
+ ....                 
+[Jerold S. Kayden and Adam Tanaka, Real Estate Financial Analysis for Public 
+and Private Development](http://gofile.me/6WhDC/cvKMNKgSv), Class Note #1
+
 
  
 # Staff Picks 
