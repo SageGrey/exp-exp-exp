@@ -83,6 +83,62 @@ ZTLKN Notes: [anti-homeless policing](zzzzz_cards/201_anti-homelessPolicing_Indu
 **Greer, Alex "A historical assessment of home buyout policy: Are we learning or just failing?"**
 Section 1: Policy Learning Theory (Social, Instrumental) 
 
+Graham, Stephen and Nigel Thrift, “Out of Order: Understanding Repair and 
+Maintenance,” Theory, Culture & Society 24, no. 3 (May 2007): 1–25. 
+
+           1. Maintenance and Earth Worms
+           2. Heidegger
+           3. Qualities of maintenance, proliferation of things
+           4. idk
+           5. Maintenance as generative, maintenance is learning
+           6. repair as innovation, variation, improvisation, tinkering. Designers not considering maintenance workers. 
+           7. MAintenance worker job numbers
+           8. Disussion of Leigh Starrs definition of infrastructure
+           9. Catastrophic failutes vs "deeply prosaic software clitches, crashes and continual neccessary repair"
+           10: Mesh period for new infrastructures
+           11: Global South, Infra. improvisation, informality
+           12: YTK, Internet like farmohouses built by non-union labor
+           13: Cyberspace and electricity
+           14: neoliberal politics impact on electric grid, privitization
+           15:  Auto Repair/Roadside Repair
+           16: Roadside breakdown companies
+           17: Crash Ecology
+      
+           
+           _____________________
+          TODO: add How Buildings Learn 1994 to reading list
+
+        **ZKN:** What would our lives be like if we took earthworms seriously, took the ground
+under our feet rather than the skies above our heads, as the place to look as
+well as, eventually, as the place to be? It is as though we have been pointed
+in the wrong direction., Adam Phillips 
+
+       ZKN: to invent the train is also to invent the plane crash Ltringer and Virilio, 2003, (pg 4). Connect to Crisis Card. 
+       
+       ZKN: Maintenance as learning. Connect to Haussmans plan for paris. 
+       
+       ZKN: Parents have to become experts very quickly. 
+       
+       ZKN: Commercial buildings are often, in certain senses, in even worse
+condition, in part because architects themselves rarely consider or take into
+their designs the business of maintenance and repair: ‘they see the people
+who do the maintaining as blue collar illiterates and the process of upkeep
+as trivial, not a part of design concerns’ (Brand, 1994: 112). Thus, one:
+. . . survey of fifty-eight new business buildings near London [found that] ‘a
+staggering one-fifth of the sample said that the need to clean their windows
+had not even been considered during the design and construction of the
+
+building’. Also light fixtures in the grand lobbies were unreachable for lamp
+replacement, and internal drains from the flat roofs had no access hatches for
+inspection and cleaning. (1994: 112) (6)
+
+
+6 Such associations
+point to the way in which maintenance and repair is increasingly thought
+of as a generic activity, the model for which can be spread across many
+realms of everyday life.(16)
+       _________________________
+
 **Harvey, David. 1985. “On planning the ideology of planning,”** in The Urbanization of Capital. Baltimore:
 Johns Hopkins University Press: 165-184.
 
