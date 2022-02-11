@@ -102,7 +102,10 @@ Maintenance,” Theory, Culture & Society 24, no. 3 (May 2007): 1–25.
            14: neoliberal politics impact on electric grid, privitization
            15:  Auto Repair/Roadside Repair
            16: Roadside breakdown companies
-           17: Crash Ecology
+           17: Crash Ecology, Road Repair techniques
+           18: Conclusion
+           19: E-Waste
+           20:
       
            
            _____________________
