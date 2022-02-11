@@ -35,6 +35,13 @@ Modern Architecture. New York: Abrams, 1979: 26-39.
                 53: Fractals: What we practice at a small scale sets patterns for the whole system. 
                 54: Trap of "Specialness" and winning
                 57: Utopias that are just different monocultures  
+                
+                
+Chalfin, Brenda “‘Wastelandia’: Infrastructure and the Commonwealth of Waste in 
+Urban Ghana,” Ethnos 82, no. 4 (July 18, 2017): 648–71.
+                
+                648: abstract
+                649:
 
 **Coughlin-Bogue, Tobin "Queering Skateable Space: How Dispersing Skate Spots Defuses
 Toxic Masculinity."** Urban Pamphleteer #8: Skateboardings, 2020. 18-20
