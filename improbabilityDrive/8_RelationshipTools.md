@@ -5,7 +5,7 @@
 
 Having a way to easily check in around basic needs whether alone or with other people. 
 
-*Useful phrases:*
+*Useful phrases:*  
 -- What do you need?  
 -- I love you  
 -- Hungry  
@@ -14,7 +14,7 @@ Having a way to easily check in around basic needs whether alone or with other p
 
 ### On the count of three. 
 
-When posed with a decision, count to three to reveal preferences. If answers are different, you can do a second count to gauge magnitude on 1-5 scale 
+When posed with a decision, count to three to reveal preferences. If answers are different, you can do a second count to gauge magnitude on a 1-5 scale 
 
 
 ### This one is on me
