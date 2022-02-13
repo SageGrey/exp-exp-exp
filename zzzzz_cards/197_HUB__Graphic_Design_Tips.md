@@ -24,6 +24,7 @@ Tips and Theory on good graphic design
 
 #### Maps
 [226. Noli Maps based on $](226_NoliMapsForIncome.md)
+[228. Oligopticon](228_Oligopticon.md)
 
 
  8,
