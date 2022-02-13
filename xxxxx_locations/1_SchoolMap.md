@@ -25,6 +25,7 @@
     P317 Michael Rosenfeld  
     P371 Eden Attar  
     P382 Jenny Odell  
+    [P690 Miguel Perez Luna](class_690_mpl.md)
     P303 Ivan Illich  
     P403 Carole Voulgaris  
 
