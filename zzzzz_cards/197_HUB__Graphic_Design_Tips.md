@@ -23,7 +23,8 @@ Tips and Theory on good graphic design
 [41. Graphing Multiple Variables](41_Graphing_Multivariables.md)
 
 #### Maps
-[226. Noli Maps](226_NoliMaps.md)
+[226. Noli Maps based on $](226_NoliMapsForIncome.md)
+
 
  8,
  9, 
