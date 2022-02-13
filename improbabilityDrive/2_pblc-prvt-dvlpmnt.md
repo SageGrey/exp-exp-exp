@@ -88,7 +88,7 @@ and Private Development](http://gofile.me/6WhDC/cvKMNKgSv), Class Note #1** (202
         (At the end of negotiations, try to leave with everyone feeling good)
      4. Be(A)ware  the tower of babel. Ask names of terms, many things have many synonyms. 
      
-### ----------> Parts of a Pro Forma 
+## ----------> Parts of a Pro Forma 
  Latin: As a matter of form  
  Occurs in a "Stabalized Year" || Syn: Operating, Standard  
  Uses Actual, Estimated (or manipulated)  
@@ -304,7 +304,7 @@ take-away
  
  
      
-### ----------> 3 Key Practice Areas of Public Subsidies       
+## ----------> 3 Key Practice Areas of Public Subsidies       
 
 #### 1. Provision of public subsidies
 #### 2. Provision of land/infrastructure
@@ -348,7 +348,7 @@ take-away
      Models can be faulty
      Local Economy Leakage --> Is it actually going locally?
 
-# Fiacal Impact Analysis
+### Fiacal Impact Analysis
 
          Useful for fully private projects
           --> How many new services will need to be rendered by the gov?
