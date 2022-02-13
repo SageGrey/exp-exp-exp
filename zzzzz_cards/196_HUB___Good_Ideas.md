@@ -4,6 +4,7 @@ Sometimes things that we must do can be done in a way that is far more clever. W
 #### Urban Planning
 [130. Advent Calandar for Planning Components](130_Advent_Calandar_for_Plan_Components.md)   
 [226. Noli Maps based on $](226_NoliMapsForIncome.md)
+[228. Real Estate Ride Alongs](230_RealEstateRideAlongs.md)
 
 
 #### No Category
