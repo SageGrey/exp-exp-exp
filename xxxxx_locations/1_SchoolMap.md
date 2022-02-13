@@ -9,13 +9,13 @@
 
 ## Classrooms
 
-    B107 Andrea Letter  
-    207 Sandra Simon Ailes  
-    214 Jeff Tuttle   
-    385 Douglas Adams
-    P116 Richard Hogle  
-    P127 Ed Bakilini  
-    P146 Laurie Thomas  
+B107 Andrea Letter  
+207 Sandra Simon Ailes  
+214 Jeff Tuttle  
+385 Douglas Adams
+P116 Richard Hogle  
+P127 Ed Bakilini  
+ P146 Laurie Thomas  
     P147 Mickie Prokopiak  
     P187 Marnie Bethel  
     P199 Susan Ontiveros  
@@ -25,7 +25,7 @@
     P317 Michael Rosenfeld  
     P371 Eden Attar  
     P382 Jenny Odell  
-    [P690 Miguel Perez Luna](class_690_mpl.md)
+    [P690 Miguel Perez Luna](class_690_mpl.md)   
     P303 Ivan Illich  
     P403 Carole Voulgaris  
 
