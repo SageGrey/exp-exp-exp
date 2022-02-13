@@ -7,11 +7,13 @@
 [Jerold S. Kayden and Adam Tanaka, Real Estate Financial Analysis for Public 
 and Private Development](http://gofile.me/6WhDC/cvKMNKgSv), Class Note #1
 
+### ProForma/Discounted Cash Flow Exercise
+[Link to Excel File Here](http://gofile.me/6WhDC/PKYmkJsXQ)
 
  
 # Staff Picks 
 
-#### Vocab Bank
+###  Vocab Bank
 **REFA** --> Real Estate Financial Analysis   
 **Underwriting** --> Analyzing the Deal   
 **NOI** --> Net Operating Income, "Free and Clear," Net Income Before Financing, Cash Flow Before Financing  
@@ -300,4 +302,56 @@ take-away
 [--Cap Rates why the higher cap rate, lower value]
 [-- ROE vs ROTA]
  
+ 
+     
+### ----------> 3 Key Practice Areas of Public Subsidies       
+
+#### 1. Provision of public subsidies
+#### 2. Provision of land/infrastructure
+#### 3. Gov Regulations
+
+#### Cost Benefit Analysis 
+   
+      Not super common in public private development  
+      CBA seeks to measure in MONETARY TERMS net increase/decrease in goods/services taken by project for society as a whole. 
+      
+      PROBLEMS WITH CBA:
+      --> Does not account for WHO is benefited, WHO is harmed
+      --> Monetizing benefits is hard
+      --> Future benefits have discount rates applied (higher discount rate, lower benefits valued) 
+      
+#### Cost-Effectiveness Analysis
+ 
+      Assumes the project is happening. But we would like it to be as cheap as possible
+      Neccesary, Sufficient, But not excessive
+      
+#### Modified CBA for Public-Private Development
+
+     Looks at the DISTRIBUTION of benefits
+     Doesn't monetize everything
+
+
+#### Economic Impact Analysis
+
+     Also known as "regional income analysis"
+     Contributuions to an economy in a specific area. 
+     Uses multipliers, for every $X, there is # benefits. 
+     
+     Looks at: 
+     Direct Spending -- How much did it cost
+     Indirect Spending -- How much businesses (tenantS) spend
+     Induced Spending -- How much people that have jobs as a consequence of this project will spend
+     
+     Problems with this kind of analysis:
+     Boosterism
+     Substitution Effect (This project might take away from that other project)
+     Models can be faulty
+     Local Economy Leakage --> Is it actually going locally?
+
+# Fiacal Impact Analysis
+
+         Useful for fully private projects
+          --> How many new services will need to be rendered by the gov?
+          --> How much new tax base revenue?
+      
       
