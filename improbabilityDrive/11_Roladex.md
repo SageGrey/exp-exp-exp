@@ -10,3 +10,4 @@ Teodoro Conzales de Leon + Abraham Zabiuovsky --> Architects for Tamayo Museum i
 Amparo Achoa --> Folk Musician  
 Jan Svankmajer --> Video artist, Alice  
 Pedro Coronel--> Abstract painter   
+**David Harvey** --> Marxist Geographer
