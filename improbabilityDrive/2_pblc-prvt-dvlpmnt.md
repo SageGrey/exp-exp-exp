@@ -354,4 +354,5 @@ take-away
           --> How many new services will need to be rendered by the gov?
           --> How much new tax base revenue?
       
+### [7 Theories of Who Has Power in Cities](https://github.com/SageGrey/exp-exp-exp/blob/main/zzzzz_cards/232_7TheoriesofPower.md)      
       
