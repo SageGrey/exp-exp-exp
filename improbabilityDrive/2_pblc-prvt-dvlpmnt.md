@@ -22,7 +22,7 @@ and Private Development](http://gofile.me/6WhDC/cvKMNKgSv), Class Note #1
 **[Amortization](https://github.com/SageGrey/exp-exp-exp/blob/main/zzzzz_cards/206_Amortization.md)** --> "Payments of principle (the original amount that was loaned)  
 **Principle** --> (The origianl amount that was loaned)     
 **Free and Clear** --> Above the debt service, "cash on cost"  
-
+[**Real Politik**](https://github.com/SageGrey/exp-exp-exp/new/main/zzzzz_cards) --> System of politics based on practical rather than moral foundations
 #### Key Concepts
 ---------->`**[Parts of A Pro Forma](https://github.com/SageGrey/exp-exp-exp/blob/main/zzzzz_cards/203_Pro%20Forma.md)**
  
