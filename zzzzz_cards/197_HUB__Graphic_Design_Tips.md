@@ -21,6 +21,7 @@ Tips and Theory on good graphic design
 #### Graphs 
 
 [41. Graphing Multiple Variables](41_Graphing_Multivariables.md)
+[10. Chart Junk](10_Chart_Junk.md)
 
 #### Maps
 [226. Noli Maps based on $](226_NoliMapsForIncome.md)
@@ -29,4 +30,4 @@ Tips and Theory on good graphic design
 
  8,
  9, 
- 10, 11, 14, 15, 16, 17, 18, 24, 26, 27,  29, 31, 79, 113
+ 11, 14, 15, 16, 17, 18, 24, 26, 27,  29, 31, 79, 113
