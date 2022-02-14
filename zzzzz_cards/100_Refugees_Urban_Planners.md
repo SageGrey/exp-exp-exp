@@ -8,7 +8,7 @@ Most Refugees will go to a small number of cities.
 
 Land use issues (like mosques and overcrowding) repeatedly come up as disputes that planners are aksed to look at&#9;
 
-## null
+### Citation
 
 Ryan Allen, Clarissa Slotterback: Building Immigrant Engagement Practice [ID 22]
 
