@@ -280,6 +280,18 @@ and Private Development](http://gofile.me/6WhDC/cvKMNKgSv), Class Note #1 (2022)
          152: Hypothesis of benefits
          154: Civilize/Soothe
          155: Olmstead nyc predictions
+         156: Woods deep enought to shut out city
+         157: Lungs and Arteries
+         160: Noticing families in cemeteries
+         163: Emerald nacklace
+         164: Kansas City
+         165: Altruism/Property Values
+         156: Park Planning = City Planning
+         157: Future of park planning,  
+         169: "Symmetry not for solitude" move to natural parks
+         171: Are parks for gentrification now?
+         
+    
 
  **Liao,  Jilleen . Instaposts.** Urban Pamphleteer #8: Skateboardings, 2020. 30-31  
  
