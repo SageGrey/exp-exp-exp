@@ -1,8 +1,7 @@
 # Material for Later Writings
 
 
-### Source:
-(sitting in Alex Krieger Lecture 2.15.22)
+### Source: _sitting in Alex Krieger Lecture 2.15.22_
 The ends might not justify the means
 but it turns out that the ends are rather good at hiding them
 
@@ -13,8 +12,7 @@ But the met stretching in all directions makes us dizzy the way that an abusive 
 [poem for RABD](https://github.com/SageGrey/exp-exp-exp/blob/main/ooooo_mixedMedia/poem_2_ForRebeks)
 
 
-### Source: 
-Jenna Dunlap Position and Planning Workshop, 2.14.22
+### Source: _Jenna Dunlap Position and Planning Workshop, 2.14.22_
 
 Planning is a profession that has been asked to look at trauma
 
