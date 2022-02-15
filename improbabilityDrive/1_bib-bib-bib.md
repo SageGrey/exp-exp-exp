@@ -1,12 +1,4 @@
 
-
-Unwin, Raymond. 1912. Nothing Gained by Overcrowding! How the Garden City type of  development may 
-benefit both owner and occupier. London: P.S. King & Son, 1912: 2-25. [Skim: focus on diagrams 
-+ images] 
-Tafuri, Manfredo and Francesco Dal Co. 1979. “The Birth of Modern Town Planning: European 
-Experiments: From the English Company Towns to the Theory of the Garden City (1850-1918),” 
-Modern Architecture. New York: Abrams, 1979: 26-39. 
-
 # The Stacks[^1]
 ###### Reading Notes  of All Authors
 
@@ -276,6 +268,7 @@ and Private Development](http://gofile.me/6WhDC/cvKMNKgSv), Class Note #1 (2022)
 
 
 **Krieger, Alex. 2019. “Making Nature Urbane: Olmsted and the Parks Movement,” City on a Hill: Urban Idealism in America from the Puritans to the Present, 2019: 151-173.**
+
          151: eptitaths
          152: Hypothesis of benefits
          154: Civilize/Soothe
@@ -290,7 +283,21 @@ and Private Development](http://gofile.me/6WhDC/cvKMNKgSv), Class Note #1 (2022)
          157: Future of park planning,  
          169: "Symmetry not for solitude" move to natural parks
          171: Are parks for gentrification now?
+         _____________________________________
+         `Notes from Lecture 2-15-22:
+         Described 2nd half of the 19th century as the *Furnace Stage*
          
+         Discusssed the Importance of Andrew Jackson Downing who might have been considered the father of the parks movement if not for his untimely death in a boat accident at a young age. Downing was a staunch advocate for parks and advocat for parks, involved in the establishment of Mount Auburn Cemetery. 
+         
+         Building natural cemeteries was a turning point for park development as it made city leaders realize that families were flocking to them for recreation. 
+         
+         Seneca Village was cleared for the Creation of Central Park
+         
+         Neccesity leading to pleasure. Part of the impetus for Olmstead designing the emerald necklace in boston and his "system of parks" was that the muddy river was filling with excrement due to the development of the Back Bay. 
+         
+         Visit a park to become less cynical about the "socializing potential of social spaces."
+         
+        
     
 
  **Liao,  Jilleen . Instaposts.** Urban Pamphleteer #8: Skateboardings, 2020. 30-31  
