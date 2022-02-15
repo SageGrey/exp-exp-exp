@@ -7,5 +7,6 @@ Racial Covenants, which were clauses in the deed that restricted the owners abil
 Rothstein, Color of Law
 
 ## Links
+[HUB: Racism in Urban Planning](234_HUB_RacisminUrbanPlanning.md)
 [1917 Buchanon Decision](104_Buchanan_V_Warley_1917.md)
 
