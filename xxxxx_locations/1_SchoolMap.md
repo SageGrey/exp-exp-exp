@@ -28,6 +28,7 @@ P127 Ed Bakilini
     [P690 Miguel Perez Luna](class_690_mpl.md)   
     P303 Ivan Illich  
     P403 Carole Voulgaris  
+    [P404 Alex Bauranauv](class_p404_aBaur.md)
 
 
 ##### [Back to Central Ave](https://github.com/SageGrey/exp-exp-exp/blob/main/Welcome_To_CentralAve.md) 
