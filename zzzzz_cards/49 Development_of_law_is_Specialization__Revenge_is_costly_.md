@@ -11,6 +11,6 @@ Richard Postner, The Problems with Jurisprudence
 Judicial Theatrics
 Legal Philosophy/History
 
-### Status 
-Orphan
+____________
+**Status**: Orphan
 
