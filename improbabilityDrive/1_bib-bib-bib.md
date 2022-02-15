@@ -295,6 +295,8 @@ and Private Development](http://gofile.me/6WhDC/cvKMNKgSv), Class Note #1 (2022)
          
          Neccesity leading to pleasure. Part of the impetus for Olmstead designing the emerald necklace in boston and his "system of parks" was that the muddy river was filling with excrement due to the development of the Back Bay. 
          
+         In cities like Kansas City during the  late 19th/early 20th, park planning WAS city planning. 
+         
          Visit a park to become less cynical about the "socializing potential of social spaces."
          
         
