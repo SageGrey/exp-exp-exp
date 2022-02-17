@@ -28,9 +28,10 @@ Having language that explicitly asks for affirmation is incredibly useful
 
 
 TO BE EXPLAINED:
--- 2 Month Notice
--- Temporal Surgery
--- "Cut" 
--- Open Communication as not lying, not providing assurances that you cant make
+              
+              -- 2 Month Notice
+              -- Temporal Surgery
+              -- "Cut" 
+              -- Open Communication as not lying, not providing assurances that you cant make
 
 
