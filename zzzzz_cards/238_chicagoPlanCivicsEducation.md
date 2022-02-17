@@ -6,4 +6,4 @@ For over 30 years "Wackers Manual of the Plan of Chicago" was required reading i
 Alex Krieger, 2.17.21, History and Theory Lecture
 
 ### Links
-City Beautiful Era Notes](#### [City Beautiful](https://github.com/SageGrey/exp-exp-exp/new/main/zzzzz_cards))
+[City Beautiful Notes](https://github.com/SageGrey/exp-exp-exp/blob/main/zzzzz_cards/237_cityBeautifuEra.md)
