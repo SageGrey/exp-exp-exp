@@ -27,6 +27,12 @@ Established the **Land Wrightdown model** that gov would buy blighted land and t
 ### 1965 Creating of HUD
 _Urban legend of wanting it to be called Dept of Urban Development, but acronym would be DUD_
 
+### `When was this`? Consolidation of Block Grants
+[Consolidation of Categorical Grants into Block Grants](236_blockGrantVsCategorical.md)
+
+### 1980s - Present
+National money has largely dried up
+
 
 
 
