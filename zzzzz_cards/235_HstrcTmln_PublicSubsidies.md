@@ -33,7 +33,11 @@ _Urban legend of wanting it to be called Dept of Urban Development, but acronym 
 ### 1980s - Present
 National money has largely dried up
 
+### Links
+[PPD Notes](https://github.com/SageGrey/exp-exp-exp/edit/main/improbabilityDrive/2_pblc-prvt-dvlpmnt.md)
 
+### Citation
+Jerold Kayden, 2.16.22, public private dev
 
 
 
