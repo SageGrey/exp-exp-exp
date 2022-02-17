@@ -13,6 +13,8 @@ and Private Development](http://gofile.me/6WhDC/cvKMNKgSv), Class Note #1
  
 # Staff Picks 
 
+When public housing was criticized for being inhumane (large towers) it focused on the architecture. But some of the most desirable real estate in the world is high rise, might it have to do much more with the _INVESTMENT_. 
+
 ###  Vocab Bank
 **REFA** --> Real Estate Financial Analysis   
 **Underwriting** --> Analyzing the Deal   
@@ -23,6 +25,9 @@ and Private Development](http://gofile.me/6WhDC/cvKMNKgSv), Class Note #1
 **Principle** --> (The origianl amount that was loaned)     
 **Free and Clear** --> Above the debt service, "cash on cost"  
 [**Real Politik**](https://github.com/SageGrey/exp-exp-exp/new/main/zzzzz_cards) --> System of politics based on practical rather than moral foundations
+**Hold Harmless** --> Way to ensue old participants in a program are not harmed by changes to the program
+
+
 #### Key Concepts
 ---------->`**[Parts of A Pro Forma](https://github.com/SageGrey/exp-exp-exp/blob/main/zzzzz_cards/203_Pro%20Forma.md)**
  
@@ -355,4 +360,7 @@ take-away
           --> How much new tax base revenue?
       
 ### [7 Theories of Who Has Power in Cities](https://github.com/SageGrey/exp-exp-exp/blob/main/zzzzz_cards/232_7TheoriesofPower.md)      
+
+### [Historical Timeline of Subsidies](../zzzzz_cards/235_HstrcTmln_PublicSubsidies.md)
+### [Block Grants](https://github.com/SageGrey/exp-exp-exp/blob/main/zzzzz_cards/236_blockGrantVsCategorical.md)
       
