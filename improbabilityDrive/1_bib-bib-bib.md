@@ -330,6 +330,31 @@ and Private Development](http://gofile.me/6WhDC/cvKMNKgSv), Class Note #1 (2022)
         10: Problem with term "Housing Crisis," 2008
         11: Housing always been pretty rough
         12: Radical ideas must contend with
+        
+Noble, **Safiya Umoja Noble, “A Society Searching,” Algorithms of Oppression: How Search 
+Engines Reinforce Racism (New York, N.Y.: New York University Press, 2018), 15-63.**
+
+        15: ad agency google search project
+        6: problem is the engine, algorithm 
+        7: "Black girls" search results
+        24: upholding hegemonic
+        27: folks involved with algorithm bias advocacy work/research
+        29: racist auto-generated newspaper headline tweets
+        32: harm of old representation cristalizing
+        36: Google caters to best advertisers, but perception that it is a public service
+        37: simple queries disguise complex mapping\
+        39-40: how the search works, academic citing in search
+        41: PageRank
+        42: Controversy around results for "Jew"
+        46: adWords
+        47: Google Bombing explanation + History
+        48: Google results shaped by who can pay
+        52: Funny forbes critique of research paper
+        56: Google promoting its other properties 
+        57: current content screening process
+        
+        
+        
 
 
 **Ogle, Vanessa Ogle, “Whose Time Is It? the Pluralization of Time and the Global Condition, 
@@ -346,8 +371,30 @@ and Private Development](http://gofile.me/6WhDC/cvKMNKgSv), Class Note #1 (2022)
             5: India making time zone decisions
             6: Mehta arguing against Indian Standard Time
             7: Time interfering with religion, nature. Strikes against time, electricity in factories
-            8:
- 
+            8: political controversy bombay
+            9: resistance to new time, protests and further varigating time
+            1390:Japan adopt as part of Meiji Restoration
+            1: Nahda, Tanzimat
+            2: Beirut temporal landscape
+            3: newspaper wars over time, spread of time as something to be spent wisely
+            4: Watches gaining popularity in beirut
+            5: Samuel Smiles, 1859, "self-help," "time wasted"
+            6: Self Help Book, Translation to Arabic
+            7: Reach of Self-Help Book globally
+            8: Scaring people about wasting time
+            9: waqt, dahr
+            1400: Indian rejection of colonizer, beirut getting ahead of colonizers
+            1: Pluralism of timezones not consolidation
+            2: europeans didnt have the "imaginary flexibility"
+ _____________           
+ **ZKN** Smiles held, as “lost wealth may be replaced by industry, lost knowledge by study, lost health
+by temperance or medicine, but lost time is gone forever.”87 
+
+#First published in 1859,
+Self-Help—the book that would establish the genre—offered Victorian Britons
+sketches of successful self-made men’s lives and thus suggested that even an individual of modest means could make it big in life provided that he internalized
+Smiles’s bible of Victorian values."
+ ____________
 **Scott, James C. “The High-Modernist City: An Experiment and a Critique.”** Yale University Press, 2008.
 
 
