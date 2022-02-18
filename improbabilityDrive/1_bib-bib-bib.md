@@ -332,6 +332,21 @@ and Private Development](http://gofile.me/6WhDC/cvKMNKgSv), Class Note #1 (2022)
         12: Radical ideas must contend with
 
 
+**Ogle, Vanessa Ogle, “Whose Time Is It? the Pluralization of Time and the Global Condition, 
+1870s–1940s,” American Historical Review, 2013.**
+            1376: Journalist wasting time story
+            7: Multiple time schemas
+            8: Beirut and Bombay
+            9: Time + British Rule
+            1380: increase interconnected
+            1: "Time Reform"
+            2: social and political intentions, "Real Time"
+            3: Legally mandating time
+            4: Madras Time vs Bombay Time
+            5: India making time zone decisions
+            6: Mehta arguing against Indian Standard Time
+            7: Time interfering with religion, nature. Strikes against time, electricity in factories
+            8:
  
 **Scott, James C. “The High-Modernist City: An Experiment and a Critique.”** Yale University Press, 2008.
 
