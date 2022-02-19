@@ -5,6 +5,7 @@
 
 [1917 Buchanon Decision](104_Buchanan_V_Warley_1917.md) -- Buchanan V Warley   
 [Restrictive Covenants](47_Racial_Covenants_a_Workaround.md)   
+[Two Faces of Zoning](106_Two_Faces_of_Zoning.md)
 
 
 ## General
