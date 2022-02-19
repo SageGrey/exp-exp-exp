@@ -6,12 +6,12 @@ The two faces of zoning during the period following [Buchanan](104_Buchanan_V_Wa
 
 Rothstein, Color of Law
 
-## Keywords
+### Keywords
 
 Injustice
 Red Lining
 Zoning
 
 ### Links
-[Buchanan](104_Buchanan_V_Warley_1917.md)
+[Buchanan](104_Buchanan_V_Warley_1917.md)   
 [Hub Card: Racism in Urban Planning](234_HUB_RacisminUrbanPlanning.md)
