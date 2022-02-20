@@ -4,8 +4,10 @@
 [Boston Memories](213_HUB_BostonMemories.md)  
 
 ### G
-[Good Ideas](196_HUB___Good_Ideas.md)   
 [Graphic Design](197_HUB__Graphic_Design_Tips.md)    
+
+### I
+[Ideas](196_HUB___Good_Ideas.md)   
   
 ### R
 [Racism in Urban Planning/History](234_HUB_RacisminUrbanPlanning.md)  
