@@ -3,6 +3,30 @@
 
 **Guidelines**: Applicants should submit a one‐ or two‐page proposal focusing on projects that relate to **real estate**, urban and economic development, ESG, housing, **the built environment**, or history, culture, and preservation. Research relating to  social considerations and poverty amelioration are welcome. A brief budget proposal and a current resume should accompany all submissions.
 
+##  Draft
+
+To whom it may concern, 
+
+We are at a point where those likely to read this proposal have long ago reached the consensus that as a society we will need to prepare our built environment for drastic changes caused by climate change. We know that if in 28 years if sea level has risen by `X feet` as was predicted this month in the realease of the the `Insert source here,` and `storms are worse un-fun fact` one thing that is crystal clear is that we will need to build flood mitigation infrastrucutre. What however is far from clear is exactly what this infrastructure will look like. 
+
+I am writing to this board to seek funding to study what I find one of the most intriguing examples of flood infrastructure, Rabalder Skate Park in Roskilde, Denmark. Rabalder 
+
+
+I see this reasearch at Rabalder Skatepark to be the starting point for my Urban Planning thesis on the connections between building climate resilient architecture and robust networks for play. 
+
+
+
+
+
+
+One thing we can know for certain is that in the coming years, we need to 
+
+
+
+
+
+
+As we barrel towards a startling new reality 
 
 ## Introduction
 1. We need to build more flood infrastructure
