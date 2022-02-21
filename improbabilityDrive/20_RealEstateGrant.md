@@ -14,6 +14,9 @@ Write 5 sentences about why I want to travel to Rabalder Park
 1. Learn more about how the park is perceived by residents/locals
 2. Learn more about the coalition building to bring it into existence
 
+With the passage of the Infrsatructure bill this past November, =the Army Core of Engineers will recieve 11.6 billion dollars for projects related to flood control[^1]. The  
+
+
 ## Information on Rabalder Skatepark
 Date, 
 Builder, 
@@ -35,3 +38,7 @@ Train
 Accomodations
 15-20 Hours of Transalation Services
 Money to buy coffee/pastries for folks I ask to interview 
+
+
+
+[^1]https://grist.org/politics/the-house-just-passed-a-major-infrastructure-bill-heres-whats-in-it/
