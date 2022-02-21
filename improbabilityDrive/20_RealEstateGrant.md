@@ -7,9 +7,11 @@
 
 To whom it may concern, 
 
-We are at a point where those likely to read this proposal have long ago reached the consensus that as a society we will need to prepare our built environment for drastic changes caused by climate change. We know that if in 28 years if sea level has risen by `X feet` as was predicted this month in the realease of the the `Insert source here,` and `storms are worse un-fun fact` one thing that is crystal clear is that we will need to build flood mitigation infrastrucutre. What however is far from clear is exactly what this infrastructure will look like. 
+We are at a point where those likely to read this proposal have long ago reached the consensus that as a society we will need to prepare our built environment for drastic changes caused by climate change. We know that if in 28 years if sea level has risen by `X feet` as was predicted this month in the realease of the the `Insert source here,` and `storms are worse un-fun fact` one thing that is crystal clear is that we will need to build flood mitigation infrastrucutre. What is far from clear is exactly what this infrastructure will look like. 
 
-I am writing to this board to seek funding to study what I find one of the most intriguing examples of flood infrastructure, Rabalder Skate Park in Roskilde, Denmark. Rabalder 
+I am writing to this board to seek funding to study what I find one of the most intriguing examples of flood infrastructure, Rabalder Skate Park in Roskilde, Denmark. Rabalder park was built by architect Søren Nordal Enevoldsen in 2012[^2]. "Rabalderparken" is a large-scale park that collects rainwater from the city's streets and funnels them into a series of channels and tunnels before collecting them in a 23,000 square metre bowl with the holding capacity of ten competition swimming pools[^4]. The system is a key part of the cities flash flood sustem. 
+
+Enevoldsen passed away unexpectedly in July of 2021 [^3]. 
 
 
 I see this reasearch at Rabalder Skatepark to be the starting point for my Urban Planning thesis on the connections between building climate resilient architecture and robust networks for play. 
@@ -66,3 +68,6 @@ Money to buy coffee/pastries for folks I ask to interview
 
 
 [^1]https://grist.org/politics/the-house-just-passed-a-major-infrastructure-bill-heres-whats-in-it/
+[^2]
+[^3]https://newdeaths.com/2021/07/06/soren-nordal-enevoldsen-death-obituary-soren-nordal-enevoldsen-cause-of-death/
+[^4]https://foresightdk.com/rabalder-skate-park/
