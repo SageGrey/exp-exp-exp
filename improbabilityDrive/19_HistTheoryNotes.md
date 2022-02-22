@@ -6,5 +6,5 @@
 
 #### [Industrialization](https://github.com/SageGrey/exp-exp-exp/blob/main/improbabilityDrive/4_industrializationNotes.md)
 #### [City Beautiful](https://github.com/SageGrey/exp-exp-exp/blob/main/zzzzz_cards/237_cityBeautifuEra.md)
-#### [Golero Plan](https://github.com/SageGrey/exp-exp-exp/new/main/zzzzz_cards)
-#### [Le Corbusier](https://github.com/SageGrey/exp-exp-exp/new/main/zzzzz_cards)
+#### [Golero Plan](https://github.com/SageGrey/exp-exp-exp/blob/main/zzzzz_cards/240_GoleroPlan.md)
+#### [Le Corbusier](https://github.com/SageGrey/exp-exp-exp/blob/main/zzzzz_cards/241_Corbusier.md)
