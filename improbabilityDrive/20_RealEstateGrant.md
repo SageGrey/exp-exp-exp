@@ -7,11 +7,43 @@
 
 To whom it may concern, 
 
-We are at a point where those likely to read this proposal have long ago reached the consensus that as a society we will need to prepare our built environment for drastic changes caused by climate change. We know that if in 28 years if sea level has risen by `X feet` as was predicted this month in the realease of the the `Insert source here,` and `storms are worse un-fun fact` one thing that is crystal clear is that we will need to build flood mitigation infrastrucutre. What is far from clear is exactly what this infrastructure will look like. 
+I assume that we are at a moment where anyone likely to be reading this proposal will have long ago reached the consensus that as a society we need to prepare our built environment for the drastic changes caused by climate change. Given that in 30 years sea levels are likely to be as much as a foot above where they are now (as was predicted in NOAA's report released earlier this month) and "100-year storms" are likely to become annual events, it is crystal clear that we need to build flood mitigation infrastrucutre. What is far from clear, however, is what exactly this infrastructure will look like. 
 
-I am writing to this board to seek funding to study what I find one of the most intriguing examples of flood infrastructure, Rabalder Skate Park in Roskilde, Denmark. Rabalder park was built by architect Søren Nordal Enevoldsen in 2012[^2]. "Rabalderparken" is a large-scale park that collects rainwater from the city's streets and funnels them into a series of channels and tunnels before collecting them in a 23,000 square metre bowl with the holding capacity of ten competition swimming pools[^4]. The system is a key part of the cities flash flood sustem. 
+I am writing to this group to seek funding to study what I find to be an exceptionally intriguing example of flood infrastructure--Rabalder Skate Park in Roskilde, Denmark. Built by architect Søren Nordal Enevoldsen with Nordarch Architecture firm in 2012[^2], "Rabalderparken" collects rainwater from nearby streets in Rosklide and funnels them, using a series of channels and tunnels, into a 23,000 square metre bowl with the holding capacity of ten competition swimming pools[^4]. The system is a key part of the cities flash flood system, but the space also serves as a public park for the city. In the years following the completion of the park, Enevoldsen and the architecture company Nordarch garnered a ripple of media attention from international news outlets, skate culuture magazines and sustainable design competitions [^5], the work has also appeared briefly in various academic and popular works documenting sustainable design [^6].  
 
-Enevoldsen passed away unexpectedly in July of 2021 [^3]. 
+As the park reaches a decade of operation, I wish to delve into the conditions that led to its creation as well as to develop a better understanding of how it has functioned over the last 10 years.
+
+Guiding Questions:
+ 
+ --> **How did it happen?** 
+What coalitions and institutions were crucial in the conception, development, and implementation of the project. 
+What were the obstacles that had to be overcome?
+ 
+ --> **Is it a success?** 
+Do local officials and residents consider the projec to have a meaningful role in contributing to fllod infrastrucutre?
+Do locals think that it provides meaningful public space?
+Do skaters like it?
+
+--> **How is it maintained** 
+ How is is the project being maintained? 
+ Are there any threats to its continued operation?
+ 
+One tragic point that affects this research is that Søren Enevoldsen passed away unexpectedly in July of 2021 [^3]. This evidently complicates the research, while also underscoring the importance of capturing this story while it is still fresh in the minds of the community. 
+
+### Methodolgy 
+
+**May - June (remote)** 
+- Identify and Correspond with Roskilde Gov officials
+- Track Down Past Members of Nordarch, SNE Architects
+- Communicate with owner/manager of Merch Fabrikken (local skate shop)
+
+** July (Roskilde) ** 
+- Observe/Skate at Roskilde
+- Interview 
+### Budget 
+
+
+
 
 
 I see this reasearch at Rabalder Skatepark to be the starting point for my Urban Planning thesis on the connections between building climate resilient architecture and robust networks for play. 
@@ -67,7 +99,10 @@ Money to buy coffee/pastries for folks I ask to interview
 
 
 
-[^1]https://grist.org/politics/the-house-just-passed-a-major-infrastructure-bill-heres-whats-in-it/
-[^2]
-[^3]https://newdeaths.com/2021/07/06/soren-nordal-enevoldsen-death-obituary-soren-nordal-enevoldsen-cause-of-death/
-[^4]https://foresightdk.com/rabalder-skate-park/
+[^1]:https://grist.org/politics/the-house-just-passed-a-major-infrastructure-bill-heres-whats-in-it/
+[^2]:
+[^3]:https://newdeaths.com/2021/07/06/soren-nordal-enevoldsen-death-obituary-soren-nordal-enevoldsen-cause-of-death/
+[^4]:https://foresightdk.com/rabalder-skate-park/
+[^5]: https://theindexproject.org/post/rabalder-parken
+[^6]:file:///C:/Users/sageg/Desktop/Cuello%20-%20Dise%C3%B1o%20sostenible%20en%20la%20sociedad%20del%202020_%20an%C3%A1lisis%20de%20tendencias%20y%20desarrollo%20de%20un%20pro....pdf
+
