@@ -58,6 +58,14 @@ Total: $2,200
 #### Closing Notes
 Part of my interest in this subject comes from my experience and love for the arroyos and acequias (drainage ditches) of the Southwest. I actually first learned how to skate in the arroyos. Growing up in Albuquerque, I lived in a city where drainage was a cherished part of the neighborhood. Walking trails line the arroyos as they curve towards the mountains, young families play in the shade of small residential bridges, paved trails along the larger arroyos provide safe cycling passageways in an otherwise car-dominated terrain. I remember vividly the frustration I felt when I moved to the Bay Area for college and found these civic amenities locked off behind chain-link fences. Of course, there are trade-offs--every few years in Albuquerque  there would be a story of a flash-flood victim—but overwhelmingly, the arroyos were a feature of the city that created safe places for recreation and socialization. As we barrel towards a startling new reality and attempt to move society to prepare for it, I believe we would be wise to pay attention and learn from the moments where we can find resilience and joy in what is otherwise simply considered an unfortunate "necessity."
 
+FORMAT: 
+[^1]:https://grist.org/politics/the-house-just-passed-a-major-infrastructure-bill-heres-whats-in-it/
+[^2]:
+[^3]:https://newdeaths.com/2021/07/06/soren-nordal-enevoldsen-death-obituary-soren-nordal-enevoldsen-cause-of-death/
+[^4]:https://foresightdk.com/rabalder-skate-park/
+[^5]: https://theindexproject.org/post/rabalder-parken
+[^6]:file:///C:/Users/sageg/Desktop/Cuello%20-%20Dise%C3%B1o%20sostenible%20en%20la%20sociedad%20del%202020_%20an%C3%A1lisis%20de%20tendencias%20y%20desarrollo%20de%20un%20pro....pdf
+
 
 
 [^1]:https://grist.org/politics/the-house-just-passed-a-major-infrastructure-bill-heres-whats-in-it/
