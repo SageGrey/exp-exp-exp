@@ -11,7 +11,7 @@ I assume that anyone likely to be reading this proposal will have long ago reach
 
 I am writing to this group to seek funding to study what I find to be an exceptionally intriguing example of flood infrastructure--Rabalder Skate Park in Roskilde, Denmark. Built by architect Søren Nordal Enevoldsen with Nordarch Architecture in 2012[^2], "Rabalderparken" collects rainwater from nearby streets in Rosklide and funnels them, using a series of channels and tunnels, into a 23,000 square metre bowl with the holding capacity of ten competition swimming pools[^4]. The system is a part of the cities flash flood system, but also functions as a large public park for the city. In the years following the completion of the project, Rabalderparken garnered a ripple of media attention from international news outlets, skate culuture magazines and sustainable design competitions[^5], the work has also appeared briefly in various academic and popular works documenting sustainable design[^6].  
 
-As the park reaches a decade of operation, I wish to delve into the conditions that led to its creation as well as to develop a better understanding of how it has functioned over the last 10 years. I see this reasearch as the starting point for my Urban Planning thesis on the connections between building climate resilient architecture and robust networks for play. One tragic point that affects this research is that Søren Enevoldsen passed away unexpectedly in July of 2021 [^3]. This evidently complicates the research, while also underscoring the importance of capturing this story while it is still fresh in the minds of the community that saw it come to fruition. 
+As the park reaches a decade of operation, I wish to delve into the conditions that led to its creation as well as to develop a better understanding of how it has functioned over the last 10 years. I see this reasearch as the starting point for my Urban Planning thesis on the connections between building climate adaptation infrastructure and robust networks for play. One tragic point that affects this research is that Søren Enevoldsen passed away unexpectedly in July of 2021 [^3]. This evidently complicates the research, while also underscoring the importance of capturing this story while it is still fresh in the minds of the community that saw it come to fruition. 
 
 Guiding Questions:
  
@@ -59,58 +59,15 @@ $150 ----- Additional 6 hours of translation services
 
 
 ## Closing Notes
+Part of my interest in this subject comes from my experience and love of the arroyos and acequias (drainage ditches) of the Southwest. I actually _first learned_ how to skate in the arroyos. Growing up in Albuquerque, I lived in a city where drainage was a cherished part of the neaighborhood. Walking trails line the arroyos as they curve towards the mountains, young families play in the shade of small residential bridges, paved trails along the larger arroyos provide safe cycling passageways in an otherwise car-dominated terrain. I remember vividly the frustration I felt when I moved to the Bay Area for college and found these civic amenities locked off behind chain link fences. Of course there are trade-offs--every few years in abq there would be a story of a flash-flood victim--but overwhelming the arroyos were a part of the city that created safe places for recreation and socialization. As we barrel towards a startling new reality and attempt to move society to prepare for it, I believe we would be wise to  pay attention and learn from the moments where we can find resilience and joy in what is otherwise simply considered an unfortunate "neccesity."
+
+I grew up in Albuquerque, New Mexico and always cherished the arroyos. 
 
 
 
 
 
 
-
-
-
-One thing we can know for certain is that in the coming years, we need to 
-
-
-
-
-
-
-As we barrel towards a startling new reality 
-
-## Introduction
-1. We need to build more flood infrastructure
-2. We have some options what that looks like
-3. Opportuity for developers to work collaboratively with the city to 
-
-Write 5 sentences about why I want to travel to Rabalder Park
-
-1. Learn more about how the park is perceived by residents/locals
-2. Learn more about the coalition building to bring it into existence
-
-With the passage of the Infrsatructure bill this past November, =the Army Core of Engineers will recieve 11.6 billion dollars for projects related to flood control[^1]. The  
-
-
-## Information on Rabalder Skatepark
-Date, 
-Builder, 
-Intitial Reception, 
-Current Reception
-
-## My background on infrastructure and skating
-Write about 
-1. Growing up in albuquerque 
-2. Being sad when this infrastrucutre was not available in palo alto
-3. Skating communities in Boston, NYC, Mexico City
-
-## Closing
-1. Write about 
-
-## Budget
-Airfare
-Train
-Accomodations
-15-20 Hours of Transalation Services
-Money to buy coffee/pastries for folks I ask to interview 
 
 
 
