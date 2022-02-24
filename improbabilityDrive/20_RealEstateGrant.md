@@ -29,7 +29,6 @@ Do skaters like it?
  Are there any threats to its continued operation?
  
 
-
 ### Methodolgy 
 
 **May - June (remote)** 
@@ -48,7 +47,18 @@ Do skaters like it?
 
 ### Budget 
 
+Requested Budget:
+$925 ----- Roundtrip Flights to Copenhagen (includes fees for checking a second suitcase for skate gear).  
+$885 ----- Two weeks lodging in Copenhagen/Roskilde
+$65  ----- CopenhagenCard (would cover all transit costs between Roskilde and Copenhagen)
+$125 ----- 5 Hours of translation services for interviewees who do not speak english
 
+Ideal Budget:
+$50  ----- Budget for buying coffee/tea for walking interview subjects
+$150 ----- Additional 6 hours of translation services
+
+
+## Closing Notes
 
 
 
