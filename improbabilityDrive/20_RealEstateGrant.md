@@ -33,14 +33,19 @@ Do skaters like it?
 ### Methodolgy 
 
 **May - June (remote)** 
-- Translate current materials written about Rabalderparken 
-- Identify and Correspond with Roskilde Gov officials
-- Track Down Past Members of Nordarch, SNE Architects
-- Communicate with owner/manager of Merch Fabrikken (local skate shop)
+- Translate and digest current materials written about Rabalderparken
+- Identify and inititate contact with:
+      -  Government officials in Roskilde
+      -  Ole Skjelmose and other past members of Nordarch Architecture (Using linkedIn as key resource) 
+      -  Owner/Manager/Employees of Merch Fabrikken (Local Skate Shop)
 
-** July (Roskilde) ** 
-- Observe/Skate at Roskilde
-- Interview 
+**July (Roskilde)** 
+- Observe Rabaldenpark over 2-4 Days
+- Skate at Rabaldenpark and around Roskilde
+- Conduct Walking Interviews with identified contacts
+- Attend 'Friday Night Skate' in Copenhagen (weekly event that attracts lot of inline skaters http://www.fns-cph.dk/en/home.html)
+
+
 ### Budget 
 
 
