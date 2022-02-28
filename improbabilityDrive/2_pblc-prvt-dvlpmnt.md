@@ -364,3 +364,23 @@ take-away
 ### [Historical Timeline of Subsidies](../zzzzz_cards/235_HstrcTmln_PublicSubsidies.md)
 ### [Block Grants](https://github.com/SageGrey/exp-exp-exp/blob/main/zzzzz_cards/236_blockGrantVsCategorical.md)
       
+### Credits vs Deductions
+**Credits** the amount is subtracted from the tax bill, can be sold
+**Deductions** the amount is subtracted from taxable income
+
+Examples: $1,000 Credit/Deduction for someone at 15% tax bracket
+$1,000 Credit --> $1,000 Saved
+$1,000 Deduction --> $150 Saved
+
+
+
+### LIHTC: Low Income Housing Tax Credit (Lihtec)
+
+     Established in 1986
+     Come from the federal government
+     Capital Subsidy
+     15 year compliance
+     Complex Process
+    ![image](https://user-images.githubusercontent.com/34726888/156036147-d9125c8e-87a5-41f6-9557-31ac70c161b1.png)
+    Photo From: Lawrence H Curtis, Winn Development
+ 
