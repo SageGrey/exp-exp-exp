@@ -381,6 +381,7 @@ $1,000 Deduction --> $150 Saved
      Capital Subsidy
      15 year compliance
      Complex Process
-    ![image](https://user-images.githubusercontent.com/34726888/156036147-d9125c8e-87a5-41f6-9557-31ac70c161b1.png)
+ 
+ ![image](https://user-images.githubusercontent.com/34726888/156036147-d9125c8e-87a5-41f6-9557-31ac70c161b1.png)
     Photo From: Lawrence H Curtis, Winn Development
  
