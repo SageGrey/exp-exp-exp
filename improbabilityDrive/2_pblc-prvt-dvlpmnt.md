@@ -436,5 +436,7 @@ Consequence: More than 40 State legislators tightened eminent domain, clarified 
 _UP is released in 2009, Average Production Time for Pixar is 4-7 years_
       
  
+ ### Assume we have a can opener joke
  
+                       A popular economics joke has a physicist, a chemist, and an economist all stranded on a desert island. There is one can of food, but nothing to open it with. The physicist presents his proposed solution (usually hitting the can with a rock). The chemist presents his proposed solution (such as heating a seawater solution with the sun’s rays). The economist comes up with the simple, unrealistic solution: “Assume we have a can opener...” One variant is: “Assume the can is open...”
  
