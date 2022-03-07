@@ -418,12 +418,22 @@ CONDITIONS
 **Subsequent Taking** (Gov wants to _do_ something specific with the land) --> Highway
  
  
- ### Kelo Case 
+ ### Kelo Case, 2005
  Kelo vs City of New London
- Court Case where Pfizer wanted to move in, city wanted to develop a research campus. Create jobs, tax revenue, development (common development plan). They would need to acquire 115 land parcels. They would lease to private developer for 1$ a year for 99 years. (The 1$ is for "consideration" in order to have a valid contract, not just a gift). Suzette Kelo didn't want to sell. Used eminent domain, went all the way to the supreme court. The Court **UPHELD** the use of eminent domain. 
+ Court Case where Pfizer wanted to move in, city wanted to develop a research campus. Create jobs, tax revenue, development (common development plan). They would need to acquire 115 land parcels. They would lease to private developer for 1$ a year for 99 years. (The 1$ is for "consideration" in order to have a valid contract, not just a gift). Suzette Kelo didn't want to sell. Used eminent domain, went all the way to the supreme court. The Court **UPHELD** the use of eminent domain by slim minority (5-4). 
  
- Big Issue: Is this a **"Public Use""** (the court said yes, public purpose is public use). 
+ Big Issue: Is this a **"Public Use""** (the court said yes, public purpose is public use).   
  
+ Controversy: Taking Private Use "A" and moving it to private use "B." Governemnt declaring that B is more valuable than A. Dissent argued that this would mean that "any lower use of land could be subject to being flipped."  
+ Other Noteworthy Elements: Eminent domain as applied to "unblighted" land, (ie the plaintiff wasn't poor).   
+  
+Consequence: More than 40 State legislators tightened eminent domain, clarified that eminent domain could only be used for blight, and redefined what blight is. Thus cementing the legacy that eminent domain can only be used again low-income folks. 
+
+
+**"Fair Market Compensation"**: What a willing buyer would pay a willing seller. This becomes a fiction if the seller isn't willing to sell. 
+
+ ![image](https://user-images.githubusercontent.com/34726888/157075538-02288146-073a-4944-9345-6b4d0280ce5c.png)
+_UP is released in 2009, Average Production Time for Pixar is 4-7 years_
       
  
  
