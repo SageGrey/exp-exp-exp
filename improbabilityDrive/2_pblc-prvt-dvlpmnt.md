@@ -413,8 +413,16 @@ $1,000 Deduction --> $150 Saved
                'U'0 0  0 0  0 0  0 0  :dg:
                RailRoads Still have the power`(Eminent Domain, Expropriation)
  
- Precedent Taking --> Problematic Land Use
+CONDITIONS
+**Precedent Taking** (Gov wants to _eliminate_ something existing) --> Problematic Land Use
+**Subsequent Taking** (Gov wants to _do_ something specific with the land) --> Highway
  
+ 
+ ### Kelo Case 
+ Kelo vs City of New London
+ Court Case where Pfizer wanted to move in, city wanted to develop a research campus. Create jobs, tax revenue, development (common development plan). They would need to acquire 115 land parcels. They would lease to private developer for 1$ a year for 99 years. (The 1$ is for "consideration" in order to have a valid contract, not just a gift). Suzette Kelo didn't want to sell. Used eminent domain, went all the way to the supreme court. The Court **UPHELD** the use of eminent domain. 
+ 
+ Big Issue: Is this a **"Public Use""** (the court said yes, public purpose is public use). 
  
       
  
