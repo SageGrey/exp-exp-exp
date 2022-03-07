@@ -433,10 +433,30 @@ Consequence: More than 40 State legislators tightened eminent domain, clarified 
 **"Fair Market Compensation"**: What a willing buyer would pay a willing seller. This becomes a fiction if the seller isn't willing to sell. 
 
  ![image](https://user-images.githubusercontent.com/34726888/157075538-02288146-073a-4944-9345-6b4d0280ce5c.png)
+
 _UP is released in 2009, Average Production Time for Pixar is 4-7 years_
       
  
  ### Assume we have a can opener joke
  
-                       A popular economics joke has a physicist, a chemist, and an economist all stranded on a desert island. There is one can of food, but nothing to open it with. The physicist presents his proposed solution (usually hitting the can with a rock). The chemist presents his proposed solution (such as heating a seawater solution with the sun’s rays). The economist comes up with the simple, unrealistic solution: “Assume we have a can opener...” One variant is: “Assume the can is open...”
+                       A popular economics joke has a physicist, a chemist, and an economist all stranded on a desert island. 
+                       There is one can of food, but nothing to open it with. 
+                       The physicist presents his proposed solution (usually hitting the can with a rock). 
+                       The chemist presents his proposed solution (such as heating a seawater solution with the sun’s rays). 
+                       The economist comes up with the simple, unrealistic solution: “Assume we have a can opener...” 
+                       One variant is: “Assume the can is open...”
+                       
+                       Source: The desert island “assume we have a can opener” joke dates to at least 1970 and possibly originated with British economists.
+                       
+                       
+  Globally the trend in PPP, often called **Build-Operate-Transfer.** 
+  
+  ### Land Re-Adjustment
+  Used when areas of fragmented, oddly configured development. Particularly in regard to infrastructure. 
+  
+  Offers promised of something _less Coercive_ than Eminent Domain. All land is pooled, redistributed. Then land is given back to members of the pool. Will get somewhat less land back. Residents will be willing since the land will be higher value. 
+  
+  ![image](https://user-images.githubusercontent.com/34726888/157078468-6e91bc41-039c-4804-b880-8436667b292c.png)
+
+                       
  
