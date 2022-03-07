@@ -377,11 +377,46 @@ $1,000 Deduction --> $150 Saved
 ### LIHTC: Low Income Housing Tax Credit (Lihtec)
 
      Established in 1986
-     Come from the federal government
-     Capital Subsidy
-     15 year compliance
-     Complex Process
+     Comes from the federal government
+     Is a **Capital Subsidy**
+     15 year compliance period, after which, sunsets
+     Complex Process, see image below
+     Businesses can buy the credits, often at a profit, but sometimes as a somewhat misleading CSR campaign ($1.10 to X only costs 10 cents).
  
  ![image](https://user-images.githubusercontent.com/34726888/156036147-d9125c8e-87a5-41f6-9557-31ac70c161b1.png)
     Photo From: Lawrence H Curtis, Winn Development
+ 
+ 
+ ### Land Acquisition 
+ 
+ **IN US: General land ownership breakdown**   
+ 60% private  
+ 40% gov   
+ 2% tribal
+ 
+ **A few reasons why gov might buy land**
+ Government might want to aquire land in order to reap the economic benefit of the infrastructure that it has invested in.   
+ Government can buy land in order to create false scarcity to increase value. Can soemtimes be called **Land Banking**  
+ Land acquisition as form of punishment (refusal to pay property taxes (tax forclosure), take compensation for illicit drugs, etc.)  
+ For corrupt reasons! 
+ 
+ ### Expropriations, Eminent Domain
+ **How does Gov buy land?**
+ Eminent Domain, Development Approval Process, Tax Forclosure Process, Creating Land, Violence
+ 
+                ` (
+                '( '
+              "'  //}
+              ( ''"
+                _||__ ____ ____ ____
+                (o)___)}___}}___}}___}
+               'U'0 0  0 0  0 0  0 0  :dg:
+               RailRoads Still have the power`(Eminent Domain, Expropriation)
+ 
+ Precedent Taking --> Problematic Land Use
+ 
+ 
+      
+ 
+ 
  
