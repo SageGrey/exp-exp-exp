@@ -458,5 +458,46 @@ _UP is released in 2009, Average Production Time for Pixar is 4-7 years_
   
   ![image](https://user-images.githubusercontent.com/34726888/157078468-6e91bc41-039c-4804-b880-8436667b292c.png)
 
-                       
+Pattern: Depends based on country/place
+Step 1: Local gov create an entity that will stage the project. The entity will then seek support from involved owners. Generally 50% + 1 of owners have to agree to pool their parcels. They then buy parcels 
+Step 2: Create a plan. Set aside land for infrastructure, re-sale (to produce revenue for the project). 
+Step 3: Original land is returned to owners, but in smaller amounts. 
+
+_What about the minority that doesn't want to sell?_ They are forced to sell by the entity at an amount that does not exceed the land value of their neighbors. This is of course reminiscent of eminent domain. 
+
+PILaR --> 
+
+
+![image](https://user-images.githubusercontent.com/34726888/157478279-3c90c0d5-aeda-4232-aadf-4e2608eba6a1.png)
+
+Common phenomenon that eminent domain exercised, but then land is left undeveloped and homes have been bulldozed. 
+
+**Disposition**                       
+ Sale or lease of land.  
+ To generate revenue.   
+ Eliminate responsibilty.   
+ Influence the land market.  
  
+ HOW: Auction, Sole Source
+ 
+ Auction: 
+ Highest Responsible Bidder Wins
+ Open Outcry
+ 
+Gov Prepares Auction, Announces, Engages, Administers Auction. 
+ Sealed Bid Auctions
+ 
+**RFP (Request for Proposal) Method**
+STEP ONE: Gov **prepares RFP** Document, 
+        
+        Sometimes will use a RFQ (Request for Qualifications)
+STEP TWO: Goc announces RFP 
+STEP THREE: Engages with potential participants 
+STEP FOUR: Gov reviews development proposal and _TENTATIVELY_ determine a winner
+STEP FIVE: Gov negotiates with the tentative winner, enters into a binding winner. 
+
+          Minor modifications permitted, major modifications are deeply problematic
+          AND can result in lawsuits. 
+
+
+SOLE SOURCE METHOD: Non-competitive process. Gov approaches one entity.  
