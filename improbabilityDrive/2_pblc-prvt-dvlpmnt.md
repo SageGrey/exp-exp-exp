@@ -487,17 +487,17 @@ Common phenomenon that eminent domain exercised, but then land is left undevelop
 Gov Prepares Auction, Announces, Engages, Administers Auction. 
  Sealed Bid Auctions
  
-**RFP (Request for Proposal) Method**
-STEP ONE: Gov **prepares RFP** Document, 
+**RFP (Request for Proposal) Method**    
+STEP ONE: Gov **prepares RFP** Document,  
         
         Sometimes will use a RFQ (Request for Qualifications)
-STEP TWO: Goc announces RFP 
-STEP THREE: Engages with potential participants 
-STEP FOUR: Gov reviews development proposal and _TENTATIVELY_ determine a winner
-STEP FIVE: Gov negotiates with the tentative winner, enters into a binding winner. 
+STEP TWO: Goc announces RFP  
+STEP THREE: Engages with potential participants   
+STEP FOUR: Gov reviews development proposal and _TENTATIVELY_ determine a winner  
+STEP FIVE: Gov negotiates with the tentative winner, enters into a binding winner   
 
           Minor modifications permitted, major modifications are deeply problematic
           AND can result in lawsuits. 
 
 
-SOLE SOURCE METHOD: Non-competitive process. Gov approaches one entity.  
+**SOLE SOURCE METHOD**: Non-competitive process. Gov approaches one entity.  
