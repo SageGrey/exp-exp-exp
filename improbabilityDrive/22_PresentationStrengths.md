@@ -36,4 +36,16 @@
 
 ![image](https://user-images.githubusercontent.com/34726888/157532037-f6a09d69-e19c-4235-9e5f-82021e3bece1.png)
 **map with collages**
+
+![image](https://user-images.githubusercontent.com/34726888/157534410-8a483659-4cb3-4232-93a3-3d5ea5e6c79c.png)
+
+**starting with a mural**
+
+
+![image](https://user-images.githubusercontent.com/34726888/157534833-2b4f16ee-eff2-415b-a28a-c5cb9467525e.png)
+**Lots of info, strong strategy**
+
+![image](https://user-images.githubusercontent.com/34726888/157535093-7d424a3f-6db1-47d9-8380-5be7e27af651.png)
+**What came out of the interviews**
+
 ## Weak 
