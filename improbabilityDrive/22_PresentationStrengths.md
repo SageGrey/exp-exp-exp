@@ -70,4 +70,19 @@
 
 **Parking Lots**
 **Parking lots**
-## Weak 
+
+![image](https://user-images.githubusercontent.com/34726888/157542455-3252db62-7c55-4e68-9b71-891f0b9abb38.png)
+
+![image](https://user-images.githubusercontent.com/34726888/157542535-a1279468-a310-4e0a-abbf-090974e2d682.png)
+![image](https://user-images.githubusercontent.com/34726888/157542586-05f3c5a8-bda2-4aa0-b974-e37cdf9a02f7.png)
+
+![image](https://user-images.githubusercontent.com/34726888/157542713-c81893e8-6ea5-4a4e-a3a6-06366bf30be1.png)
+
+** Character Areas **
+
+![image](https://user-images.githubusercontent.com/34726888/157542784-af50853d-ba13-4c6f-9d87-04085b6748bf.png)
+
+![image](https://user-images.githubusercontent.com/34726888/157549123-1e86d367-e36e-4e19-bc79-cc895c1cfcf3.png)
+**BioDiversity, Map Blow-Out**
+
+
