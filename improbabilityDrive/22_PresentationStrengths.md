@@ -15,8 +15,25 @@
 **image banner, planner pose 88**
 
 
+![image](https://user-images.githubusercontent.com/34726888/157531009-8c0e1041-84d3-4dab-8877-b2c088408e10.png)
+**highlighted org chart**
 
+![image](https://user-images.githubusercontent.com/34726888/157531089-bb9aa3e5-3976-47a2-b8f1-0ac26d007892.png)
+**walking tours**
 
+![image](https://user-images.githubusercontent.com/34726888/157531275-8a624b71-6368-4348-b5ae-61aee00f98d3.png)
+**driving tour**
 
+![image](https://user-images.githubusercontent.com/34726888/157531371-ffeadd71-b3de-4752-945f-c8e1d8af63c3.png)
+**broken out venn diagram**
 
+![image](https://user-images.githubusercontent.com/34726888/157531529-33cf65fa-e373-4e0c-89bc-761f4c598492.png)
+
+**howw**
+
+![image](https://user-images.githubusercontent.com/34726888/157531765-25a8a502-56d9-4819-89b8-c9393825d59c.png)
+** public realm map and quotes** 
+
+![image](https://user-images.githubusercontent.com/34726888/157532037-f6a09d69-e19c-4235-9e5f-82021e3bece1.png)
+**map with collages**
 ## Weak 
