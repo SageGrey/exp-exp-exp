@@ -48,4 +48,26 @@
 ![image](https://user-images.githubusercontent.com/34726888/157535093-7d424a3f-6db1-47d9-8380-5be7e27af651.png)
 **What came out of the interviews**
 
+
+![image](https://user-images.githubusercontent.com/34726888/157538278-eb06160e-1918-480a-b282-e1280bc652ef.png)
+
+
+![image](https://user-images.githubusercontent.com/34726888/157538692-5b4960ec-abe1-4da1-9edf-15d374131c0a.png)
+
+**change in property values**
+
+![image](https://user-images.githubusercontent.com/34726888/157538817-44ad8bb8-8314-43d7-8f53-798855eaf29e.png)
+
+**dotted circles around bar graphs**
+
+![image](https://user-images.githubusercontent.com/34726888/157539056-6f2fa7be-1563-406f-a354-453de37faae7.png)
+
+**Residential tenure**
+
+![image](https://user-images.githubusercontent.com/34726888/157539137-3a363eb9-0418-42dd-b024-d75d9c63a4c3.png)
+
+![image](https://user-images.githubusercontent.com/34726888/157539252-d389c168-d299-4901-9384-e7afa7b86b5b.png)
+
+**Parking Lots**
+**Parking lots**
 ## Weak 
