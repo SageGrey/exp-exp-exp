@@ -79,6 +79,7 @@
 
 
 
+
 ![image](https://user-images.githubusercontent.com/34726888/157542713-c81893e8-6ea5-4a4e-a3a6-06366bf30be1.png)
 
 ** Character Areas **
@@ -98,3 +99,6 @@
 
 ![image](https://user-images.githubusercontent.com/34726888/159343410-08af5c50-0887-44ab-a025-3225e43f2017.png)
 
+
+![image](https://user-images.githubusercontent.com/34726888/159344271-beaf9afa-94dc-49c5-9fbb-067df0edbae5.png)
+**pinterest**
