@@ -27,7 +27,7 @@
 ![image](https://user-images.githubusercontent.com/34726888/157531371-ffeadd71-b3de-4752-945f-c8e1d8af63c3.png)
 **broken out venn diagram**
 
-![image](https://user-images.githubusercontent.com/34726888/157531529-33cf65fa-e373-4e0c-89bc-761f4c598492.png)
+[image](https://user-images.githubusercontent.com/34726888/157531529-33cf65fa-e373-4e0c-89bc-761f4c598492.png)
 
 **howw**
 
@@ -69,12 +69,15 @@
 ![image](https://user-images.githubusercontent.com/34726888/157539252-d389c168-d299-4901-9384-e7afa7b86b5b.png)
 
 **Parking Lots**
-**Parking lots**
+
 
 ![image](https://user-images.githubusercontent.com/34726888/157542455-3252db62-7c55-4e68-9b71-891f0b9abb38.png)
-
 ![image](https://user-images.githubusercontent.com/34726888/157542535-a1279468-a310-4e0a-abbf-090974e2d682.png)
+
 ![image](https://user-images.githubusercontent.com/34726888/157542586-05f3c5a8-bda2-4aa0-b974-e37cdf9a02f7.png)
+**Spectrum of Options**
+
+
 
 ![image](https://user-images.githubusercontent.com/34726888/157542713-c81893e8-6ea5-4a4e-a3a6-06366bf30be1.png)
 
