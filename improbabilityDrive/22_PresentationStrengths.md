@@ -102,3 +102,12 @@
 
 ![image](https://user-images.githubusercontent.com/34726888/159344271-beaf9afa-94dc-49c5-9fbb-067df0edbae5.png)
 **pinterest**
+
+![image](https://user-images.githubusercontent.com/34726888/159345820-709413c3-3635-469c-8129-864378f8055d.png)
+**faded edges**
+
+![image](https://user-images.githubusercontent.com/34726888/159346196-7e40b1d7-616f-42c3-8aee-fca4a0d1d8d7.png)
+**last image of a GIF**
+
+![image](https://user-images.githubusercontent.com/34726888/159347102-58f5781e-bfc1-4d74-939c-98c97cec85bd.png)
+** Simple framework plan**
