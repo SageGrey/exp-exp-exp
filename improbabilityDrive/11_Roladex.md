@@ -30,7 +30,7 @@ Andrew JAckson Downing --> Early advocate for public parks
 
 ## Organizations
 **The Black Workshop** --> Shutdown Yale School of Planning
-**Real Great Society +  
-ARCH: Architect Renewal Committee HArlem +  
-Watts Urban Workshop+  
-Bobby's Geurillas** --> Radical plannign groups 
+**Real Great Society + Young Great Society** --> Radicals  
+**ARCH: Architect Renewal Committee Harlem**  --> Radicals  
+**Watts Urban Workshop**  --> Radicals  
+**Bobby's Geurillas**  --> Radicals  
