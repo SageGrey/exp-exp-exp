@@ -331,6 +331,40 @@ and Private Development](http://gofile.me/6WhDC/cvKMNKgSv), Class Note #1 (2022)
         11: Housing always been pretty rough
         12: Radical ideas must contend with
         
+**Nikhil Anand, Hydraulic City: Water and the Infrastructures of Citizenship 
+in Mumbai (Durham: Duke University Press, 2017).**
+
+        ****Introduction 1-24
+        -----> Residences in the Slums can have all the trappings of more established neighborhoods
+        -----> Citizenship is not guaranteed nor is it fixed
+        -----> Hydraulic citizenship defines citizenship for many
+        
+        14: Colonial History influencing water citizenship
+        16: Entitlements never quite become rights, being counted as a legitimate citizen
+        18: NURM: National Urban Renewal Mission, Pressure to privitize
+        19: PPIAF Public Private Infrastructure Advisory Facility, WDIP (Water District Improvement Project)
+       20:
+        
+        'In this book I argue that settlers demand public water systems not because public systems deliver reliable supplies to all. Settlers desire public systems because, relative to private infrastructures, these “bloated,” “inefficient” public systems are known systems that offer many more points of access (of-
+ficials, politicians, social workers, and leaky pipes) through which settlers can be connected to the hydraulic city. Settlers also desire water through the
+public system because its documents (printed on government stationary)
+allow them to claim and access other public urban services and substances of citizenship—like housing, health, and education.  In short, relative to private systems, public systems are known systems that are more accommodating of vital forms of leakage that nourish those marginalized by states and markets in the city. Public infrastructures are more amenable to hidden, partly known, materialized arrangements through which millions of residents access water and live in the city.
+         
+         **** A city in the sea. 25-28 Colonizers fighting through cartography, history
+         **** Scarce City 29-
+              29: City Engineer Meeting
+              Study a city and neglect its sewers and power supplies (as many have), and you miss
+essential aspects of distributional justice and planning power. —susan leigh star,
+“The Ethnography of Infrastructure”
+              30:"Danger" of Urban Migrants according to political party Shiv Sena
+              31:Academics writing about urbanization, population growth
+              33-38: History of Water, Continuous state of scarcity, but scarcity is misrepresented 
+              39: News/Gov Water Scarcity Scare Tactics
+       
+        
+        
+        
+
 Noble, **Safiya Umoja Noble, “A Society Searching,” Algorithms of Oppression: How Search 
 Engines Reinforce Racism (New York, N.Y.: New York University Press, 2018), 15-63.**
 
