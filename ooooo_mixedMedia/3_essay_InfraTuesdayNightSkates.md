@@ -4,6 +4,7 @@ On page 75 of Bostons Traffic Rules And Regulations policy one can find the City
 
 The field of planning is working hard to try and figure out how to de-centralized cars from our lives. New generations of planners have developed strategies--Transit Oriented Development, Designated Bus/Bike Lanes, Congestion Pricing--that attempt to undo the actioned results of their predecesors plans. While they work on that, folks without planning backgrounds are also trying to figure it out. 
 
+This essay focuses on the components of the social infrastructure of Night Skates, a fever-dream-phenomenon that happens weekly around the world. My knowledge is predominantly of the Boston Tuesday Night Skates, but insights about how this infrastructure operates is also informed by Mexico City's Friday Night Skate, New York City's Tuesday Night Skate, and St Louis's Ghost Ride (Ghost Ride is Bikes, but close enought). 
 
 
 
