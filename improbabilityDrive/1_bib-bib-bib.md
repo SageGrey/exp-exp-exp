@@ -366,10 +366,18 @@ essential aspects of distributional justice and planning power. —susan leigh s
               Reading the description of Jogeshwari (Chapter 2, pg 73) I was struck by the parallels between red lining and the difficulty of members of the neighborhood getting bank loans. The longer I think about it, the less it seems insightful or new, but thinking about the fight for civil rights in the united states as a fight for citizenship is a subtly different framing than the one I am accustomed to. 
               
               78: relationships of care OR cronyism, corruption
-              79: formally absesnt, informally present
+              79: Gov formally absesnt, informally present
+              80: Is the city for Rich People only? Not minding paying fees
+              81: What is possible with small amounts of money. 
               
-              a .black area'
-              
+            I was struck by the sentence "By mobilizing their sympathies, and coaxing them with **small amounts of money**, these arrangements...made very exclusive rules and laws more accomodating and made life in the city possible." It made me think of the organizations (that I associate with effective altruism) that think about where could money be spent to maximize its impact. I feel that the ehtos of that work is perpendicular to what is happeneing here, but I think its an interesting similarity/observation that there are places where a little nudge is amplified. (ie compare these bribes to the scale of investments from groups like World Bank, USAID, etc.)
+            
+           82: Slum-Erradication 
+           83: Slums as an indication of the governments _inability_ to build public housing
+           84: Slum Acts
+           85: Photo Pass
+           86: Public land may be easier to squat on, but harder to regularize
+            
        
         
         
