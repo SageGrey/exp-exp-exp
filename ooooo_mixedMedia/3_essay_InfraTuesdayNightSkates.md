@@ -11,12 +11,9 @@ This essay focuses on the components of the social infrastructure of Night Skate
 ## TRAFFIC RULES AND REGULATIONS CITY OF BOSTON 
 No pedestrian shall walk along the roadway of any way having a sidewalk open to pedestrian use; and no pedestrian shall walk along any other roadway, except on the unfinished shoulder nearest to vehicles proceeding in the direction opposite to the pedestrian's direction. 
 
+## Use of Landmarks
+## Social Roles
+## Community Norms
+## Education System
+## Event Ecosystems
 
-dont think that the reason people don't walk down the 
-
-
-
-
-
-
-Disregard the ways the built enviornment has disciplined the body. 
