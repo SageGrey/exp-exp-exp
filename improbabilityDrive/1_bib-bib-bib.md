@@ -351,7 +351,7 @@ public system because its documents (printed on government stationary)
 allow them to claim and access other public urban services and substances of citizenship—like housing, health, and education.  In short, relative to private systems, public systems are known systems that are more accommodating of vital forms of leakage that nourish those marginalized by states and markets in the city. Public infrastructures are more amenable to hidden, partly known, materialized arrangements through which millions of residents access water and live in the city.
          
          **** A city in the sea. 25-28 Colonizers fighting through cartography, history
-         **** Scarce City 29-
+         **** Scarce City Chapter 1: 29-
               29: City Engineer Meeting
               Study a city and neglect its sewers and power supplies (as many have), and you miss
 essential aspects of distributional justice and planning power. —susan leigh star,
@@ -360,6 +360,16 @@ essential aspects of distributional justice and planning power. —susan leigh s
               31:Academics writing about urbanization, population growth
               33-38: History of Water, Continuous state of scarcity, but scarcity is misrepresented 
               39: News/Gov Water Scarcity Scare Tactics
+              71: Gifts/Transactions as defining citizenship
+              73: Perception of Jogeshwari, hard to get bank loans. **tie to redlining**. 
+              
+              Reading the description of Jogeshwari (Chapter 2, pg 73) I was struck by the parallels between red lining and the difficulty of members of the neighborhood getting bank loans. The longer I think about it, the less it seems insightful or new, but thinking about the fight for civil rights in the united states as a fight for citizenship is a subtly different framing than the one I am accustomed to. 
+              
+              78: relationships of care OR cronyism, corruption
+              79: formally absesnt, informally present
+              
+              a .black area'
+              
        
         
         
