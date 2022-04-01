@@ -376,8 +376,40 @@ essential aspects of distributional justice and planning power. —susan leigh s
            83: Slums as an indication of the governments _inability_ to build public housing
            84: Slum Acts
            85: Photo Pass
-           86: Public land may be easier to squat on, but harder to regularize
-            
+           86: Public land may be easier to squat on, but harder to regularize, declared and undeclared. Authorized, tolerated, protected. 
+           87: Documenting presence
+           88: Importance of bills as proof of residence
+           89: So while settlers try to be counted and documented by state agencies through various forms of documentation, including water bills, state agencies and the city go through extroadinary lengths to ensure that they do not issue settlers documents that could be later used as claims of residence, belonging, and citizinship. 
+           90: Water department going rogue, not scrutinizing the applications
+           91: But makes it so that they cant complain. 
+           92: Politicians putting themselves as gatekeeper in systems. 
+           
+           
+           95: Interlude: Renweing Water
+           95: Kanheri Cave, indigenous water storage
+           
+           97: Chapter 3: on -time
+           97: Water deliver, reproduce the next day
+            98: Water Coming
+            99: State power and time. 
+           101: water schedule
+           102: water workers schedule, chaviwallas
+           103: How it works, water valves
+           105: polive bribes, valves 
+           106: impressive that the water arrives on the schedule it does
+           108: Due to unpredictability, people draw more water than they need because not sure when it will come again
+           109: Social  time, water time
+           111: Washing Time (social bonding, demonstration of good moral character), gossip if not seen washing. Important not only to wash, but do so at specific times, habitus. 
+           112: Sparkling Clean Homes
+           114: Increasing water use with increasing establishment
+           115: "Subaltern Conciousness"
+           117: Difficulty sharing water with social ties
+           121: Continuous water
+           122: Outside of Clock Time
+           
+    E.P. Thompson: Womens work in the home is in a rhythm outside of clock-time. 
+    
+          123: Louis Althusser time opinions
        
         
         
