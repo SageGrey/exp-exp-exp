@@ -5,7 +5,7 @@
 4. Write out "Current Issues"
 
 
-### Habits I've once needed to shake and thoughts on how to do so
+### habits to shake/habits shaked
 ---> checking phone instead of working  `start a pomodoro timer`
 --> checking phone instead of sleeping`start a sleep tracker`
 --> leaving work for internet `close laptop once realize whats happening`
