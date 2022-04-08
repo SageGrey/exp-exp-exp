@@ -3,6 +3,11 @@ Two weeks ago around fifteen MUPs sat on the floor of 7 Sumner. The group was co
 
 This idea of Production Culture has stuck with me over the last few weeks. In this assignment, I want to think about how Production Culture applies to the MUP thesis process I am about to begin. 
 
+Critique is not: 
+Emphasis on Design
+
+Problem is that when time is crunched, what is sacrificed is not specifications of the deliverable, but the intentionality and thought 
+
 My contention is this: 
 
 **Ways that a masters thesis can be considered a big success**
