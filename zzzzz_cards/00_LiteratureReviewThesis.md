@@ -1,5 +1,5 @@
 
-Two weeks ago around fifteen MUPs sat on the floor. After each group has presented their disucssions from previous step, someone offered a thread that had come through the critique. We were dealing with an academic culture that was prioritizing deliverables over learning. The speaker dubbed this as adjacent to conversations of Jenny O'dell Productivity, Production. 
+Two weeks ago around fifteen MUPs sat on the floor. After each group has presented their disucssions from previous step, someone offered a thread that had come through the critique. We were dealing with an academic culture that was prioritizing deliverables over learning. Instead of The speaker dubbed this as adjacent to conversations of Jenny O'dell Productivity, Production. 
 
 I argue that the thesis itself is a relic of productivity culture. Research must be built around a deliverable object. 
 
