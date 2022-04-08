@@ -5,7 +5,12 @@ This idea of Production Culture has stuck with me over the last few weeks.
 In this assignment, I want to think about how Production Culture applies to the MUP thesis process I am about to begin. 
 
 
-*Ways that a thesis can be considered a success**
+**Ways that a masters thesis can be considered a success
+  1. It wins academic awards
+  2. It is published in a journal 
+  3. It is cited by other academics
+  4. It helps the writer get into a phD program
+  5. The writer learns what they wanted  to learn
 
 
 a project to create a deliverable for a client. This culture of production 
