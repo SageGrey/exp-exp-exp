@@ -1,5 +1,18 @@
 
-Two weeks ago around fifteen MUPs sat on the floor. After each group has presented their disucssions from previous step, someone offered a thread that had come through the critique. We were dealing with an academic culture that was prioritizing deliverables over learning. Instead of deliverables in service to learning. The speaker dubbed this as adjacent to conversations of Jenny O'dell Productivity, Production. 
+Two weeks ago around fifteen MUPs sat on the floor. The group was coming together after having broken off into small discussion groups as part of a student-led design charette to discuss frustrations with MUP Core Studio. After a representative from each group had presented takeaways from their presvious disucssions, someone offered a topic for discussion that had come through the critique. Production Culture. The idea was that what we were contending with is a culture at the GSD that has chosen to prioritize deliverables over learning. Instead of the core of our education being in service to our desired learning outcomes, we felt that our learning was being treated as a desirable side effect of the process to create tangible deliverables. This conversation meandered from pulling examples to discussing how Production Culture is an off-shoot of a larger modern productivity culture that places an emphasis on business and maximizing outputs. 
+
+This idea of Production Culture has stuck with me over the last few weeks. 
+In this assignment, I want to think about how Production Culture applies to the MUP thesis process I am about to begin. 
+
+
+*Ways that a thesis can be considered a success**
+
+
+a project to create a deliverable for a client. This culture of production 
+
+were dealing with an academic culture that was prioritizing deliverables over learning. Instead of deliverables being in service to learning
+
+. The speaker dubbed this as adjacent to conversations of Jenny O'dell Productivity, Production. 
 
 I argue that the thesis itself is a relic of productivity culture. Research must be built around a deliverable object. 
 
