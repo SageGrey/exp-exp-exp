@@ -17,15 +17,17 @@ Good life vs Good Society.
 Henri Lefebvre (Right to the City), John Turner Housing By People), Chrsitopher Alexander (Pattern LAnguage)
 
 ### More Modern Readings
-Shadow Cities, Robert Neuwirth
-Favelas, Janice Perlman
-Planet of Slumns, Mike Davis
-**City of God (Film)**
-Metropoliz Nonformal, Christian Wesbhaum(sp?) Jessica Bridget
-Informal City (Caracas Case)
-Rethinking the Informal City, Felipe Hernandez
-Urban Informality, Ananya Roy
-**How the other half builds**
+
+      Shadow Cities, Robert Neuwirth
+      Favelas, Janice Perlman
+      Planet of Slumns, Mike Davis
+      **City of God (Film)**
+      Metropoliz Nonformal, Christian Wesbhaum(sp?) Jessica Bridget
+      Informal City (Caracas Case)
+      Rethinking the Informal City, Felipe Hernandez
+      Urban Informality, Ananya Roy
+      **How the other half builds**
+      The fortune at the bottom of the pyramid, C.k. Prahalad (critique is that it exploits the poor, makes them consumers)
 
 ### Citation 
 Rahul Mahrota Lecture 4/12/2022
