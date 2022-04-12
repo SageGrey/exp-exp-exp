@@ -5,6 +5,15 @@
       
       In the Hull:
       1: 
+      
+ # Look Into
+      
+      Next Up:
+      On Deck: 
+      
+      In the Hull:
+      --Problem of lawsuits
+      --Grinded Edges, **note from Rahul Mehrota thet "residents of homes alter the architects plans, need to take a photo week one, or else the architect will have a nervous breakdown**
 
 # Skatespots
 ### Famous
