@@ -41,6 +41,16 @@ Tolerance,
 Improvement, 
 **Anticipation** 
 
+They City as an Egg  Cedric Price:
+![image](https://user-images.githubusercontent.com/34726888/162996138-0589e0c1-5b97-4bec-8693-ad742426ee24.png)
 
+
+#### Blurring Binaries
+Incremental- Preconceived  
+Centripetal- Centrifugal  
+involution- Evolution  
+Grand Vision- Grand Adjustment
+
+Ancient, 17-18th Century, scrambled 
 ### Citation 
 Rahul Mahrota Lecture 4/12/2022
