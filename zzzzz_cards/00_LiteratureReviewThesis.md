@@ -1,5 +1,14 @@
 
-Two weeks ago around fifteen MUPs sat on the floor of 7 Sumner. The group was coming together after having broken off into small discussion groups as part of a student-led design charette to discuss frustrations with MUP Core Studio. After a representative from each group had presented takeaways from their presvious disucssions, someone offered a topic for discussion that had come through the critiques. Production Culture. The idea was that what we were contending with is a culture at the GSD that has chosen to prioritize deliverables over learning. Instead of the core of our education being in service to our desired learning outcomes, we felt that our learning was being treated as a desirable side effect of the process to create tangible deliverables. This conversation meandered from pulling examples to discussing how Production Culture is an off-shoot of a larger modern productivity culture that places an emphasis on business and maximizing outputs. 
+
+
+
+### Production Culture
+Two weeks ago around fifteen MUPs sat on the floor of 7 Sumner. The group was coming together after having broken off into small discussion groups as part of a student-led design charette to discuss frustrations with MUP Core Studio. After a representative from each group had presented takeaways from their presvious disucssions, someone offered a topic for discussion that had come through the critiques. *Production Culture*. The idea was that what we were contending with is a culture at the GSD (and in society generally) that has chosen to prioritize deliverables over learning. Instead of the core of our education being in service to our desired learning outcomes, we felt that our learning was being treated as a secondary objective in the process to create tangible deliverables. 
+
+
+
+
+This conversation meandered from pulling examples to discussing how Production Culture is an off-shoot of a larger modern productivity culture that places an emphasis on business and maximizing outputs. 
 
 This idea of Production Culture has stuck with me over the last few weeks. In this assignment, I want to think about how Production Culture applies to the MUP thesis process I am about to begin. 
 
@@ -10,7 +19,8 @@ Problem is that when time is crunched, what is sacrificed is not specifications 
 
 My contention is this: 
 
-**Ways that a masters thesis can be considered a big success**
+### Objectives
+**Ways that a masters thesis can be considered a success**
   1. It wins academic awards
   2. It is published in a journal 
   3. It is cited by other academics
