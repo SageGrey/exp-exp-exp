@@ -46,8 +46,9 @@ They City as an Egg  Cedric Price:
 
 Calling it dwelling instead of housing. 
 
-Attributes of Kinnetic City:
-Elsaticity
+**Attributes of Kinnetic City:**
+
+      Elsaticity  
 Incrementalizm
 Appropriation
 Soft Thresholds
