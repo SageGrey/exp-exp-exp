@@ -20,18 +20,15 @@ Problem is that when time is crunched, what is sacrificed is not specifications 
 My contention is this: 
 
 ### Objectives
-**Ways that a masters thesis can be considered a success**
-  1. It wins academic awards
-  2. It is published in a journal 
-  3. It is cited by other academics
-  4. It helps the writer get into a phD program (or other job)
-  5. The writer spent a lot of time thinking about exactly what they want to think about
+Ways that a masters thesis can be considered a success  
 
-a project to create a deliverable for a client. This culture of production 
+     1. It wins academic awards
+     2. It is published in a journal 
+     3. It is cited by other academics
+     4. It helps the writer get into a phD program (or other job)
+     5. The writer spent a lot of time thinking about exactly what they want to think about
 
-were dealing with an academic culture that was prioritizing deliverables over learning. Instead of deliverables being in service to learning
 
-. The speaker dubbed this as adjacent to conversations of Jenny O'dell Productivity, Production. 
 
 I argue that the thesis itself is a relic of productivity culture. Research must be built around a deliverable object. 
 
