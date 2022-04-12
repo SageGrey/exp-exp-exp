@@ -44,6 +44,15 @@ Improvement,
 They City as an Egg  Cedric Price:
 ![image](https://user-images.githubusercontent.com/34726888/162996138-0589e0c1-5b97-4bec-8693-ad742426ee24.png)
 
+Calling it dwelling instead of housing. 
+
+Attributes of Kinnetic City:
+Elsaticity
+Incrementalizm
+Appropriation
+Soft Thresholds
+
+Design Transitions not Absolute Solutions
 
 #### Blurring Binaries
 Incremental- Preconceived  
