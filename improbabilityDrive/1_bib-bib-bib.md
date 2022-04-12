@@ -140,6 +140,19 @@ point to the way in which maintenance and repair is increasingly thought
 of as a generic activity, the model for which can be spread across many
 realms of everyday life.(16)
        _________________________
+       
+       
+**Edwards, Jamie. 2020. "One more push, to clear the last step: Planning for Skateboarding"** London Southbank University, School of Law and Social Sciences. 
+
+            2: Abstract
+            3: TOC
+            4: Intro
+            7: Lefebvre, PSPOs (Public Space Protection Orders)
+            8: Policing, Defensive Architecture
+            9:  Displacement, Redevelopment 
+            10: Grinding Edges, Harvey
+            11:
+            
 
 **Harvey, David. 1985. “On planning the ideology of planning,”** in The Urbanization of Capital. Baltimore:
 Johns Hopkins University Press: 165-184.
