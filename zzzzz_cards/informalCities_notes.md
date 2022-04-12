@@ -49,9 +49,9 @@ Calling it dwelling instead of housing.
 **Attributes of Kinnetic City:**
 
       Elsaticity  
-Incrementalizm
-Appropriation
-Soft Thresholds
+      Incrementalizm
+      Appropriation
+      Soft Thresholds
 
 Design Transitions not Absolute Solutions
 
