@@ -2,7 +2,7 @@
 ## Buildings dont stay the same
 
 
-"The realities of life will crush the aspirational designs of architects, architects must go in the first week after the project is built to take their photos, otherwise they will have a nervous breakdwon"
+"The realities of life will crush the aspirational designs of architects designing housing, architects must go in the first week after a project is built to take their photos while it is still pristine, otherwise they will have a nervous breakdwon"
 
 
 ### Citation
