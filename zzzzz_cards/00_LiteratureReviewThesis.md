@@ -21,6 +21,12 @@ Ways that a masters thesis can be considered a success
      5. The writer spent a lot of time thinking about exactly what they want to think about
 
 
+### Pitfalls
+
+     Time-Crunch
+     
+      1. A process where you write your argument, then search for materials that support your time
+
 I argue that the thesis itself is a relic of productivity culture. Research must be built around a deliverable object. 
 
 I pose for this class. A class on experimental infrastructure a alternative to a literature review. 
