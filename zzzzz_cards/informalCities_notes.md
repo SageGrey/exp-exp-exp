@@ -29,5 +29,18 @@ Henri Lefebvre (Right to the City), John Turner Housing By People), Chrsitopher 
       **How the other half builds**
       The fortune at the bottom of the pyramid, C.k. Prahalad (critique is that it exploits the poor, makes them consumers)
 
+
+The Aga Khan Awards (1978-80). Case Study: Kampung (integration),
+Aga Khan Awards: Grameen Bank
+Indore, Integration
+
+
+Denial,
+Eradication, 
+Tolerance,
+Improvement, 
+**Anticipation** 
+
+
 ### Citation 
 Rahul Mahrota Lecture 4/12/2022
