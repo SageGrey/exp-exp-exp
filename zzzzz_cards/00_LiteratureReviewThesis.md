@@ -1,8 +1,7 @@
 
 ## The thesis process I Want
 
-### "Dont write the only thesis you can write. Write the thesis that only *you* can write. --Alex Higgens
-
+### "Dont write the only thesis you can write. Write the thesis that only *you* can write. --Umberto Echo
 ![image](https://user-images.githubusercontent.com/34726888/163025688-c885a776-0ce5-42c8-90d7-ecf0a43b96ab.png)
 
 ### Production Culture
