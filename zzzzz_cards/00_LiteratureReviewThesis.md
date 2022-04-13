@@ -19,19 +19,19 @@
                **Counter Argument** Wouldn't you need policing the second you leave a wunerf street? Make all the streets wunerfs. Kidding. But yes, I dont think wunerfs can single-handedly solve the issue of how we eliminate police, but I think they point to a direction. Other examples are (elevating bicycle lanes, yellow line). I can imagine a world 
                
      __________________________
-     fromBloomberg: https://www.bloomberg.com/news/articles/2021-04-14/how-to-get-safer-streets-minus-the-police
+#### fromBloomberg: https://www.bloomberg.com/news/articles/2021-04-14/how-to-get-safer-streets-minus-the-police
                
  How would redesigning streets help the problem?
  
-               There is a history of roads and streets designed to promote safety without human enforcers. As a historic example, before the right-side-of-the-road norm was established, it caused confusion which side people should drive on. One approach was to lay down the law with human enforcers, but it turned out that just painting a yellow line did a much better job. So engineers and transportation officials could think about designing better without human enforcers. As a more contemporary example, New York City has put up raised medians to encourage more biking and keep cyclists safe by keeping bike lanes separate from traffic lanes. 
+ There is a history of roads and streets designed to promote safety without human enforcers. As a historic example, before the right-side-of-the-road norm was established, it caused confusion which side people should drive on. One approach was to lay down the law with human enforcers, but it turned out that just painting a yellow line did a much better job. So engineers and transportation officials could think about designing better without human enforcers. As a more contemporary example, New York City has put up raised medians to encourage more biking and keep cyclists safe by keeping bike lanes separate from traffic lanes. 
                
      
 Ultimately, removing policing from traffic enforcement seems to ram up against the way we’ve built the environment to make people rely on cars. Are there other ways around those barriers?
 
 I think there are two answers. One, if we get to fully automated, self-driving cars that are programmed not to violate traffic laws, that would end pretextual traffic stops. So that is one possibility. The other is reimagining how cities are built to rely less on cars and design so that people don’t have to think about whether they are obeying the law or not. I’ve love to see more conversations between urban designers, transportation policy experts and legal scholars to think about how to design urban space so that we can be safe without having to be conscious about acting in compliance with safety laws. That would be really exciting.      
-               
-               
-               the  
+
+
+### Other Arguments
                
      --- Who the Hell is Making The Rules: Getting away from abstinence-only urban education
      --- Pleasure Positivity, What can urban planners learn from sex-educators. 
