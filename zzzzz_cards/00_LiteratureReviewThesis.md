@@ -1,5 +1,8 @@
 
-# Experimental Infrastructure: Academic Research
+
+![image](https://user-images.githubusercontent.com/34726888/163224100-940fcf9e-c267-498f-8417-932e645f3ccf.png)
+
+# and an Alternative Structure for Academic Research
 **_not your grandma's thesis research process_**
 
  *"Dont write the only thesis you can write. Write the thesis that only you can write. --Umberto Echo*
