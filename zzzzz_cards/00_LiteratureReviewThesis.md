@@ -1,11 +1,35 @@
 
-## The thesis process I Want
+# Experimental Infrastructure: Academic Research
+**_not your grandma's thesis research process_**
 
-### "Dont write the only thesis you can write. Write the thesis that only *you* can write. --Umberto Echo
+ *"Dont write the only thesis you can write. Write the thesis that only you can write. --Umberto Echo*
 ![image](https://user-images.githubusercontent.com/34726888/163025688-c885a776-0ce5-42c8-90d7-ecf0a43b96ab.png)
 
 
+## Arguments
+
+
+**Arguments/Chapters:**
+
+**Could Wunerfs be an example of Abolitionist Urban Planning**
+
+**Basic Argument:** Wunerfs, the dutch street typology that gets rid of clear "use distinctions" and creates shared streets, could create an urban form that lessens the need for traffic policing. If the speed and manner with which a car moves through space is primarily enforced not by "traffic laws" but by terrain, we would lessen the need for policing along those paths. We dont think of pedestrians and bicyclists as public safety threats, Wunerfs point to a way that streets could be designed so that cars aren't either. If conduct is set by the environment, we dont need rules, and they don't need to be policied. 
+               **Counter Argument:** Wouldn't Speed Bumps Achieve This? No, because they don't go far enough and meerly inconvenience, not reshape the terrain. 
+               **Counter Argument:** How is controlling cars through environment different than something like hostile architecture that prevents unhoused individuals from lying down on a public bench? I think its different because you are using it to combat power. A car 
+        
+               
+               
+               the  
+               
+     --- Who the Hell is Making The Rules: Getting away from abstinence-only urban education
+     --- Pleasure Positivity, What can urban planners learn from sex-educators. 
+
+
+
+
 ### Pleasure Mapping
+
+
 
 ### Production Culture
 Two weeks ago around fifteen MUPs sat on the floor of 7 Sumner. The group was coming together after having broken off into small discussion groups as part of a student-led design charette to discuss frustrations with MUP Core Studio. After a representative from each group had presented takeaways from their presvious disucssions, someone offered a topic for discussion that had come through the critiques. *Production Culture*. The idea was that what we were contending with is a culture at the GSD (and in society generally) that has chosen to prioritize deliverables over learning. Instead of the core of our education being in service to our desired learning outcomes, we felt that our learning was being treated as a secondary objective in the process to create tangible deliverables. 
@@ -21,13 +45,18 @@ Ways that a masters thesis can be considered a success
      3. It is cited by other academics
      4. It helps the writer get into a phD program (or other job)
      5. The writer spent a lot of time thinking about exactly what they want to think about
+     6. The writer learns something they care about while writing it
 
 
 ### Pitfalls
 
-     Time-Crunch
-     
-      1. A process where you write your argument, then search for materials that support your time
+      1. A process where you write your argument, then search for materials that support your argument
+      2. A process where you get stuck writing about something that doesn't interest you. 
+      
+ 
+ 
+ ----------------
+      
 
 I argue that the thesis itself is a relic of productivity culture. Research must be built around a deliverable object. 
 
