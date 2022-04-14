@@ -53,8 +53,10 @@ Seto et All, Carbon Lock-In
  urban metabolis, 1970s
   
   
-  ![image](https://user-images.githubusercontent.com/34726888/163421480-72e7e5ce-e16c-445c-a9a2-64500c9b3c7c.png)
+![image](https://user-images.githubusercontent.com/34726888/163421625-a9cdc8d4-656c-43ca-84a8-7019e433d7f2.png)
 discourses of climate delay lamb et al
+  
+  slow-violence: O'lear (2016) ["Climate Science and Slow Violence"](https://www-sciencedirect-com.ezp-prod1.hul.harvard.edu/science/article/pii/S0962629815000062)
   
 </details>
 
