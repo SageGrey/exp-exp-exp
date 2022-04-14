@@ -10,12 +10,6 @@
            |++++++|=|=|=|=|=|[][]|
 
 
-
-
-However, it adds it as a new line starting with either - + ! # or starts and ends with @@
-
-Enter image description here
-
 <details>
   <summary>Class Logistics!</summary>
   
