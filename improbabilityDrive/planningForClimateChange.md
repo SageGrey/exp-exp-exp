@@ -20,7 +20,6 @@
   
  
   
-  
  ####  "The understanding of what 'nature' is inspired views about what the city ought to be" Swyngedow and Kaika 2000 
 **Scalar difference of problem,** flom molecular to global. Allows space for all the scales in-between (ie local, regional, etc). 
 ![image](https://user-images.githubusercontent.com/34726888/163417712-d96d2ff5-9640-415d-aee1-ae6c1e1760b8.png)
@@ -38,6 +37,6 @@
   
   ![(black box of power in environemtnal governance, morrison)](https://user-images.githubusercontent.com/34726888/163418364-68ea7bed-eaed-4492-b53f-bdf418837bde.png)
 
-  
+ [Greenhouse Gas Protocol](https://ghgprotocol.org/countries-and-cities)
 </details>
 
