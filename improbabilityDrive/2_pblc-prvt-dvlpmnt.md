@@ -456,9 +456,13 @@ This idea comes from Clarance Stone writing about Atlanta. It is similar to Grow
   1. **PNF** Project Notification Form  
   2. Scoping Determination  
   3. Draft Project Impact Report  
-  4. Preliminary Adequacy Determination  
-  ### Unsorted Below This Line
+  4. Preliminary Adequacy Determination
   
+ </details>
+    
+ 
+  ### Unsorted Below This Line
+
   
   ```
                ________            _______
