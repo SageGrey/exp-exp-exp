@@ -6,6 +6,9 @@
 <details>
   
   <summary> Taylor Davey 4/14/2022 </summary>
+
+  ### Summary 
+  Davey talks about the **scalar nature** of climate change that spans a molecular to global scale. Her thesis largely seems to be that cities at a local level are where more of climate action is taking place. Introduces a lot of diagrams/framweworks that global climate community has been using. 
   .  
 <details>
   
@@ -38,6 +41,9 @@ Hillary Angelo, David Wachsmuth
      * Regulatory --> Catalyze and Facilitate
     
    More recent, introduction of the idea of  **Urban Carbon Budgets** 
+    
+ [Greenhouse Gas Protocol](https://ghgprotocol.org/countries-and-cities)
+  
   </details>
   
   <details> 
@@ -59,9 +65,7 @@ Hillary Angelo, David Wachsmuth
     
   ![(black box of power in environemtnal governance, morrison)](https://user-images.githubusercontent.com/34726888/163418364-68ea7bed-eaed-4492-b53f-bdf418837bde.png)
   </details>
-  
- [Greenhouse Gas Protocol](https://ghgprotocol.org/countries-and-cities)
-  
+
   
   <details>
     <summary> Carbon Lock-In, Seto et Al </summary>
@@ -70,7 +74,7 @@ Hillary Angelo, David Wachsmuth
   </details>
   
   <details>
-    <summary> Urban MEtabolism </summary>
+    <summary> Urban Metabolism </summary>
     
   ![image](https://user-images.githubusercontent.com/34726888/163421157-63f22d42-4d86-4091-8525-c7caccd6f454.png)
  urban metabolis, 1970s
