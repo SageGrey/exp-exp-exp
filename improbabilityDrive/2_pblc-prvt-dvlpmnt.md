@@ -45,8 +45,15 @@ and Private Development](http://gofile.me/6WhDC/cvKMNKgSv), Class Note #1
 **[Amortization](https://github.com/SageGrey/exp-exp-exp/blob/main/zzzzz_cards/206_Amortization.md)** --> "Payments of principle (the original amount that was loaned)  
 **Principle** --> (The origianl amount that was loaned)     
 **Free and Clear** --> Above the debt service, "cash on cost"  
-[**Real Politik**](https://github.com/SageGrey/exp-exp-exp/new/main/zzzzz_cards) --> System of politics based on practical rather than moral foundations
-**Hold Harmless** --> Way to ensue old participants in a program are not harmed by changes to the program
+[**Real Politik**](https://github.com/SageGrey/exp-exp-exp/new/main/zzzzz_cards) --> System of politics based on practical rather than moral foundations  
+**Hold Harmless** --> Way to ensue old participants in a program are not harmed by changes to the program  
+**NIMTO** --> Not In My Term of Office
+**BANANA** --> Build Absolutely Nothing Near Anyone
+**As of Right** --> If it matches the requirements, you can do it
+**Discretionary** --> Needs to go through approval process with city  
+**SLAP Lawsuits** --> Strategic Litigation Against Participation  
+**Black Letter Law** --> Law on the books, may be different that the way things are actually done  
+  
 
  </details>
 
@@ -411,6 +418,45 @@ This idea comes from Clarance Stone writing about Atlanta. It is similar to Grow
 ![image](https://user-images.githubusercontent.com/34726888/163434502-2739da64-5339-44ac-ae8a-bfd402df0527.png)
 
 </details>
+
+<details>
+  <summary> 2 Administrative Models: Discretionary + As Of Right </summary>
+  
+  .   
+ ### As of Right: _ministerial model_   
+ The model where the zoning allows for development that meets pre-determined specifications. The role of the city is to evaluate a project based on these specifications. If it meets them, it is approved. 
+   * Is often used in cooler markets that are trying to encourage development
+   * Can be more transparent
+  
+ ### Discretionary
+ The model where projects are approved on a case-by-case basis. The role of the city is to negotiate benefits from any project that is proposed.
+   * Often used in hot markets (NYC, SF, Vancouver)
+   * Can be a way for groups (such as Labor) to seek out promises
+  
+     
+  </details>
+  
+  <details>
+  <summary> Boston's Article 80 </summary>
+  
+ .
+  _its a labyryinth_  
+  
+  Article 80 is an example of a development approval law. 
+  Involved Entities: 
+  
+  ``` BPDA  
+  BIFDC
+  Zoning Comission
+  Mayor
+  City Council
+  Etc
+  ```
+ Some Components:
+  1. **PNF** Project Notification Form  
+  2. Scoping Determination  
+  3. Draft Project Impact Report  
+  4. Preliminary Adequacy Determination  
   ### Unsorted Below This Line
   
   
