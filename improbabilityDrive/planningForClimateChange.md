@@ -38,5 +38,10 @@
   ![(black box of power in environemtnal governance, morrison)](https://user-images.githubusercontent.com/34726888/163418364-68ea7bed-eaed-4492-b53f-bdf418837bde.png)
 
  [Greenhouse Gas Protocol](https://ghgprotocol.org/countries-and-cities)
+  
+  
+  
+ ![image](https://user-images.githubusercontent.com/34726888/163419844-d9fd3441-f68a-4302-bc5e-e0ba1b7fc893.png)
+Seto et All, Carbon Lock-In 
 </details>
 
