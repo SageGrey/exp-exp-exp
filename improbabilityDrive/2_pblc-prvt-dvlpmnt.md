@@ -1,22 +1,41 @@
 # Notes from Public Private Development
 ### Jerold Kayden, GSD Spring 2022
- . OH: 2-4pm Wednesday   
- ..  Gund 105  
- ... Spring 2022      
- ....                 
-[Jerold S. Kayden and Adam Tanaka, Real Estate Financial Analysis for Public 
+
+<details>
+  <summary>Class Logistics!</summary>
+  
+ OH: 2-4pm Wednesday   
+      * Gund 105  
+      * Spring 2022      
+
+</details>     
+<details> 
+ <summary> Synopsis Readings</summary>
+ 
+ [Jerold S. Kayden and Adam Tanaka, Real Estate Financial Analysis for Public 
 and Private Development](http://gofile.me/6WhDC/cvKMNKgSv), Class Note #1
-
-### ProForma/Discounted Cash Flow Exercise
-[Link to Excel File Here](http://gofile.me/6WhDC/PKYmkJsXQ)
-
+ 
+ </details>
+ 
+ 
+<details> 
+ <summary> Formatting Copy </summary> 
+ 
+</details>
+<details> 
+ <summary> Copy of Final Deliverables for Assignments </summary> 
+   **ProForma/Discounted Cash Flow Exercise** [Link to Excel File Here](http://gofile.me/6WhDC/PKYmkJsXQ)
+</details>
  
 # Staff Picks 
 
 When public housing was criticized for being inhumane (large towers) it focused on the architecture. But some of the most desirable real estate in the world is high rise, might it have to do much more with the _INVESTMENT_. 
 
-###  Vocab Bank
-**REFA** --> Real Estate Financial Analysis   
+## Vocab Bank
+<details> 
+ <summary> See Bank </summary> 
+ 
+ **REFA** --> Real Estate Financial Analysis   
 **Underwriting** --> Analyzing the Deal   
 **NOI** --> Net Operating Income, "Free and Clear," Net Income Before Financing, Cash Flow Before Financing  
 **Debt Dervice** --> Interest + Amortization  
@@ -27,13 +46,20 @@ When public housing was criticized for being inhumane (large towers) it focused 
 [**Real Politik**](https://github.com/SageGrey/exp-exp-exp/new/main/zzzzz_cards) --> System of politics based on practical rather than moral foundations
 **Hold Harmless** --> Way to ensue old participants in a program are not harmed by changes to the program
 
+ </details>
 
-#### Key Concepts
----------->`**[Parts of A Pro Forma](https://github.com/SageGrey/exp-exp-exp/blob/main/zzzzz_cards/203_Pro%20Forma.md)**
+
+
+## Key Concepts 
+
+<details> 
+ <summary> Parts of A Pro Forma </summary> 
+  
+ [Parts of A Pro Forma](https://github.com/SageGrey/exp-exp-exp/blob/main/zzzzz_cards/203_Pro%20Forma.md)
  
-          Gross Income
-          (Vacancy)
-          _Additional Income_
+          Gross Income  
+          (Vacancy)  
+          _Additional Income_  
           Effective Gross Income
           (Operating Expenses)
           (Real Estate Taxes)
@@ -44,6 +70,8 @@ When public housing was criticized for being inhumane (large towers) it focused 
           Cash Flow After Financing
           (Tax Payment)
           Cash Flow After Taxes 
+ </details>
+ 
 
 #### Quotes/ZTLKN
 ---------->[A building is a machine that makes the land pay](https://github.com/SageGrey/exp-exp-exp/blob/main/zzzzz_cards/2.BuildingsPay_CassQuotes.md)  `|| Cass Gilbert, Early 20th Century Architect`
