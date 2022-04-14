@@ -12,6 +12,9 @@
 
 
 
+However, it adds it as a new line starting with either - + ! # or starts and ends with @@
+
+Enter image description here
 
 <details>
   <summary>Class Logistics!</summary>
@@ -29,11 +32,6 @@ and Private Development](http://gofile.me/6WhDC/cvKMNKgSv), Class Note #1
  
  </details>
  
- 
-<details> 
- <summary> Formatting Copy </summary> 
- 
-</details>
 <details> 
  <summary> Copy of Final Deliverables for Assignments </summary> 
    
@@ -84,11 +82,12 @@ When public housing was criticized for being inhumane (large towers) it focused 
 
  <details>
   <Summary> Kaydens Candid Caveats </Summary>
-     1. Refa skills dont guarantee a succesful real estate career. Personality counts
-     2. Garbage (Data) In, Garbage Out
-     3. Play the Long Game, Don't Burn Bridges 
-        (At the end of negotiations, try to leave with everyone feeling good)
-     4. Be(A)ware  the tower of babel. Ask names of terms, many things have many synonyms. 
+  
+     1. Refa skills dont guarantee a succesful real estate career. Personality counts  
+     2. Garbage (Data) In, Garbage Out  
+     3. Play the Long Game, Don't Burn Bridges   
+        (At the end of negotiations, try to leave with everyone feeling good)  
+     4. Be(A)ware  the tower of babel. Ask names of terms, many things have many synonyms.   
   
   </details>
      
@@ -401,18 +400,26 @@ This idea comes from Clarance Stone writing about Atlanta. It is similar to Grow
 <details>
   <summary> Formula for Calculating the Square Footage Needed for a Zoning Bonus </summary>
   
-  For a subsidy to be neccesary, sufficient, but not exessive: 
-  
-$\displaystyle \frac{Cost of Amenity}{Value of A Bonus Sq Ft}$
- 
-$\displaystyle \frac{\partial f}{\partial x}$  
-  </details>
-  
-img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="\Large SFforTotalAmenityNeeded=\frac{CostofAmenity}}{ValueOfABonusSqFt}" />  
-  
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="\Large x=\frac{CostOfAmenity{b^2-4ac}}{2a}" />
+  ...
 
+  For a subsidy to be **neccesary, sufficient, but not exessive:**
+  
+  ### General Formula
+  
+![image](https://user-images.githubusercontent.com/34726888/163433489-1cc3e513-da52-4280-bf7d-fd26b06d3436.png)  
+  
+![image](https://user-images.githubusercontent.com/34726888/163433966-8b29e641-53e0-421d-8b17-42ccb83162bb.png)
+
+  ### Full
+  
+![image](https://user-images.githubusercontent.com/34726888/163434636-7002e255-af12-4b1a-9136-fb4e69647841.png)
+  
+![image](https://user-images.githubusercontent.com/34726888/163434502-2739da64-5339-44ac-ae8a-bfd402df0527.png)
+
+</details>
   ### Unsorted Below This Line
+  
+  
   ```
                ________            _______
          /\ \ \ \/_______/     ______/\      \  /\ \/ /\ \/ /\  \_____________
@@ -609,3 +616,12 @@ STEP FIVE: Gov negotiates with the tentative winner, enters into a binding winne
 
 
 **SOLE SOURCE METHOD**: Non-competitive process. Gov approaches one entity.  
+  
+  
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
