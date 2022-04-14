@@ -1,5 +1,16 @@
-# Notes from Public Private Development
-### Jerold Kayden, GSD Spring 2022
+                             ^
+                _______     ^^^
+               |xxxxxxx|  _^^^^^_
+               |xxxxxxx| | [][]  |
+            ______xxxxx| |[][][] |
+           |++++++|xxxx| | [][][]|     # Notes from Public Private Development
+           |++++++|xxxx| |[][][] |    ### Jerold Kayden, GSD Spring 2022
+           |++++++|_________ [][]|
+           |++++++|=|=|=|=|=| [] |
+           |++++++|=|=|=|=|=|[][]|
+
+
+
 
 <details>
   <summary>Class Logistics!</summary>
@@ -24,16 +35,14 @@ and Private Development](http://gofile.me/6WhDC/cvKMNKgSv), Class Note #1
 </details>
 <details> 
  <summary> Copy of Final Deliverables for Assignments </summary> 
-   **ProForma/Discounted Cash Flow Exercise** [Link to Excel File Here](http://gofile.me/6WhDC/PKYmkJsXQ)
+   
+  **ProForma/Discounted Cash Flow Exercise** [Link to Excel File Here](http://gofile.me/6WhDC/PKYmkJsXQ)
 </details>
  
-# Staff Picks 
 
-When public housing was criticized for being inhumane (large towers) it focused on the architecture. But some of the most desirable real estate in the world is high rise, might it have to do much more with the _INVESTMENT_. 
 
-## Vocab Bank
 <details> 
- <summary> See Bank </summary> 
+ <summary> Vocab Bank </summary> 
  
  **REFA** --> Real Estate Financial Analysis   
 **Underwriting** --> Analyzing the Deal   
@@ -49,79 +58,44 @@ When public housing was criticized for being inhumane (large towers) it focused 
  </details>
 
 
+<Details>
+  <Summary> Key Concepts </Summary>
 
-## Key Concepts 
-
-<details> 
- <summary> Parts of A Pro Forma </summary> 
+Pro Forma  
+Discounted Cash Flow Analysis  
+Public Provision of Infrastructure   
+Private Provision of Infrastructure  
   
- [Parts of A Pro Forma](https://github.com/SageGrey/exp-exp-exp/blob/main/zzzzz_cards/203_Pro%20Forma.md)
- 
-          Gross Income  
-          (Vacancy)  
-          _Additional Income_  
-          Effective Gross Income
-          (Operating Expenses)
-          (Real Estate Taxes)
-          (Replacement Reserve)
-          _(Other Recurring Expenses)_
-          Net Operating Income
-          _(Debt Services)_
-          Cash Flow After Financing
-          (Tax Payment)
-          Cash Flow After Taxes 
- </details>
- 
+  </Details>
 
-#### Quotes/ZTLKN
----------->[A building is a machine that makes the land pay](https://github.com/SageGrey/exp-exp-exp/blob/main/zzzzz_cards/2.BuildingsPay_CassQuotes.md)  `|| Cass Gilbert, Early 20th Century Architect`
+<Details>
+  <Summary> Quotes </Summary>
 
- .  
- ..  
- ...     
- ....  
+[A building is a machine that makes the land pay](https://github.com/SageGrey/exp-exp-exp/blob/main/zzzzz_cards/2.BuildingsPay_CassQuotes.md)  `|| Cass Gilbert, Early 20th Century Architect`
 
+When public housing was criticized for being inhumane (large towers) it focused on the architecture. But some of the most desirable real estate in the world is high rise, might it have to do much more with the _INVESTMENT_. --JK
 
-# Readings
-[Copied From The Stacks](https://github.com/SageGrey/exp-exp-exp/blob/main/improbabilityDrive/1_bib-bib-bib.md) 
+</details>
 
-1. **[Jerold S. Kayden and Adam Tanaka, Real Estate Financial Analysis for Public 
-and Private Development](http://gofile.me/6WhDC/cvKMNKgSv), Class Note #1** (2022), pp. 1-11
+### Class Notes 
 
-
-                    1: Copyright  
-                    2: Intro to 3 primary tools  
-                    3: 3 Tools in Table  
-                    4: Pro Forma  
-                    5: Gross Income, Vacancy  
-                    6: operating Expenses, Real Estate Taxes  
-                    7: Net Operating Income, Debt Service  
-                    8: Cash Flow After Financing  
-                    9: Measuring Performance  
-                    10: Return, Total Assets Equity  
-                    11: Capitalized Value  
- .  
- ..  
- ...     
- ....  
-
-
-# Class Notes 
-
-#### Formatting Notes:  
        
-       Section Header `### ---------->`
-     
 
-### ---------->Kaydens Candid Caveats 
-     
+ <details>
+  <Summary> Kaydens Candid Caveats </Summary>
      1. Refa skills dont guarantee a succesful real estate career. Personality counts
      2. Garbage (Data) In, Garbage Out
      3. Play the Long Game, Don't Burn Bridges 
         (At the end of negotiations, try to leave with everyone feeling good)
      4. Be(A)ware  the tower of babel. Ask names of terms, many things have many synonyms. 
+  
+  </details>
      
-## ----------> Parts of a Pro Forma 
+<details> 
+ <summary> Parts of A Pro Forma </summary> 
+  
+ 
+ [Parts of A Pro Forma](https://github.com/SageGrey/exp-exp-exp/blob/main/zzzzz_cards/203_Pro%20Forma.md)
  Latin: As a matter of form  
  Occurs in a "Stabalized Year" || Syn: Operating, Standard  
  Uses Actual, Estimated (or manipulated)  
@@ -334,16 +308,21 @@ take-away
 `FUZZY ON` 
 [--Cap Rates why the higher cap rate, lower value]
 [-- ROE vs ROTA]
+  
+ </details>
  
- 
+<details>
      
-## ----------> 3 Key Practice Areas of Public Subsidies       
+<Summary> Key Practice Areas of Public Subsidies </Summary>
 
-#### 1. Provision of public subsidies
-#### 2. Provision of land/infrastructure
-#### 3. Gov Regulations
-
-#### Cost Benefit Analysis 
+    1. Provision of public subsidies
+    2. Provision of land/infrastructure
+    3. Gov Regulations
+    
+</details>
+<Details>
+  <Summary> Various Types of Financial Analysis </summary>
+### Cost Benefit Analysis 
    
       Not super common in public private development  
       CBA seeks to measure in MONETARY TERMS net increase/decrease in goods/services taken by project for society as a whole. 
@@ -353,18 +332,18 @@ take-away
       --> Monetizing benefits is hard
       --> Future benefits have discount rates applied (higher discount rate, lower benefits valued) 
       
-#### Cost-Effectiveness Analysis
+### Cost-Effectiveness Analysis
  
       Assumes the project is happening. But we would like it to be as cheap as possible
       Neccesary, Sufficient, But not excessive
       
-#### Modified CBA for Public-Private Development
+### Modified CBA for Public-Private Development
 
      Looks at the DISTRIBUTION of benefits
      Doesn't monetize everything
 
 
-#### Economic Impact Analysis
+### Economic Impact Analysis
 
      Also known as "regional income analysis"
      Contributuions to an economy in a specific area. 
@@ -386,8 +365,55 @@ take-away
          Useful for fully private projects
           --> How many new services will need to be rendered by the gov?
           --> How much new tax base revenue?
-      
-### [7 Theories of Who Has Power in Cities](https://github.com/SageGrey/exp-exp-exp/blob/main/zzzzz_cards/232_7TheoriesofPower.md)      
+  
+  </details>
+  
+  <details> 
+  <Summary> Who Has Power in Cities? </Summary>
+
+ **See ZKN note:** 
+  [232_7TheoriesofPower](https://github.com/SageGrey/exp-exp-exp/blob/main/zzzzz_cards/232_7TheoriesofPower.md)
+    
+ Elite Reputational:
+This theory is based off of observations of Atlanta. The central tenant is that repuatation is essentially equal to power. So cultivating status is thus cultivating power. Who do you think is the most important person to consult is the top businessman or power broker.
+
+Elite Structural Theory:
+This theory is a more Marxist approach that argues that structural features od society (capitalism) are the determinants of who has power. This is associated with the power coming from the institutions that have societal reproduction.
+
+Pluralist
+This theory is based on observations of New Haven. Is arguing against the elite reputational theories saying that there is actually a broad base of folks who influence the city that are widely disperesed. Argues that the power of elites is exaggerated.
+
+Historical Institutional
+Essentially is an argument for path dependency. What has happened heavily shapes what will.
+
+Public Choice Theory
+This theory essentially applies neo-classical economic theory to government actors. Argues that all actors in governemnt are ultimately making choices based on their self-interest, not neccesarily the public good. definitely this meshes well with Rick Ulibarri's beliefs about politics. How is James Buchanon is associated with this idea?
+
+Growth Machine Theory
+Given that many industries are benefited by growth (developers, lawyers, ad firms, architects, etc) there is a wide-based push from corporate forces to see things built. Example is why media companies love the construction of sports stadiums.
+
+Regime Theory
+This idea comes from Clarance Stone writing about Atlanta. It is similar to Growth Machine Theory, but it combines the interests of both private and public figures, what could be called "the elites."
+
+  </details>
+  
+  ### Unsorted Below This Line
+  
+  
+                  \  |  /         ___________
+   ____________  \ \_# /         |  ___      |       _________
+  |            |  \  #/          | |   |     |      | = = = = |
+  | |   |   |  |   \\#           | |`v'|     |      |         |
+  |            |    \#  //       |  --- ___  |      | |  || | |
+  | |   |   |  |     #_//        |     |   | |      |         |
+  |            |  \\ #_/_______  |     |   | |      | |  || | |
+  | |   |   |  |   \\# /_____/ \ |      ---  |      |         |
+  |            |    \# |+ ++|  | |  |~~~~~~| |      | |  || | |
+  |            |    \# |+ ++|  | |  |~~~~~~| |      | |  || | |
+~~|    (~~~~~) |~~~~~#~| H  |_ |~|  | |||| | |~~~~~~|         |
+  |    ( ||| ) |     # ~~~~~~    |  | |||| | |      | ||||||| |
+  ~~~~~~~~~~~~~________/  /_____ |  | |||| | |      | ||||||| |
+                                 ~~~~~~~~~~~~~      | ||||||| |  
 
 ### [Historical Timeline of Subsidies](../zzzzz_cards/235_HstrcTmln_PublicSubsidies.md)
 ### [Block Grants](https://github.com/SageGrey/exp-exp-exp/blob/main/zzzzz_cards/236_blockGrantVsCategorical.md)
