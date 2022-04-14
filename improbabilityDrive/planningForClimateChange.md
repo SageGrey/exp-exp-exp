@@ -48,5 +48,13 @@ Hillary Angelo, David Wachsmuth
   
  ![image](https://user-images.githubusercontent.com/34726888/163419844-d9fd3441-f68a-4302-bc5e-e0ba1b7fc893.png)
 Seto et All, Carbon Lock-In 
+  
+  ![image](https://user-images.githubusercontent.com/34726888/163421157-63f22d42-4d86-4091-8525-c7caccd6f454.png)
+ urban metabolis, 1970s
+  
+  
+  ![image](https://user-images.githubusercontent.com/34726888/163421480-72e7e5ce-e16c-445c-a9a2-64500c9b3c7c.png)
+discourses of climate delay lamb et al
+  
 </details>
 
