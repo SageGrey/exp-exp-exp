@@ -6,13 +6,25 @@
 <details>
   
   <summary> Taylor Davey 4/14/2022 </summary>
+  .  
+<details>
   
-  "While nations talk, cities act," David Miller
-   
+  <summary> guiding quotes/papers </summary>
+  
+  **"While nations talk, cities act,"** David Miller  
+
   [Why does everyone think cities can save the planet?](https://journals-sagepub-com.ezp-prod1.hul.harvard.edu/doi/full/10.1177/0042098020919081)
 Hillary Angelo, David Wachsmuth
   
-  1. Agenda 21 is an environmental agenda 
+   ####  "The understanding of what 'nature' is inspired views about what the city ought to be" Swyngedow and Kaika 2000 
+  
+**Scalar difference of problem,** flom molecular to global. Allows space for all the scales in-between (ie local, regional, etc). 
+  </details>
+
+  <details>
+    <summary> some history on global efforts </summary>
+    
+  1. Agenda 21, environmental agenda 
      * Established 1987
      * Introduces **Sustainable Growth**. _Agenda 21 sustainable growth as the way to go forward._
      * Critically is not anti-growth. 
@@ -20,28 +32,34 @@ Hillary Angelo, David Wachsmuth
   2. **ipcc:** Intergovernmental Panel on Climate Change: 
      * Established 1988
   
-
+  3. 1997 Kyoto Protocol. First Environmental Agreement from UN --> 2015 Paris Agreement
+     * Binding Agreements -->Pledge-and-Review
+     * Top-Down --> Bottom-Up
+     * Regulatory --> Catalyze and Facilitate
+  </details>
+  
+  <details> 
+    <Summary> Sustainable Development At The Center? </summary>
+    
 ![image](https://user-images.githubusercontent.com/34726888/163415773-e152a619-55cf-4d0c-944f-3af630d95c69.png)
   
+  </details>
+  
+<details>
+  <summary> City Resilience Framework </summary>
  
-  
- ####  "The understanding of what 'nature' is inspired views about what the city ought to be" Swyngedow and Kaika 2000 
-**Scalar difference of problem,** flom molecular to global. Allows space for all the scales in-between (ie local, regional, etc). 
 ![image](https://user-images.githubusercontent.com/34726888/163417712-d96d2ff5-9640-415d-aee1-ae6c1e1760b8.png)
+  </details>
+  
+  **Urban Carbon Budgets**
+  
 
-  
-  **Urban Carbon Budgest**
-  
-  
-  1997 Kyoto Protocol. First Environmental Agreement from UN --> 2015 Paris Agreement
-  1. Binding Agreements -->Pledge-and-Review
-  2. Top-Down --> Bottom-Up
-  3. Regulatory --> Catalyze and Facilitate
-  
-  
-  
+  <details> 
+    <summary>  Black Box of Power in Enviro Gov, Morrison> </summary>
+    
   ![(black box of power in environemtnal governance, morrison)](https://user-images.githubusercontent.com/34726888/163418364-68ea7bed-eaed-4492-b53f-bdf418837bde.png)
-
+  </details>
+  
  [Greenhouse Gas Protocol](https://ghgprotocol.org/countries-and-cities)
   
   
