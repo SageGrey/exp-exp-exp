@@ -7,6 +7,11 @@
   
   <summary> Taylor Davey 4/14/2022 </summary>
   
+  "While nations talk, cities act," David Miller
+   
+  [Why does everyone think cities can save the planet?](https://journals-sagepub-com.ezp-prod1.hul.harvard.edu/doi/full/10.1177/0042098020919081)
+Hillary Angelo, David Wachsmuth
+  
   1. Agenda 21 is an environmental agenda 
      * Established 1987
      * Introduces **Sustainable Growth**. _Agenda 21 sustainable growth as the way to go forward._
