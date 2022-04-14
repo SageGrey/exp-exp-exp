@@ -5,7 +5,7 @@
 
 <details>
   
-  <summary> Taylor Davey 4/14/2022 </summary>
+  <summary> Cities and Global Efforts: Taylor Davey 4/14/2022 </summary>
 
   ### Summary 
   Davey talks about the **scalar nature** of climate change that spans a molecular to global scale. Her thesis largely seems to be that cities at a local level are where more of climate action is taking place. Introduces a lot of diagrams/framweworks that global climate community has been using. 
