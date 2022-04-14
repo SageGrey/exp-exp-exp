@@ -12,6 +12,7 @@
 
 
 
+
 <details>
   <summary>Class Logistics!</summary>
   
@@ -397,6 +398,20 @@ This idea comes from Clarance Stone writing about Atlanta. It is similar to Grow
 
   </details>
   
+<details>
+  <summary> Formula for Calculating the Square Footage Needed for a Zoning Bonus </summary>
+  
+  For a subsidy to be neccesary, sufficient, but not exessive: 
+  
+$\displaystyle \frac{Cost of Amenity}{Value of A Bonus Sq Ft}$
+ 
+$\displaystyle \frac{\partial f}{\partial x}$  
+  </details>
+  
+img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="\Large SFforTotalAmenityNeeded=\frac{CostofAmenity}}{ValueOfABonusSqFt}" />  
+  
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="\Large x=\frac{CostOfAmenity{b^2-4ac}}{2a}" />
+
   ### Unsorted Below This Line
   ```
                ________            _______
