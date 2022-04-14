@@ -36,6 +36,8 @@ Hillary Angelo, David Wachsmuth
      * Binding Agreements -->Pledge-and-Review
      * Top-Down --> Bottom-Up
      * Regulatory --> Catalyze and Facilitate
+    
+   More recent, introduction of the idea of  **Urban Carbon Budgets** 
   </details>
   
   <details> 
@@ -50,9 +52,7 @@ Hillary Angelo, David Wachsmuth
  
 ![image](https://user-images.githubusercontent.com/34726888/163417712-d96d2ff5-9640-415d-aee1-ae6c1e1760b8.png)
   </details>
-  
-  **Urban Carbon Budgets**
-  
+    
 
   <details> 
     <summary>  Black Box of Power in Enviro Gov, Morrison> </summary>
@@ -84,8 +84,10 @@ Hillary Angelo, David Wachsmuth
 
   </details>
   
+  <details>
+    <summary> Slow Violence </summary>
+  Slow-violence: O'lear (2016) ["Climate Science and Slow Violence"](https://www-sciencedirect-com.ezp-prod1.hul.harvard.edu/science/article/pii/S0962629815000062)
   
-  slow-violence: O'lear (2016) ["Climate Science and Slow Violence"](https://www-sciencedirect-com.ezp-prod1.hul.harvard.edu/science/article/pii/S0962629815000062)
-  
+    </details>
 </details>
 
