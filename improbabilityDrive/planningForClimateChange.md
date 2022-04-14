@@ -63,16 +63,27 @@ Hillary Angelo, David Wachsmuth
  [Greenhouse Gas Protocol](https://ghgprotocol.org/countries-and-cities)
   
   
-  
+  <details>
+    <summary> Carbon Lock-In, Seto et Al </summary>
+    
  ![image](https://user-images.githubusercontent.com/34726888/163419844-d9fd3441-f68a-4302-bc5e-e0ba1b7fc893.png)
-Seto et All, Carbon Lock-In 
+  </details>
   
+  <details>
+    <summary> Urban MEtabolism </summary>
+    
   ![image](https://user-images.githubusercontent.com/34726888/163421157-63f22d42-4d86-4091-8525-c7caccd6f454.png)
  urban metabolis, 1970s
+    
+  </details>
   
-  
+  <details>
+    <summary> Discourses on Climate Delay>, Lamb et, al </summary>
+    
 ![image](https://user-images.githubusercontent.com/34726888/163421625-a9cdc8d4-656c-43ca-84a8-7019e433d7f2.png)
-discourses of climate delay lamb et al
+
+  </details>
+  
   
   slow-violence: O'lear (2016) ["Climate Science and Slow Violence"](https://www-sciencedirect-com.ezp-prod1.hul.harvard.edu/science/article/pii/S0962629815000062)
   
