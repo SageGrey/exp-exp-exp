@@ -1,4 +1,4 @@
-## Notes From Abby Spinak's Writing
+## Notes From Abby Spinak's Writing/Lectures
 
 <details>
   <summary> Dispatches from Texas </summary>
