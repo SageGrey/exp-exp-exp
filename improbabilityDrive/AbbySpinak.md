@@ -33,7 +33,13 @@
   16. cheap nature, progressive closure
   17. lengths to keep industry alive
   18. Hell or high water
-  19. 
+  19. Oldest Trick in The Book, mineral rights
+  20. Oil as Deux ex Machina
+  21. Oil Prices in Film Release
+  22. Slow Violence
+  23. summary beginning
+  24. dystopian stories
+  25. we need reduced consumption
   
   ```
   <details>
