@@ -3,12 +3,12 @@
 <details>
   <summary> Dispatches from Texas </summary>
   
-  ![image](https://user-images.githubusercontent.com/34726888/163501064-4458ef0f-3adc-4939-b8e3-7a800491aaeb.png)
+  ![image](https://user-images.githubusercontent.com/34726888/163501064-4458ef0f-3adc-4939-b8e3-7a800491aaeb.png) 
  
 
   ### Reading Notes
     
-[Twenty-First Century Oil Encounter: Dispatches from Texas](https://www.technologystories.org/the-twenty-first-century-oil-encounter-dispatches-from-texas/) 
+[Twenty-First Century Oil Encounter: Dispatches from Texas](https://www.technologystories.org/the-twenty-first-century-oil-encounter-dispatches-from-texas/) also [here](http://gofile.me/6WhDC/NzMIaT69U)
 
  ``` 
  Energy Humanities
