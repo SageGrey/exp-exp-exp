@@ -123,5 +123,21 @@ Landscape of Indebtedness”
 Countryside,” in W. Bernard Carlson and Erik M. Conway (eds.), New 
 Approaches to the History of Electrification (under review, University of
 Virginia Press). 
+ 
+  
+ ```
+ 1. Intro
+ 2. Familial Contentment, Not in Metrics
+ 3. Electricity being used for entertainment, not industrial
+ 4. USAID 
+  5. Historians trace power
+  6. presentist
+  7. USAID borrowing co-op model
+  9. connecting into not protecting from globalizing markets
+  11. povery alleviation
+  12. 
+  **Electricity Boosterism**
+ ![image](https://user-images.githubusercontent.com/34726888/163604069-0626d427-3bfc-4271-b635-35703a4b37fb.png)
+ 
 
   </details>
