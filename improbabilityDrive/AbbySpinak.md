@@ -98,6 +98,7 @@ University (November 2021)_
   * Alisa Aturbe (sp?)'s work where she describes how we have a society where "spatial paradigms are made logical only by fossil fuel abundance"
   * We have seperated energy production from energy consumption. This was labled clean initially because there was not smoke at the site of consumption. 
   * USAID has spread its model of energy cooperatives to the global south. 
+  * Quote that the energy into the household **weakened dreams**
 
   **Delightful**
     ![image](https://user-images.githubusercontent.com/34726888/163587250-2e6c1c62-8d87-4611-9f94-e0f772b3a712.png)
