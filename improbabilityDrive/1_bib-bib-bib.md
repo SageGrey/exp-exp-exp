@@ -625,7 +625,7 @@ demilitarize public space—by redirecting funding from multi-agency policing to
              To what extent does certain technology require certain political structures 
              Ships, Factories, Atom Bomb --> Authoritative, unDemocratic
              
-              
+               
     
 **Yochim, E. (2010)._Skate life : Re-imagining white masculinity_**. Ann Arbor: University of Michigan Press.
 
