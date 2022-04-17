@@ -10,7 +10,27 @@
            |++++++|=|=|=|=|=|[][]|
 
 
+<details> 
+  <summary> questions for review </summary>
+  
+```diff
+  In 1934 FHA is established Also created the program of federal housing insurance loans. 
+  Even the CREATION of this program was influential, inspiring confidence even with banks not using these loans. 
+
+! can you say more about this point, how were they influential even when they were not using these loans?`
+```
+  
+  ```diff
+  
+! `When was this`? Consolidation of Block Grants
+[Consolidation of Categorical Grants into Block Grants](236_blockGrantVsCategorical.md)
+  
+! Concise definition for Capital Subsidy? Subsidy that tries to infuse extra cash to a developer?   
+
+  ```
+  </details>
 <details>
+  
   <summary>Class Logistics!</summary>
   
  OH: 2-4pm Wednesday   
@@ -55,6 +75,8 @@ and Private Development](http://gofile.me/6WhDC/cvKMNKgSv), Class Note #1
 **Black Letter Law** --> Law on the books, may be different that the way things are actually done  
   
 **Fiscal Federalism** --> A subfield of public economics, fiscal federalism is concerned with "understanding which functions and instruments are best centralized and which are best placed in the sphere of decentralized levels of government" 
+  
+**Capital Subsidy** --> Example is LIHTC  
   
 
  </details>
@@ -462,7 +484,85 @@ This idea comes from Clarance Stone writing about Atlanta. It is similar to Grow
   
  </details>
     
+ <details> 
+  <Summary> US Historical Timeline of Subsidies </summary>
+   **ZKN note:** [Historical Timeline of Subsidies](../zzzzz_cards/235_HstrcTmln_PublicSubsidies.md)
+  
+### Historic Timeline of Public Subsidies
+
+This is a history focusing on money, provided by gov. to other sectors for "government desired" projects in order to lower the overall cost. 
+
+**Fiscal Federalism-->** From wikipedia
+As a subfield of public economics, fiscal federalism is concerned with "understanding which functions and instruments are best centralized and which are best placed in the sphere of decentralized levels of government" (Oates, 1999)...
+
+### 1929 - 39 : 
+  Great Depression
+### 1933 Public Works Administration
+Was intended to create more jobs, the logic was to create a multiplier effect for public spending. Established *Slum Clerance Housing* only 29,000 units that were modeled off of european housing models
+### 1934 FHA is established
+Also created the program of federal housing insurance loans. Even the CREATION of this program was influential, inspiring confidence even with banks not using these loans. `can you say more about this point, how were they influential even were they not using these loans?`
+### [Housing Act of 1937](https://github.com/SageGrey/exp-exp-exp/blob/main/zzzzz_cards/ThirtyPercentThreshold_HousingAct1937.md)
+Creates pubic housing that is state owned, where ownership/operation is run by gov. 
+Was conditioned on a 1:1 basis, so it did not really increase the quanitity of public housing. 
+This act establishes the 30% rent burden threshold
+### [Post WWII, Housing Act of 1949](https://github.com/SageGrey/exp-exp-exp/blob/main/zzzzz_cards/Disinvestment_HousingAct1949.md)
+Sets goal for every family having a home. Embraces the public-private model (this is in large part from a need to not seem socialist)
+
+**Title 1** of this act authorized "Slum Clearance," It also introduced the idea of urban renewal, but did not use those terms, instead described bligheted land and slums.
+Established the **Land Write-down model** that gov would buy blighted land and then sell at below cost (or $1) to private actors. 
+
+**Title 2** Mortgage loan insurance for **new** construction (disinvestment in the cities, and building suburbia)
+
+### 1965 Creating of HUD
+_Urban legend of wanting it to be called Dept of Urban Development, but acronym would be DUD_
+
+### `When was this`? Consolidation of Block Grants
+[Consolidation of Categorical Grants into Block Grants](236_blockGrantVsCategorical.md)
+
+### 1980s - Present
+National money has largely dried up
+[Historical Timeline of Subsidies](../zzzzz_cards/235_HstrcTmln_PublicSubsidies.md)
+
+</details>
+
+<details>
+  <summary> Community Development Block Grants </summary>
+  
+### [Block Grants](https://github.com/SageGrey/exp-exp-exp/blob/main/zzzzz_cards/236_blockGrantVsCategorical.md)
+      
+    This is a shoft from numberous categorical funding sources to consolidated Block Grants. In this time period, 129 Categorical Grants were consolidated into 6 Block Grants
+
+For example: Community Development Block Grant
+
+CDBG is based on a formula (4/5ths) and discretionary (1/5) The original formula considered poverty ratio, population, available housing. Was ammended to inclue pre 1940s housing.
+</details>
+      
+<details> 
+  <summary> Credits vs Deductions </summary> 
+**Credits** the amount is subtracted from the tax bill, can be sold
+**Deductions** the amount is subtracted from taxable income around tax time
+
+Examples: $1,000 Credit/Deduction for someone at 15% tax bracket
+$1,000 Credit --> $1,000 Saved
+$1,000 Deduction --> $150 Saved
+
+  </details>    
+  
+  
+<Details> 
+  <Summary> LIHTC: Low Income Housing Tax Credit </summary> 
+  
+Established in **1986**  
+Comes from the federal government  
+Is a **Capital Subsidy**  
+15 year compliance period, after which, sunsets  
+Complex Process, see image below  
+Businesses can buy the credits, often at a profit, but sometimes as a somewhat misleading CSR campaign ($1.10 to X only costs 10 cents).  
  
+ ![image](https://user-images.githubusercontent.com/34726888/156036147-d9125c8e-87a5-41f6-9557-31ac70c161b1.png)
+    Photo From: Lawrence H Curtis, Winn Development
+ </details>
+      
   ### Unsorted Below This Line
 
   
@@ -518,72 +618,9 @@ __________\     \               //\::/\:/___  ___ /       /::\ \:\ \::/\:\ \:\
 ::::::::::\\  \  \             /:\/::\///__/ /__//       /:/\:\ \:\/::\ \:\ \:
 ```
 
-<details> 
-  <Summary> US Historical Timeline of Subsidies </summary>
-   **ZKN note:** [Historical Timeline of Subsidies](../zzzzz_cards/235_HstrcTmln_PublicSubsidies.md)
-  
-### Historic Timeline of Public Subsidies
 
-This is a history focusing on money, provided by gov. to other sectors for "government desired" projects in order to lower the overall cost. 
 
-**Fiscal Federalism-->** From wikipedia
-As a subfield of public economics, fiscal federalism is concerned with "understanding which functions and instruments are best centralized and which are best placed in the sphere of decentralized levels of government" (Oates, 1999)...
-
-### 1929 - 39 : 
-  Great Depression
-### 1933 Public Works Administration
-Was intended to create more jobs, the logic was to create a multiplier effect for public spending. Established *Slum Clerance Housing* only 29,000 units that were modeled off of european housing models
-### 1934 FHA is established
-Also created the program of federal housing insurance loans. Even the CREATION of this program was influential, inspiring confidence even with banks not using these loans. `can you say more about this point, why were they not using these loans?`
-### Housing Act of 1937
-Creates pubic housing that is state owned, where ownership/operation is run by gov. 
-Was conditioned on a 1:1 basis, so it did not really increase the quanitity of public housing. 
-This act establishes the 30% rent burden threshold
-### Post WWII, Housing Act of 1949
-Sets goal for every family having a home. 
-
-Embraces the public-private model (need to not seem socialist)
-
-**Title 1** of this act authorized "Slum Clearance," It also introduced the idea of urban renewal, but did not use those terms, instead described bligheted land and slums.
-Established the **Land Wrightdown model** that gov would buy blighted land and then sell at below cost (or $1) to private actors. 
-
-**Title 2** Mortgage loan insurance for **new** construction (disinvestment in the cities, and building suburbia)
-
-### 1965 Creating of HUD
-_Urban legend of wanting it to be called Dept of Urban Development, but acronym would be DUD_
-
-### `When was this`? Consolidation of Block Grants
-[Consolidation of Categorical Grants into Block Grants](236_blockGrantVsCategorical.md)
-
-### 1980s - Present
-National money has largely dried up
-  </details>
-### [Historical Timeline of Subsidies](../zzzzz_cards/235_HstrcTmln_PublicSubsidies.md)
-### [Block Grants](https://github.com/SageGrey/exp-exp-exp/blob/main/zzzzz_cards/236_blockGrantVsCategorical.md)
       
-### Credits vs Deductions
-**Credits** the amount is subtracted from the tax bill, can be sold
-**Deductions** the amount is subtracted from taxable income
-
-Examples: $1,000 Credit/Deduction for someone at 15% tax bracket
-$1,000 Credit --> $1,000 Saved
-$1,000 Deduction --> $150 Saved
-
-
-
-### LIHTC: Low Income Housing Tax Credit (Lihtec)
-
-     Established in 1986
-     Comes from the federal government
-     Is a **Capital Subsidy**
-     15 year compliance period, after which, sunsets
-     Complex Process, see image below
-     Businesses can buy the credits, often at a profit, but sometimes as a somewhat misleading CSR campaign ($1.10 to X only costs 10 cents).
- 
- ![image](https://user-images.githubusercontent.com/34726888/156036147-d9125c8e-87a5-41f6-9557-31ac70c161b1.png)
-    Photo From: Lawrence H Curtis, Winn Development
- 
- 
  ### Land Acquisition 
  
  **IN US: General land ownership breakdown**   
