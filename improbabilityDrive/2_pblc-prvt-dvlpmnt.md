@@ -54,6 +54,8 @@ and Private Development](http://gofile.me/6WhDC/cvKMNKgSv), Class Note #1
 **SLAP Lawsuits** --> Strategic Litigation Against Participation  
 **Black Letter Law** --> Law on the books, may be different that the way things are actually done  
   
+**Fiscal Federalism** --> A subfield of public economics, fiscal federalism is concerned with "understanding which functions and instruments are best centralized and which are best placed in the sphere of decentralized levels of government" 
+  
 
  </details>
 
@@ -519,6 +521,42 @@ __________\     \               //\::/\:/___  ___ /       /::\ \:\ \::/\:\ \:\
 <details> 
   <Summary> US Historical Timeline of Subsidies </summary>
    **ZKN note:** [Historical Timeline of Subsidies](../zzzzz_cards/235_HstrcTmln_PublicSubsidies.md)
+  
+### Historic Timeline of Public Subsidies
+
+This is a history focusing on money, provided by gov. to other sectors for "government desired" projects in order to lower the overall cost. 
+
+**Fiscal Federalism-->** From wikipedia
+As a subfield of public economics, fiscal federalism is concerned with "understanding which functions and instruments are best centralized and which are best placed in the sphere of decentralized levels of government" (Oates, 1999)...
+
+### 1929 - 39 : 
+  Great Depression
+### 1933 Public Works Administration
+Was intended to create more jobs, the logic was to create a multiplier effect for public spending. Established *Slum Clerance Housing* only 29,000 units that were modeled off of european housing models
+### 1934 FHA is established
+Also created the program of federal housing insurance loans. Even the CREATION of this program was influential, inspiring confidence even with banks not using these loans. `can you say more about this point, why were they not using these loans?`
+### Housing Act of 1937
+Creates pubic housing that is state owned, where ownership/operation is run by gov. 
+Was conditioned on a 1:1 basis, so it did not really increase the quanitity of public housing. 
+This act establishes the 30% rent burden threshold
+### Post WWII, Housing Act of 1949
+Sets goal for every family having a home. 
+
+Embraces the public-private model (need to not seem socialist)
+
+**Title 1** of this act authorized "Slum Clearance," It also introduced the idea of urban renewal, but did not use those terms, instead described bligheted land and slums.
+Established the **Land Wrightdown model** that gov would buy blighted land and then sell at below cost (or $1) to private actors. 
+
+**Title 2** Mortgage loan insurance for **new** construction (disinvestment in the cities, and building suburbia)
+
+### 1965 Creating of HUD
+_Urban legend of wanting it to be called Dept of Urban Development, but acronym would be DUD_
+
+### `When was this`? Consolidation of Block Grants
+[Consolidation of Categorical Grants into Block Grants](236_blockGrantVsCategorical.md)
+
+### 1980s - Present
+National money has largely dried up
   </details>
 ### [Historical Timeline of Subsidies](../zzzzz_cards/235_HstrcTmln_PublicSubsidies.md)
 ### [Block Grants](https://github.com/SageGrey/exp-exp-exp/blob/main/zzzzz_cards/236_blockGrantVsCategorical.md)
