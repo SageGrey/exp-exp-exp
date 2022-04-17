@@ -581,7 +581,15 @@ Contemporary Implications,**” Journal of Planning Education and Research 14: 1
   3. History of US Reparative Planning (excellent)
   4. BLM Efforts
   5. Non-Reformist Reforms
-  6. 
+  6. methods
+  7.outline of results
+  8. unfairness of subsidizing wealthy in transit infra. 
+  9. highest and best use, optimization
+  10. Metro As Sanctuary,Free Fares 
+  11. 2020 BLM Opportunity
+  12. Embodied Perspectives, Meeting Facilitation
+  13. Summary of ACT-LA
+  14. Relational and Solidaristic vs Techno-managerial and professionalized 
   
   Take-Aways:
   **Analysis of 40 Acres, pg 3**   
@@ -596,7 +604,16 @@ If reparation is "abolition in action," as stated by Patrisse Cullors, cofounder
 **BLM Reperations Now Toolkit**
  BLM’s Reparations Now Toolkit further outlines five key components of reparations: (1) Official  acknowledgment and apology for harm, public education, or memorial about the harm; (2) Compensation to a  specific, defined group of individuals harmed by a violation, including descendants, as well as family and  community members of individuals directly targeted for harm who were adversely affected’; (3) Restitution  and Repatriation—Action to restore individuals harmed to the position they were in before the initial harm  occurred; (4) Cessation/Assurance of Non-Repetition—Action to stop the systems, institutions, and practices  causing the harm; and (5) Rehabilitation—Changes to laws, institutions, and systems aimed at ensuring that  harm will not happen again They additionally note: “reparations cannot be achieved simply through  ‘acknowledgment or an apology’ or ‘investment in underprivileged communities.”
 
- 
+**Shift Narrative Beyond Policing, pg 11**
+ACT-LA seized this window of opportunity to shift the  narrative around transit safety beyond policing and escalate their advocacy to end Metro’s  multi-agency policing contract by 2022. As recalled by an ACT-LA organizer,
+
+** Embodied Perspectives** A common feature of ACT-LA convenings is that the agenda includes a creative exercise that  invites participants to tap into their imagination and embodied perspectives in manifesting campaign goals. As characterized by an ACT-LA staff member, much of the work they do is  imagination work, “pushing imagination” and asking “what world do we want to live in” even  though “what could work for us doesn’t necessarily exist yet.“ For example, the public  webinar that initially framed the issue of public safety on metro began with a guided  meditation in which the facilitator asked participants to close their eyes and imagine how 
+
+** conclusions, holistic safety 14 **
+That ACT-LA's approach to reparative planning is relational and solidaristic—as opposed to  techno-managerial and professionalized—appears instructive for reparative planning  scholars and practitioners....Beyond simply critiquing how capitalist culture consumes our cities and  dehumanizes people, they are actively fighting to decommodify housing— through  inclusionary zoning and tenant protections, decommodify transit—via fare-free transit, and 
+13 DRAFT- DO NOT SHARE W/O AUTHORS’ PERMISSION 
+demilitarize public space—by redirecting funding from multi-agency policing to investments  in care-centered spatial tactics, stewardship, programming, support services, public  education, and job creation that promote holistic safety.
+
                
   Conditions for Pleasure             
 
