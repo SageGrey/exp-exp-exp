@@ -26,6 +26,10 @@
 [Consolidation of Categorical Grants into Block Grants](236_blockGrantVsCategorical.md)
   
 ! Concise definition for Capital Subsidy? Subsidy that tries to infuse extra cash to a developer?   
+  
+! Land Banking when to use?   
+  
+! Globally the trend in PPP, often called **Build-Operate-Transfer.**  What is this?   
 
   ```
   </details>
@@ -73,11 +77,11 @@ and Private Development](http://gofile.me/6WhDC/cvKMNKgSv), Class Note #1
 **Discretionary** --> Needs to go through approval process with city  
 **SLAP Lawsuits** --> Strategic Litigation Against Participation  
 **Black Letter Law** --> Law on the books, may be different that the way things are actually done  
-  
-**Fiscal Federalism** --> A subfield of public economics, fiscal federalism is concerned with "understanding which functions and instruments are best centralized and which are best placed in the sphere of decentralized levels of government" 
-  
-**Capital Subsidy** --> Example is LIHTC  
-  
+**Fiscal Federalism** --> A subfield of public economics, fiscal federalism is concerned with "understanding which functions and instruments are best centralized and which are best placed in the sphere of decentralized levels of government"  
+**Capital Subsidy** --> Example is LIHTC    
+**Land Banking** --> When government buys up land in order to alter the supply/demand and drive up value of land.    
+**"Fair Market Compensation"** -->  What a willing buyer would pay a willing seller.  
+**Sole Source Method**: Non-competitive process rfp. Gov approaches one entity.   
 
  </details>
 
@@ -347,6 +351,7 @@ take-away
 </details>
 <Details>
   <Summary> Various Types of Financial Analysis </summary>
+  
 ### Cost Benefit Analysis 
    
       Not super common in public private development  
@@ -621,12 +626,13 @@ __________\     \               //\::/\:/___  ___ /       /::\ \:\ \::/\:\ \:\
 
 
       
- ### Land Acquisition 
+<details> 
+  <summary> Land Acquisition </summary>
  
  **IN US: General land ownership breakdown**   
- 60% private  
- 40% gov   
- 2% tribal
+ 60% private    
+ 40% gov     
+ 2% tribal  
  
  **A few reasons why gov might buy land**
  Government might want to aquire land in order to reap the economic benefit of the infrastructure that it has invested in.   
@@ -651,26 +657,37 @@ CONDITIONS
 **Precedent Taking** (Gov wants to _eliminate_ something existing) --> Problematic Land Use
 **Subsequent Taking** (Gov wants to _do_ something specific with the land) --> Highway
  
- 
- ### Kelo Case, 2005
- Kelo vs City of New London
- Court Case where Pfizer wanted to move in, city wanted to develop a research campus. Create jobs, tax revenue, development (common development plan). They would need to acquire 115 land parcels. They would lease to private developer for 1$ a year for 99 years. (The 1$ is for "consideration" in order to have a valid contract, not just a gift). Suzette Kelo didn't want to sell. Used eminent domain, went all the way to the supreme court. The Court **UPHELD** the use of eminent domain by slim minority (5-4). 
- 
- Big Issue: Is this a **"Public Use""** (the court said yes, public purpose is public use).   
- 
- Controversy: Taking Private Use "A" and moving it to private use "B." Governemnt declaring that B is more valuable than A. Dissent argued that this would mean that "any lower use of land could be subject to being flipped."  
- Other Noteworthy Elements: Eminent domain as applied to "unblighted" land, (ie the plaintiff wasn't poor).   
-  
-Consequence: More than 40 State legislators tightened eminent domain, clarified that eminent domain could only be used for blight, and redefined what blight is. Thus cementing the legacy that eminent domain can only be used again low-income folks. 
+</details>
 
+<details>
+  <summary> Land Aquisition Controversies: Kelo Case Details </summary>
+
+ ### Case Overview: Kelo vs City of New London, 2005
+ Court Case where Pfizer wanted to move in, city wanted to develop a research campus. Create jobs, tax revenue, development (common development plan). They would need to acquire 115 land parcels. They would lease to private developer for 1$ a year for 99 years. (The 1$ is for "consideration" in order to have a valid contract, not just a gift). Suzette Kelo didn't want to sell. Used eminent domain, went all the way to the supreme court. The Court **UPHELD** the use of eminent domain by slim minority (5-4). 
+  
+  <details> 
+    <summary> Similar Vibes </summary>
+    
+![image](https://user-images.githubusercontent.com/34726888/157075538-02288146-073a-4944-9345-6b4d0280ce5c.png)
+    
+    _UP is released in 2009, Average Production Time for Pixar is 4-7 years_
+    
+  </details> 
+ 
+ Big Issue with Kelo: Is this a **"Public Use""** (the court said yes, public purpose is public use).   
+ 
+**The Basic Controversy**: Taking Private Use "A" and moving it to private use "B." Governemnt declaring that B is more valuable than A. Dissent argued that this would mean that "any lower use of land could be subject to being flipped."  
+_Other Noteworthy Elements_: Eminent domain as applied to "unblighted" land, (ie the plaintiff wasn't poor).   
+  
+**Consequence of Kelo**: More than 40 State legislators tightened eminent domain, clarified that eminent domain could only be used for blight, and redefined what blight is. Thus cementing the legacy that eminent domain can only be used again low-income folks. 
 
 **"Fair Market Compensation"**: What a willing buyer would pay a willing seller. This becomes a fiction if the seller isn't willing to sell. 
 
- ![image](https://user-images.githubusercontent.com/34726888/157075538-02288146-073a-4944-9345-6b4d0280ce5c.png)
-
-_UP is released in 2009, Average Production Time for Pixar is 4-7 years_
-      
+ </details> 
  
+ <Details> 
+  <Summary> Can Opener Joke> 
+    
  ### Assume we have a can opener joke
  
                        A popular economics joke has a physicist, a chemist, and an economist all stranded on a desert island. 
@@ -682,22 +699,34 @@ _UP is released in 2009, Average Production Time for Pixar is 4-7 years_
                        
                        Source: The desert island “assume we have a can opener” joke dates to at least 1970 and possibly originated with British economists.
                        
-                       
-  Globally the trend in PPP, often called **Build-Operate-Transfer.** 
+  </details> 
   
-  ### Land Re-Adjustment
-  Used when areas of fragmented, oddly configured development. Particularly in regard to infrastructure. 
+  <details> 
+    <summary> Public Private Partnerships (PPP) </summary> 
+    
+    Globally the trend in PPP, often called **Build-Operate-Transfer.** 
+  </details>
+  
+  
+ 
+ <details> 
+   <summary> Land Re-Adjustment </summary> 
+   
+ Land Re-Adjustment: 
+  Used when there are areas of fragmented, oddly configured development. This type of endeavor is particularly useful for the development of infrastructure. 
   
   Offers promised of something _less Coercive_ than Eminent Domain. All land is pooled, redistributed. Then land is given back to members of the pool. Will get somewhat less land back. Residents will be willing since the land will be higher value. 
   
   ![image](https://user-images.githubusercontent.com/34726888/157078468-6e91bc41-039c-4804-b880-8436667b292c.png)
 
-Pattern: Depends based on country/place
-Step 1: Local gov create an entity that will stage the project. The entity will then seek support from involved owners. Generally 50% + 1 of owners have to agree to pool their parcels. They then buy parcels 
-Step 2: Create a plan. Set aside land for infrastructure, re-sale (to produce revenue for the project). 
-Step 3: Original land is returned to owners, but in smaller amounts. 
+Pattern: Depends based on country/place, but basic pattern
+     * Step 1: Local gov create an entity that will stage the project. The entity will then seek support from involved owners. Generally 50% + 1 of owners have to agree to pool their parcels. They then buy parcels 
+     * Step 2: Create a plan. Set aside land for infrastructure, re-sale (to produce revenue for the project). 
+     * Step 3: Original land is returned to owners, but in smaller amounts. 
 
 _What about the minority that doesn't want to sell?_ They are forced to sell by the entity at an amount that does not exceed the land value of their neighbors. This is of course reminiscent of eminent domain. 
+   
+  </details>
 
 PILaR --> 
 
@@ -734,7 +763,7 @@ STEP FIVE: Gov negotiates with the tentative winner, enters into a binding winne
           AND can result in lawsuits. 
 
 
-**SOLE SOURCE METHOD**: Non-competitive process. Gov approaches one entity.  
+
   
   
 ```diff
