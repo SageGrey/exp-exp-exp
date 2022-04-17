@@ -573,6 +573,32 @@ Contemporary Implications,**” Journal of Planning Education and Research 14: 1
                274: Infra is good to study argument
                275: questions Infra surfaces
                
+  Song, Lily. "Reparative Planning in Action: The Case of Alliance For Community Transportation" (Unpublished)
+  
+  ```
+  1. Introduction
+  2. Reparative Planning, Racialized Planning
+  3. History of US Reparative Planning (excellent)
+  4. BLM Efforts
+  5. Non-Reformist Reforms
+  6. 
+  
+  Take-Aways:
+  **Analysis of 40 Acres, pg 3**   
+ American reparation planning is historically rooted in organizing and advocacy by formerly  enslaved people, their descendants, and accomplices (Aiyetoro and Davis 2009). While the 1861 Confiscation Act and Freedman’s Bureau Bills (1865-1866) are widely credited for  proposing allocations of forty-acre plots and fifty dollars to formerly enslaved families, such  federal measures were soundly reversed by congressional leaders who instead compensated  slave owners and loyal Southerners.
+ 
+ **Goal of Reperatory Planning, pg 4**
+Kelley  frames reparations “as a broad strategy to radically transform society—redistributing  wealth, creating a democratic and caring public culture, exposing the ways capitalism and  slavery produced massive inequality” (129).
+
+**Abolistionist Planning Efforts, pg 4** 
+If reparation is "abolition in action," as stated by Patrisse Cullors, cofounder of Black Lives  Matter— the decentralized political and grassroots movement most prominently leading the  contemporary struggle to abolish mass incarceration, capital punishment, and police  violence—it seems appropriate to consider reparative planning in light of abolitionist  planning debates.2 In 2017, a group of graduate students at UCLA co-facilitated a course,  "Abolitionist Planning in Today’s Political Conjuncture," and published an abolitionist  planning guide for urban planners. In response to the election of Trump, the group sought to  invoke abolition in their study and practice as a “framework for urban planning practitioners  to combat and reverse oppression of marginalized communities while also deferring to the  experiences and expertise of these communities.” The framework identifies potential  avenues to implement abolitionist planning such as community control, housing and urban  inclusivity, environmental racism and ecology, and safe streets. Subsequently, Deshonay  Dozier’s "A Response to Abolitionist Planning" (2018) raised the intractable question of  whether professional planning could actually contribute to abolition as an “institution of  harm complicit in the making of penal systems“ and as a central conduit of violence against  Indigenous, Black, Brown, Asian and poor people. Dozier’s piece conceptualizes abolition as  
+
+**BLM Reperations Now Toolkit**
+ BLM’s Reparations Now Toolkit further outlines five key components of reparations: (1) Official  acknowledgment and apology for harm, public education, or memorial about the harm; (2) Compensation to a  specific, defined group of individuals harmed by a violation, including descendants, as well as family and  community members of individuals directly targeted for harm who were adversely affected’; (3) Restitution  and Repatriation—Action to restore individuals harmed to the position they were in before the initial harm  occurred; (4) Cessation/Assurance of Non-Repetition—Action to stop the systems, institutions, and practices  causing the harm; and (5) Rehabilitation—Changes to laws, institutions, and systems aimed at ensuring that  harm will not happen again They additionally note: “reparations cannot be achieved simply through  ‘acknowledgment or an apology’ or ‘investment in underprivileged communities.”
+
+ 
+               
+  Conditions for Pleasure             
 
 **[Winner, Langdon “Do Artifacts Have Politics?”](http://gofile.me/6WhDC/oub6lvijF)** Daedalus 109, no. 1 (1980): 121–36.
 
