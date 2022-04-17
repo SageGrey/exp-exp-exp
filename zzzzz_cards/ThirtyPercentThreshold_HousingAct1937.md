@@ -6,4 +6,4 @@ Was conditioned on a 1:1 basis, so it did not really increase the quanitity of p
 
 Jerold Kaydem PPD, 2022
 
-**Searchterms** Affordable housing
+**Searchterms** Affordable housing, Housing Act
