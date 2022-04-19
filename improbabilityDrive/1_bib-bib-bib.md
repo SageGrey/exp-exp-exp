@@ -334,7 +334,19 @@ and Private Development](http://gofile.me/6WhDC/cvKMNKgSv), Class Note #1 (2022)
            457: Locating systems to be near labor that can't default on rental payments to company owned property
            458: Pollution
  
+ Lynch, Kevin. 1960. The Image of the City. Cambridge MA: Technology Press: 1–25 
  
+        1. Looking At Cities
+        2. Changing, Shaping
+        3. Legibility
+        4. image of the city, lost
+        5. legibility, distinctive
+        6. Perception
+        7.  
+        
+        **Quotes, pg 7** : [relating to historic preservation] A landscape  whose  every  rock tells  a  story  may  make difficult the  creation  of  fresh  
+stories. Although  this  may  not  seem  to  be  a.  critical  issue  in  our  present  urban  chaos,  yet  it  indicates that  what  we  seek  is  not  a   final  but an open-ended order, capable of continuous further development. 
+
 [Madden, David and Marcuse, Peter. 2016. “Introduction: The Residential is Political,”](http://gofile.me/6WhDC/kUzhyZKyy) In Defense of Housing: The Politics of Crisis. London, New York: Verso, 2016: 7-12
    
         7: Housing Crisis Context
