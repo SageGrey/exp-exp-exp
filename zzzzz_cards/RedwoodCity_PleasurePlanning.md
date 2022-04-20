@@ -1,6 +1,7 @@
 Sage Voorhees, MUP ’23, Essay 3
 
-# Pleasure Planning: What American cities could learn from sex-positive education. 
+# Pleasure Planning: 
+### What American cities could learn from sex-positive education. 
 
 It is almost easier to name what you cannot do in public spaces in the United States than it is to name what you can do. You cannot drink, you cannot play loud music, you cannot sell food, you cannot take recreational drugs, you cannot skateboard, you cannot sell wares, you cannot play with your dog off-leash, you cannot pitch a tent, you cannot nap, you cannot hang a hammock. What can you do? You can play oversized chess. 
 
