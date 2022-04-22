@@ -62,8 +62,11 @@ W E L C O M E. START READING HERE
   
   <details> 
   <summary> Ideas I want to explore  </summary>
+    
+![image](https://user-images.githubusercontent.com/34726888/164605316-8cbc89f1-602b-4795-b13b-96a576cdc8d1.png)
+
   
-    ```
+```
   Working On It! Check Back Soon. 
                                 \\\\\\\
                             \\\\\\\\\\\\
@@ -105,7 +108,8 @@ _____________|','   ///_/-------------/   |
 ..   
   
  *"Dont write the only thesis you can write. Write the thesis that only you can write. --Umberto Echo*  
-  
+ 
+### Production Culture + What can be gained from writing a thesis  
 About four weeks ago around fifteen MUPs sat on the floor of 7 Sumner. The group was coming together after having broken off into small discussion groups as part of a student-led design charette to discuss frustrations with MUP Core Studio. After a representative from each group had presented takeaways from their presvious disucssions, someone offered a topic for discussion that had come through the critiques. *Production Culture*. The idea was that what we were contending with is a culture at the GSD (and in society generally) that has chosen to prioritize deliverables over learning. Instead of the core of our education being in service to our desired learning outcomes, we felt that our learning was being treated as a secondary objective in the process to create tangible deliverables. 
 
 This idea of Production Culture has stuck with me over the last few weeks. In this assignment, I have been trying to think about how Production Culture applies to the MUP thesis process that I am about to begin. 
