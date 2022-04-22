@@ -1,12 +1,42 @@
 
+<p align="center"><img alt="Pleasure Planning" src="https://user-images.githubusercontent.com/34726888/163224100-940fcf9e-c267-498f-8417-932e645f3ccf.png" width="400" /></p>
 
-![image](https://user-images.githubusercontent.com/34726888/163224100-940fcf9e-c267-498f-8417-932e645f3ccf.png)
+# Experimental Infrastructure for Academic Research 
+**_Not your grandma's thesis research process_**
 
-# and an Alternative Structure for Academic Research
-**_not your grandma's thesis research process_**
-
+<details> 
+<summary> Whats Up </summary>
+  
+  
  *"Dont write the only thesis you can write. Write the thesis that only you can write. --Umberto Echo*
-![image](https://user-images.githubusercontent.com/34726888/163025688-c885a776-0ce5-42c8-90d7-ecf0a43b96ab.png)
+
+  
+</details>
+  
+<details> 
+<summary> Research Stratgy </summary>
+    
+  <details> 
+  <summary> Literature Review Adjacent </summary>
+   
+ ![image](https://user-images.githubusercontent.com/34726888/163025688-c885a776-0ce5-42c8-90d7-ecf0a43b96ab.png)
+  
+  </details>
+  
+      <details> 
+  <summary> Pleasure Mapping </summary>
+  
+  </details>
+  </details>
+    </details>
+ 
+    <details> 
+  <summary> Writing Excerpts on Pleasure </summary>
+  
+  </details>
+  
+
+
 
 
 ## Arguments
