@@ -10,15 +10,21 @@ W E L C O M E. START READING HERE
   
 
   ### What am I looking at?
-1. A proposal for an alternative to a traditional thesis research process which includes
-    * **Silo Map** A map of people I want to read (*alternative to a Literature Review*)
-    * **Pleasure Mapping** A facilitation guide for learning more about pleasure
+ #### 1. Who I Want To Read  
+  * A proposed process for learning from authors whose work I find compelling. I see this as an alternative to a more traditional Literature Review
   
-2. Some initial thoughts about my intended research topic: pleasure and urban planning 
-    * **Ideas on Pleasure and Urban Planning** that I'm Interested in Exploring
-    * **Writing Excerpts** exploring pleasure
-
-3. Some thoughts on how this is infrastructure
+ #### 2. Pleasure Mapping
+  * A facilitation guide for pleasure mapping. This is something I want to do to jump-start my own thinking about what makes a pleasurable place. 
+  
+ #### 3. Pleasure Questitions
+  * Some questions/things I currently want to explore. 
+  
+ #### 4. Writing Excerpts
+  * Three excerpts from my current exploration of pleasure and space
+  
+ #### 5. How is this infrastructure
+  * Some notes about how this is expieremental and how it is infrastructure
+  
 
  ```
 \|/          (__)    
