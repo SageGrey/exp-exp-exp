@@ -214,6 +214,29 @@ Jacobs, Jane. 1961. “The Kind of Problem a City Is.” In The Death and Life o
 “Parque México.” Wikipedia, 2022. https://es.wikipedia.org/wiki/Parque_M%C3%A9xico
 
   
+ # Pleasure and Anti-Growth
+  
+  In a talk this past week describing the explosion of Condominiums and HOAs in the past 50 years, researcher/writer Evan McKenzie brought up the point that there is a pervasive myth that supply is just passively responding to what demand is. When in fact, supply is often aggressively promoting and creating conditions that induce demand. Abby's writing on REA pushing for growth is in essence a perfect example of this.
+I think something that this myth of passive supply does is weaken the awareness of satiation. Growth in the modern capitalist era is not simply an increase of people who want goods/services, but in increase in how much an individual wants. This expansion of how much the individual wants tends to be treated as an unlimited capacity that is only limited by their means. However, where does this notion of unlimited capacity come from? We do not want to eat an unlimited amount, at some point we are full. We do not want to sleep an unlimited amount, at some point we want to get up. We do not want to have unlimited sex, at some point we are satiated. I think a way to think about this unlimited consumption is about ways that our satisfaction or satiation can be hidden or denied, and this is where Supply comes in. Advertisements are launched that tell us that the way that we are currently are is deficient, ugly, unhappy, backwards. They create in other words, an idea that we are Unsatisfied that seeks to overshadow any intrinsic conceptions of satiation. Taken to the extreme, I think that there is an argument to be made that while the general perception is that supply is passively responding to demand, a more realistic framing is that demand is largely just passively responding to supply (and the conditions that supply has created).
+I was especially interested in the quote about "weakening dreams" and I wonder is there  a connection between growth, denial of satisfaction, and weakened dreams?
+Below, an unsupported manifesto:
+  
+```
+ Pleasure = Satisfaction
+Satisfaction = Satiated
+Satiated = Enough
+Enough = Anti-Growth
+Pleasure = Anti-Growth
+  
+  
+denied pleasure = dissatisfaction
+dissatisfaction = yearning
+yearning = wanting more
+wanting more = growth
+denied pleasure = growth  
+```
+  
+  
  # Necesary Conditions for Pleasure: 
 ## Could Woonerfs be Reparative?
 
