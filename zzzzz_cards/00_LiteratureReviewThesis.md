@@ -57,21 +57,61 @@ W E L C O M E. START READING HERE
   </details>
   
 <details> 
-<summary> Pleasure Mapping </summary>
+<summary> 2. Pleasure Mapping </summary>
   
+ ## Pleasure Mapping: Beta Test
 
-  <details> 
-  
-    
-  <summary> 2. Pleasure Mapping </summary>
+**Materials:**  
+2-3 pieces of paper, a writing instrument, a sharpie/thick marker  
 
-    
-    
-    
-  </details>
+The goal of pleasure mapping is to explore  
+--what in our environment gives us pleasure  
+--what actions bring us pleasure   
+--where are places that give us pleasure   
+--what are the conditions necessary for pleasure  
+
+### Before We Begin
+I’m using this exercise as a way to inform my own understanding of places and pleasure in the process to write a thesis. If you would like to share anything you make in this mapping exercise with me, I would be grateful. However, you do not need to. I will also have some sharpies that you can use to redact anything you write if you would like to share some, but not all of what comes up
+
+### Step One: Warm Up (5 minutes): 
+With whoever is sitting next to you.   
+Take a minute to think of a place that brings you pleasure.  
+Share it with your partner/group and discuss what about that place brings you pleasure.  
+_Option to share with full group depending on time_
+
+
+### Step Two (5 minutes): 
+Pick a city, neighborhood or area that you know well.  
+On a piece of paper list places that you find pleasurable or places where you have experienced pleasure in that place.   
+
+ 
+### Step Three (5 minutes):
+Choose 2-3 places from the above list.   
+If you have chosen two places, take one of the pieces of paper and fold it length-wise (hot-dog style). If you chose 3 places, fold the paper in thirds lengthwise. At the top of the columns you have created, write your chosen place.  Underneath list out as many attributes/qualities/descriptions of each place as you can think of. 
+
+### Step Four: 
+Is there anything that these places have in common with each other? If so, flip over the piece of paper and write anything they have in common down.   
+
+### Step Five:
+From here, I would want to break into group discussion. But before we dig in, I want everyone to pull up the second page. This page is for a free-form pleasure map. The idea here is a place for your mind to go wild.  I want you to fill this page with as many pleasurable things, places, amenities, activities, anything that you can think of. These can be real, imagined, or historic. I will give everyone two minutes to start their list now, but feel free to add to this list as the discussion unfolds.  
+
+### Step Six: 
+Redact.  
+There is of course no requirement that you share either of your pages with me, but If you want to choose, I would love to have these papers (or pictures of them). You do not need to share anything at all. But If you do want to share, but you would like to redact anything before you share it, I have some markers that you can use. 
+
+```
+\|/          (__)    
+     `\------(oo)
+       ||    (__)
+       ||w--||     \|/
+   \|/
+  
+```
+  </details> 
+
   
   <details> 
-  <summary> Ideas I want to explore  </summary>
+  <summary> 3. Ideas I want to explore  </summary>
     
 ![image](https://user-images.githubusercontent.com/34726888/164605316-8cbc89f1-602b-4795-b13b-96a576cdc8d1.png)
 
@@ -102,22 +142,36 @@ _____________|','   ///_/-------------/   |
 
   
 <details> 
-  <summary> Pleasure Mapping </summary>
+  <summary> 4. Writing Excerpts </summary>
   
-</details>
-</details>
-</details>
- 
-<details> 
-###  <summary> Writing Excerpts on Pleasure </summary>
+```
+\|/          (__)    
+     `\------(oo)
+       ||    (__)
+       ||w--||     \|/
+   \|/
+ ``` 
   
 </details>
 
 <details> 
-  <summary> Background + How is this experimental infrastructure? </summary>   
-..   
+  <summary> 5. How is this infrastructure </summary>
   
- *"Dont write the only thesis you can write. Write the thesis that only you can write. --Umberto Echo*  
+```
+\|/          (__)    
+     `\------(oo)
+       ||    (__)
+       ||w--||     \|/
+   \|/
+```  
+  
+</details>
+
+
+<details> 
+  <summary> 6. Unsorted Hellscape </summary>
+  
+   *"Dont write the only thesis you can write. Write the thesis that only you can write. --Umberto Echo*  
  
 ### Production Culture + What can be gained from writing a thesis  
 About four weeks ago around fifteen MUPs sat on the floor of 7 Sumner. The group was coming together after having broken off into small discussion groups as part of a student-led design charette to discuss frustrations with MUP Core Studio. After a representative from each group had presented takeaways from their presvious disucssions, someone offered a topic for discussion that had come through the critiques. *Production Culture*. The idea was that what we were contending with is a culture at the GSD (and in society generally) that has chosen to prioritize deliverables over learning. Instead of the core of our education being in service to our desired learning outcomes, we felt that our learning was being treated as a secondary objective in the process to create tangible deliverables. 
@@ -216,4 +270,27 @@ Emphasis on Design
 Problem is that when time is crunched, what is sacrificed is not specifications of the deliverable, but the intentionality and thought 
 
   
+  
+```
+\|/          (__)    
+     `\------(oo)
+       ||    (__)
+       ||w--||     \|/
+   \|/
+```  
+  
+</details>
+</details>
+</details>
+ 
+<details> 
+###  <summary> Writing Excerpts on Pleasure </summary>
+  
+</details>
+
+<details> 
+  <summary> Background + How is this experimental infrastructure? </summary>   
+..   
+  
+
   </details>
