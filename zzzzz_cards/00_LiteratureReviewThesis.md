@@ -1,3 +1,4 @@
+W E L C O M E. START READING HERE 
 
 <p align="center"><img alt="Pleasure Planning" src="https://user-images.githubusercontent.com/34726888/163224100-940fcf9e-c267-498f-8417-932e645f3ccf.png" width="400" /></p>
 
@@ -5,7 +6,7 @@
 **_Not your grandma's thesis research process_**
 
 <details> 
-<summary> Whats Up </summary>
+<summary> What am I looking at </summary>
   
 
   ### What am I looking at?
