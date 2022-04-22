@@ -40,6 +40,31 @@ W E L C O M E. START READING HERE
  ```
 </details>
 
+<details> 
+  <summary> 1. What is my project </summary>
+ 
+ .. 
+  This project is an idea for how I want to approach an urban planning thesis that focuses on PLEASURE. I'm interested in thinking about pleasure as a political act of liberation taking notes from work such as Audre Lorde's _Erotic As Power_ and Adriene Maree Brown's _Pleasure Activism_. 
+  
+  ## Some Things I'm Interested In (FUZZY LIST)
+  * What are conditions for equitable pleasure (prison abolition, surveillance, policing)?
+  * What can planners learn from sex educators? Can we move away from abstinence-only approaches to public drinking, skateboarding, napping, camping, psychadelic drugs, etc.?
+  * What is the relationship between pleasure and growth, denied pleasure and development? 
+  * How to make the case that pleasure is important and shouldnt be written off the second there is a potential for a lawsuit?
+  * What makes a place pleasurable? What are different "triggers" for feeling pleasure? Are these treated seriously in newly designed projects? 
+  * Men gets sports fields, where are spaces dedicated for women/femine pleasure?
+  * How do subcultures make room for pleasure?
+  
+  
+   ```
+\|/          (__)    
+     `\------(oo)
+       ||    (__)
+       ||w--||     \|/
+   \|/
+  
+ ```
+  </details>
 
 <details> 
   <summary> 2. Who I Want To Read  </summary>
