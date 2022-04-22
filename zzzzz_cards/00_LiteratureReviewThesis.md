@@ -11,12 +11,12 @@ W E L C O M E. START READING HERE
 
   ### What am I looking at?
 1. A proposal for an alternative to a traditional thesis research process which includes
-    * A map of people I want to read (**alternative to Literature Review**)
-    * A facilitation guide for **Pleasure Mapping**
+    * **Silo Map** A map of people I want to read (*alternative to a Literature Review*)
+    * **Pleasure Mapping** A facilitation guide for learning more about pleasure
   
 2. Some initial thoughts about my intended research topic: pleasure and urban planning which includes
-    * Ideas I'm Interested in Exploring
-    * Writing Excerpts exploring pleasure
+    * **Ideas on Pleasure and Urban Planning** that I'm Interested in Exploring
+    * **Writing Excerpts** exploring pleasure
 
 3. Some thoughts on how this is infrastructure
 
@@ -32,9 +32,10 @@ W E L C O M E. START READING HERE
 </details>
 
 <details> 
-  <summary> P L E A S U R E </summary>
+  <summary> Silo Map </summary>
+   
+ ![image](https://user-images.githubusercontent.com/34726888/163025688-c885a776-0ce5-42c8-90d7-ecf0a43b96ab.png)
   
-  dsaf
   
   
   
@@ -49,9 +50,20 @@ W E L C O M E. START READING HERE
   </details>
   
 <details> 
-<summary> Research Stratgy </summary>
+<summary> Pleasure Mapping </summary>
   
-```
+
+  <details> 
+  
+    
+  <summary> Literature Review Adjacent </summary>
+
+  </details>
+  
+  <details> 
+  <summary> Ideas I want to explore  </summary>
+  
+    ```
   Working On It! Check Back Soon. 
                                 \\\\\\\
                             \\\\\\\\\\\\
@@ -73,18 +85,6 @@ _____________,'      ,',_____|      |    | |
 _____________|','   ///_/-------------/   |
               |===========,'
   ```
-  <details> 
-  
-    
-  <summary> Literature Review Adjacent </summary>
-   
- ![image](https://user-images.githubusercontent.com/34726888/163025688-c885a776-0ce5-42c8-90d7-ecf0a43b96ab.png)
-  
-  </details>
-  
-  <details> 
-  <summary> Ideas I want to explore  </summary>
-  
 </details>
 
   
