@@ -7,22 +7,63 @@
 <details> 
 <summary> Whats Up </summary>
   
+  ```
+                                         ^^
+    ^^      ..                                       ..
+            []                                       []
+          .:[]:_          ^^                       ,:[]:.
+        .: :[]: :-.                             ,-: :[]: :.
+      .: : :[]: : :`._                       ,.': : :[]: : :.
+    .: : : :[]: : : : :-._               _,-: : : : :[]: : : :.
+_..: : : : :[]: : : : : : :-._________.-: : : : : : :[]: : : : :-._
+_:_:_:_:_:_:[]:_:_:_:_:_:_:_:_:_:_:_:_:_:_:_:_:_:_:_:[]:_:_:_:_:_:_
+!!!!!!!!!!!![]!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!![]!!!!!!!!!!!!!
+^^^^^^^^^^^^[]^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[]^^^^^^^^^^^^^
+            []                                       []
+            []                                       []
+            []                                       []
+ ~~^-~^_~^~/  \~^-~^~_~^-~_^~-^~_^~~-^~_~^~-~_~-^~_^/  \~^-~_~^-~~-
+~ _~~- ~^-^~-^~~- ^~_^-^~~_ -~^_ -~_-~~^- _~~_~-^_ ~^-^~~-_^-~ ~^
+   ~ ^- _~~_-  ~~ _ ~  ^~  - ~~^ _ -  ^~-  ~ _  ~~^  - ~_   - ~^_~
+     ~-  ^_  ~^ -  ^~ _ - ~^~ _   _~^~-  _ ~~^ - _ ~ - _ ~~^ -
+jgs     ~^ -_ ~^^ -_ ~ _ - _ ~^~-  _~ -_   ~- _ ~^ _ -  ~ ^-
+            ~^~ - _ ^ - ~~~ _ - _ ~-^ ~ __- ~_ - ~  ~^_-
+                ~ ~- ^~ -  ~^ -  ~ ^~ - ~~  ^~ - ~
+ ```
+  ### What am I looking at?
+1. A proposal for an alternative to a traditional thesis research process which includes
+    * A map of people I want to read (**alternative to Literature Review**)
+    * A facilitation guide for **Pleasure Mapping**
   
- *"Dont write the only thesis you can write. Write the thesis that only you can write. --Umberto Echo*
+2. Some initial thoughts about my intended research topic: pleasure and urban planning which includes
+    * Ideas I'm Interested in Exploring
+    * Writing Excerpts exploring pleasure
+
+3. Some thoughts of how this is infrastructure
+
 
   
+  
 </details>
+
+<details> 
+  <summary> P L E A S U R E </summary>
+  
+  dsaf
+  
+  </details>
   
 <details> 
 <summary> Research Stratgy </summary>
   
 ```
+  Working On It! Check Back Soon. 
                                 \\\\\\\
                             \\\\\\\\\\\\
                           \\\\\\\\\\\\\\\
   -----------,-|           |C>   // )\\\\|
            ,','|          /    || ,'/////|
----------,','  |         (,    ||   /////       Working On It! Check Back Soon. 
+---------,','  |         (,    ||   /////       
          ||    |          \\  ||||//''''|
          ||    |           |||||||     _|
          ||    |______      `````\____/ \
@@ -67,6 +108,8 @@ _____________|','   ///_/-------------/   |
 <details> 
   <summary> Background + How is this experimental infrastructure? </summary>   
 ..   
+  
+ *"Dont write the only thesis you can write. Write the thesis that only you can write. --Umberto Echo*  
   
 About four weeks ago around fifteen MUPs sat on the floor of 7 Sumner. The group was coming together after having broken off into small discussion groups as part of a student-led design charette to discuss frustrations with MUP Core Studio. After a representative from each group had presented takeaways from their presvious disucssions, someone offered a topic for discussion that had come through the critiques. *Production Culture*. The idea was that what we were contending with is a culture at the GSD (and in society generally) that has chosen to prioritize deliverables over learning. Instead of the core of our education being in service to our desired learning outcomes, we felt that our learning was being treated as a secondary objective in the process to create tangible deliverables. 
 
