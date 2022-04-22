@@ -38,8 +38,9 @@ W E L C O M E. START READING HERE
 </details>
 
 <details> 
-  <summary> Silo Map </summary>
-   
+  <summary> 1. Who I Want To Read  </summary>
+ 
+  Below is a map of my proposed summer research plan. This reading will be combined with me exploring and using my own version of the [Zettlekasten Method](https://github.com/SageGrey/exp-exp-exp/blob/main/zzzzz_cards/214_ZettlekastenMethod.md)
  ![image](https://user-images.githubusercontent.com/34726888/163025688-c885a776-0ce5-42c8-90d7-ecf0a43b96ab.png)
   
   
