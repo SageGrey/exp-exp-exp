@@ -244,26 +244,15 @@ Song, Lily “On Reparative Infrastructure Planning and Design.” Histories and
 <details> 
   <summary> 5. How is this infrastructure </summary>
   
-```
-\|/          (__)    
-     `\------(oo)
-       ||    (__)
-       ||w--||     \|/
-   \|/
-```  
   
-</details>
-
-
-<details> 
-  <summary> 6. Unsorted Hellscape </summary>
-  
-   *"Dont write the only thesis you can write. Write the thesis that only you can write. --Umberto Echo*  
+*"Dont write the only thesis you can write. Write the thesis that only you can write. --Umberto Echo*  
  
 ### Production Culture + What can be gained from writing a thesis  
 About four weeks ago around fifteen MUPs sat on the floor of 7 Sumner. The group was coming together after having broken off into small discussion groups as part of a student-led design charette to discuss frustrations with MUP Core Studio. After a representative from each group had presented takeaways from their presvious disucssions, someone offered a topic for discussion that had come through the critiques. *Production Culture*. The idea was that what we were contending with is a culture at the GSD (and in society generally) that has chosen to prioritize deliverables over learning. Instead of the core of our education being in service to our desired learning outcomes, we felt that our learning was being treated as a secondary objective in the process to create tangible deliverables. 
 
-This idea of Production Culture has stuck with me over the last few weeks. In this assignment, I have been trying to think about how Production Culture applies to the MUP thesis process that I am about to begin. 
+This idea of Production Culture has stuck with me over the last few weeks. In this assignment, I have been trying to think about how production culture applies to the MUP thesis process that I am about to begin. The more I thought about these two ideas together, the more it seemed that the masters thesis itself is a relic of productivity culture. The research process is designed around producing a deliverable object that meets specific length requirements and industry standards in the time alloted. In the abstract world where everything goes smoothly, hitting these requirements seems A-ok. But what happens when there are bumps in the road? Periods where time and energy is crucnhed and not sufficient? For me a tell-tale sign of productivity culture is that when sacrifices are made, what is eligbile to be cut is not the deliverable (ex the number of pages the thesis is) but the quality of the learning and thinking that has gone into it (ex just stay up late and fill some pages as quickly as possible). 
+  
+My pitch   
 
 
 Ways that a masters thesis can be considered a success  
@@ -281,6 +270,21 @@ Pitfalls
       2. A process where you get stuck writing about something that doesn't interest you. 
       3. A process that when time gets crunched, what is sacrificed is the substance while the "making it look neat/tidy" is treated as the non-negotiable neccesity
       
+ 
+  
+```
+\|/          (__)    
+     `\------(oo)
+       ||    (__)
+       ||w--||     \|/
+   \|/
+```  
+  
+</details>
+
+
+<details> 
+  <summary> 6. Unsorted Hellscape </summary>
  
   
    ----------------
