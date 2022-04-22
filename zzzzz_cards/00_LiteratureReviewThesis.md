@@ -23,18 +23,20 @@
   
   </details>
   
-      <details> 
+<details> 
   <summary> Pleasure Mapping </summary>
   
-  </details>
-  </details>
-    </details>
+</details>
+</details>
+</details>
  
-    <details> 
+<details> 
   <summary> Writing Excerpts on Pleasure </summary>
   
-  </details>
-  
+</details>
+
+<details>
+  <summary> Unsorted </summary>
 
 
 
@@ -148,3 +150,5 @@ Problem is that when time is crunched, what is sacrificed is not specifications 
 My contention is this: 
 
 # Authors I want to read
+  
+  </details>
