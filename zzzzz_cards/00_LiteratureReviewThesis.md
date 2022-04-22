@@ -25,6 +25,8 @@ W E L C O M E. START READING HERE
  #### 5. How is this infrastructure
   * Some notes about how this is expieremental and how it is infrastructure
   
+#### 6. Unsorted Hellscape
+  * Containted Chaos of things I don't want to delete but havent yet found a place for
 
  ```
 \|/          (__)    
@@ -195,57 +197,8 @@ Pitfalls
       3. A process that when time gets crunched, what is sacrificed is the substance while the "making it look neat/tidy" is treated as the non-negotiable neccesity
       
  
-</details>
-
-<details>
-  <summary> Unsorted </summary>
-
-
-
-
-## Arguments
-
-
-**Arguments/Chapters:**
-
-### Other Arguments
-               
-     --- Who the Hell is Making The Rules: Getting away from abstinence-only urban education
-     --- Pleasure Positivity, What can urban planners learn from sex-educators. 
-
-
-
-
-### Pleasure Mapping
-
-
-
-### Production Culture
-About four weeks ago around fifteen MUPs sat on the floor of 7 Sumner. The group was coming together after having broken off into small discussion groups as part of a student-led design charette to discuss frustrations with MUP Core Studio. After a representative from each group had presented takeaways from their presvious disucssions, someone offered a topic for discussion that had come through the critiques. *Production Culture*. The idea was that what we were contending with is a culture at the GSD (and in society generally) that has chosen to prioritize deliverables over learning. Instead of the core of our education being in service to our desired learning outcomes, we felt that our learning was being treated as a secondary objective in the process to create tangible deliverables. 
-
-This idea of Production Culture has stuck with me over the last few weeks. In this assignment, I have been trying to think about how Production Culture applies to the MUP thesis process that I am about to begin. 
-
-
-### Objectives
-Ways that a masters thesis can be considered a success  
-
-     1. It wins academic awards
-     2. It is published in a journal 
-     3. It is cited by other academics
-     4. It helps the writer get into a phD program (or other job)
-     5. The writer spent a lot of time thinking about exactly what they want to think about
-     6. The writer learns something they care about while writing it
-
-
-### Pitfalls
-
-      1. A process where you write your argument, then search for materials that support your argument
-      2. A process where you get stuck writing about something that doesn't interest you. 
-      3. A process that when time gets crunched, what is sacrificed is the substance while the "making it look neat/tidy" is treated as the non-negotiable neccesity
-      
- 
- 
- ----------------
+  
+   ----------------
       
 
 I argue that the thesis itself is a relic of productivity culture. Research must be built around a deliverable object. 
@@ -261,6 +214,10 @@ What do I want my education to be.
 
 The way that I want to frame this literature analysis is not 
 
+ Other Arguments
+               
+     --- Who the Hell is Making The Rules: Getting away from abstinence-only urban education
+     --- Pleasure Positivity, What can urban planners learn from sex-educators. 
 
 
 
@@ -268,6 +225,11 @@ Critique is not:
 Emphasis on Design
 
 Problem is that when time is crunched, what is sacrificed is not specifications of the deliverable, but the intentionality and thought 
+
+
+
+
+
 
   
   
@@ -278,19 +240,6 @@ Problem is that when time is crunched, what is sacrificed is not specifications 
        ||w--||     \|/
    \|/
 ```  
-  
 </details>
-</details>
-</details>
- 
-<details> 
-###  <summary> Writing Excerpts on Pleasure </summary>
-  
-</details>
-
-<details> 
-  <summary> Background + How is this experimental infrastructure? </summary>   
-..   
   
 
-  </details>
