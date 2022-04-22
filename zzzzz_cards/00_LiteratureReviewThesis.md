@@ -12,8 +12,8 @@ W E L C O M E. START READING HERE
   ### What am I looking at?
   
   
- #### 1. What is My Project + How Is It Infrastructure
-  * Some notes about how this is expieremental and how it is infrastructure
+ #### 1. What is My Project 
+  * P L E A S U R E
   
  #### 2. Who I Want To Read  
   * A proposed process for learning from authors whose work I find compelling. I see this as an alternative to a more traditional Literature Review
@@ -27,6 +27,9 @@ W E L C O M E. START READING HERE
  #### 5. Writing Excerpts
   * Three excerpts from my current exploration of pleasure and space
   
+ #### 6.How Is It Infrastructure
+  * Some notes about how this is expieremental and how it is infrastructure  
+  
  ```
 \|/          (__)    
      `\------(oo)
@@ -37,47 +40,6 @@ W E L C O M E. START READING HERE
  ```
 </details>
 
-<details> 
-  <summary> 1. What is My Project + How Is It Infrastructure </summary>
-  ...  
-  .. 
-  
-*"Dont write the only thesis you can write. Write the thesis that only you can write. --Umberto Echo*  
- 
-### Production Culture + What can be gained from writing a thesis  
-About four weeks ago around fifteen MUPs sat on the floor of 7 Sumner. The group was coming together after having broken off into small discussion groups as part of a student-led design charette to discuss frustrations with MUP Core Studio. After a representative from each group had presented takeaways from their presvious disucssions, someone offered a topic for discussion that had come through the critiques. *Production Culture*. The idea was that what we were contending with is a culture at the GSD (and in society generally) that has chosen to prioritize deliverables over learning. Instead of the core of our education being in service to our desired learning outcomes, we felt that our learning was being treated as a secondary objective in the process to create tangible deliverables. 
-
-This idea of Production Culture has stuck with me over the last few weeks. In this assignment, I have been trying to think about how production culture applies to the MUP thesis process that I am about to begin. The more I thought about these two ideas together, the more it seemed that the masters thesis itself is a relic of productivity culture. The research process is designed around producing a deliverable object that meets specific length requirements and industry standards in the time alloted. In the abstract world where everything goes smoothly, hitting these requirements seems A-ok. But what happens when there are bumps in the road? Periods where time and energy is crucnhed and not sufficient? For me a tell-tale sign of productivity culture is that when sacrifices are made, what is eligbile to be cut is not the deliverable (ex the number of pages the thesis is) but the quality of the learning and thinking that has gone into it (ex just stay up late and fill some pages as quickly as possible). 
-  
-My pitch is that I am using this assignment to design the (infra)structure of a research process that treats the _deliverable/written thesis_ as a secondary outcome to learning. A process that prioritizes internal success ahead of external success *(see below)*  and that attemots to avoids certain pitfals *(see below)*. I do not think there is anything inherently wrong with deliverables. I think the ability to communicate effectively is vitally important. What this instead is attempting to do is to develop a process that will let me find what I want to say first, and then, and only then, communicate. 
-  
-#### Ways that a masters thesis can be considered a success  
-####  External (Production Culture)
-     1. It wins academic awards
-     2. It is published in a journal 
-     3. It is cited by other academics
-     4. It helps the writer get into a phD program (or other job)
- #### Internal (What Im Aiming For)
-     5. The writer spent a lot of time thinking about exactly what they want to think about
-     6. The writer learns something they care about while writing it
-
-#### Pitfalls To Avoid
-
-      1. A process where you write your argument, then search for materials that support your argument
-      2. A process where you get stuck writing about something that doesn't interest you. 
-      3. A process that when time gets crunched, what is sacrificed is the substance while the "making it look neat/tidy" is treated as the non-negotiable neccesity
-      
- 
-  
-```
-\|/          (__)    
-     `\------(oo)
-       ||    (__)
-       ||w--||     \|/
-   \|/
-```  
-  
-</details>
 
 <details> 
   <summary> 2. Who I Want To Read  </summary>
@@ -278,6 +240,48 @@ Song, Lily “On Reparative Infrastructure Planning and Design.” Histories and
        ||w--||     \|/
    \|/
  ``` 
+  
+</details>
+
+<details> 
+  <summary> 6. Okay, but how is it infrastructure </summary>
+  ...  
+  .. 
+  
+*"Dont write the only thesis you can write. Write the thesis that only you can write. --Umberto Echo*  
+ 
+### Production Culture + What can be gained from writing a thesis  
+About four weeks ago around fifteen MUPs sat on the floor of 7 Sumner. The group was coming together after having broken off into small discussion groups as part of a student-led design charette to discuss frustrations with MUP Core Studio. After a representative from each group had presented takeaways from their presvious disucssions, someone offered a topic for discussion that had come through the critiques. *Production Culture*. The idea was that what we were contending with is a culture at the GSD (and in society generally) that has chosen to prioritize deliverables over learning. Instead of the core of our education being in service to our desired learning outcomes, we felt that our learning was being treated as a secondary objective in the process to create tangible deliverables. 
+
+This idea of Production Culture has stuck with me over the last few weeks. In this assignment, I have been trying to think about how production culture applies to the MUP thesis process that I am about to begin. The more I thought about these two ideas together, the more it seemed that the masters thesis itself is a relic of productivity culture. The research process is designed around producing a deliverable object that meets specific length requirements and industry standards in the time alloted. In the abstract world where everything goes smoothly, hitting these requirements seems A-ok. But what happens when there are bumps in the road? Periods where time and energy is crucnhed and not sufficient? For me a tell-tale sign of productivity culture is that when sacrifices are made, what is eligbile to be cut is not the deliverable (ex the number of pages the thesis is) but the quality of the learning and thinking that has gone into it (ex just stay up late and fill some pages as quickly as possible). 
+  
+My pitch is that I am using this assignment to design the (infra)structure of a research process that treats the _deliverable/written thesis_ as a secondary outcome to learning. A process that prioritizes internal success ahead of external success *(see below)*  and that attemots to avoids certain pitfals *(see below)*. I do not think there is anything inherently wrong with deliverables. I think the ability to communicate effectively is vitally important. What this instead is attempting to do is to develop a process that will let me find what I want to say first, and then, and only then, communicate. 
+  
+#### Ways that a masters thesis can be considered a success  
+####  External (Production Culture)
+     1. It wins academic awards
+     2. It is published in a journal 
+     3. It is cited by other academics
+     4. It helps the writer get into a phD program (or other job)
+ #### Internal (What Im Aiming For)
+     5. The writer spent a lot of time thinking about exactly what they want to think about
+     6. The writer learns something they care about while writing it
+
+#### Pitfalls To Avoid
+
+      1. A process where you write your argument, then search for materials that support your argument
+      2. A process where you get stuck writing about something that doesn't interest you. 
+      3. A process that when time gets crunched, what is sacrificed is the substance while the "making it look neat/tidy" is treated as the non-negotiable neccesity
+      
+ 
+  
+```
+\|/          (__)    
+     `\------(oo)
+       ||    (__)
+       ||w--||     \|/
+   \|/
+```  
   
 </details>
 
