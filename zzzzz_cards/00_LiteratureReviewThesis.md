@@ -14,7 +14,7 @@ W E L C O M E. START READING HERE
     * **Silo Map** A map of people I want to read (*alternative to a Literature Review*)
     * **Pleasure Mapping** A facilitation guide for learning more about pleasure
   
-2. Some initial thoughts about my intended research topic: pleasure and urban planning which includes
+2. Some initial thoughts about my intended research topic: pleasure and urban planning 
     * **Ideas on Pleasure and Urban Planning** that I'm Interested in Exploring
     * **Writing Excerpts** exploring pleasure
 
