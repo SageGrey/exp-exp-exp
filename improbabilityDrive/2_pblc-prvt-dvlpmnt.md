@@ -126,20 +126,39 @@ When public housing was criticized for being inhumane (large towers) it focused 
      4. Be(A)ware  the tower of babel. Ask names of terms, many things have many synonyms.   
   
   </details>
-     
-<details> 
-  
+      
   <details>
     <summary> One Hand Clapping </summary>
+
+### Private Sector Alone 
+(ie if public makes the private sector do it all)
+  * Money will go elsewhere _dont kill the golden goose_
+  * Is it Legal? _constitutional rights limits what can be demanded of private_
+  * Political feasability
+  * Private sector might not contorl the land
     
-    ### Private Sector Alone 
-    (ie if public makes the private sector do it all)
-    * Money will go elsewhere _dont kill the golden goose_
-    * Is it Legal? _constitutional rights limits what can be demanded of private_
-    * Political feasability
-    * Private sector might not contorl the land
-    
-    ### Public Sector Alone
+### Public Sector Alone
+  * Public may lack the skills/capacity
+  * lack the land
+  * lack the money
+  
+### JOINT VENTURES MODEL
+  The idea that both public and private are better off working together
+  
+#### Both Can Provide/Get
+  * $ Money
+  * Land
+  * Infrastructure
+  
+#### Private can offer
+  * Skills/expertise (entrepreneurship)
+  * Freedom from government relations
+  
+#### Public can offer
+  * Eminent Domain
+  * Freedom from markets
+  * Political clout
+  
   </details>
   
    <Details> 
@@ -159,6 +178,7 @@ When public housing was criticized for being inhumane (large towers) it focused 
   </details> 
   
   ##  Financial Analysis Methods
+  <details> 
   
  <summary> Parts of A Pro Forma </summary> 
   
