@@ -678,8 +678,28 @@ _What about the minority that doesn't want to sell?_ They are forced to sell by 
   Neighbors do bear burden to increased development. 
   
  **Things Similar to Neighbors Rights**: Aldermanic Holds in Chicago, Philadelphia, Elsewhere
-
   
+  </details>
+
+<details> 
+  <summary> Community Benefit Agreement </summary>
+  
+  #### CBAs are a legally enforcable contract between a developer and a community group that specifies benefits that the developer will provide in return from either support or at least lack of opposition from a community group.   Used very infrequently. 
+  
+  
+  #### Advantages for Developer
+  * Might end up needing to provide fewer benefits than if you went through a political process
+  * Guaranteed political support (or at least less opposition)
+  
+  #### Advantages for Community
+  * Can negotiate directly w/o government as intermediary
+  * Can negotiate benefits for THAT community, not the region more broadly
+  * Community can sue the developer for failing to provide benefits w.o the city
+  
+  #### Challenges for Public
+  * Memory of what was in the CBA can fade
+  * Community does not always represent a broad swath of the public
+
   </details>
   
 ### This Just In
