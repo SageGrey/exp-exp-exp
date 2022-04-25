@@ -726,10 +726,11 @@ _What about the minority that doesn't want to sell?_ They are forced to sell by 
   
   </details>
 
-IF the private sector 
+
 
 ### This Just In
-Affordable Housing INCREASES the value of land. 
+*[Affordable Housing INCREASES the value of land](https://github.com/SageGrey/exp-exp-exp/blob/main/zzzzz_cards/affHousingINCREASESvalue.md)
+*[Privitization as losing muscle memory](https://github.com/SageGrey/exp-exp-exp/blob/main/zzzzz_cards/MuscleMemoryCapacity.md)
    ### Unsorted Below This Line
 
   
