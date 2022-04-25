@@ -702,6 +702,32 @@ _What about the minority that doesn't want to sell?_ They are forced to sell by 
 
   </details>
   
+ <details> 
+  <summary> Business Improvemnt Districts BID </summary>
+  
+  #### Legaglly defined geographic area in which special fees are sought for projects in the area. 
+  Funds can go to   
+  Infrastructure Projects: Sidwalks, Transit 
+  Services: Sanitation Services, Safety 
+  
+ #### Why do it?
+  * Distribute Costs
+  * Combat the freerider problem
+  * Government owns the property
+  
+ #### How?
+ A governing body (such as national, state) authorizes local government to make BIDs. Local gov approaches stakeholders. if 50% + 1 say yes, it can be created and apply to everyone. (Similar to land re-adjustment).
+  
+  ### Considerations + Challenges
+  * BID boards tend to represent bussiness and landowner interest
+  * Can lead to heavy policing (ie the GOON SQUAD in NYC around Grand Central Station)  
+  * BID can avoid some of the rules of government
+  
+  
+  </details>
+
+IF the private sector 
+
 ### This Just In
 Affordable Housing INCREASES the value of land. 
    ### Unsorted Below This Line
