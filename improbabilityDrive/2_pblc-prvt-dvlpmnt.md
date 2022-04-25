@@ -105,10 +105,17 @@ When public housing was criticized for being inhumane (large towers) it focused 
 
 </details>
 
-### Class Notes 
+<details> 
+  <summary> Incorect Vocab </summary>
+  
+  I went to the BID to talk about the mortgage
+  
+  </details>
+
+# Class Notes 
 
        
-
+## Views From Above
  <details>
   <Summary> Kaydens Candid Caveats </Summary>
   
@@ -121,6 +128,38 @@ When public housing was criticized for being inhumane (large towers) it focused 
   </details>
      
 <details> 
+  
+  <details>
+    <summary> One Hand Clapping </summary>
+    
+    ### Private Sector Alone 
+    (ie if public makes the private sector do it all)
+    * Money will go elsewhere _dont kill the golden goose_
+    * Is it Legal? _constitutional rights limits what can be demanded of private_
+    * Political feasability
+    * Private sector might not contorl the land
+    
+    ### Public Sector Alone
+  </details>
+  
+   <Details> 
+  <Summary> Can Opener Joke </summary>
+    
+ ### Assume we have a can opener joke
+ 
+                       A popular economics joke has a physicist, a chemist, and an economist all stranded on a desert island. 
+                       There is one can of food, but nothing to open it with. 
+                       The physicist presents his proposed solution (usually hitting the can with a rock). 
+                       The chemist presents his proposed solution (such as heating a seawater solution with the sun’s rays). 
+                       The economist comes up with the simple, unrealistic solution: “Assume we have a can opener...” 
+                       One variant is: “Assume the can is open...”
+                       
+                       Source: The desert island “assume we have a can opener” joke dates to at least 1970 and possibly originated with British economists.
+                       
+  </details> 
+  
+  ##  Financial Analysis Methods
+  
  <summary> Parts of A Pro Forma </summary> 
   
  
@@ -390,14 +429,15 @@ take-away
      Models can be faulty
      Local Economy Leakage --> Is it actually going locally?
 
-### Fiacal Impact Analysis
+### Fiscal Impact Analysis
 
          Useful for fully private projects
           --> How many new services will need to be rendered by the gov?
           --> How much new tax base revenue?
   
   </details>
-  
+
+## Frameworks + History 
   <details> 
   <Summary> Who Has Power in Cities? </Summary>
 
@@ -530,6 +570,8 @@ National money has largely dried up
 
 </details>
 
+## Tools
+
 <details>
   <summary> Community Development Block Grants </summary>
   
@@ -628,21 +670,7 @@ _Other Noteworthy Elements_: Eminent domain as applied to "unblighted" land, (ie
 
  </details> 
  
- <Details> 
-  <Summary> Can Opener Joke </summary>
-    
- ### Assume we have a can opener joke
- 
-                       A popular economics joke has a physicist, a chemist, and an economist all stranded on a desert island. 
-                       There is one can of food, but nothing to open it with. 
-                       The physicist presents his proposed solution (usually hitting the can with a rock). 
-                       The chemist presents his proposed solution (such as heating a seawater solution with the sun’s rays). 
-                       The economist comes up with the simple, unrealistic solution: “Assume we have a can opener...” 
-                       One variant is: “Assume the can is open...”
-                       
-                       Source: The desert island “assume we have a can opener” joke dates to at least 1970 and possibly originated with British economists.
-                       
-  </details> 
+
   
   <details> 
     <summary> Public Private Partnerships (PPP) </summary> 
@@ -718,13 +746,15 @@ _What about the minority that doesn't want to sell?_ They are forced to sell by 
  #### How?
  A governing body (such as national, state) authorizes local government to make BIDs. Local gov approaches stakeholders. if 50% + 1 say yes, it can be created and apply to everyone. (Similar to land re-adjustment).
   
-  ### Considerations + Challenges
+  #### Considerations + Challenges
   * BID boards tend to be undemocratic, represent bussiness and landowner interest
   * Can lead to heavy policing (ie the GOON SQUAD in NYC around Grand Central Station)  
   * BID can avoid some of the rules of government
   * Useful for a neighborhood to have a champion
   
   </details>
+  
+  
 
 
 
