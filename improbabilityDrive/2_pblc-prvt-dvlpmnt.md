@@ -719,17 +719,17 @@ _What about the minority that doesn't want to sell?_ They are forced to sell by 
  A governing body (such as national, state) authorizes local government to make BIDs. Local gov approaches stakeholders. if 50% + 1 say yes, it can be created and apply to everyone. (Similar to land re-adjustment).
   
   ### Considerations + Challenges
-  * BID boards tend to represent bussiness and landowner interest
+  * BID boards tend to be undemocratic, represent bussiness and landowner interest
   * Can lead to heavy policing (ie the GOON SQUAD in NYC around Grand Central Station)  
   * BID can avoid some of the rules of government
-  
+  * Useful for a neighborhood to have a champion
   
   </details>
 
 
 
-### This Just In
-*[Affordable Housing INCREASES the value of land](https://github.com/SageGrey/exp-exp-exp/blob/main/zzzzz_cards/affHousingINCREASESvalue.md)
+### Some Thoughts
+*[Affordable Housing INCREASES the value of land](https://github.com/SageGrey/exp-exp-exp/blob/main/zzzzz_cards/affHousingINCREASESvalue.md)  
 *[Privitization as losing muscle memory](https://github.com/SageGrey/exp-exp-exp/blob/main/zzzzz_cards/MuscleMemoryCapacity.md)
    ### Unsorted Below This Line
 
