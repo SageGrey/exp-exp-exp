@@ -18,8 +18,8 @@ W E L C O M E. START READING HERE
 **2. Who I Want To Read:** A proposed process for learning from authors whose work I find compelling. I see this as an alternative to a more traditional Literature Review  
 **3. Pleasure Mapping** A facilitation guide for pleasure mapping. This is something I want to do to jump-start my own thinking about what makes a pleasurable place.   
 **4. Pleasure Questitions** Some questions/things I currently want to explore.  
-**5. Writing Excerpts** Three excerpts from my current exploration of pleasure and space 
-** 6.How Is It Infrastructure** Some notes about how this is expieremental and how it is infrastructure  
+**5. Writing Excerpts** Three excerpts from my current exploration of pleasure and space     
+**6.How Is It Infrastructure** Some notes about how this is expieremental and how it is infrastructure  
   
  ```
 \|/          (__)    
