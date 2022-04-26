@@ -561,6 +561,10 @@ Smiles’s bible of Victorian values."
  Stats on Tickets
  Net of Laws
  Varied laws
+ Abolition History
+ Chicago Inventing anti public drinking
+ Rhode Island
+ Supreme court striking down criminilization
  
  
  #### Excerpts
@@ -624,8 +628,28 @@ But with regard to the merely contingent, or, as it may be called, constructive 
 
  Newport, R.I., was where they hit the big time.
 Over July 4th weekend 1960, the traditional summer resort for the East Coast elite was the scene of a notorious drunken riot. The town was hosting one of the most important jazz festivals in the country for its sixth summer. But after a popular 1959 documentary about the festival raised the event's profile, 12,000 teens showed up hoping to see Louis Armstrong, Dizzy Gillespie and Dinah Washington perform, only to find it sold out. While loitering outside the concert, they started drinking. Then they got angry. About 2,000 of them charged the gates of the festival. Newport police tried to hold them back, but the crowd started throwing beer cans and wine bottles. The police called in the National Guard, which dispersed the crowd with tear gas. It was a disaster.
+ About 2,000 of them charged the gates of the festival. Newport police tried to hold them back, but the crowd started throwing beer cans and wine bottles. The police called in the National Guard, which dispersed the crowd with tear gas. It was a disaster.
+ The following year, Newport regrouped, revising its criminal code to better accommodate the festival. One of the key changes, as the Boston Globe put it, was that a "special ordinance bans drinking in public." The reforms worked, and subsequent festivals went off without a hitch.
+ 
+ **Rowdy Teens**
+ The success of the Newport law inspired other towns across the country that were struggling to control large groups of rowdy, drunken teens -- in particular the Florida towns to which college students started flocking for Spring Break after the release of movies like "Gidget" and "Where The Boys Are." Fort Myers, Jacksonville, Miami, Daytona Beach and Hialeah all passed restrictions on public drinking between 1964 and 1970, years before most other towns in America did. 
  
  
+ **Common Drunkards** In 1963, it was unlikely that you would have been arrested for drinking in public -- but you could have been arrested for being a "common drunkard." Most states and municipalities had laws on the books that made it illegal to be a "common drunkard" or a "vagrant," terms used to describe those who would be known today as alcoholic and homeless, respectively. The police arrested hundreds of thousands of people every year for violating these so-called vagrancy and public drunkenness laws, which were at the heart of the police's mission to control urban social disorder. Such laws defined life on Skid Row: Some perennially homeless, alcoholic men spent years of their lives in jail, in 30-day increments, on charges of public drunkenness and vagrancy.
+ 
+ But in the late '50s and early '60s, legal scholars started to criticize how these laws were enforced, using arguments that would be familiar to anyone following the contemporary debate around drug decriminalization. Critics argued that arresting, charging and incarcerating "drunkards" wasted scarce police and court resources; that the laws were enforced more stringently against poor black people than against affluent white people; and that "public drunkenness" was a moral and medical issue better addressed in churches and hospitals than jails and courtrooms.
+ 
+**Decriminalize Drunkeness** 1964, in its landmark decision Robinson v. California. The immediate effect of the decision was to strike down a California statute classifying drug addiction as a crime. But it also rang the death knell for all "status offenses," vagrancy chief among them. In a later decision (Powell v State of Texas, 1968), the Supreme Court chose not to strike down public drunkenness laws as unconstitutional. The court found that such laws prohibited the act of "appearing in public while drunk," rather than "being an alcoholic."
+ 
+ 
+ 
+ ![image](https://user-images.githubusercontent.com/34726888/165407269-887240d5-57be-43e3-9a80-37a44451404a.png)
+
+ 
+ Newport Riot
+ https://www.newportri.com/story/news/local/2018/07/05/looking-back-1960-newport-jazz-festival-riot/11580410007/
+ 
+  
  
  Keywords: Religious Ferver, Temperance Movement, 
  
