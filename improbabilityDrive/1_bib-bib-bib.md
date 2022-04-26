@@ -554,7 +554,8 @@ Smiles’s bible of Victorian values."
  #### Reading Notes
    
  Times Square Prohibition is Dead
- Stats on 
+ Stats on Tickets
+ Net of Laws
  
  
  #### Excerpts
@@ -565,6 +566,14 @@ This month, 80 years later, some Americans celebrated the anniversary of the Rep
  **Hundreds of Thousands**
  Hundreds of thousands, if not millions, of people are arrested or ticketed for drinking in public every year. Millions of others refrain from doing so because they have been conditioned to believe that public drinking is an act as obviously illegal as shoplifting or nude sunbathing in a city park -- even though it was perfectly legal nearly everywhere in the world as recently as 1975.
  
+ 
+ **weaving the net**
+ This Prohibition, unlike the last, isn't the result of a constitutional amendment. Nor did it emerge overnight. The net of laws that now bans public drinking across most of the country took state and city lawmakers 40 years to weave. Most of these laws attracted as little public notice upon their passage as any other state or municipal law, which has allowed this net to be lowered so slowly and quietly that many people don't realize that anything has changed.
+ 
+ **common justification**
+ nother difference between this Prohibition and the one that ended 80 years ago? Many of the people who are aware of this one actually like it. They say that the virtually nationwide ban on public drinking has "cleaned up the streets," reduced per capita alcohol consumption and even helped slash the incidence of serious crimes such as murder and arson.
+
+They may have a point. But it's also likely that they underestimate the price we pay for the benefits of this Prohibition. Decades of evidence suggest that laws against public drinking are enforced unequally and capriciously, disproportionately hurting the most downtrodden members of society. More fundamentally, these laws allow the state to interfere with individual behavior to prevent an act that in itself harms no one.
  
  
  </sumamry>
