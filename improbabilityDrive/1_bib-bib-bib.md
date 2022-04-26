@@ -26,6 +26,9 @@ Henley, Patricia. The Hummingbird House. MacMurray, 1999.
  webpage title should be in quotation marks. The name of the parent website, which MLA treats as a "container," should follow in italics:  
  Lundman, Susan. "How to Make Vegetarian Chili." eHow, www.ehow.com/how_10727_make-vegetarian-chili.html.*
 
+ #### News Article
+  Taylor, Rumsey. "Fitzcarraldo." Slant, 13 Jun. 2003, www.slantmagazine.com/film/review/fitzcarraldo/. Accessed 29 Sep. 2009. 
+ 
 #### A periodical (journal, magazine, newspaper) 
 article should be in quotation marks:  
 Bagchi, Alaknanda. "Conflicting Nationalisms: The Voice of the Subaltern in Mahasweta Devi's Bashai Tudu." Tulsa Studies in Women's Literature, vol. 15, no. 1, 1996, pp. 41-50.  
@@ -546,6 +549,25 @@ Smiles’s bible of Victorian values."
  <summary> Joe Satran, Public Drinking </summary>
  
  **Citation**: 
+ Satran, Joe. "The Secret History Of The War On Public Drinking" Huffington Post, 14 Dec. 2013, https://www.huffpost.com/entry/public-drinking-laws_n_4312523/amp. Accessed 26 April, 2022. 
+ 
+ #### Reading Notes
+   
+ Times Square Prohibition is Dead
+ Stats on 
+ 
+ 
+ #### Excerpts
+ 
+ **Repeal Day**
+This month, 80 years later, some Americans celebrated the anniversary of the Repeal with old-timey cocktails, good craft beer or at least a festive hashtag (#RepealDay!). But there wasn't much drinking in the streets. Because America is in the grip of a new Prohibition: One that makes it illegal to drink alcohol in public.
+ 
+ **Hundreds of Thousands**
+ Hundreds of thousands, if not millions, of people are arrested or ticketed for drinking in public every year. Millions of others refrain from doing so because they have been conditioned to believe that public drinking is an act as obviously illegal as shoplifting or nude sunbathing in a city park -- even though it was perfectly legal nearly everywhere in the world as recently as 1975.
+ 
+ 
+ 
+ </sumamry>
  ____________
 **Scott, James C. “The High-Modernist City: An Experiment and a Critique.”** Yale University Press, 2008.
 
