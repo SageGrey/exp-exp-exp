@@ -617,6 +617,15 @@ But with regard to the merely contingent, or, as it may be called, constructive 
  
 **The Volstead Act,** the sweeping 1919 federal law that enforced Prohibition, specifically banned the carrying of containers of alcohol in the street, among other things. The nominal justification for this measure was that carrying wine or bourbon down the street was assumed to be evidence of intent to sell. So the measure was still, at its heart, a regulation of sales. But it effectively confined drinking to speakeasies and private homes.
  
+ **Pre-emptive,  Chicago Debut**
+ But 20 years and seven days after the repeal of the 18th Amendment, Chicago Alderman Harry L. Sain, who represented the city's 27th Ward, approached his fellow aldermen with a problem. He said he was hearing more and more reports of "bottle gangs" -- groups of indigent men who would stand on sidewalks sharing bottles of liquor -- plaguing the Skid Row of his district, and littering the streets with empty wine bottles and beer cans. Chicago police officers could arrest rowdy individuals using the city's broadly defined ban on "disorderly conduct," but Sain wanted them to be able to break up the bottle gangs before they got rowdy.
+ His solution? A law that would prohibit "drinking in the public way," namely city streets, parks, vacant lots and any other place open to public view. Violators were subject to a $200 fine, the equivalent of about $1,750 in today's money. On Dec. 12, 1953, the law passed handily. One of Sain's fellow aldermen, Mathias Bowler, told the Chicago Tribune the new law was "good news for [his] ward too," noting that he'd heard that "five fellows die[d] there drinking out of bottles on the street."
+
+
+ Newport, R.I., was where they hit the big time.
+Over July 4th weekend 1960, the traditional summer resort for the East Coast elite was the scene of a notorious drunken riot. The town was hosting one of the most important jazz festivals in the country for its sixth summer. But after a popular 1959 documentary about the festival raised the event's profile, 12,000 teens showed up hoping to see Louis Armstrong, Dizzy Gillespie and Dinah Washington perform, only to find it sold out. While loitering outside the concert, they started drinking. Then they got angry. About 2,000 of them charged the gates of the festival. Newport police tried to hold them back, but the crowd started throwing beer cans and wine bottles. The police called in the National Guard, which dispersed the crowd with tear gas. It was a disaster.
+ 
+ 
  
  Keywords: Religious Ferver, Temperance Movement, 
  
