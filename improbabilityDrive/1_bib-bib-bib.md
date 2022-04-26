@@ -2,6 +2,40 @@
 # The Stacks[^1]
 ###### Reading Notes  of All Authors
 
+
+<details>
+ <summary> Citation Reference Guide </summary>
+ 
+ ``` 
+ MLA CITATION ELEMENTS
+ 
+ Author.
+Title of source.
+Title of container,
+Other contributors,
+Version,
+Number,
+Publisher,
+Publication date,
+Location.
+```
+#### A book should be in italics:
+Henley, Patricia. The Hummingbird House. MacMurray, 1999.
+
+#### An individual webpage 
+ webpage title should be in quotation marks. The name of the parent website, which MLA treats as a "container," should follow in italics:  
+ Lundman, Susan. "How to Make Vegetarian Chili." eHow, www.ehow.com/how_10727_make-vegetarian-chili.html.*
+
+#### A periodical (journal, magazine, newspaper) 
+article should be in quotation marks:  
+Bagchi, Alaknanda. "Conflicting Nationalisms: The Voice of the Subaltern in Mahasweta Devi's Bashai Tudu." Tulsa Studies in Women's Literature, vol. 15, no. 1, 1996, pp. 41-50.  
+
+#### A song or piece of music 
+ song title The name of the album should then follow in italics:
+
+Beyoncé. "Pray You Catch Me." Lemonade, Parkwood Entertainment, 2016, www.beyonce.com/album/lemonade-visual-album/.
+ 
+ </details>
  
   **Brown, Adrienne Maree. "Emergent Strategies."** AK Press, 2017. 
  
@@ -506,6 +540,12 @@ by temperance or medicine, but lost time is gone forever.”87
 Self-Help—the book that would establish the genre—offered Victorian Britons
 sketches of successful self-made men’s lives and thus suggested that even an individual of modest means could make it big in life provided that he internalized
 Smiles’s bible of Victorian values."
+
+
+<details> 
+ <summary> Joe Satran, Public Drinking </summary>
+ 
+ **Citation**: 
  ____________
 **Scott, James C. “The High-Modernist City: An Experiment and a Critique.”** Yale University Press, 2008.
 
