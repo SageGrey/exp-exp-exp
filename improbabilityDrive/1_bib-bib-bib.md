@@ -40,6 +40,9 @@ Beyoncé. "Pray You Catch Me." Lemonade, Parkwood Entertainment, 2016, www.beyon
  
  </details>
  
+ <details>
+ <summary> Brown, Adrienne Maree </summary>
+ 
   **Brown, Adrienne Maree. "Emergent Strategies."** AK Press, 2017. 
  
                 23: Definitions
@@ -64,7 +67,8 @@ Beyoncé. "Pray You Catch Me." Lemonade, Parkwood Entertainment, 2016, www.beyon
                 53: Fractals: What we practice at a small scale sets patterns for the whole system. 
                 54: Trap of "Specialness" and winning
                 57: Utopias that are just different monocultures  
-                
+               
+ </details>
                 
 Chalfin, Brenda “‘Wastelandia’: Infrastructure and the Commonwealth of Waste in 
 Urban Ghana,” Ethnos 82, no. 4 (July 18, 2017): 648–71.
@@ -556,6 +560,7 @@ Smiles’s bible of Victorian values."
  Times Square Prohibition is Dead
  Stats on Tickets
  Net of Laws
+ Varied laws
  
  
  #### Excerpts
@@ -575,6 +580,54 @@ This month, 80 years later, some Americans celebrated the anniversary of the Rep
 
 They may have a point. But it's also likely that they underestimate the price we pay for the benefits of this Prohibition. Decades of evidence suggest that laws against public drinking are enforced unequally and capriciously, disproportionately hurting the most downtrodden members of society. More fundamentally, these laws allow the state to interfere with individual behavior to prevent an act that in itself harms no one.
  
+ **stats**
+ public drinking is now punishable by fine or jail time across the vast majority of the country. Seventeen states ban it completely. It's also illegal in 89 of the 100 most populous cities in the country, including the top 10. The map below illustrates the bewildering patchwork of public drinking laws currently in effect across the U.S.:
+
+
+ ![image](https://user-images.githubusercontent.com/34726888/165386096-ed4197ef-ccd6-4b44-b296-a2a59a8cd110.png)
+ ![image](https://user-images.githubusercontent.com/34726888/165386342-d91ab82a-449c-4b18-9588-56bd8f507e54.png)
+
+
+ **range of fines**
+ But this map actually masks the true extent of the confusion, because the various municipal and state statutes banning the behavior define the offense in myriad ways. They also stipulate a huge range of penalties for offenders, from a simple fine of $25, payable by mail (New York City), to a ticket of up to $1,000 or a jail sentence of up to 6 months (Hawaii and New Mexico).
+ 
+ **20 cities where allowed** HuffPost's analysis could only positively identify 20 towns or cities of any size in which drinking is legal in some, if not all, public places. About half of these cities allow public drinking only in specially designated "Entertainment Districts" that have been established in the past few years in the hopes of attracting booze-loving tourists.)
+ 
+ The cities that do allow drinking in public don't have as much in common as one might think. Cities as varied as New Orleans and Butte, Mont., Las Vegas and Savannah, Ga., allow residents and tourists alike to drink in the streets and parks.
+ 
+ **never banned** 
+ But to ask how these places were independently able to legalize public drinking is to fundamentally misunderstand the situation. Towns like New Orleans and Butte didn't have to take specific steps to allow public drinking -- they just never banned it.
+ 
+ **public drunkeness, regulation of sale** 
+ But until the middle of the 20th century, there were exactly two types of American alcohol law: regulations of its sale and bans on public drunkenness. Neither sought to control drinking directly.
+ 
+**laws regulating social activities**
+ The great legal minds of the 19th Century generally believed that laws should only regulate social activities, or conduct involving multiple parties. The philosopher John Stuart Mill, for example, argued, in his famous essay "On Liberty":
+
+Whenever, in short, there is a definite damage, or a definite risk of damage, either to an individual or to the public, the case is taken out of the province of liberty, and placed in that of morality or law. 
+ 
+But with regard to the merely contingent, or, as it may be called, constructive injury which a person causes to society, by conduct which neither violates any specific duty to the public, nor occasions perceptible hurt to any assignable individual except himself; the inconvenience is one which society can afford to bear, for the sake of the greater good of human freedom.
+ 
+ 
+ **Victorian Social Mores*
+ A combination of Victorian social mores and a scarcity of disposable drinking vessels kept most Americans from partaking in their legal right to drink in public too often. But public drinking was certainly a feature of everyday life. Miners and laborers on their lunch hour would pay women and children to bring them buckets of draught beer from local saloons for open-air consumption, a practice known as "rushing the growler."
+ 
+ **land of steady habits**
+ In one newspaper article in 1868, Mark Twain dismissed New England as "the land of steady habits" because he noted so few people drinking and smoking in the streets.
+ 
+**The Volstead Act,** the sweeping 1919 federal law that enforced Prohibition, specifically banned the carrying of containers of alcohol in the street, among other things. The nominal justification for this measure was that carrying wine or bourbon down the street was assumed to be evidence of intent to sell. So the measure was still, at its heart, a regulation of sales. But it effectively confined drinking to speakeasies and private homes.
+ 
+ 
+ Keywords: Religious Ferver, Temperance Movement, 
+ 
+ 
+ https://www.youtube.com/watch?v=zJc-_A5P_4A&ab_channel=OnDemandNews
+ **Factory owners suppoted prohbition in an effort to reduce accidents and increase the efficiency of their workforce
+ ** Led to bootleggers and crime
+ 
+ 
+ ### thoughts
+ * we banned it only for specific people
  
  </sumamry>
  ____________
