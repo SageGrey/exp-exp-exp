@@ -67,18 +67,30 @@ Beyoncé. "Pray You Catch Me." Lemonade, Parkwood Entertainment, 2016, www.beyon
                 53: Fractals: What we practice at a small scale sets patterns for the whole system. 
                 54: Trap of "Specialness" and winning
                 57: Utopias that are just different monocultures  
-               
- </details>
-                
+  
+</details>
+     
+ <details>
+ <summary>                 
+Chalfin, Brenda “‘Wastelandia’: Infrastructure and the Commonwealth of Waste in 
+Urban Ghana,”  </summary>
+     
+     
 Chalfin, Brenda “‘Wastelandia’: Infrastructure and the Commonwealth of Waste in 
 Urban Ghana,” Ethnos 82, no. 4 (July 18, 2017): 648–71.
-                
-                648: abstract
-                649:
+              
+ </details>
 
+   <details>
+ <summary>   Coughlin-Bogue: Queering Skateable Space </summary>
 **Coughlin-Bogue, Tobin "Queering Skateable Space: How Dispersing Skate Spots Defuses
 Toxic Masculinity."** Urban Pamphleteer #8: Skateboardings, 2020. 18-20
 
+ </details>
+ 
+ <details>
+ <summary>   Cowen, Deb: Infrastructures of Empire and Resistance </summary>
+ 
 **Deb Cowen, “[Infrastructures of Empire and Resistance](http://gofile.me/6WhDC/VlARGlPoa)**,” Verso Books blog (January 25, 
 2017): https://www.versobooks.com/blogs/3067-infrastructures-of-empire-and-resistance
 
@@ -95,12 +107,22 @@ Toxic Masculinity."** Urban Pamphleteer #8: Skateboardings, 2020. 18-20
       11. Churches and Border Wall
 
    
-      
+  </details>
 
+   <details>
+ <summary> Dupont, Tyler:Informal Hierarchy of Skateboard Scene </summary>
 **Dupont, Tyler. From Core to Consumer: The Informal Hierarchy of the Skateboard Scene. Journal of Contemporary Ethnography Vol. 43(5), 2014), 556-581**
 
+ </details>
+ 
+ <details>
+ <summary> Engels, Friedrich </summary>
+     
 [Engels, Friedrich.1845. “The Great Towns.”](http://gofile.me/6WhDC/8K48J765f) in The Condition of the Working-Class in England in 1844, in The City Reader, Richard T. LeGates and Frederic Stout, eds. Routledge,
 2003: 58-66.   
+
+
+
 ZTLKN Notes: [anti-homeless policing](zzzzz_cards/201_anti-homelessPolicing_Industrialization.md)  
        
        58:Bio of Engels while writing The Condition of the Working Class in England in 1844 (1845)  
@@ -120,8 +142,19 @@ ZTLKN Notes: [anti-homeless policing](zzzzz_cards/201_anti-homelessPolicing_Indu
        #Notes
        Offal --> entrails and internal organs of animals slaughtered for meat
                 
+  </details>
+  
+ <details> 
+ <summary> Greer, Alex Buyout Policy </summary>
+ 
 **Greer, Alex "A historical assessment of home buyout policy: Are we learning or just failing?"**
 Section 1: Policy Learning Theory (Social, Instrumental) 
+ 
+ </details>
+ 
+ <details> 
+ <summary> OPEN ME AND ADD TO ZKN Graham, Stephen & Thrift, Nigel : Out of Order: Understanding Repair and Maintenance </summary>
+ 
 
 Graham, Stephen and Nigel Thrift, “Out of Order: Understanding Repair and 
 Maintenance,” Theory, Culture & Society 24, no. 3 (May 2007): 1–25. 
@@ -181,6 +214,8 @@ point to the way in which maintenance and repair is increasingly thought
 of as a generic activity, the model for which can be spread across many
 realms of everyday life.(16)
        _________________________
+ 
+ </details>
        
        
 **Edwards, Jamie. 2020. "One more push, to clear the last step: Planning for Skateboarding"** London Southbank University, School of Law and Social Sciences. 
@@ -548,6 +583,11 @@ Self-Help—the book that would establish the genre—offered Victorian Britons
 sketches of successful self-made men’s lives and thus suggested that even an individual of modest means could make it big in life provided that he internalized
 Smiles’s bible of Victorian values."
 
+<details>
+ <summary> Price, Devon: Laziness Does Not Exist </summary>
+ https://humanparts.medium.com/laziness-does-not-exist-3af27e312d01
+ 
+ </details>
 
 <details> 
  <summary> Joe Satran, Public Drinking </summary>
