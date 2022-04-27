@@ -556,7 +556,7 @@ Smiles’s bible of Victorian values."
  Satran, Joe. "The Secret History Of The War On Public Drinking" Huffington Post, 14 Dec. 2013, https://www.huffpost.com/entry/public-drinking-laws_n_4312523/amp. Accessed 26 April, 2022. 
  
  #### Reading Notes
-   
+   ```
  Times Square Prohibition is Dead
  Stats on Tickets
  Net of Laws
@@ -565,9 +565,18 @@ Smiles’s bible of Victorian values."
  Chicago Inventing anti public drinking
  Rhode Island
  Supreme court striking down criminilization
+ Pressure to Decriminalize Drunkenness
+ Presidential Reports on Crime
+ Homelessness advocates happy, business interests not
+ New Prohibition: drinking in public vs drunk in public
+ Drunk: Subjective, Drinking: Objective
+ Broken Windows 
+ Inequality in Policing
+ Public Support
+ ```
  
- 
- #### Excerpts
+ <details> 
+  <summary> Excerpts </summary>
  
  **Repeal Day**
 This month, 80 years later, some Americans celebrated the anniversary of the Repeal with old-timey cocktails, good craft beer or at least a festive hashtag (#RepealDay!). But there wasn't much drinking in the streets. Because America is in the grip of a new Prohibition: One that makes it illegal to drink alcohol in public.
@@ -590,6 +599,7 @@ They may have a point. But it's also likely that they underestimate the price we
 
  ![image](https://user-images.githubusercontent.com/34726888/165386096-ed4197ef-ccd6-4b44-b296-a2a59a8cd110.png)
  ![image](https://user-images.githubusercontent.com/34726888/165386342-d91ab82a-449c-4b18-9588-56bd8f507e54.png)
+![image](https://user-images.githubusercontent.com/34726888/165429858-65b4e6b1-811c-4c4a-86bd-cf334d65dbc8.png)
 
 
  **range of fines**
@@ -640,16 +650,69 @@ Over July 4th weekend 1960, the traditional summer resort for the East Coast eli
  But in the late '50s and early '60s, legal scholars started to criticize how these laws were enforced, using arguments that would be familiar to anyone following the contemporary debate around drug decriminalization. Critics argued that arresting, charging and incarcerating "drunkards" wasted scarce police and court resources; that the laws were enforced more stringently against poor black people than against affluent white people; and that "public drunkenness" was a moral and medical issue better addressed in churches and hospitals than jails and courtrooms.
  
 **Decriminalize Drunkeness** 1964, in its landmark decision Robinson v. California. The immediate effect of the decision was to strike down a California statute classifying drug addiction as a crime. But it also rang the death knell for all "status offenses," vagrancy chief among them. In a later decision (Powell v State of Texas, 1968), the Supreme Court chose not to strike down public drunkenness laws as unconstitutional. The court found that such laws prohibited the act of "appearing in public while drunk," rather than "being an alcoholic."
+  
+  Vaguely defined status offenses like public drunkenness and vagrancy were constitutionally unsound and, in the long run, unenforceable.
+  
+  
+  **Uniform Alcoholism Treatment Act**
+  1971, Congress passed the Uniform Alcoholism Treatment Act, which called on states to decriminalize public drunkenness and shift their handling of public inebriates to the health system. Thirty-five states adopted it, and most of the others passed similar laws. By the end of the '70s, arrests for public drunkenness had dropped by half nationwide. (They would continue to fall, almost unabated, until the present.) The era of criminalized public drunkenness was over, after 350 years.** Doctors and advocates for the rights of the homeless and alcoholics started to breathe easier.**
+  
+  **Not everyone was happy, though. Entrenched business interests and well-to-do citizens, and their allies in state and local legislatures, still wanted the police to take undesirable homeless and alcoholic people off the streets. But as public drunkenness and vagrancy were no longer criminal acts, the police had no tools at their disposal.**
  
+ **Its specificity and lack of ambiguity made it much easier to defend in court than charges of public drunkenness or vagrancy. **  But lawmakers and police chiefs made a much simpler calculation when they started to embrace the public drinking law in the wake of decriminalization of drunkenness. Its specificity and lack of ambiguity made it much easier to defend in court than charges of public drunkenness or vagrancy. And it could still be easily used to arrest homeless people and alcoholics. Homeless people often can't afford to drink in bars, and they don't necessarily have a place to drink in private. If they want to drink, they're almost bound to commit the crime of drinking in public.
+  
+  Between 1975 and 1990, in the wake of the decriminalization of public drunkenness and vagrancy, cities and states gradually imposed bans on drinking in public.
+  
  
- 
+ **Direct Reaction** 
+  New York City Council voted to ban public drinking just six weeks after public drunkenness was decriminalized throughout New York state on Jan. 1, 1976. Mayor Abraham Beame vetoed the bill, citing its "disturbing civil-liberties implications." Three years later, the council passed another ban, despite vociferous opposition from minority groups -- and Mayor Ed Koch signed it into law.
+  
+  
+  At some point, though, public drinking bans simply became common enough that even cities without a pressing need for such laws felt pressure to pass them. In 1990, for example, when Irvine, Calif., passed its ban, the city's community services superintendent noted to the LA Times that "You can't consume alcoholic beverages in public" in almost any other city in Orange County, but "you can in Irvine."
+  
+  **Texas Holdouts**
+  The last big holdouts were the Texas giants: Houston, Dallas, San Antonio and Austin. hey were prevented from joining in the banning bonanza of the '80s by a state law that prevented cities from passing any law that regulated alcohol consumption. But they clearly felt left out, because they pressured the state to change. They won in 1993.
+  
+  **international** 
+  By 1995, the bulk of the cities in the U.S. had passed bans on public drinking. Since then, these laws have even started to proliferate abroad, especially in the U.K. and Australia. Dublin, Ireland, outlawed public drinking in 2008. Even Prague, long Europe's premier destination for drunken revelry, moved to ban drinking in the streets this fall. **Public drinking bans may be America's most successful culinary export since the Big Mac.**
+  
+  **Broken Windows** Advocates of the Broken Windows theory emphasized the enforcement of public drinking laws as early as 1982, when the Atlantic Monthly published the article from which the movement takes its name. In one pivotal passage, authors George Kelling and James Wilson write:
+```
+People start drinking in front of the grocery; in time, an inebriate slumps to the sidewalk and is allowed to sleep it off. Pedestrians are approached by panhandlers. [...] Such an area is vulnerable to criminal invasion. Though it is not inevitable, it is more likely that here, rather than in places where people are confident they can regulate public behavior by informal controls, drugs will change hands, prostitutes will solicit, and cars will be stripped.
+  ```
+  Which is exactly what police forces did throughout the '90s. Enforcement rates of public drinking laws skyrocketed, inculcating the idea that public drinking is a crime no matter who does it.
+  
+  Though national data on public drinking infractions are hard to come by (or nonexistent), the few studies of police enforcement indicate that poor, black people are arrested at rates many times higher than affluent white people.
+  
+  **Unequal Policing NYC Stats**
+ Judge Noach Dear of Brooklyn had his staff look into tickets for the offense in his borough in 2012, and found that "More than 85 percent of the 'open container' summonses were given to Blacks and Latinos. Only 4 percent were issued to whites." Nearly 40 percent of Brooklyn residents are white.
+  
+  **Support Stats**
+  A previous national poll, conducted in 2000 -- and the only one this reporter found on the subject -- indicated overwhelming public support for restrictions on public alcohol consumption: 92 percent of respondents said they favored laws against drinking in the streets and on sidewalks; 86 percent said they favored restrictions on drinking in parks and beaches; and 81.4 percent said they favored restrictions on drinking in stadiums and concerts. Support for public drinking bans in that poll was much higher among older people, women, ethnic minorities and those from low-income households than among young people, men, whites and those from high-income households.
+
+To see whether attitudes had changed in the last 13 years, HuffPost conducted its own poll on the issue with our partners at YouGov. The wording of the questions differed slightly from those of the 2000 poll, and was conducted online rather than over the phone, so the two aren't directly comparable. While HuffPost/YouGov's results revealed many of the same relative differences in support across demographic categories and with regard to specific sites for public drinking, the new poll found much higher levels of support for the legalization of public drinking across the board than the previous poll did.
+  
+  **violent crime as part of popularity of laws**
+  Some of the ban's popularity may stem from a belief that cracking down on public drinking in the '90s also slashed national crime rates. Police started enforcing public drinking bans aggressively just as rates of serious crime started to plummet in many major cities across the country. Government officials who pushed the Broken Windows theory most forcefully often argued that public drinking arrests have been a crucial factor in that decline. They also note that the city most closely associated with street drinking is New Orleans, which has one of the highest murder rates in the country; while the city most closely associated with strict enforcement of public drinking laws, New York, has one of the lowest.
+
+But many other cities with lax enforcement of public drinking laws have far lower rates of violent crime than New Orleans. Las Vegas had exactly the same murder rate as New York in 2012 (5.1 per 100,000 people), and Seattle's was even lower -- just 3.7 per 100,000 people. Moreover, some of the cities with the highest arrest rates for public drinking -- Cleveland and Chicago -- have unusually high rates of violent crime.
+  
+  
+  **Entertainment Districts**
+  Over the last decade, about a dozen cities, mostly in the heartland, have designated small sections of their downtowns as "Entertainment Districts" where tourists and locals are permitted to drink alcoholic beverages in the streets. (Lincoln, Neb., became the latest in October, and a law currently being debated in the Ohio Senate could pave the way for such districts in Cleveland and Cincinnati.)
+  
+**Some opponents of public drinking might contend that they do not want their streets to look like Bourbon Street or the Las Vegas Strip. But one might also argue that those places became as riotous as they are in part because, in the last 40 years, public drinking was banned everywhere else, making them "America's playgrounds" by exclusion. If public drinking were again legal across the country, outdoor revelry would potentially diffuse out into the rest of the country and become as unremarkable as it was in the 1800s.**   
+  
+  **Butte Montana** curbing drinking 2am-8am, gentrificiation 
  ![image](https://user-images.githubusercontent.com/34726888/165407269-887240d5-57be-43e3-9a80-37a44451404a.png)
 
- 
+ </details>
  Newport Riot
  https://www.newportri.com/story/news/local/2018/07/05/looking-back-1960-newport-jazz-festival-riot/11580410007/
  
-  
+  St Louis. 
+ Despite the lack of a general state law prohibiting drinking in public, nearly all municipalities, including both St. Louis[42] and Kansas City,[43] do prohibit drinking in public. St. Louis, however, does allow picnickers in public parks to consume alcohol without limitation.[44] 
+ 
  
  Keywords: Religious Ferver, Temperance Movement, 
  
@@ -662,7 +725,7 @@ Over July 4th weekend 1960, the traditional summer resort for the East Coast eli
  ### thoughts
  * we banned it only for specific people
  
- </sumamry>
+ </details>
  ____________
 **Scott, James C. “The High-Modernist City: An Experiment and a Critique.”** Yale University Press, 2008.
 
