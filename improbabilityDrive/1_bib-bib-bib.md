@@ -3,6 +3,7 @@
 ###### Reading Notes  of All Authors
 
 
+#### Resources
 <details>
  <summary> Citation Reference Guide </summary>
  
@@ -39,6 +40,8 @@ Bagchi, Alaknanda. "Conflicting Nationalisms: The Voice of the Subaltern in Maha
 Beyoncé. "Pray You Catch Me." Lemonade, Parkwood Entertainment, 2016, www.beyonce.com/album/lemonade-visual-album/.
  
  </details>
+ 
+ #### Authors
  
  <details>
  <summary> Brown, Adrienne Maree </summary>
