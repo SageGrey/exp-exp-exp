@@ -10,6 +10,19 @@
            |++++++|=|=|=|=|=|[][]|
 
 
+
+<details> 
+  <summary> Notes from Review Session </summary>
+  
+  history of public subsidies. 
+  CDBG as of right (unlike the categorical grants)!
+  Two different formulas: deemed less helpful to northern cities than the second program. 
+  
+  
+  
+  Social Value: Difference between COST TO PRIVDE and VALUE. VALUE is not the discount. 
+  </details>
+  
 <details> 
   <summary> questions for review </summary>
   
