@@ -14,6 +14,15 @@
 <details> 
   <summary> Notes from Review Session </summary>
   
+  **REMINDER** Write down assumptions. 
+  
+  **Tax-Increment Financing:** Up until that point, all property tax went to the general budget of the city. NOW, any increase in property value now is earmarked to provide money for infrastructure improvements in the district. So property tax APPRECIATION will go to infrastructure improvements. This might make the value go up, thus creating a virtuous circle. 
+  
+  
+  Borrower is paying interest on outstanding principal. Which is decreasing. 
+  
+  **BID* Geographic bound area
+  
   history of public subsidies. 
   CDBG as of right (unlike the categorical grants)!
   Two different formulas: deemed less helpful to northern cities than the second program. 
