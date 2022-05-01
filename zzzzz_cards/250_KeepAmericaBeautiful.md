@@ -7,7 +7,7 @@ The ad campaigns of KAB worked to shift the public perception of blame of litter
 ![image](https://user-images.githubusercontent.com/34726888/166160310-373a1a67-9bae-43c6-9a6b-1b22a53a0d61.png)
 
 
-### Citation 
+### Citations
 
 "Thirty tears later Keep America Beautiful is still Keeping America Blindfolded" _Containter Recycling Institute_ Spring, 2000. https://www.bottlebill.org/news/articles/2000/2000-KAB-op.htm "
 
