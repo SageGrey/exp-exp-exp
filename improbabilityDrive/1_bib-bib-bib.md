@@ -221,7 +221,9 @@ realms of everyday life.(16)
  
  </details>
        
-       
+ <details> 
+ <summary> Edwards, Jamie: Planning for Skateboarding </summary>
+ 
 **Edwards, Jamie. 2020. "One more push, to clear the last step: Planning for Skateboarding"** London Southbank University, School of Law and Social Sciences. 
 
             2: Abstract
@@ -232,8 +234,12 @@ realms of everyday life.(16)
             9:  Displacement, Redevelopment 
             10: Grinding Edges, Harvey
             11:
-            
 
+</details>           
+
+<details> 
+ <summary> Harvey, David </summary>
+ 
 **Harvey, David. 1985. “On planning the ideology of planning,”** in The Urbanization of Capital. Baltimore:
 Johns Hopkins University Press: 165-184.
 
@@ -267,10 +273,19 @@ Johns Hopkins University Press: 165-184.
             Planners do have some agency, but reforms are ineffective, they need to work towards the reconfiguration of society.` 
             
             `**Context:** Peter Hall is a prolific marxist, economic geographer. 
-            
+ 
+ </details> 
+ 
+ <details>
+ <summary> Howell, Ocean: Skatepark as Neoliberal Playground </summary>
+ 
 **Howell O. Skatepark as Neoliberal Playground: Urban Governance, Recreation Space, and the Cultivation of Personal Responsibility**._Space and Culture_. 2008;11(4):475-496.
 
+</details>
 
+<details> 
+ <summary> Howard, Ebenezer: Town and Country Magnet </summary>
+ 
 [Howard, Ebenezer. 1898. “Introduction”, ch1 “The Town and Country Magnet,”](http://gofile.me/6WhDC/0dVlJDmEh) ch 2 and “Social Cities,”  ch13 “The Future of London,” in Garden Cities of Tomorrow, 1898. 
 
                    41: Disagreements in society, generational
@@ -296,6 +311,11 @@ Johns Hopkins University Press: 165-184.
                    147: power of vested interests
                    148: Financial predictions
 
+ </details> 
+ 
+ <details>
+ <summary> Illich, Ivan: Deschooling Society </summary> 
+ 
 **Illich, Ivan. "Deschooling Society"** Marion Boyers Publishing, 2002
 
                ` 1: Service and Value (institutionalization of value)
@@ -320,7 +340,12 @@ Johns Hopkins University Press: 165-184.
                     21: Defending Book Tindr (addressing arguments why it wouldnt work)
                     22: Medieval town education`
                ` 23: Karl Marx Child Labor`
-               
+  
+ </details> 
+ 
+ <details> 
+ <summary> Kayden, Jerold </summary>
+ 
 [Jerold S. Kayden and Adam Tanaka, Real Estate Financial Analysis for Public 
 and Private Development](http://gofile.me/6WhDC/cvKMNKgSv), Class Note #1 (2022), pp. 1-11
 
@@ -337,6 +362,10 @@ and Private Development](http://gofile.me/6WhDC/cvKMNKgSv), Class Note #1 (2022)
                     10: Return, Total Assets Equity  
                     11: Capitalized Value  
                     
+</details> 
+
+<details> 
+ <summary> Johnson, Walter </summary>
 
 [Johnson, Walter. 2013. “Introduction: Boom,”](http://gofile.me/6WhDC/Ci7UFKV23) River of Dark Dreams: Slavery and Empire in the Cotton Kingdom. Cambridge, MA: Harvard University Press, 2013: 1-17.
 
@@ -357,6 +386,8 @@ and Private Development](http://gofile.me/6WhDC/cvKMNKgSv), Class Note #1 (2022)
           15: Cuba/Nicaragua/Virginia questions
           16: "The South" is agreed upon as concept
 
+ </details>
+ 
 **Kilberth, V., & Schwier, J. (2019). Skateboarding Between Subculture and the Olympics : A Youth Culture under Pressure from Commercialization and Sportification** (KörperKulturen). Bielefeld: Transcript-Verlag.
 
 
