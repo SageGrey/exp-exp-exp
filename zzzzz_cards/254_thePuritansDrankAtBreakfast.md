@@ -4,3 +4,8 @@ Despite the common association with puritans and anti-drinking laws, puritans th
 
  **Citation:** Sismondo, Christine. "The Spirited History of The American Bar", Interview by Dalzell, Rebecca. Smithsonian Magazine. 2 Aug. 2011, https://www.smithsonianmag.com/history/the-spirited-history-of-the-american-bar-42912195/
  
+ O'brien, Jane. "The Time Where Americans Drank All Day Long," BBC News. 9 Mar. 2015. https://www.bbc.com/news/magazine-31741615
+ 
+ Rodagaugh, W.J. "A Nation of Sots," The New Republic. 29 Sept, 1979. https://newrepublic.com/article/122760/nation-sots-when-drinking-was-patriotic-duty
+ 
+Hazelgrove, Georgia. "The Puritan and The Capitalist." Writeous. 18 Mar. 2021. https://wearewriteous.com/2021/03/18/the-puritan-and-the-capitalist/
