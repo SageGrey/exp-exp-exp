@@ -830,7 +830,9 @@ But many other cities with lax enforcement of public drinking laws have far lowe
  * we banned it only for specific people
  
  </details>
- ____________
+<details>
+ <summary> Scott, James: High Modernist City </summary>
+ 
 **Scott, James C. “The High-Modernist City: An Experiment and a Critique.”** Yale University Press, 2008.
 
 
@@ -848,7 +850,8 @@ But many other cities with lax enforcement of public drinking laws have far lowe
                 139: Great variety of human purposes embeded in any activity
                 140: Slum Clearance/People Not Static
                 144: Tankel: Humility in Planning
-                
+   </details>
+   
   <details> 
  <summary> Sismondo, Christine: The Spirited History of The American Bar </summary>
  
