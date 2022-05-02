@@ -110,9 +110,10 @@ Toxic Masculinity."** Urban Pamphleteer #8: Skateboardings, 2020. 18-20
       11. Churches and Border Wall
 
    
-  </details>
-
-   <details>
+</details>
+  
+<details>
+     
  <summary> Dupont, Tyler:Informal Hierarchy of Skateboard Scene </summary>
 **Dupont, Tyler. From Core to Consumer: The Informal Hierarchy of the Skateboard Scene. Journal of Contemporary Ethnography Vol. 43(5), 2014), 556-581**
 
@@ -788,6 +789,22 @@ But many other cities with lax enforcement of public drinking laws have far lowe
                 140: Slum Clearance/People Not Static
                 144: Tankel: Humility in Planning
                 
+  <details> 
+ <summary> Sismondo, Christine: The Spirited History of The American Bar </summary>
+ 
+ **Citation:** Sismondo, Christine. "The Spirited History of The American Bar", Interview by Dalzell, Rebecca. Smithsonian Magazine. 2 Aug. 2011, https://www.smithsonianmag.com/history/the-spirited-history-of-the-american-bar-42912195/
+ 
+ 
+
+ **reading notes**
+ ```
+ 
+ ```
+ </details>
+ 
+   <details> 
+ <summary> Star, Susan Leigh: Ethnography of Infrastructure </summary>
+ 
 **[Star, Susan Leigh “The Ethnography of Infrastructure,”](http://gofile.me/6WhDC/M5nnn2GSr)** American Behavioral Scientist 43(3), 1999: 377–91. 
 
                378: Reading phonebooks more interesting than reading many infra. documents
@@ -801,7 +818,7 @@ But many other cities with lax enforcement of public drinking laws have far lowe
                388: Indicators/records/artifacts
                
                
-               
+</details>               
                
                 
 **Thomas, June Manning. 1994. “Planning History and the Black Urban Experience: Linkages and
