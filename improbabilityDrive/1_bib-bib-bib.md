@@ -938,7 +938,7 @@ Contemporary Implications,**” Journal of Planning Education and Research 14: 1
  <details> 
  <summary> Song, Lily: Reparative Planning in Action </summary>
  
-  Song, Lily. "Reparative Planning in Action: The Case of Alliance For Community Transportation" (Unpublished)
+ Song, Lily. "Reparative Planning in Action: The Case of Alliance For Community Transportation" (Unpublished)
   
   ```
   1. Introduction
@@ -955,7 +955,8 @@ Contemporary Implications,**” Journal of Planning Education and Research 14: 1
   12. Embodied Perspectives, Meeting Facilitation
   13. Summary of ACT-LA
   14. Relational and Solidaristic vs Techno-managerial and professionalized 
-  
+  ```
+ 
   Take-Aways:
   **Analysis of 40 Acres, pg 3**   
  American reparation planning is historically rooted in organizing and advocacy by formerly  enslaved people, their descendants, and accomplices (Aiyetoro and Davis 2009). While the 1861 Confiscation Act and Freedman’s Bureau Bills (1865-1866) are widely credited for  proposing allocations of forty-acre plots and fifty dollars to formerly enslaved families, such  federal measures were soundly reversed by congressional leaders who instead compensated  slave owners and loyal Southerners.
@@ -980,8 +981,10 @@ That ACT-LA's approach to reparative planning is relational and solidaristic—a
 demilitarize public space—by redirecting funding from multi-agency policing to investments  in care-centered spatial tactics, stewardship, programming, support services, public  education, and job creation that promote holistic safety.
 
                
-  Conditions for Pleasure             
+  Conditions for Pleasure    
+ 
 </details>
+
 
 <details> 
  <summary> Winner, Langdon: Do artifacts have politics? </summary> 
