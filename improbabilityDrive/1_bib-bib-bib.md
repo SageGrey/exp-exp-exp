@@ -387,10 +387,15 @@ and Private Development](http://gofile.me/6WhDC/cvKMNKgSv), Class Note #1 (2022)
           16: "The South" is agreed upon as concept
 
  </details>
+ <details> 
+ <summary> Kilberth, V.: Skateboarding and Olympics </summary>
  
 **Kilberth, V., & Schwier, J. (2019). Skateboarding Between Subculture and the Olympics : A Youth Culture under Pressure from Commercialization and Sportification** (KörperKulturen). Bielefeld: Transcript-Verlag.
 
-
+</details>
+<details> 
+ <summary> Krieger, Alex </summary>
+ 
 **Krieger, Alex. 2019. “Making Nature Urbane: Olmsted and the Parks Movement,” City on a Hill: Urban Idealism in America from the Puritans to the Present, 2019: 151-173.**
 
          151: eptitaths
@@ -423,10 +428,16 @@ and Private Development](http://gofile.me/6WhDC/cvKMNKgSv), Class Note #1 (2022)
          
          Visit a park to become less cynical about the "socializing potential of social spaces."
          
-        
-    
+ </details>
+ 
+ <details>
+ <summary> Liao, Jileen: Instaposts, Skateboarding </summary>
 
  **Liao,  Jilleen . Instaposts.** Urban Pamphleteer #8: Skateboardings, 2020. 30-31  
+ </details>
+ 
+ <details> 
+ <summary> Mumford, Lewis </summary> 
  
 [Mumford, Lewis. 1961. “Paleotechnic Paradise: Coketown.”](http://gofile.me/6WhDC/b36RG7Y3v) In The City in History: Its Origins, Its Transformations, and Its Prospects, London: Secker & Warburg, 1961: 446-481 [skim: focus on sections 5 and 6]  
            
@@ -445,6 +456,11 @@ and Private Development](http://gofile.me/6WhDC/cvKMNKgSv), Class Note #1 (2022)
            457: Locating systems to be near labor that can't default on rental payments to company owned property
            458: Pollution
  
+ </details>
+ 
+ <details>
+ <summary> Lynch, Kevin: Image of The City </summary>
+ 
  Lynch, Kevin. 1960. The Image of the City. Cambridge MA: Technology Press: 1–25 
  
         1. Looking At Cities
@@ -458,7 +474,12 @@ and Private Development](http://gofile.me/6WhDC/cvKMNKgSv), Class Note #1 (2022)
         **Quotes, pg 7** : [relating to historic preservation] A landscape  whose  every  rock tells  a  story  may  make difficult the  creation  of  fresh  
 stories. Although  this  may  not  seem  to  be  a.  critical  issue  in  our  present  urban  chaos,  yet  it  indicates that  what  we  seek  is  not  a   final  but an open-ended order, capable of continuous further development. 
 
-[Madden, David and Marcuse, Peter. 2016. “Introduction: The Residential is Political,”](http://gofile.me/6WhDC/kUzhyZKyy) In Defense of Housing: The Politics of Crisis. London, New York: Verso, 2016: 7-12
+ </details>
+ 
+ <details> 
+ <summary> Marcuse, Peter & Madden, David: Residential is Political </summary>
+
+ [Madden, David and Marcuse, Peter. 2016. “Introduction: The Residential is Political,”](http://gofile.me/6WhDC/kUzhyZKyy) In Defense of Housing: The Politics of Crisis. London, New York: Verso, 2016: 7-12
    
         7: Housing Crisis Context
         8: Need Wider Perspective
@@ -466,7 +487,11 @@ stories. Although  this  may  not  seem  to  be  a.  critical  issue  in  our  p
         10: Problem with term "Housing Crisis," 2008
         11: Housing always been pretty rough
         12: Radical ideas must contend with
-        
+  </details> 
+  
+  <details>
+ <summary> Nikhil, Anand: Hyrdraulic City </summary>
+ 
 **Nikhil Anand, Hydraulic City: Water and the Infrastructures of Citizenship 
 in Mumbai (Durham: Duke University Press, 2017).**
 
@@ -550,10 +575,12 @@ essential aspects of distributional justice and planning power. —susan leigh s
           161: Water as Approximation
           162:
        
+</details>        
         
         
-        
-
+<details>
+ <summary> Noble, Safiya Umoja: Alogrythms of Opression </summary>
+ 
 Noble, **Safiya Umoja Noble, “A Society Searching,” Algorithms of Oppression: How Search 
 Engines Reinforce Racism (New York, N.Y.: New York University Press, 2018), 15-63.**
 
@@ -575,12 +602,13 @@ Engines Reinforce Racism (New York, N.Y.: New York University Press, 2018), 15-6
         52: Funny forbes critique of research paper
         56: Google promoting its other properties 
         57: current content screening process
-        
-        
-        
 
-
-**Ogle, Vanessa Ogle, “Whose Time Is It? the Pluralization of Time and the Global Condition, 
+ </details>
+        
+ <details> 
+ <summary> Ogle, Vanessa: Whose Time Is It? </summary> 
+ 
+** ADD ZNK NOTE Ogle, Vanessa Ogle, “Whose Time Is It? the Pluralization of Time and the Global Condition, 
 1870s–1940s,” American Historical Review, 2013.**
             1376: Journalist wasting time story
             7: Multiple time schemas
@@ -617,7 +645,8 @@ by temperance or medicine, but lost time is gone forever.”87
 Self-Help—the book that would establish the genre—offered Victorian Britons
 sketches of successful self-made men’s lives and thus suggested that even an individual of modest means could make it big in life provided that he internalized
 Smiles’s bible of Victorian values."
-
+</details>
+ 
 <details>
  <summary> Price, Devon: Laziness Does Not Exist </summary>
  https://humanparts.medium.com/laziness-does-not-exist-3af27e312d01
@@ -851,7 +880,9 @@ But many other cities with lax enforcement of public drinking laws have far lowe
                
 </details>               
                
-                
+<details>
+ <summary> Thomas, June Manning: Planning History, Black Urban Experience </summary> 
+ 
 **Thomas, June Manning. 1994. “Planning History and the Black Urban Experience: Linkages and
 Contemporary Implications,**” Journal of Planning Education and Research 14: 1-11.
 
@@ -864,6 +895,10 @@ Contemporary Implications,**” Journal of Planning Education and Research 14: 1
                260: Lingering Effects
                261: Hopeful Spin
                262: Importance for planners to learn material
+ </details>
+ 
+ <details> 
+ <summary> Wilson, Ara: Infrastructure of Intimacy </summary>
  
 **[Wilson, Ara “The Infrastructure of Intimacy,”](http://gofile.me/6WhDC/oub6lvijF)** Signs: Journal of Women in Culture and Society 41, no. 2 (January 2016): 247–80.
 
@@ -895,7 +930,11 @@ Contemporary Implications,**” Journal of Planning Education and Research 14: 1
                273: Failed Infrastructures
                274: Infra is good to study argument
                275: questions Infra surfaces
-               
+ </details>
+ 
+ <details> 
+ <summary> Song, Lily: Reparative Planning in Action </summary>
+ 
   Song, Lily. "Reparative Planning in Action: The Case of Alliance For Community Transportation" (Unpublished)
   
   ```
@@ -939,7 +978,11 @@ demilitarize public space—by redirecting funding from multi-agency policing to
 
                
   Conditions for Pleasure             
+</details>
 
+<details> 
+ <summary> Winner, Langdon: Do artifacts have politics? </summary> 
+ 
 **[Winner, Langdon “Do Artifacts Have Politics?”](http://gofile.me/6WhDC/oub6lvijF)** Daedalus 109, no. 1 (1980): 121–36.
 
           no page numbers but recollection
@@ -948,8 +991,14 @@ demilitarize public space—by redirecting funding from multi-agency policing to
              To what extent does certain technology require certain political structures 
              Ships, Factories, Atom Bomb --> Authoritative, unDemocratic
              
-               
-    
+  </details> 
+
+<details> 
+ <summary> Yochim, E.: Skate Life, White Masculinity </summary>
+ 
 **Yochim, E. (2010)._Skate life : Re-imagining white masculinity_**. Ann Arbor: University of Michigan Press.
 
-[^1]: Want to read: Colson Whiteheads book The Underground Railroad
+ </details>
+
+### Notes:
+Want to read: Colson Whiteheads book The Underground Railroad
