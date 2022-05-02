@@ -3,7 +3,7 @@
 ###### Reading Notes  of All Authors
 
 
-#### Resources
+### Resources
 <details>
  <summary> Citation Reference Guide </summary>
  
@@ -41,7 +41,7 @@ Beyoncé. "Pray You Catch Me." Lemonade, Parkwood Entertainment, 2016, www.beyon
  
  </details>
  
- #### Authors
+ ### Authors
  
  <details>
  <summary> Brown, Adrienne Maree </summary>
@@ -994,14 +994,14 @@ demilitarize public space—by redirecting funding from multi-agency policing to
              To what extent does certain technology require certain political structures 
              Ships, Factories, Atom Bomb --> Authoritative, unDemocratic
              
-  </details> 
+</details> 
 
 <details> 
  <summary> Yochim, E.: Skate Life, White Masculinity </summary>
  
 **Yochim, E. (2010)._Skate life : Re-imagining white masculinity_**. Ann Arbor: University of Michigan Press.
 
- </details>
+</details>
 
 ### Notes:
 Want to read: Colson Whiteheads book The Underground Railroad
