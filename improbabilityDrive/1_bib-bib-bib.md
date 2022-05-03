@@ -857,6 +857,11 @@ But many other cities with lax enforcement of public drinking laws have far lowe
  
  **Citation:** Sismondo, Christine. "The Spirited History of The American Bar", Interview by Dalzell, Rebecca. Smithsonian Magazine. 2 Aug. 2011, https://www.smithsonianmag.com/history/the-spirited-history-of-the-american-bar-42912195/
  
+ ``` 
+ Taverns in Colonial America (Price Fixing, not exclusively bourgeoise)
+ Different kinds of bars through history
+ Stonewall Riots
+ Historic Efforts to 
  
 
  **reading notes**
