@@ -1078,7 +1078,8 @@ Vending, Laundry, Concierge, Etc.
  ![image](https://user-images.githubusercontent.com/34726888/166557207-d641d3a5-8e3e-495f-a7bd-06952220e39b.png)
 `Assessed Value of Land` x `Tax Rate` = `Property Tax`
     
-        
+![image](https://user-images.githubusercontent.com/34726888/166565041-2ee2e1c7-a266-4a17-b4b1-d11648fce08f.png)
+
      THIS IS THE PROPERTY TAX, DONT CONFUSE IT WITH OTHER TAXES
      Properties generally assessed by gov every 1-3 years
      Commercial rates tend to be higher. This is frequently explained by the Home Voter Hypothesis (commercial properties dont vote). 
@@ -1089,11 +1090,52 @@ Vending, Laundry, Concierge, Etc.
 <details>
   <summary> (Replacement Reserve) </summary>
   
+  Money set aside for major repairs, capital expenditures and Tenant Fit Outs. Frequently done on a per square foot basis. 
+  ![image](https://user-images.githubusercontent.com/34726888/166565135-6d1b94f2-cf04-4293-ba18-beacd96cd00e.png)
+
   </details> 
-          (Replacement Reserve)
-          _(Other Recurring Expenses)_
-          Net Operating Income
-          _(Debt Services)_
+  
+<details>
+  <summary> (Other Recurring Expenses) (/summary)
+    
+    Linkgage Payments, Ground Lease, etc.
+    
+    </details>
+  
+  <details> 
+    <summary> NOI: Net Operating Income </summary>  
+    
+    **SYNONYMS:*** Cash Flow Before Financing, Free and Clear, Net Income Before Financing  
+    NOI = Income - Expenses
+    ![image](https://user-images.githubusercontent.com/34726888/166565586-519080a8-4510-4249-b345-abe011b62c75.png)
+
+  </details>
+
+  <details> 
+    <summary> (Debt Services) </summary> 
+    
+         
+[**Debt Service (Interest + Amortization)** ](https://github.com/SageGrey/exp-exp-exp/blob/main/zzzzz_cards/205_DebtService.md)
+    
+**Debt Service = (Interest + Amortization)**
+
+Debt Service is the payment on debt owned, sometimes called the **Financing Payment**. The part of Debt Service that goes towards interest is **tax deductable**, the part going to amortization is not. As time passes, the amount of debt service that is going towards paying off the principle _(amortization)_ increases, so the taxable portion will also increase. 
+    
+![amortization and interest rate](https://github.com/SageGrey/exp-exp-exp/blob/main/ooooo_mixedMedia/i4_amortization_schedule_30year_fixed.gif)
+
+![image](https://user-images.githubusercontent.com/34726888/166566803-4a99e096-319c-4d52-ad35-131735a95973.png)
+![image](https://user-images.githubusercontent.com/34726888/166566895-c8b0095d-78fa-49d4-af85-ba51c59ec1d5.png)
+![image](https://user-images.githubusercontent.com/34726888/166566950-9af5d586-8391-4969-afcf-bbdc4a8e697a.png)
+
+**To calculate amortization for a fixed-rate mortgage -->**  
+**Constant Mortgage Payment - Interest Payment = Amortization **  
+ 1. First calculate interest payment (Outstanding Loan x Interest Rate)   
+ 2. Take the fixed loan payment  
+ 3. Subtract these values  
+    
+  </details>    
+</details>
+  
           Cash Flow After Financing
           (Tax Payment)
           Cash Flow After Taxes 
@@ -1102,18 +1144,7 @@ Vending, Laundry, Concierge, Etc.
 
 
 
-**Replacement Reserve** 
- 
-     -->Major Repiars  
-     --> Capital Expenditures  
-     --> Tenant Fit Outs  
-    
-**Net Operating Income**    
 
-     ---> Net Operaing Income (NOI)
-     SYNONYMS: Cash Flow Before Financing, Free and Clear, Net Income Before Financing
-     
-[**Debt Service (Interest + Amortization)** ](https://github.com/SageGrey/exp-exp-exp/blob/main/zzzzz_cards/205_Debt%20Service.md)
 
      ---> Payments on Debt Owed
      ---> Sometimes called "Financing Payment"
