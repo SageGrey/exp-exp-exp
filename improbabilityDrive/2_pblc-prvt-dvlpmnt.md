@@ -66,6 +66,20 @@
 </details>     
 
 <details> 
+  <summary> Guest Speakers </summary>
+ 
+  **Guest 1**: Larry Curtis, President and Managing Partner, WinnDevelopment 2/28/2022
+  
+ **Guest 2:** Leslie Reed: Chief Executive Officer, Madison Park Development Corporation, 3/2/2022
+ 
+ **Guest 3:** Will Fleissig, former president and CEO, Waterfront Toronto 3/23/2022
+  
+ **Guest 4**  Joe Larkin, Principal, Managing Partner, BostonMillennium 3/28/2022
+ 
+ **Guest 5**  Edith Hsu-Chen, Director, Manhattan Office, New York City Department of City Planning  4/11
+ </details>
+  
+<details> 
   <summary> Syllabus </summary> 
   
   PUBLIC AND PRIVATE DEVELOPMENT 
