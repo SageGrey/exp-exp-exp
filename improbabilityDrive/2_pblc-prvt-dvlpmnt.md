@@ -1096,11 +1096,11 @@ Vending, Laundry, Concierge, Etc.
   </details> 
   
 <details>
-  <summary> (Other Recurring Expenses) (/summary)
+  <summary> (Other Recurring Expenses) </summary>
     
     Linkgage Payments, Ground Lease, etc.
     
-    </details>
+</details>
   
   <details> 
     <summary> NOI: Net Operating Income </summary>  
@@ -1119,7 +1119,12 @@ Vending, Laundry, Concierge, Etc.
     
 **Debt Service = (Interest + Amortization)**
 
-Debt Service is the payment on debt owned, sometimes called the **Financing Payment**. The part of Debt Service that goes towards interest is **tax deductable**, the part going to amortization is not. As time passes, the amount of debt service that is going towards paying off the principle _(amortization)_ increases, so the taxable portion will also increase. 
+Debt Service is the payment on debt owned, sometimes called the **Financing Payment**. The part of Debt Service that goes towards interest is **tax deductable**, the part going to amortization is not. As time passes, the amount of debt service that is going towards paying off the principle _(amortization)_ increases, so the taxable portion will also increase.  
+    
+Generally people want to borrow as much as possible due to "Positive Financial Leverage" (able to make more money off of your money than the interest on debt costs)
+     Two Components of Debt Service
+     1. DEBT --> How much debt
+     2. EQUITY --> Amount Dev/Investory used to begin with 
     
 ![amortization and interest rate](https://github.com/SageGrey/exp-exp-exp/blob/main/ooooo_mixedMedia/i4_amortization_schedule_30year_fixed.gif)
 
@@ -1134,9 +1139,90 @@ Debt Service is the payment on debt owned, sometimes called the **Financing Paym
  3. Subtract these values  
     
   </details>    
-</details>
+
+  <details>
+    <summary> CFAF: Cash Flow After Financing </summary>
   
-          Cash Flow After Financing
+    CFAF = NOI - Debt Service  
+    ![image](https://user-images.githubusercontent.com/34726888/166571238-6e51b925-67a9-4b1f-a05b-bc4c5059d53c.png)
+
+    
+  </details>
+  
+  <details> 
+    <summary> Tax Payment </summary> 
+    
+    
+![image](https://user-images.githubusercontent.com/34726888/166571778-ee952c38-812d-4ebd-a703-b9702d067655.png)
+    
+### Tax Payment happens in **3 Steps**  
+  <details> 
+      <summary> Step One: Calculate Amortization </summary>
+
+    Amortization = Debt Service - Interest  
+    Amortization = Debt Service - (Outstanding Loan * Interest Rate)
+
+ <details> 
+  <summary> Amortization Calculation examples </summary>
+   
+Concept: 
+![image](https://user-images.githubusercontent.com/34726888/166573474-3e53dcd2-66c3-471b-84c7-7584a595f2c8.png)
+
+Example:
+![image](https://user-images.githubusercontent.com/34726888/166573517-1ce3bfe9-b923-4635-8d6c-efc7ab172481.png)
+ </details>
+
+  <details>
+ <summary> Background on Amortization As Concept </summary>
+    
+ ![image](https://user-images.githubusercontent.com/34726888/166571931-03a20330-4967-4216-92a8-bfdf3e023706.png)
+ ![image](https://user-images.githubusercontent.com/34726888/166572138-91ca4652-31a6-48d6-a873-fa6314e16749.png)
+ ![image](https://user-images.githubusercontent.com/34726888/166572171-2f791aa0-c0dd-4db3-a29b-7525e9892192.png)
+  </details>
+ 
+ </details>
+      
+  <details> 
+  <summary> Step Two: Calculate Depreciation </summary>
+      
+    
+</details>
+       
+<details> 
+<summary> Step Three: Calculate Taxable Income </summary>
+      
+</details>
+      
+
+![image](https://user-images.githubusercontent.com/34726888/166571536-b9b88930-b00e-4be4-870d-3a9e7fc95c86.png)
+
+    
+ ### Calculating Taxable Income (two places it can be done)
+          
+          NOI 
+          - Interest
+          - Depreciation
+          + Replacement Reserves
+          _______________________
+          Taxable Income
+          
+          CFAF (cash flow after financing)
+          - Depreciation
+          + Amrotization
+          + Replacement Reserve
+          _____________________
+          Taxable Income 
+    
+    Important to pull out Amortization
+    <details> 
+      <summary> Step One: Pulling Out Amortization </summary>
+
+    </details>
+
+
+  </details>
+  </details>
+
           (Tax Payment)
           Cash Flow After Taxes 
           
@@ -1146,13 +1232,7 @@ Debt Service is the payment on debt owned, sometimes called the **Financing Paym
 
 
 
-     ---> Payments on Debt Owed
-     ---> Sometimes called "Financing Payment"
-     --> Debt Service = Interest + Amortization
-     --> Borrow as much as possible due to "Positive Financial Leverage" (able to make more money off of your money than the interest on debt costs)
-     Two Components of Debt Service
-     1. DEBT --> How much debt
-     2. EQUITY --> Amount Dev/Investory used to begin with
+
      
      Types of Loans
      1. Construction Loans
