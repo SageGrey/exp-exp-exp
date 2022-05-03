@@ -902,6 +902,7 @@ and Private Development](http://gofile.me/6WhDC/cvKMNKgSv), Class Note #1
 **"Fair Market Compensation"** -->  What a willing buyer would pay a willing seller.  
 **Sole Source Method**: Non-competitive process rfp. Gov approaches one entity.   
 **ESG**: Environmental, Social, and Corporate Governance Metrics  
+**Market Sounding**: Keeping a list of everyone you've talked to  
 
  </details>
 
