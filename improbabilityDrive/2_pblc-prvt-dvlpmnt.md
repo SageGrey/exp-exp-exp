@@ -982,7 +982,8 @@ When public housing was criticized for being inhumane (large towers) it focused 
                        
   </details> 
   
-  ##  Financial Analysis Methods
+  ##  Real Estate Financial Analysis (REFA) Methods
+**Necessary, sufficient, but not excessive.** The goal is to analyse how much Gov should provide, how much private should provide. What is the Gap between desired and market return. 
   <details> 
   
  <summary> Parts of A Pro Forma </summary> 
@@ -1216,7 +1217,7 @@ take-away
 <Details>
   <Summary> Various Types of Financial Analysis </summary>
   
-### Cost Benefit Analysis 
+### Cost Benefit Analysis: Is it worth doing?
    
       Not super common in public private development  
       CBA seeks to measure in MONETARY TERMS net increase/decrease in goods/services taken by project for society as a whole. 
@@ -1225,21 +1226,21 @@ take-away
       --> Does not account for WHO is benefited, WHO is harmed
       --> Monetizing benefits is hard
       --> Future benefits have discount rates applied (higher discount rate, lower benefits valued) 
-      
-### Cost-Effectiveness Analysis
+      --> Calculating costs is MUCH easier than calculating benefits
+
+**Modified CBA for Public-Private Development**   
+  Looks at the DISTRIBUTION of benefits.  
+  Doesn't monetize everything  
+  
+### Cost-Effectiveness Analysis: What is the Cheapest Way
  
       Assumes the project is happening. But we would like it to be as cheap as possible
       Neccesary, Sufficient, But not excessive
       
-### Modified CBA for Public-Private Development
+### Economic Benefit Analysis
+   More or Less a PR tool.
 
-     Looks at the DISTRIBUTION of benefits
-     Doesn't monetize everything
-
-
-### Economic Impact Analysis
-
-     Also known as "regional income analysis"
+     Also known as "regional income analysis."
      Contributuions to an economy in a specific area. 
      Uses multipliers, for every $X, there is # benefits. 
      
@@ -1256,20 +1257,21 @@ take-away
 
 ### Fiscal Impact Analysis
 
-         Useful for fully private projects
-          --> How many new services will need to be rendered by the gov?
-          --> How much new tax base revenue?
-  
+Useful for fully private projects.  Looks at how much will a new project affect government **revenue (tax base increases)** and **costs (needed municiple services).**
+   
   </details>
 
 ## Frameworks + History 
+  <details>
+  <summary> 
+  
   <details> 
   <Summary> Who Has Power in Cities? </Summary>
 
  **See ZKN note:** 
   [232_7TheoriesofPower](https://github.com/SageGrey/exp-exp-exp/blob/main/zzzzz_cards/232_7TheoriesofPower.md)
     
- Elite Reputational:
+Elite Reputational:
 This theory is based off of observations of Atlanta. The central tenant is that repuatation is essentially equal to power. So cultivating status is thus cultivating power. Who do you think is the most important person to consult is the top businessman or power broker.
 
 Elite Structural Theory:
