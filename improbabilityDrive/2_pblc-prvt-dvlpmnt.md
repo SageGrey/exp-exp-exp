@@ -14,6 +14,20 @@
 <details> 
   <summary> Notes from Review Session </summary>
   
+  **Kaydens Summary Predictions**  
+  
+       1. Public Private partnerships are here to stay. Inequality is on the rise. The urban project beguiles. ESG (environmental, social, governance) Metrics increasingly important.  
+       2. All real estate is public private development  
+       3. Public private deals are increasingly complicated and costly  
+       4. Public entreprenesurship is a new profession that is rising. 
+       5. Scholars and practitioners need to dive deeper  
+       6. There are new institutional powers (Eds and Meds)  
+       7. Private provision of public benefits will continue
+       8. Climate change will fundamentally change how we live. 
+       9. Changing live-work arrangements will lead to poly-centric cicties. 
+       10. Skepticism about public-private development will continue
+  
+  
   **REMINDER** Write down assumptions. 
   
   **Tax-Increment Financing:** Up until that point, all property tax went to the general budget of the city. NOW, any increase in property value now is earmarked to provide money for infrastructure improvements in the district. So property tax APPRECIATION will go to infrastructure improvements. This might make the value go up, thus creating a virtuous circle. 
@@ -887,12 +901,15 @@ and Private Development](http://gofile.me/6WhDC/cvKMNKgSv), Class Note #1
 **Land Banking** --> When government buys up land in order to alter the supply/demand and drive up value of land.    
 **"Fair Market Compensation"** -->  What a willing buyer would pay a willing seller.  
 **Sole Source Method**: Non-competitive process rfp. Gov approaches one entity.   
+**ESG**: Environmental, Social, and Corporate Governance Metrics  
 
  </details>
 
 
 <Details>
   <Summary> Key Concepts </Summary>
+  
+  "To Plan is Human, To Implement is Divine" JK
 
 Pro Forma  
 Discounted Cash Flow Analysis  
@@ -1263,11 +1280,18 @@ Useful for fully private projects.  Looks at how much will a new project affect 
 
 ## Frameworks + History 
   <details>
-  <summary> 
+  <summary> Legal Frameworks </summary>
+  
+  Laws can
+    *create (LIHTC, Inclusionary Zoning)  
+    *Limit (essential nexus, roughly proportional)  
+    *Authroize (Authorize Zoning)  
+  
+  </details>
   
   <details> 
   <Summary> Who Has Power in Cities? </Summary>
-
+**Real Politik** Day to day operations, Tussling in the Maelestrom
  **See ZKN note:** 
   [232_7TheoriesofPower](https://github.com/SageGrey/exp-exp-exp/blob/main/zzzzz_cards/232_7TheoriesofPower.md)
     
@@ -1294,7 +1318,18 @@ This idea comes from Clarance Stone writing about Atlanta. It is similar to Grow
 
   </details>
   
+  <details> 
+  <summary> Revolution vs Pragmatism </summary>
+    
+  David Harvey (revolution) vs Susan Fainstein (Pragmatism)
+  
+    </details>
+  
+  
+  
+## Techniques 
 <details>
+  
   <summary> Formula for Calculating the Square Footage Needed for a Zoning Bonus </summary>
   
   ...
