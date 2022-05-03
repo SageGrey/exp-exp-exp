@@ -805,6 +805,46 @@ _What about the minority that doesn't want to sell?_ They are forced to sell by 
 *[Privitization as losing muscle memory](https://github.com/SageGrey/exp-exp-exp/blob/main/zzzzz_cards/MuscleMemoryCapacity.md)
    ### Unsorted Below This Line
 
+<details> 
+  <summary> Land Disposition </summary>
+      
+![image](https://user-images.githubusercontent.com/34726888/157478279-3c90c0d5-aeda-4232-aadf-4e2608eba6a1.png)
+Photo Book About Land Disposition
+Common phenomenon that eminent domain exercised, but then land is left undeveloped and homes have been bulldozed. 
+
+**Disposition**                       
+ Sale or lease of land.  
+ To generate revenue.   
+ Eliminate responsibilty.   
+ Influence the land market.  
+ 
+ HOW: Auction, Sole Source
+ 
+ Auction: 
+ Highest Responsible Bidder Wins
+ Open Outcry
+ 
+Gov Prepares Auction, Announces, Engages, Administers Auction. 
+ Sealed Bid Auctions
+</details>
+
+<details> 
+  <summary> RFP Method </summary>
+  
+**RFP (Request for Proposal) Method**    
+STEP ONE: Gov **prepares RFP** Document,  
+        
+        Sometimes will use a RFQ (Request for Qualifications)
+STEP TWO: Goc announces RFP  
+STEP THREE: Engages with potential participants   
+STEP FOUR: Gov reviews development proposal and _TENTATIVELY_ determine a winner  
+STEP FIVE: Gov negotiates with the tentative winner, enters into a binding winner   
+
+          Minor modifications permitted, major modifications are deeply problematic
+          AND can result in lawsuits. 
+  
+</details>
+
   
   ```
                ________            _______
@@ -856,54 +896,4 @@ _  __ /:\::\:8\/_____________________/\/\   /\_\\/\  \ 8       /:/\:\ \:\
 _ /     |\  \   |________________/:\/::\///__/ /__//_______/:/\:\ \:\/::\ \:\
 __________\     \               //\::/\:/___  ___ /       /::\ \:\ \::/\:\ \:\
 ::::::::::\\  \  \             /:\/::\///__/ /__//       /:/\:\ \:\/::\ \:\ \:
-```
-
-
-
-      
-
-PILaR --> 
-
-
-![image](https://user-images.githubusercontent.com/34726888/157478279-3c90c0d5-aeda-4232-aadf-4e2608eba6a1.png)
-
-Common phenomenon that eminent domain exercised, but then land is left undeveloped and homes have been bulldozed. 
-
-**Disposition**                       
- Sale or lease of land.  
- To generate revenue.   
- Eliminate responsibilty.   
- Influence the land market.  
- 
- HOW: Auction, Sole Source
- 
- Auction: 
- Highest Responsible Bidder Wins
- Open Outcry
- 
-Gov Prepares Auction, Announces, Engages, Administers Auction. 
- Sealed Bid Auctions
- 
-**RFP (Request for Proposal) Method**    
-STEP ONE: Gov **prepares RFP** Document,  
-        
-        Sometimes will use a RFQ (Request for Qualifications)
-STEP TWO: Goc announces RFP  
-STEP THREE: Engages with potential participants   
-STEP FOUR: Gov reviews development proposal and _TENTATIVELY_ determine a winner  
-STEP FIVE: Gov negotiates with the tentative winner, enters into a binding winner   
-
-          Minor modifications permitted, major modifications are deeply problematic
-          AND can result in lawsuits. 
-
-
-
-  
-  
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
 ```
