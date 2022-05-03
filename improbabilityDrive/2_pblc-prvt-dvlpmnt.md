@@ -1323,7 +1323,7 @@ This idea comes from Clarance Stone writing about Atlanta. It is similar to Grow
     
   David Harvey (revolution) vs Susan Fainstein (Pragmatism)
   
-    </details>
+</details>
   
   
   
