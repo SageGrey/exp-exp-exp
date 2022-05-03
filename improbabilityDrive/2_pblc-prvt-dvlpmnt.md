@@ -1013,7 +1013,10 @@ When public housing was criticized for being inhumane (large towers) it focused 
  Occurs in a "Stabalized Year" || Syn: Operating, Standard  
  Uses Actual, Estimated (or manipulated)  
  *Note:* (_italics_ should be underlined, can't underline in markdown)  
- 
+  
+
+  ### Income
+  
   <details>
  <summary> Gross Income + Additional Income </summary> 
       
@@ -1055,6 +1058,8 @@ Vending, Laundry, Concierge, Etc.
     
   </details>
  
+  ### Expenses 
+  
   <details> 
     <summary> (Operating Expenses) </summary> 
  
@@ -1071,7 +1076,7 @@ Vending, Laundry, Concierge, Etc.
     **Moral:** put in an imputed amount for your own labor  
 
   </details>
-
+  
   <details> 
     <summary> (Real Estate Taxes) </summary>
    
@@ -1102,6 +1107,7 @@ Vending, Laundry, Concierge, Etc.
     
 </details>
   
+ ### NOI
   <details> 
     <summary> NOI: Net Operating Income </summary>  
     
@@ -1111,6 +1117,8 @@ Vending, Laundry, Concierge, Etc.
 
   </details>
 
+ ### Debt Service 
+  
   <details> 
     <summary> (Debt Services) </summary> 
     
@@ -1140,6 +1148,8 @@ Generally people want to borrow as much as possible due to "Positive Financial L
     
   </details>    
 
+ ### CFAF 
+  
   <details>
     <summary> CFAF: Cash Flow After Financing </summary>
   
@@ -1147,16 +1157,38 @@ Generally people want to borrow as much as possible due to "Positive Financial L
     ![image](https://user-images.githubusercontent.com/34726888/166571238-6e51b925-67a9-4b1f-a05b-bc4c5059d53c.png)
 
     
+    
   </details>
+ 
+   ### Tax Payment
   
   <details> 
     <summary> Tax Payment </summary> 
-    
-    
+      
 ![image](https://user-images.githubusercontent.com/34726888/166571778-ee952c38-812d-4ebd-a703-b9702d067655.png)
     
-### Tax Payment happens in **3 Steps**  
-  <details> 
+###  Tax Payment = Taxable Income x Tax RateTax Payment. 
+Happens in **3 Steps**. Tax Income DOES NOT EQUAL the Tax Payment, Do this calculation in a seperate place so you don't accidentally swap them.   
+  
+    <details> 
+      <summary> Allowable Deductions Overview </summary> 
+      
+      Allowable Income **Tax Deductions** from taxable income 
+          You can DEDUCT your EXPENSES from your income
+          --> Mortgage loan interest (just the interest part, not the amortization)
+          --> Operating Expenses
+          --> Real Estate Taxes
+          --> Depreciation of Property 
+               --> To account for the theoretical deterioration of the property
+               --> Basically a built-in subsidy              
+         
+         You CANNNOT DEDUCT 
+          --> Amortization (This would amount to paying money to yourself, not an expense)
+          --> Replacement Reserve not Deductable
+    
+    </details>
+    
+    <details> 
       <summary> Step One: Calculate Amortization </summary>
 
     Amortization = Debt Service - Interest  
@@ -1177,27 +1209,22 @@ Example:
     
  ![image](https://user-images.githubusercontent.com/34726888/166571931-03a20330-4967-4216-92a8-bfdf3e023706.png)
  ![image](https://user-images.githubusercontent.com/34726888/166572138-91ca4652-31a6-48d6-a873-fa6314e16749.png)
- ![image](https://user-images.githubusercontent.com/34726888/166572171-2f791aa0-c0dd-4db3-a29b-7525e9892192.png)
   </details>
  
  </details>
       
-  <details> 
-  <summary> Step Two: Calculate Depreciation </summary>
+<details> 
+<summary> Step Two: Calculate Depreciation </summary>
       
-    
+![image](https://user-images.githubusercontent.com/34726888/166574266-07b6d7d1-dd9f-46f1-a017-82fb2430e695.png)
+![image](https://user-images.githubusercontent.com/34726888/166574289-766b8483-2adc-4ccd-9d69-85f77d9d608f.png)
+  
 </details>
        
 <details> 
 <summary> Step Three: Calculate Taxable Income </summary>
-      
-</details>
-      
-
-![image](https://user-images.githubusercontent.com/34726888/166571536-b9b88930-b00e-4be4-870d-3a9e7fc95c86.png)
-
-    
- ### Calculating Taxable Income (two places it can be done)
+ 
+   ### Calculating Taxable Income (two places it can be done)
           
           NOI 
           - Interest
@@ -1208,32 +1235,91 @@ Example:
           
           CFAF (cash flow after financing)
           - Depreciation
-          + Amrotization
+          + Amortization
           + Replacement Reserve
           _____________________
           Taxable Income 
+  
+  ![image](https://user-images.githubusercontent.com/34726888/166574359-7a6c60d7-c56e-4a58-ba9b-e3839a5ba021.png)
+  
+  ![image](https://user-images.githubusercontent.com/34726888/166574467-6a282d3f-9e1e-48ec-90ea-5ae53d9ba5d9.png)
+
+</details>
+
+ ### CFAT
     
-    Important to pull out Amortization
-    <details> 
-      <summary> Step One: Pulling Out Amortization </summary>
-
-    </details>
-
+  <details> 
+  <summary> Cash Flow After Taxes </summary>
+  
+  CFAT = Cash Flow After Financing - Tax Payment
+  ![image](https://user-images.githubusercontent.com/34726888/166574541-19e45d1f-568d-43ca-bf3a-97115c68f860.png)
 
   </details>
-  </details>
-
-          (Tax Payment)
-          Cash Flow After Taxes 
-          
-
-
-
-
-
-
 
      
+```
+                          ^
+                _______     ^^^
+               |xxxxxxx|  _^^^^^_
+               |xxxxxxx| | [][]  |
+            ______xxxxx| |[][][] |
+           |++++++|xxxx| | [][][]|     # Thats it for the pro forma
+           |++++++|xxxx| |[][][] |    ###
+           |++++++|_________ [][]|
+           |++++++|=|=|=|=|=| [] |
+           |++++++|=|=|=|=|=|[][]|
+
+```
+</details>       
+
+
+<details> 
+  <summary> Return Measures </summary>
+  
+  ![image](https://user-images.githubusercontent.com/34726888/166575975-3c2d5a85-108b-4baf-90d1-4a91836b6977.png)
+
+  
+**Return Measures (Rates of Returns)**
+      
+     Asset Value x Rate of Return = Income
+     
+     Rate of Return = Income / Asset Value
+     
+### Return on Total Assets 
+
+     --> Measure of profitability based on total asset cost (or value)
+     --> Same as income returned, or "Free and Clear" 
+     
+     ROTA = NOI/Total Development Cost
+     _Return on Equity_ -->
+    
+### Return on Equity
+
+    --> Incone returned on equity invested
+    -->Also known as "Cash on Cash"
+    --> If ROE is greater than ROTA you have positive leverage
+    ROE = Cash Flow After Taxes/Equity Invested
+    
+### Cap (Capitalization) Rates
+    
+    Market derived rates (percentages) based on market data of ratio of recently sold property NOIs and dales prices 
+    Cap Rate = NOIs/Sales Price
+    
+    Higher the cap rate, the lower the value
+    (Lower cap rate, higher value)
+    
+    Capitalized Value = NOI/ Cap Rate
+     
+take-away
+`Money flows to the highest risk adjusted return`
+     
+  
+  </details>
+  
+<details> 
+  <Summary> Types of Loans </summary>
+  
+       
      Types of Loans
      1. Construction Loans
      2. Permanent Loan
@@ -1263,100 +1349,14 @@ Example:
           --> Look at a Constant Chart/Schedule 
                --> Rows (Interest Rate)  
                --> Number of Years
-               
-           STEPS
-            1. First calculate interest payment (Outstanding Loan x Interest Rate)
-            2. Take the constant mortgage payment
-            Constant Mortgage Payment - Interest Payment = Amortization
-            
-Tax Payment Calculation** 
-
-          Tax Payment = Taxable Income x Tax Rate
-          Tax Income DOES NOT EQUAL the Tax Payment, Do this calculation in a seperate place so you don't accidentally swap them. 
-          
-Allowable Income **Tax Deductions** from taxable income 
-          You can DEDUCT your EXPENSES from your income
-          --> Mortgage loan interest (just the interest part, not the amortization)
-          --> Operating Expenses
-          --> Real Estate Taxes
-          --> Depreciation of Property 
-               --> To account for the theoretical deterioration of the property
-               --> Basically a built-in subsidy              
-         
-         You CANNNOT DEDUCT 
-          --> Amortization (This would amount to paying money to yourself, not an expense)
-          --> Replacement Reserve not Deductable
-          
-Calculating Taxable Income (two places it can be done)
-          
-          NOI 
-          - Interest
-          - Depreciation
-          + Replacement Reserves
-          _______________________
-          Taxable Income
-          
-          CFAF (cash flow after financing)
-          - Depreciation
-          + Amrotization
-          + Replacement Reserve
-          _____________________
-          Taxable Income 
-          
     
     
-TASK 1
-`Put in Loan Payments Diagram`
-
-TASK 2 
-`Put Amortization Calculations into a Zettle Note`
+  </details>
 
 
 Income Remaining one the debt has been serviced
 --Income that is distributed to investors and limited partners who then have to pay INCOME taxes on it. 
 
-
-
-**Return Measures (Rates of Returns)**
-      
-     Asset Value x Rate of Return = Income
-     
-     Rate of Return = Income / Asset Value
-     
-Return on Total Assets 
-
-     --> Measure of profitability based on total asset cost (or value)
-     --> Same as income returned, or "Free and Clear" 
-     
-     ROTA = NOI/Total Development Cost
-     _Return on Equity_ -->
-    
-Return on Equity
-
-    --> Incone returned on equity invested
-    -->Also known as "Cash on Cash"
-    --> If ROE is greater than ROTA you have positive leverage
-    ROE = Cash Flow After Taxes/Equity Invested
-    
-Cap (Capitalization) Rates
-    
-    Market derived rates (percentages) based on market data of ratio of recently sold property NOIs and dales prices 
-    Cap Rate = NOIs/Sales Price
-    
-    Higher the cap rate, the lower the value
-    (Lower cap rate, higher value)
-    
-    Capitalized Value = NOI/ Cap Rate
-     
-take-away
-`Money flows to the highest risk adjusted return`
-     
-           
-         
-`FUZZY ON` 
-[--Cap Rates why the higher cap rate, lower value]
-[-- ROE vs ROTA]
-  
  </details>
  
 <details>
