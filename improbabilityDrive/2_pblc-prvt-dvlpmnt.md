@@ -1000,7 +1000,7 @@ When public housing was criticized for being inhumane (large towers) it focused 
                        
   </details> 
   
-  ##  Real Estate Financial Analysis (REFA) Methods
+  ##  Real Estate Financial Analysis (REFA) Methods: Pro Forma
 **Necessary, sufficient, but not excessive.** The goal is to analyse how much Gov should provide, how much private should provide. What is the Gap between desired and market return. 
   <details> 
   
@@ -1152,6 +1152,8 @@ Generally people want to borrow as much as possible due to "Positive Financial L
   
   <details>
     <summary> CFAF: Cash Flow After Financing </summary>
+    
+    Income Remaining one the debt has been serviced. Income that is distributed to investors and limited partners who then have to pay INCOME taxes on it. 
   
     CFAF = NOI - Debt Service  
     ![image](https://user-images.githubusercontent.com/34726888/166571238-6e51b925-67a9-4b1f-a05b-bc4c5059d53c.png)
@@ -1271,7 +1273,7 @@ Example:
 
 ```
 </details>       
-
+</details>
 
 <details> 
   <summary> Return Measures </summary>
@@ -1352,10 +1354,6 @@ take-away
     
     
   </details>
-
-
-Income Remaining one the debt has been serviced
---Income that is distributed to investors and limited partners who then have to pay INCOME taxes on it. 
 
  </details>
  
