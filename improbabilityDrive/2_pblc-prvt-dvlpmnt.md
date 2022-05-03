@@ -1005,20 +1005,91 @@ When public housing was criticized for being inhumane (large towers) it focused 
   <details> 
   
  <summary> Parts of A Pro Forma </summary> 
-  
  
- [Parts of A Pro Forma](https://github.com/SageGrey/exp-exp-exp/blob/main/zzzzz_cards/203_Pro%20Forma.md)
+  ![image](https://user-images.githubusercontent.com/34726888/166539914-19209028-d667-45ab-94d7-545c286b9ba2.png)
+
+   [Parts of A Pro Forma](https://github.com/SageGrey/exp-exp-exp/blob/main/zzzzz_cards/203_Pro%20Forma.md)
  Latin: As a matter of form  
  Occurs in a "Stabalized Year" || Syn: Operating, Standard  
  Uses Actual, Estimated (or manipulated)  
  *Note:* (_italics_ should be underlined, can't underline in markdown)  
  
-          Gross Income
-          (Vacancy)
-          _Additional Income_
-          Effective Gross Income
-          (Operating Expenses)
-          (Real Estate Taxes)
+  <details>
+ <summary> Gross Income + Additional Income </summary> 
+      
+ #### Gross Income (residential, retail)
+  ![image](https://user-images.githubusercontent.com/34726888/166551655-a539015a-67b7-4c8f-be4c-013206986529.png)
+
+**NOTES** 
+  * There is a difference between Square Footage AND Net Rentable Square Footage.  
+  * Percentage Rents (Some Retail pays a PERCENTAGE of sales instead of fixed rent  
+  * "Face Rent" vs "Effective Rent" (If Landlord gives a deal such as 1-month free)
+  
+   
+#### Additional Income
+Vending, Laundry, Concierge, Etc.
+  
+  </details>  
+  
+  <details>
+  <summary> (Vacancy) </summary>
+    
+![image](https://user-images.githubusercontent.com/34726888/166555673-26a451ad-d21f-43d3-9af9-4331c5bb8cbe.png)
+ * The unrented square feet owing to time taken to rent
+ * RENT UP PERIOD 
+     example: if it takes 1/2 year to find a tenant every 12 years. 
+     .5/12.5 --> 4% vacancy
+     
+ * Vacancy calculations depend on getting numbers from market conditions (Strong or Weak)   
+    
+ * Vacancy can also come from tenants not paying
+  </details>  
+  
+  <details> 
+    <summary> Effective Gross Income </summary>
+ 
+![image](https://user-images.githubusercontent.com/34726888/166556387-10bd030b-c021-4661-b246-e500f392df05.png)
+
+    --> Net Revenue
+    (Face Rent + Additional) - Vacancy
+    
+  </details>
+ 
+  <details> 
+    <summary> (Operating Expenses) </summary> 
+ 
+  ![image](https://user-images.githubusercontent.com/34726888/166556476-cb4b1320-127d-4d89-a58e-019fa4b29fbc.png)
+    SCRUITINIZE THIS SECTION, CAN BE MANIPULATED VERY EASY  
+   * Minor Repairs, Utilities 
+   * Management, Broker Fees, Doormen, etc. 
+   * **Expense Stops**: Maximum amount of expense per square foot paid by owner Everything above the expense stop would be paid by tenant. Ex: 10$/Square Foot  
+        
+    A ROOKIE MISTAKE:
+    Someone saying they will do it themselves so dont put in cost.   
+    problem 1 --> what happens if they get sick  
+    problem 2 --> opportunity cost of their labor  
+    **Moral:** put in an imputed amount for your own labor  
+
+  </details>
+
+  <details> 
+    <summary> (Real Estate Taxes) </summary>
+   
+ ![image](https://user-images.githubusercontent.com/34726888/166557207-d641d3a5-8e3e-495f-a7bd-06952220e39b.png)
+`Assessed Value of Land` x `Tax Rate` = `Property Tax`
+    
+        
+     THIS IS THE PROPERTY TAX, DONT CONFUSE IT WITH OTHER TAXES
+     Properties generally assessed by gov every 1-3 years
+     Commercial rates tend to be higher. This is frequently explained by the Home Voter Hypothesis (commercial properties dont vote). 
+     Other: Annual Occupancy Taxes
+     
+  </details>
+  
+<details>
+  <summary> (Replacement Reserve) </summary>
+  
+  </details> 
           (Replacement Reserve)
           _(Other Recurring Expenses)_
           Net Operating Income
@@ -1027,56 +1098,10 @@ When public housing was criticized for being inhumane (large towers) it focused 
           (Tax Payment)
           Cash Flow After Taxes 
           
- **Gross Income**
- 
-       --> Rent  
-       --> Note: 
-           Difference between Square Footage AND Net Rentable Square Footage  
-           Percentage Rents (Some Retail pays a PERCENTAGE of sales instead of fixed rent  
-           "Face Rent" vs "Effective Rent" (If Landlord gives a deal such as 1-month free)
-**Additional Income**
 
-           Vending, Laundry, Concierge, Etc. 
-**Vacancy** 
 
-     --> The unrented square feet owing to time taken to rent
-     --> RENT UP PERIOD 
-         example: if it takes 1/2 year to find a tenant every 12 years. 
-         .5/12.5 --> 4% vacancy
-     --> Looks generally at market conditions (Strong or Weak) 
-     --> Can also be tenants not paying
-     
-**Effective Gross Income**
 
-    --> Net Revenue
-    (Face Rent + Additional) - Vacancy
-    
-**Operating**
-    
-    SCRUITINIZE THIS SECTION, CAN BE MANIPULATED V EASY
-    --> Minor Repairs, Utilities
-    --> Management, Broker Fees, Doormen, etc. 
-    --> Expense Stops: 
-        Maximum amount of expense per square foot paid by owner  
-        All else paid by tenant  
-        Ex: 10$/Square Foot
-        
-    A ROOKIE MISTAKE:
-    Someone saying they will do it themselves so dont put in cost. 
-    problem 1 --> what happens if they get sick
-    problem 2 --> opportunity cost of their labor
-    Moral: put in an imputed amount for your own labor
-    
-**Real Estate Taxes**
-`Assessed Value of Land` x `Tax Rate` = `Property Tax`
-    
-     DONT CONFUSE WITH OTHER TAXES
-     Property Tax
-     Properties generally assessed by gov every 1-3 years
-     Commercial rates tend to be higher 
-        --> Home Voter Hypothesis
-     Other: Annual Occupancy Taxes
-     
+
 **Replacement Reserve** 
  
      -->Major Repiars  
