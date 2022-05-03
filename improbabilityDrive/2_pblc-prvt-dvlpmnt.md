@@ -93,773 +93,7 @@
  **Guest 5**  Edith Hsu-Chen, Director, Manhattan Office, New York City Department of City Planning  4/11
  </details>
   
-<details> 
-  <summary> Syllabus </summary> 
-  
-  PUBLIC AND PRIVATE DEVELOPMENT 
-Harvard GSD 5103/HKS SUP-668 
-Professor Jerold S. Kayden 
-Mondays, Wednesdays, 10:30am to 11:45am 
-Spring 2022 
- 
-Jerold S. Kayden 
-Frank Backus Williams Professor of Urban Planning and Design 
-jkayden@gsd.harvard.edu, 617-496-0830 
-Office Hours: Mondays, 12:00pm to 2:00pm, sign up through Calendly  
- 
-Teaching Associate: Julie Perlman 
-juliezperlman@alumni.harvard.edu 
-Office Hours: to be announced 
- 
-Teaching Fellow: Hsuan Lo 
-hsuanlo@gsd.harvard.edu 
-Office Hours: to be announced 
- 
-Teaching Assistant: Ryan Johnson 
-rjohnson@gsd.harvard.edu 
- 
-I. COURSE DESCRIPTION 
- 
- A complex blend of private and public actions develops the buildings, physical 
-infrastructure, and public spaces that constitute urban areas. Why do private actors originate 
-some activities while public actors originate others? Are there universal rationales and practices 
-governing such allocations? When and how should government offer incentives to private 
-developers, if ever, to encourage private provision of public benefits? To what extent may 
-private developers be required to provide public benefits? Are public-private partnerships a 
-solution or a problem? How illuminating, finally, are the labels “public” and “private” for 
-understanding and advancing the creation of productive, equitable, sustainable, and attractive 
-cities? 
- 
- In the United States, the map of public and private responsibilities for urban development 
-has shifted from sharp to flexible, even porous, boundaries. Starting mid-twentieth-century and 
-accelerating to the present, arrangements for conceptualizing, financing, and managing urban 
-development have flowed back and forth. Depending on the context, governments provide 
-financial subsidies, land, physical infrastructure, and enhanced development rights, or require 
-developers, as a condition of development approval, to provide physical infrastructure, 
-affordable housing, public space, and other public benefits. Developers routinely consult  
-citizens groups at increasingly earlier stages of project development, seeking informal and even 
-formal evidence of consent. Calls for inclusive development addressing racial and income 
-Page 2 of 16 
-Public and Private Development 
-Spring 2022 
- 
-concerns and climate change mitigation and adaptation, together measured by such emerging 
-metrics as Environmental, Social, and Governance (ESG) factors, are becoming a new normal 
-for much real estate investment and development. 
- 
- Success in current and future urban environments will require facility with customized 
-analytic methods, understanding of contextual frameworks, engagement with critical debates and 
-theories, and acquisition of specialized knowledge if urban planners and designers, public 
-policymakers, real estate developers, and other interested parties want to be effective city 
-builders. Private actors must learn navigational skills befitting a world in which public claims to 
-private profit, often under the label “value capture,” are likely to increase. It will not be enough 
-to advance self-interest if it fails to include the public interest. 
- 
-Public actors must grasp the financial realities of private development if they are to 
-negotiate viable public-private deals and obtain public benefits through the development 
-approval process. They must also take on the critique that engagement with the private sector 
-may privatize cities in ways harmful to democratic and equity aspirations. All parties must 
-comprehend how public-private collaborations may reassign oversight and risk in ways that 
-produce unintended consequences for social, economic, and physical aspects of cities. In sum, a 
-new class of professional practitioner, the public-private entrepreneur, located in either public or 
-private for-profit or not-for-profit sectors, needs a new type of education to address new 
-conditions of urban opportunities and constraints. 
- 
- This course employs a combination of lectures, discussions, guest case presentations, 
-readings, and individual and group exercises to introduce students to the analytic methods, 
-contextual frameworks, and implementation techniques necessary to successfully pursue urban 
-development from any point of view. The course commences with instruction on analytic 
-methods, emphasizing real estate financial analysis while also addressing modified cost-benefit, 
-economic impact, and fiscal impact analyses. Early classes also examine legal, institutional, 
-political, and ethical frameworks affecting public and private development. Together, the 
-analytic methods and contextual frameworks allow for elaboration of decision rules for 
-practicing development in cities. 
- 
- Specific implementation techniques covered in the course include: 
-• public subsidies (grants, loans, tax incentives) 
-• public land disposition (request for proposals, auctions, sole source) 
-• public land acquisition (eminent domain) 
-• provision of physical infrastructure (capital budgets, public-private partnerships, 
-exactions, land readjustment, valorization, tax increment financing) 
-• private provision of public benefits (exactions, inclusionary zoning, linkage, 
-incentive zoning, planning gain) 
-• development approval process, including affirmatively furthering fair housing 
-mandates 
-• community benefits agreements 
-• business improvement districts, conservancies, friends organizations 
- 
-Page 3 of 16 
-Public and Private Development 
-Spring 2022 
- 
- Most of the implementation techniques are drawn from United States practice, but 
-international comparisons are made to demonstrate the range of variation. Students are 
-encouraged to pose questions about comparable implementation techniques employed in 
-countries outside the United States. 
- 
-II. COURSE REQUIREMENTS 
- 
-A. Class Attendance and Participation 
-Students are expected to attend every class and participate in class discussions at least 
-twice during the semester. The choice of when to participate is left to the student. 
- 
-B. Reading Assignments 
- Students are expected to spend an average of two hours per class on required reading 
-assignments. Background readings are not required but are provided for those who seek to delve 
-deeper into the subject matter. During times that individual and team assignments are underway, 
-reading assignments are usually  reduced. Readings are posted through Modules in Canvas and 
-include articles, book excerpts, professional reports, and legal documents. 
- 
-C. Individual Written Assignments 
- There are two individual written assignments. The first individual written assignment 
-asks students to complete a real estate financial analysis and, although ungraded, must be 
-submitted. The second individual written assignment asks students to determine appropriate 
-amounts of public subsidy for a given project and compare subsidy delivery mechanisms. 
- 
-D. Team Assignment 
-The team assignment places students in either a government or private developer team for 
-purposes of arranging a deal for the sale/lease and subsequent private development of a 
-government-owned land parcel. Several written deliverables are required as part of this 
-assignment. 
- 
-E. Final Exam 
- The final exam is a three-hour, open-book, take-from-anywhere exam that will be 
-scheduled during the Design School’s final exam period of May 5-6. The specific day and time 
-will be announced early in the semester, as soon as it is set by the Design School administration. 
- 
-F. Grading 
- The final exam counts for 40% of the grade, the individual public subsidy assignment 
-counts for 30%, and the land disposition and development team assignment counts for 30%. For 
-the team assignment, students will receive the same grade as other members of their team unless 
-assessments of individual contributions indicate that an adjustment is appropriate. 
- 
-G. Voluntary Review Sessions 
- There are voluntary review sessions, taught by the Teaching Associate, covering real 
-estate financial analysis, Microsoft Excel for real estate financial analysis, and other topics.  
- 
-H. Software 
-Page 4 of 16 
-Public and Private Development 
-Spring 2022 
- 
-Real estate professionals often employ Microsoft Excel for real estate financial analysis. 
-Although the course does not require students to use Excel, it is recommended that students learn 
-how to use it. Review sessions are provided to assist in this effort. 
-  
-I. Office Hours 
- I hold office hours each Wednesday, 2:00 pm to 4:00 pm. Sign up through the Calendly 
-link posted above. If you cannot make office hours, we can arrange to meet at another time. The 
-Teaching Associate and Teaching Fellow will also hold office hours. 
- 
-J. Ethics 
- You are expected to abide by all school policies with regard to academic integrity and 
-honesty. Please consult school handbooks for further information. 
- 
 
- <details> 
-   <summary> Class, Reading and Assignment Schedule </summary> 
-   III. CLASS AND ASSIGNMENTS SCHEDULE 
-Classes are Mondays and Wednesdays, 10:30 am to 11:45 am ET, starting and ending on 
-time. 
- 
-Class 1. M 1/24 
-Who Develops Cities? 
- 
-No reading. 
- 
-Class 2. W 1/26 
-Using Real Estate Financial Analysis to Think About Development: The Pro Forma (A) 
- 
-Real Estate Financial Analysis Exercise is assigned, due Wednesday 2/9 
- 
-Required Reading: 
- 
-1. Jerold S. Kayden and Adam Tanaka, Real Estate Financial Analysis for Public 
-and Private Development, Class Note #1 (2022), pp. 1-11  
- 
-Background Reading: 
- 
-1. Mike Miles, Gayle Berens, Mark Eppli, and Marc A. Weiss, eds., Real Estate 
-Development: Principles and Process, 4th Edition (Washington, D.C.: The Urban 
-Land Institute, 2007), pp. 177-180 
- 
-Class 3. M 1/31 
-Using Real Estate Financial Analysis to Think About Development: The Pro Forma (B) 
- 
-Work on Real Estate Financial Analysis Exercise. 
- 
-Required Reading: 
- 
-Page 5 of 16 
-Public and Private Development 
-Spring 2022 
- 
-1. Review Jerold S. Kayden and Adam Tanaka, Real Estate Financial Analysis 
-for Public and Private Development, Class Note #1 (2022), pp. 1-11 
- 
-Background Reading: 
- 
-1. Mike Miles, Gayle Berens, Mark Eppli, and Marc A. Weiss, eds., Real Estate 
-Development: Principles and Process, Fourth Edition (Washington, D.C: The 
-Urban Land Institute 2007), pp. 180-187 
- 
-2. Marc A. Kopelman, "Private Financing: Capital Sources and Underwriting 
-Criteria,” in Brian W. Blaesser and Thomas P. Cody, eds., Redevelopment: 
-Planning, Law, and Project Implementation (Chicago: American Bar Association, 
-2008), pp. 137-147 
- 
-Review Session 1, T 2/1, 6:00-7:30pm: The Pro Forma 
- 
-Class 4. W 2/2 
-Using Real Estate Financial Analysis to Think About Development: Discounted Cash Flow 
-Analysis 
- 
-Continue working on Real Estate Financial Analysis Exercise 
- 
-Required Reading: 
- 
-1. Jerold S. Kayden and Adam Tanaka, Real Estate Financial Analysis for Public 
-and Private Development, Class Note #1 (2022), pp. 12-20 
- 
-Background Reading: 
- 
-1. Mike Miles, Gayle Berens, Mark Eppli, and Marc A. Weiss, eds., Real Estate 
-Development: Principles and Process, Fourth Edition (Washington, D.C.: The 
-Urban Land Institute, 2007), pp. 203-210 
- 
-Review Session 2, Th 2/3, 6:00-7:30pm: Discounted Cash Flow Analysis 
-Class 5. M 2/7 
-Comparing Real Estate Financial Analysis with Other Analytic Methods to Think About 
-Development 
- 
-Required Reading: 
- 
-1. Jose Gomez-Ibanez, Note on the Differences between Social Benefit-Cost, 
-Financial, and Regional Income Analyses (Harvard Graduate School of Design 
-and Kennedy School of Government, undated), pp. 1-9 
- 
-Page 6 of 16 
-Public and Private Development 
-Spring 2022 
- 
-2. Anthony Downs, Neighborhoods and Urban Development (Washington, D.C.:  
-Brookings, 1981), pp. 72-85 
- 
-3. HR&A Advisors, “Oklahoma City Innovation District Impact Analysis,” July 
-2019: pp. 1-10 
- 
-Background Reading: 
- 
-1. Minjee Kim et al., “Real Estate Development and Economic Development 
-Planning Education: Pragmatic Turn or Trojan Horse?,” Journal of Planning 
-Education and Research 1-7 (2020) 
- 
-2. Rachel Meltzer and Alex Schwartz, Policy Analysis As Problem Solving (New 
-York: Routledge, 2019), “Chapter 5: Technical Aspects of Policy Analysis: 
-Discounting, Cost-Benefit Analysis, and Cost-Effectiveness Analysis,” pp. 141-
-187 
- 
-3. Kenneth Arrow et al., Is There A Role for Benefit-Cost Analysis in 
-Environmental, Health, and Safety Regulation?, Faculty Research Working Paper 
-Series R96-04, Kennedy School of Government, Harvard University (February 
-1996), pp. 1-6 
- 
-4. Russ Weyer, “Assessing Fiscal Impacts and Community Benefits of PPPs,” in 
-Stephen B. Friedman, ed., Successful Public-Private Partnerships: From 
-Principles to Practices (Washington, D.C.: Urban Land Institute, 2016), pp. 38-40 
- 
-5. Glen Weisbrod and Burton Weisbrod, Measuring Economic Impacts of 
-Projects and Programs, Economic Development Research Group (1997) 
- 
-6. Stanley A. Gniazdowski, “The Role of Market Analysis in Redevelopment,” in 
-Brian Blaesser and Thomas P. Cody, eds., Redevelopment: Planning, Law and 
-Project Implementation (Chicago: American Bar Association, 2008), pp. 21-36 
- 
-Class 6. W 2/9 
-Legal and Institutional Frameworks 
- 
-Submit Real Estate Financial Analysis Exercise by end of day on Canvas. 
- 
-Required Reading: 
- 
-1. Brian W. Blaesser and Thomas P. Cody, “Key Actors and Institutions in the 
-Redevelopment Process,” in Brian W. Blaesser and Thomas P. Cody, eds., 
-Redevelopment: Planning, Law, and Project Implementation (Chicago: American 
-Bar Association, 2008), pp. 3-10 
- 
-Page 7 of 16 
-Public and Private Development 
-Spring 2022 
- 
-2. Richard Peiser, “Who Plans America? Planners or Developers?” Journal of the 
-American Planning Association 56 (Autumn 1990), pp. 496-503 
- 
-3. Richard Rothstein, The Color of Law (New York: Liveright, 2017), pp. 59-75, 
-93-99 
- 
-4. Business Roundtable, “Business Roundtable Redefines the Purpose of a 
-Corporation to Promote ‘An Economy That Serves All Americans,’ ” August 19, 
-2019 
- 
-Background Reading: 
- 
-1. Mike E. Miles, Gayle L. Berens, Mark J. Eppli, and Marc A. Weiss, Real 
-Estate Development Fourth Edition: Principles and Process (Washington, D.C.: 
-Urban Land Institute 4th ed., 2007), “Meshing Public and Private Roles in the 
-Development Process” pp. 323-352 
- 
-2. M.J. Brodie, “Public/Private Joint Ventures: The Government as Partner: Bane 
-or Benefit?,” Real Estate Issues, Issue 20 (August 1995): pp. 33-39 
- 
-3. Charles Haar, “The Joint Venture Approach to Urban Renewal: From Model 
-Cities to Enterprise Zones,” in Harvey Brooks, Lance Liebman and Corinne 
-Schelling, eds., Public-Private Partnership: New Opportunities for Meeting 
-Social Needs (Cambridge: Ballinger, 1984), pp. 81-84 
- 
-4. Gerald E. Frug, City Making: Building Communities Without Building Walls 
-(Princeton: Princeton University Press, 1999), pp. 45-53 
- 
-5. Robert W. Hamilton, Fundamentals of Modern Business (Boston: Little Brown, 
-1989), pp. 303-311 (start with Section 13.3 and skip sections 13.3.5 and 13.5.1) 
- 
-Review Session 3, Th 2/10, 6:00-7:30pm: Review of Real Estate Financial Analysis Exercise 
- 
-Class 7. M 2/14 
-Political and Ethical Frameworks 
- 
-Required Reading: 
- 
-1. Alan Altshuler and David Luberoff, Mega-Projects: The Changing Politics of 
-Urban Public Investment (Washington, D.C.: Brookings Institution Press, 2003), 
-pp. 45-75 
- 
-2. Marc V. Levine, “The Politics of Partnership: Urban Redevelopment Since 
-1945,” in Gregory Squires, ed., Unequal Partnerships: The Political Economy of 
-Urban Redevelopment in Postwar America (New Brunswick: Rutgers University 
-Press, 1989), pp. 12-31 
-Page 8 of 16 
-Public and Private Development 
-Spring 2022 
- 
- 
-3. Susan S. Fainstein, The Just City (Ithaca: Cornell University Press, 2010), pp. 
-170-175 
- 
-4. Isabelle Anguelovski et al., “Why green ‘climate gentrification’ threatens poor 
-and vulnerable populations,” in PNAS, vol. 116, no. 52 (2019), pp. 26139-26143 
- 
-Background Reading: 
- 
-1. Robert A. Beauregard, “Public-Private Partnerships as Historical Chameleons: 
-The Case of the United States,” in Jon Pierre, editor, Partnerships in Urban 
-Governance: European and American Experience (New York: St. Martin's Press, 
-1998), pp. 52-70 
- 
-Review Session 4, T 2/15, 6:00-7:30pm: Using Microsoft Excel for Real Estate Financial 
-Analysis: An Introduction 
- 
-Class 8. W 2/16 
-Public Subsidies (A) 
- 
-Public Subsidy Exercise is assigned, due Wednesday, 3/9 
- 
-Required Reading: 
- 
-1. US Department of Housing and Urban Development, Major Legislation on 
-Housing and Urban Development Enacted Since 1932 (undated), skim document 
-to appreciate the breadth of subsidy programs authorized by national laws in the 
-United States 
- 
-2. Excerpt from Housing Act of 1949, pp. 1-2 
- 
-3. Jerold S. Kayden and Adam Tanaka, Public and Private Development: An 
-Historical Perspective, Class Note #2 (2022), pp. 1-14 
- 
-4. Smart Growth America, Federal Involvement in Real Estate: A Call for 
-Examination (undated), pp. 1-5 
- 
-5. Bruce Katz and Jeremy Nowak, “Bruce Katz and Jeremy Nowak Defend ‘The 
-New Localism,’” in CityLab, 12/31/18 
- 
-Background Reading: 
- 
-1. Robert K. Triest, “The Economics of Subsidies for Community Development: 
-A Primer,” in Smart Subsidy for Community Development (Boston: Federal 
-Reserve Bank of Boston and Aspen Institute, 2011), pp. 10-20 
- 
-Page 9 of 16 
-Public and Private Development 
-Spring 2022 
- 
-2. United States Government, Catalog of Federal Domestic Assistance (2020), 
-skim to locate public subsidy programs within the Department of Housing and 
-Urban Development, the Department of Commerce, and the Small Business 
-Administration 
- 
-3. Paula Duggan, Making Sense of Federal Dollars: A Guide to Understanding 
-Allocation Formulas (Washington, D.C.: Northeast-Midwest Institute, The Center 
-of Regional Policy, 1992), pp. 15, 21-22, 48-49 
- 
-4. Joe Cortwright, “What ‘New Localism’ Gets Wrong About Cities and 
-Government,” in CityLab, 12/21/18 
- 
-5. Roger Biles, The Fate of Cities: Urban America and the Federal 
-Government,1945-2000 (Kansas: University Press of Kansas, 2011), Ch. 11, pp. 
-348-359, skim this history as one example of a national government’s engagement 
-with urban development 
- 
-6. Roger Biles, The Fate of Cities: Urban America and the Federal 
-Government,1945-2000 (Kansas: University Press of Kansas, 2011), pp. 82-286 
- 
-7. Alan Altshuler and David Luberoff, “Overview: Four Political Eras,” in Mega-
-Projects: The Changing Politics of Urban Public Investment (Washington, D.C.: 
-Brookings Institution Press, 2003), pp. 8-44 
- 
-Review Session 5, Th 2/17, 6:00-7:00pm: Using Microsoft Excel for Real Estate Financial 
-Analysis: Intermediate 
- 
-Monday, 2/21: NO CLASS President’s Day 
- 
-Class 9. W 2/23 
-Public Subsidies (B) 
- 
-Required Reading: 
- 
-1. Stephen B. Friedman and Charles A. Long, “The ‘But for’ Problem and the 
-Need to Make a Fair Deal,” in Stephen B. Friedman, ed., Successful Public-
-Private Partnerships: From Principles to Practices (Washington, D.C.: Urban 
-Land Institute, 2016), pp. 32-38 
- 
-2. Stephen B. Friedman and Charles A. Long, “Structuring Development 
-Partnership Deals,” in Stephen B. Friedman, ed., Successful Public-Private 
-Partnerships: From Principles to Practices (Washington, D.C.: Urban Land 
-Institute, 2016), pp. 42-51 
- 
-3. Harvey Brooks, “Seeking Equity and Efficiency: Public and Private Roles,” in 
-Harvey Brooks, Lance Liebman, and Corinne Schelling, editors, Public-Private 
-Page 10 of 16 
-Public and Private Development 
-Spring 2022 
- 
-Partnership: New Opportunities for Meeting Social Needs (Cambridge: Ballinger, 
-1984), pp. 19-20 
- 
-Background Reading: 
- 
-1. John Stainback, “The Public/Private Finance of Redevelopment,” in Brian W. 
-Blaesser and Thomas P. Cody, eds., Redevelopment: Planning, Law, and Project 
-Implementation (Chicago: American Bar Association, 2008), pp. 155-173 
- 
-Class 10. M 2/28 
-Public Subsidy Case, with guest Larry Curtis, President and Managing Partner, 
-WinnDevelopment 
- 
-Required Reading: 
- 
-1. Guest-specific readings will be assigned. 
- 
-2. Reznick Fedder & Silverman, “Overview of the Low-Income Housing Tax 
-Credit” (undated) (note that some of the tax credit provisions have changed since 
-preparation of this overview, but the basic approach is the same) 
- 
-Class 11. W 3/2 
-Community Development Corporations Case, with guest Leslie Reid, Chief Executive 
-Officer, Madison Park Development Corporation 
- 
-Required Reading: 
- 
-1. Guest-specific readings will be assigned. 
- 
-2. Avis C. Vidal and W. Dennis Keating, “Community Development: Current 
-Issues and Emerging Challenges,” in Journal of Urban Affairs, Vol. 26, No. 2, pp. 
-125-137 (2004) 
- 
-Background Reading: 
- 
-1. James Meehan, “Reinventing Real Estate: The Community Land Trust as a 
-Social Invention in Affordable Housing,” Journal of Applied Social Science 8:2 
-(2014), pp. 113-133 
- 
-Class 12. M 3/7 
-Land Acquisition and Land Readjustment 
- 
-Required Reading: 
- 
-1. Mass. G.L. Ch. 121A, Section 2 
- 
-Page 11 of 16 
-Public and Private Development 
-Spring 2022 
- 
-2. Kelo v. City of New London, 545 U.S. 469 (2005) 
- 
-3. Yu-Hung Hong, “Assembling Land for Urban Development: Issues and 
-Opportunities,” in Yu-Hung Hong and Barrie Needham, eds., Analyzing Land 
-Readjustment: Economics, Law, and Collective Action (Cambridge: Lincoln 
-Institute of Land Policy, 2007), pp. 13-25 
- 
-Background Reading: 
- 
-1. Barbara Lipman, Memo to the Mayor: Improving Access to Urban Land for All 
-Residents: Fulfilling the Promise (World Bank, 2011) 
- 
-2. Harvey Jacobs and Ellen M. Bassett, “All Sound, No Fury? The Impacts of 
-State-Based Kelo Laws,” Planning and Environmental Law, Vol. 63, No. 2, 
-February 2011 
- 
-Class 13. W 3/9 
-Land Disposition and Development (A) 
- 
-Public Subsidy Exercise is due. 
- 
-Land Disposition and Development Team Exercise is assigned, with various due dates 
-noted in the assignment document. 
- 
-Required Reading: 
- 
-1. Stephen B. Friedman and Clayton Glanz, “Creating Relationships between 
-Developers and Public Bodies,” in Stephen B. Friedman, ed., Successful Public-
-Private Partnerships: From Principles to Practices (Washington , D.C.: Urban 
-Land Institute, 2016), pp. 28-31 
- 
-2. Lynne B. Sagalyn, “Negotiating for Public Benefits: The Bargaining Calculus 
-of Public-Private Development,” in Urban Studies, Vol. 34, No. 12 (1997), pp. 
-1955-1970 
- 
-Background Reading: 
- 
-1. Geoffrey Payne, Building Bridges: The Experience of Public-Private 
-Partnerships in Urban Land Development (Cambridge: Lincoln Institute of Land 
-Policy, 2003), pp. 1-11 
- 
-SPRING BREAK, NO CLASSES, Monday 3/14 and Wednesday, 3/16 
- 
-Class 14. M 3/21 
-Land Disposition and Development (B) 
- 
-Page 12 of 16 
-Public and Private Development 
-Spring 2022 
- 
-Required Reading: 
- 
-1. Article 2: Rent, from “Form of Lease By and Between The Community 
-Redevelopment Agency of the City of Los Angeles, California and Bunker Hill 
-Associates” (1982), pp. 5-10 
- 
-2. “Restated Disposition and Development Agreement (Incorporating the First 
-Amendment) By and Between The Community Redevelopment Agency of the 
-City of Los Angeles, California, Agency, and Bunker Hill Associates, A Limited 
-Partnership, Developer” (1981), pp. i-iv, 1-75, skim the Agreement to see what is 
-included in it 
- 
-Background Reading: 
- 
-1. Roger Fisher and William Ury, Getting to Yes (New York: Penguin, 1981, 2011 
-with Bruce Patton) 
- 
-2. Michael Wheeler, Negotiation Analysis: An Introduction (2000) 
- 
-Review Session 6, M 3/21, 6:00pm: Review of Public Subsidy Exercise 
- 
-Class 15. W 3/23 
-The Waterfront Toronto Case, with guest Will Fleissig, former president and CEO, 
-Waterfront Toronto 
- 
-Required Reading: 
- 
-1. Guest-specific readings will be assigned. 
- 
-Class 16. M 3/28 
-The Millennium Development Case, with guest Joe Larkin, Principal, Managing Partner, 
-BostonMillennium 
- 
-Required Reading: 
- 
-1. Guest-specific readings will be assigned. 
- 
-Class 17. W 3/30 
-Provision of Physical Infrastructure 
- 
-Required Reading: 
- 
-1. Vicki Elmer and Adam Leigland, Infrastructure Planning and Finance (New 
-York: Routledge, 2014), “Institutions of Infrastructure: The Providers” and “The 
-Financial Context for Infrastructure,” pp. 51-68 
- 
-Page 13 of 16 
-Public and Private Development 
-Spring 2022 
- 
-2. David Merriman, Improving Tax Increment Financing (TIF) for Economic 
-Development (Cambridge: Lincoln Institute of Land Policy, 2018), pp. 5-12 
- 
-3. Urban Land Institute and Heitman, “Markets Respond to Climate Risk through 
-Infrastructure and Policy,” in Climate Risk and Real Estate: Emerging Practices 
-for Market Assessment (2020), pp. 23-31 
- 
-4. Benjamin Wilson, “It’s Not ‘Just’ Zoning: Environmental Justice and Land 
-Use,” The Urban Lawyer (October 3, 2018), pp. 1-11  
- 
-Background Reading: 
- 
-1. Edward L. Glaeser and James M. Poterba, “Economic Analysis and 
-Infrastructure Investment,” National Bureau of Economic Research Working 
-Paper 28215 (2020), pp. 1-31 
- 
-2. John Donahue, The Privatization Decision: Public Ends, Private Means (New 
-York: Basic Books, 1989), pp. 215-223 
- 
-3. ICMA, Public-Private Partnerships (P3s): What Local Government Managers 
-Need to Know (2018), pp. 1-9 
- 
-4. World Bank Group et al., Public-Private Partnerships Reference Guide 
-Version 2.0 (2014), skim pp. 17-63 
- 
-5. Rachel Weber and Laura Gooddeeris, “Tax Increment Financing: Process and 
-Planning Issues,” Lincoln Institute of Land Policy, Working Paper (2007), pp. 1-
-22 
- 
-6. HR&A Advisors, “Oklahoma City Innovation District Impact Analysis,” July 
-2019: pp. 11-17 
- 
-7. Sean Campion, Tax Increment Financing: A Primer, Policy Brief (Citizens 
-Budget Commission, 2017) 
- 
-Class 18. M 4/4 
-Private Provision of Public Benefits 
- 
-Required Reading: 
- 
-1. Alan Altshuler and Jose Gomez-Ibanez, Regulation for Revenue: The Political 
-Economy of Land Use Exactions (Washington, D.C. and Cambridge: Brookings 
-Institution and Lincoln Institute of Land Policy, 1993), pp. 122-139 
- 
-2. Exactions and Impact Fees (Florida), undated, pp. 1-4 
- 
-Page 14 of 16 
-Public and Private Development 
-Spring 2022 
- 
-3. Nico Calavita and Alan Mallach, editors, Inclusionary Housing in International 
-Perspective: Affordable Housing, Social Inclusion, and Land Value Recapture 
-(Cambridge: Lincoln Institute of Land Policy, 2010), pp. 1-13 
- 
-4. Leao Serva, “How Sao Paulo uses ‘value capture’ to raise billions for 
-infrastructure,” in Citiscope (May 22, 2014) 
- 
-Background Reading: 
- 
-1. Fernanda Furtado, “Rethinking Value Capture Policies for Latin America,” in 
-LandLines (Cambridge: Lincoln Institute of Land Policy, 2000), pp. 8-10, 16-21 
- 
-2. Tony Crook, John Henneberry, and Christine Whitehead, Planning Gain: 
-Providing Infrastructure and Affordable Housing (Chichester, UK: John Wiley 
-and Sons, 2016) 
- 
-3. Jenny Schuetz, Rachel Meltzer, and Vicki Been, 31 Flavors of Inclusionary 
-Zoning: Comparing Policies from San Francisco, Washington, D.C. and 
-Suburban Boston in Journal of the American Planning Association, Vol. 75, No. 
-4, 2009, pp. 441-456 
- 
-Class 19. W 4/6 
-Incentive Zoning 
- 
-Required Reading: 
- 
-1. Marya Morris, Incentive Zoning: Meeting Urban Design and Affordable 
-Housing Objectives, Planning Advisory Service Report Number 494 (American 
-Planning Association 2000), pp. 9-28 
- 
-Background Reading: 
- 
-1. Jerold S. Kayden et al., Privately Owned Public Space: The New York City 
-Experience (New York: Wiley, 2000), pp. 43-59 
- 
-Class 20. M 4/11 
-The New York City Zoning Case, with guest Edith Hsu-Chen, Director, Manhattan Office, 
-New York City Department of City Planning  
- 
-Required Reading: 
- 
-1. Guest-specific readings to be announced. 
- 
-Class 21. W 4/13 
-Who’s the “Public” in Public and Private Development? 
- 
-Page 15 of 16 
-Public and Private Development 
-Spring 2022 
- 
-Required Reading: 
- 
-1. City of Boston, A Citizen’s Guide to Development Review under Article 80 of 
-the Boston Zoning Code (2014), skim document 
- 
-2. Katharine Levine Einstein, Maxwell Palmer, and David Glick, “Who 
-Participates in Local Government? Evidence from Meeting Minutes,” in 
-Perspectives on Politics 17(1) (2019), pp. 28-46. 
- 
-3. Gabriella Velasco, “How Cities Are Paving the Way to Fair Housing: An 
-Expert Discussion,” in Housing Matters, June 16, 2021 
- 
-4. Roderick Hills and David Schleicher, “Planning an Affordable City,” 101 Iowa 
-L.R. 91 (2015), pp. 93-96 
- 
-5. Nicholas Marantz, “What Do Community Benefits Agreements Deliver,” in 
-Journal of the American Planning Association, vol. 81, issue 4 (2015), pp. 251-
-267 
- 
-Background Reading: 
- 
-1. Laura Wolf-Powers, “Community Benefits Agreements and Local 
-Government: A Review of Recent Evidence,” in Journal of the American 
-Planning Association, vol. 76, no. 20, spring 2010, pp. 1-19 
- 
-2. Vicki Been, “Community Benefits Agreements: A New Local Government 
-Tool or Another Variation on the Exactions Theme?,” NYU Furman Center for 
-Real Estate and Urban Policy, Working Paper, 2010 
- 
-3. Atlantic Yards Project, Brooklyn, New York, Community Benefits Agreement, 
-June 27, 2005 (skim the agreement) 
- 
-Class 22. M 4/18 
-Presentations of Land Disposition and Development Teams 
- 
-Class 23. W 4/20 
-Remainder of Presentations of Land Disposition and Development Teams 
-AND 
-Business Improvement Districts, Conservancies, and Friends Organizations 
- 
-Required Reading: 
- 
-1. Susanna F. Schaller, Business Improvement Districts and the Contradictions of 
-Placemaking: BID Urbanism in Washington, D.C. (Athens: University of Gergia 
-Press, 2019), pp. 1-12 
- 
-Page 16 of 16 
-Public and Private Development 
-Spring 2022 
- 
-2. Alex Ulam, “Our Parks Are Not for Sale: From the Gold Coast of New York to 
-the Venice Biennale,” Dissent (Winter 2013), pp. 1-6 
- 
-Background Reading 
- 
-1. Michael Murray, “Private Management of Public Spaces: Nonprofit 
-Organizations and Urban Parks,” 34 Harvard Environmental Law Review 179 
-(2010), pp. 179-255 
- 
-Class 24. M 4/25 
-The Future of Public and Private Development 
- 
-Required Reading: 
- 
-1. Lynne B. Sagalyn, “Public/Private Development: Lessons from History, 
-Research, and Practice,” in Journal of the American Planning Association, Vol. 
-73, No. 1, Winter 2007, pp. 7-22 
- </details>
- </details>
  
 <details> 
  <summary> Synopsis Readings</summary>
@@ -1851,4 +1085,772 @@ _  __ /:\::\:8\/_____________________/\/\   /\_\\/\  \ 8       /:/\:\ \:\
 _ /     |\  \   |________________/:\/::\///__/ /__//_______/:/\:\ \:\/::\ \:\
 __________\     \               //\::/\:/___  ___ /       /::\ \:\ \::/\:\ \:\
 ::::::::::\\  \  \             /:\/::\///__/ /__//       /:/\:\ \:\/::\ \:\ \:
+
+<details> 
+  <summary> Syllabus </summary> 
+  
+  PUBLIC AND PRIVATE DEVELOPMENT 
+Harvard GSD 5103/HKS SUP-668 
+Professor Jerold S. Kayden 
+Mondays, Wednesdays, 10:30am to 11:45am 
+Spring 2022 
+ 
+Jerold S. Kayden 
+Frank Backus Williams Professor of Urban Planning and Design 
+jkayden@gsd.harvard.edu, 617-496-0830 
+Office Hours: Mondays, 12:00pm to 2:00pm, sign up through Calendly  
+ 
+Teaching Associate: Julie Perlman 
+juliezperlman@alumni.harvard.edu 
+Office Hours: to be announced 
+ 
+Teaching Fellow: Hsuan Lo 
+hsuanlo@gsd.harvard.edu 
+Office Hours: to be announced 
+ 
+Teaching Assistant: Ryan Johnson 
+rjohnson@gsd.harvard.edu 
+ 
+I. COURSE DESCRIPTION 
+ 
+ A complex blend of private and public actions develops the buildings, physical 
+infrastructure, and public spaces that constitute urban areas. Why do private actors originate 
+some activities while public actors originate others? Are there universal rationales and practices 
+governing such allocations? When and how should government offer incentives to private 
+developers, if ever, to encourage private provision of public benefits? To what extent may 
+private developers be required to provide public benefits? Are public-private partnerships a 
+solution or a problem? How illuminating, finally, are the labels “public” and “private” for 
+understanding and advancing the creation of productive, equitable, sustainable, and attractive 
+cities? 
+ 
+ In the United States, the map of public and private responsibilities for urban development 
+has shifted from sharp to flexible, even porous, boundaries. Starting mid-twentieth-century and 
+accelerating to the present, arrangements for conceptualizing, financing, and managing urban 
+development have flowed back and forth. Depending on the context, governments provide 
+financial subsidies, land, physical infrastructure, and enhanced development rights, or require 
+developers, as a condition of development approval, to provide physical infrastructure, 
+affordable housing, public space, and other public benefits. Developers routinely consult  
+citizens groups at increasingly earlier stages of project development, seeking informal and even 
+formal evidence of consent. Calls for inclusive development addressing racial and income 
+Page 2 of 16 
+Public and Private Development 
+Spring 2022 
+ 
+concerns and climate change mitigation and adaptation, together measured by such emerging 
+metrics as Environmental, Social, and Governance (ESG) factors, are becoming a new normal 
+for much real estate investment and development. 
+ 
+ Success in current and future urban environments will require facility with customized 
+analytic methods, understanding of contextual frameworks, engagement with critical debates and 
+theories, and acquisition of specialized knowledge if urban planners and designers, public 
+policymakers, real estate developers, and other interested parties want to be effective city 
+builders. Private actors must learn navigational skills befitting a world in which public claims to 
+private profit, often under the label “value capture,” are likely to increase. It will not be enough 
+to advance self-interest if it fails to include the public interest. 
+ 
+Public actors must grasp the financial realities of private development if they are to 
+negotiate viable public-private deals and obtain public benefits through the development 
+approval process. They must also take on the critique that engagement with the private sector 
+may privatize cities in ways harmful to democratic and equity aspirations. All parties must 
+comprehend how public-private collaborations may reassign oversight and risk in ways that 
+produce unintended consequences for social, economic, and physical aspects of cities. In sum, a 
+new class of professional practitioner, the public-private entrepreneur, located in either public or 
+private for-profit or not-for-profit sectors, needs a new type of education to address new 
+conditions of urban opportunities and constraints. 
+ 
+ This course employs a combination of lectures, discussions, guest case presentations, 
+readings, and individual and group exercises to introduce students to the analytic methods, 
+contextual frameworks, and implementation techniques necessary to successfully pursue urban 
+development from any point of view. The course commences with instruction on analytic 
+methods, emphasizing real estate financial analysis while also addressing modified cost-benefit, 
+economic impact, and fiscal impact analyses. Early classes also examine legal, institutional, 
+political, and ethical frameworks affecting public and private development. Together, the 
+analytic methods and contextual frameworks allow for elaboration of decision rules for 
+practicing development in cities. 
+ 
+ Specific implementation techniques covered in the course include: 
+• public subsidies (grants, loans, tax incentives) 
+• public land disposition (request for proposals, auctions, sole source) 
+• public land acquisition (eminent domain) 
+• provision of physical infrastructure (capital budgets, public-private partnerships, 
+exactions, land readjustment, valorization, tax increment financing) 
+• private provision of public benefits (exactions, inclusionary zoning, linkage, 
+incentive zoning, planning gain) 
+• development approval process, including affirmatively furthering fair housing 
+mandates 
+• community benefits agreements 
+• business improvement districts, conservancies, friends organizations 
+ 
+Page 3 of 16 
+Public and Private Development 
+Spring 2022 
+ 
+ Most of the implementation techniques are drawn from United States practice, but 
+international comparisons are made to demonstrate the range of variation. Students are 
+encouraged to pose questions about comparable implementation techniques employed in 
+countries outside the United States. 
+ 
+II. COURSE REQUIREMENTS 
+ 
+A. Class Attendance and Participation 
+Students are expected to attend every class and participate in class discussions at least 
+twice during the semester. The choice of when to participate is left to the student. 
+ 
+B. Reading Assignments 
+ Students are expected to spend an average of two hours per class on required reading 
+assignments. Background readings are not required but are provided for those who seek to delve 
+deeper into the subject matter. During times that individual and team assignments are underway, 
+reading assignments are usually  reduced. Readings are posted through Modules in Canvas and 
+include articles, book excerpts, professional reports, and legal documents. 
+ 
+C. Individual Written Assignments 
+ There are two individual written assignments. The first individual written assignment 
+asks students to complete a real estate financial analysis and, although ungraded, must be 
+submitted. The second individual written assignment asks students to determine appropriate 
+amounts of public subsidy for a given project and compare subsidy delivery mechanisms. 
+ 
+D. Team Assignment 
+The team assignment places students in either a government or private developer team for 
+purposes of arranging a deal for the sale/lease and subsequent private development of a 
+government-owned land parcel. Several written deliverables are required as part of this 
+assignment. 
+ 
+E. Final Exam 
+ The final exam is a three-hour, open-book, take-from-anywhere exam that will be 
+scheduled during the Design School’s final exam period of May 5-6. The specific day and time 
+will be announced early in the semester, as soon as it is set by the Design School administration. 
+ 
+F. Grading 
+ The final exam counts for 40% of the grade, the individual public subsidy assignment 
+counts for 30%, and the land disposition and development team assignment counts for 30%. For 
+the team assignment, students will receive the same grade as other members of their team unless 
+assessments of individual contributions indicate that an adjustment is appropriate. 
+ 
+G. Voluntary Review Sessions 
+ There are voluntary review sessions, taught by the Teaching Associate, covering real 
+estate financial analysis, Microsoft Excel for real estate financial analysis, and other topics.  
+ 
+H. Software 
+Page 4 of 16 
+Public and Private Development 
+Spring 2022 
+ 
+Real estate professionals often employ Microsoft Excel for real estate financial analysis. 
+Although the course does not require students to use Excel, it is recommended that students learn 
+how to use it. Review sessions are provided to assist in this effort. 
+  
+I. Office Hours 
+ I hold office hours each Wednesday, 2:00 pm to 4:00 pm. Sign up through the Calendly 
+link posted above. If you cannot make office hours, we can arrange to meet at another time. The 
+Teaching Associate and Teaching Fellow will also hold office hours. 
+ 
+J. Ethics 
+ You are expected to abide by all school policies with regard to academic integrity and 
+honesty. Please consult school handbooks for further information. 
+ 
+
+ <details> 
+   <summary> Class, Reading and Assignment Schedule </summary> 
+   III. CLASS AND ASSIGNMENTS SCHEDULE 
+Classes are Mondays and Wednesdays, 10:30 am to 11:45 am ET, starting and ending on 
+time. 
+ 
+Class 1. M 1/24 
+Who Develops Cities? 
+ 
+No reading. 
+ 
+Class 2. W 1/26 
+Using Real Estate Financial Analysis to Think About Development: The Pro Forma (A) 
+ 
+Real Estate Financial Analysis Exercise is assigned, due Wednesday 2/9 
+ 
+Required Reading: 
+ 
+1. Jerold S. Kayden and Adam Tanaka, Real Estate Financial Analysis for Public 
+and Private Development, Class Note #1 (2022), pp. 1-11  
+ 
+Background Reading: 
+ 
+1. Mike Miles, Gayle Berens, Mark Eppli, and Marc A. Weiss, eds., Real Estate 
+Development: Principles and Process, 4th Edition (Washington, D.C.: The Urban 
+Land Institute, 2007), pp. 177-180 
+ 
+Class 3. M 1/31 
+Using Real Estate Financial Analysis to Think About Development: The Pro Forma (B) 
+ 
+Work on Real Estate Financial Analysis Exercise. 
+ 
+Required Reading: 
+ 
+Page 5 of 16 
+Public and Private Development 
+Spring 2022 
+ 
+1. Review Jerold S. Kayden and Adam Tanaka, Real Estate Financial Analysis 
+for Public and Private Development, Class Note #1 (2022), pp. 1-11 
+ 
+Background Reading: 
+ 
+1. Mike Miles, Gayle Berens, Mark Eppli, and Marc A. Weiss, eds., Real Estate 
+Development: Principles and Process, Fourth Edition (Washington, D.C: The 
+Urban Land Institute 2007), pp. 180-187 
+ 
+2. Marc A. Kopelman, "Private Financing: Capital Sources and Underwriting 
+Criteria,” in Brian W. Blaesser and Thomas P. Cody, eds., Redevelopment: 
+Planning, Law, and Project Implementation (Chicago: American Bar Association, 
+2008), pp. 137-147 
+ 
+Review Session 1, T 2/1, 6:00-7:30pm: The Pro Forma 
+ 
+Class 4. W 2/2 
+Using Real Estate Financial Analysis to Think About Development: Discounted Cash Flow 
+Analysis 
+ 
+Continue working on Real Estate Financial Analysis Exercise 
+ 
+Required Reading: 
+ 
+1. Jerold S. Kayden and Adam Tanaka, Real Estate Financial Analysis for Public 
+and Private Development, Class Note #1 (2022), pp. 12-20 
+ 
+Background Reading: 
+ 
+1. Mike Miles, Gayle Berens, Mark Eppli, and Marc A. Weiss, eds., Real Estate 
+Development: Principles and Process, Fourth Edition (Washington, D.C.: The 
+Urban Land Institute, 2007), pp. 203-210 
+ 
+Review Session 2, Th 2/3, 6:00-7:30pm: Discounted Cash Flow Analysis 
+Class 5. M 2/7 
+Comparing Real Estate Financial Analysis with Other Analytic Methods to Think About 
+Development 
+ 
+Required Reading: 
+ 
+1. Jose Gomez-Ibanez, Note on the Differences between Social Benefit-Cost, 
+Financial, and Regional Income Analyses (Harvard Graduate School of Design 
+and Kennedy School of Government, undated), pp. 1-9 
+ 
+Page 6 of 16 
+Public and Private Development 
+Spring 2022 
+ 
+2. Anthony Downs, Neighborhoods and Urban Development (Washington, D.C.:  
+Brookings, 1981), pp. 72-85 
+ 
+3. HR&A Advisors, “Oklahoma City Innovation District Impact Analysis,” July 
+2019: pp. 1-10 
+ 
+Background Reading: 
+ 
+1. Minjee Kim et al., “Real Estate Development and Economic Development 
+Planning Education: Pragmatic Turn or Trojan Horse?,” Journal of Planning 
+Education and Research 1-7 (2020) 
+ 
+2. Rachel Meltzer and Alex Schwartz, Policy Analysis As Problem Solving (New 
+York: Routledge, 2019), “Chapter 5: Technical Aspects of Policy Analysis: 
+Discounting, Cost-Benefit Analysis, and Cost-Effectiveness Analysis,” pp. 141-
+187 
+ 
+3. Kenneth Arrow et al., Is There A Role for Benefit-Cost Analysis in 
+Environmental, Health, and Safety Regulation?, Faculty Research Working Paper 
+Series R96-04, Kennedy School of Government, Harvard University (February 
+1996), pp. 1-6 
+ 
+4. Russ Weyer, “Assessing Fiscal Impacts and Community Benefits of PPPs,” in 
+Stephen B. Friedman, ed., Successful Public-Private Partnerships: From 
+Principles to Practices (Washington, D.C.: Urban Land Institute, 2016), pp. 38-40 
+ 
+5. Glen Weisbrod and Burton Weisbrod, Measuring Economic Impacts of 
+Projects and Programs, Economic Development Research Group (1997) 
+ 
+6. Stanley A. Gniazdowski, “The Role of Market Analysis in Redevelopment,” in 
+Brian Blaesser and Thomas P. Cody, eds., Redevelopment: Planning, Law and 
+Project Implementation (Chicago: American Bar Association, 2008), pp. 21-36 
+ 
+Class 6. W 2/9 
+Legal and Institutional Frameworks 
+ 
+Submit Real Estate Financial Analysis Exercise by end of day on Canvas. 
+ 
+Required Reading: 
+ 
+1. Brian W. Blaesser and Thomas P. Cody, “Key Actors and Institutions in the 
+Redevelopment Process,” in Brian W. Blaesser and Thomas P. Cody, eds., 
+Redevelopment: Planning, Law, and Project Implementation (Chicago: American 
+Bar Association, 2008), pp. 3-10 
+ 
+Page 7 of 16 
+Public and Private Development 
+Spring 2022 
+ 
+2. Richard Peiser, “Who Plans America? Planners or Developers?” Journal of the 
+American Planning Association 56 (Autumn 1990), pp. 496-503 
+ 
+3. Richard Rothstein, The Color of Law (New York: Liveright, 2017), pp. 59-75, 
+93-99 
+ 
+4. Business Roundtable, “Business Roundtable Redefines the Purpose of a 
+Corporation to Promote ‘An Economy That Serves All Americans,’ ” August 19, 
+2019 
+ 
+Background Reading: 
+ 
+1. Mike E. Miles, Gayle L. Berens, Mark J. Eppli, and Marc A. Weiss, Real 
+Estate Development Fourth Edition: Principles and Process (Washington, D.C.: 
+Urban Land Institute 4th ed., 2007), “Meshing Public and Private Roles in the 
+Development Process” pp. 323-352 
+ 
+2. M.J. Brodie, “Public/Private Joint Ventures: The Government as Partner: Bane 
+or Benefit?,” Real Estate Issues, Issue 20 (August 1995): pp. 33-39 
+ 
+3. Charles Haar, “The Joint Venture Approach to Urban Renewal: From Model 
+Cities to Enterprise Zones,” in Harvey Brooks, Lance Liebman and Corinne 
+Schelling, eds., Public-Private Partnership: New Opportunities for Meeting 
+Social Needs (Cambridge: Ballinger, 1984), pp. 81-84 
+ 
+4. Gerald E. Frug, City Making: Building Communities Without Building Walls 
+(Princeton: Princeton University Press, 1999), pp. 45-53 
+ 
+5. Robert W. Hamilton, Fundamentals of Modern Business (Boston: Little Brown, 
+1989), pp. 303-311 (start with Section 13.3 and skip sections 13.3.5 and 13.5.1) 
+ 
+Review Session 3, Th 2/10, 6:00-7:30pm: Review of Real Estate Financial Analysis Exercise 
+ 
+Class 7. M 2/14 
+Political and Ethical Frameworks 
+ 
+Required Reading: 
+ 
+1. Alan Altshuler and David Luberoff, Mega-Projects: The Changing Politics of 
+Urban Public Investment (Washington, D.C.: Brookings Institution Press, 2003), 
+pp. 45-75 
+ 
+2. Marc V. Levine, “The Politics of Partnership: Urban Redevelopment Since 
+1945,” in Gregory Squires, ed., Unequal Partnerships: The Political Economy of 
+Urban Redevelopment in Postwar America (New Brunswick: Rutgers University 
+Press, 1989), pp. 12-31 
+Page 8 of 16 
+Public and Private Development 
+Spring 2022 
+ 
+ 
+3. Susan S. Fainstein, The Just City (Ithaca: Cornell University Press, 2010), pp. 
+170-175 
+ 
+4. Isabelle Anguelovski et al., “Why green ‘climate gentrification’ threatens poor 
+and vulnerable populations,” in PNAS, vol. 116, no. 52 (2019), pp. 26139-26143 
+ 
+Background Reading: 
+ 
+1. Robert A. Beauregard, “Public-Private Partnerships as Historical Chameleons: 
+The Case of the United States,” in Jon Pierre, editor, Partnerships in Urban 
+Governance: European and American Experience (New York: St. Martin's Press, 
+1998), pp. 52-70 
+ 
+Review Session 4, T 2/15, 6:00-7:30pm: Using Microsoft Excel for Real Estate Financial 
+Analysis: An Introduction 
+ 
+Class 8. W 2/16 
+Public Subsidies (A) 
+ 
+Public Subsidy Exercise is assigned, due Wednesday, 3/9 
+ 
+Required Reading: 
+ 
+1. US Department of Housing and Urban Development, Major Legislation on 
+Housing and Urban Development Enacted Since 1932 (undated), skim document 
+to appreciate the breadth of subsidy programs authorized by national laws in the 
+United States 
+ 
+2. Excerpt from Housing Act of 1949, pp. 1-2 
+ 
+3. Jerold S. Kayden and Adam Tanaka, Public and Private Development: An 
+Historical Perspective, Class Note #2 (2022), pp. 1-14 
+ 
+4. Smart Growth America, Federal Involvement in Real Estate: A Call for 
+Examination (undated), pp. 1-5 
+ 
+5. Bruce Katz and Jeremy Nowak, “Bruce Katz and Jeremy Nowak Defend ‘The 
+New Localism,’” in CityLab, 12/31/18 
+ 
+Background Reading: 
+ 
+1. Robert K. Triest, “The Economics of Subsidies for Community Development: 
+A Primer,” in Smart Subsidy for Community Development (Boston: Federal 
+Reserve Bank of Boston and Aspen Institute, 2011), pp. 10-20 
+ 
+Page 9 of 16 
+Public and Private Development 
+Spring 2022 
+ 
+2. United States Government, Catalog of Federal Domestic Assistance (2020), 
+skim to locate public subsidy programs within the Department of Housing and 
+Urban Development, the Department of Commerce, and the Small Business 
+Administration 
+ 
+3. Paula Duggan, Making Sense of Federal Dollars: A Guide to Understanding 
+Allocation Formulas (Washington, D.C.: Northeast-Midwest Institute, The Center 
+of Regional Policy, 1992), pp. 15, 21-22, 48-49 
+ 
+4. Joe Cortwright, “What ‘New Localism’ Gets Wrong About Cities and 
+Government,” in CityLab, 12/21/18 
+ 
+5. Roger Biles, The Fate of Cities: Urban America and the Federal 
+Government,1945-2000 (Kansas: University Press of Kansas, 2011), Ch. 11, pp. 
+348-359, skim this history as one example of a national government’s engagement 
+with urban development 
+ 
+6. Roger Biles, The Fate of Cities: Urban America and the Federal 
+Government,1945-2000 (Kansas: University Press of Kansas, 2011), pp. 82-286 
+ 
+7. Alan Altshuler and David Luberoff, “Overview: Four Political Eras,” in Mega-
+Projects: The Changing Politics of Urban Public Investment (Washington, D.C.: 
+Brookings Institution Press, 2003), pp. 8-44 
+ 
+Review Session 5, Th 2/17, 6:00-7:00pm: Using Microsoft Excel for Real Estate Financial 
+Analysis: Intermediate 
+ 
+Monday, 2/21: NO CLASS President’s Day 
+ 
+Class 9. W 2/23 
+Public Subsidies (B) 
+ 
+Required Reading: 
+ 
+1. Stephen B. Friedman and Charles A. Long, “The ‘But for’ Problem and the 
+Need to Make a Fair Deal,” in Stephen B. Friedman, ed., Successful Public-
+Private Partnerships: From Principles to Practices (Washington, D.C.: Urban 
+Land Institute, 2016), pp. 32-38 
+ 
+2. Stephen B. Friedman and Charles A. Long, “Structuring Development 
+Partnership Deals,” in Stephen B. Friedman, ed., Successful Public-Private 
+Partnerships: From Principles to Practices (Washington, D.C.: Urban Land 
+Institute, 2016), pp. 42-51 
+ 
+3. Harvey Brooks, “Seeking Equity and Efficiency: Public and Private Roles,” in 
+Harvey Brooks, Lance Liebman, and Corinne Schelling, editors, Public-Private 
+Page 10 of 16 
+Public and Private Development 
+Spring 2022 
+ 
+Partnership: New Opportunities for Meeting Social Needs (Cambridge: Ballinger, 
+1984), pp. 19-20 
+ 
+Background Reading: 
+ 
+1. John Stainback, “The Public/Private Finance of Redevelopment,” in Brian W. 
+Blaesser and Thomas P. Cody, eds., Redevelopment: Planning, Law, and Project 
+Implementation (Chicago: American Bar Association, 2008), pp. 155-173 
+ 
+Class 10. M 2/28 
+Public Subsidy Case, with guest Larry Curtis, President and Managing Partner, 
+WinnDevelopment 
+ 
+Required Reading: 
+ 
+1. Guest-specific readings will be assigned. 
+ 
+2. Reznick Fedder & Silverman, “Overview of the Low-Income Housing Tax 
+Credit” (undated) (note that some of the tax credit provisions have changed since 
+preparation of this overview, but the basic approach is the same) 
+ 
+Class 11. W 3/2 
+Community Development Corporations Case, with guest Leslie Reid, Chief Executive 
+Officer, Madison Park Development Corporation 
+ 
+Required Reading: 
+ 
+1. Guest-specific readings will be assigned. 
+ 
+2. Avis C. Vidal and W. Dennis Keating, “Community Development: Current 
+Issues and Emerging Challenges,” in Journal of Urban Affairs, Vol. 26, No. 2, pp. 
+125-137 (2004) 
+ 
+Background Reading: 
+ 
+1. James Meehan, “Reinventing Real Estate: The Community Land Trust as a 
+Social Invention in Affordable Housing,” Journal of Applied Social Science 8:2 
+(2014), pp. 113-133 
+ 
+Class 12. M 3/7 
+Land Acquisition and Land Readjustment 
+ 
+Required Reading: 
+ 
+1. Mass. G.L. Ch. 121A, Section 2 
+ 
+Page 11 of 16 
+Public and Private Development 
+Spring 2022 
+ 
+2. Kelo v. City of New London, 545 U.S. 469 (2005) 
+ 
+3. Yu-Hung Hong, “Assembling Land for Urban Development: Issues and 
+Opportunities,” in Yu-Hung Hong and Barrie Needham, eds., Analyzing Land 
+Readjustment: Economics, Law, and Collective Action (Cambridge: Lincoln 
+Institute of Land Policy, 2007), pp. 13-25 
+ 
+Background Reading: 
+ 
+1. Barbara Lipman, Memo to the Mayor: Improving Access to Urban Land for All 
+Residents: Fulfilling the Promise (World Bank, 2011) 
+ 
+2. Harvey Jacobs and Ellen M. Bassett, “All Sound, No Fury? The Impacts of 
+State-Based Kelo Laws,” Planning and Environmental Law, Vol. 63, No. 2, 
+February 2011 
+ 
+Class 13. W 3/9 
+Land Disposition and Development (A) 
+ 
+Public Subsidy Exercise is due. 
+ 
+Land Disposition and Development Team Exercise is assigned, with various due dates 
+noted in the assignment document. 
+ 
+Required Reading: 
+ 
+1. Stephen B. Friedman and Clayton Glanz, “Creating Relationships between 
+Developers and Public Bodies,” in Stephen B. Friedman, ed., Successful Public-
+Private Partnerships: From Principles to Practices (Washington , D.C.: Urban 
+Land Institute, 2016), pp. 28-31 
+ 
+2. Lynne B. Sagalyn, “Negotiating for Public Benefits: The Bargaining Calculus 
+of Public-Private Development,” in Urban Studies, Vol. 34, No. 12 (1997), pp. 
+1955-1970 
+ 
+Background Reading: 
+ 
+1. Geoffrey Payne, Building Bridges: The Experience of Public-Private 
+Partnerships in Urban Land Development (Cambridge: Lincoln Institute of Land 
+Policy, 2003), pp. 1-11 
+ 
+SPRING BREAK, NO CLASSES, Monday 3/14 and Wednesday, 3/16 
+ 
+Class 14. M 3/21 
+Land Disposition and Development (B) 
+ 
+Page 12 of 16 
+Public and Private Development 
+Spring 2022 
+ 
+Required Reading: 
+ 
+1. Article 2: Rent, from “Form of Lease By and Between The Community 
+Redevelopment Agency of the City of Los Angeles, California and Bunker Hill 
+Associates” (1982), pp. 5-10 
+ 
+2. “Restated Disposition and Development Agreement (Incorporating the First 
+Amendment) By and Between The Community Redevelopment Agency of the 
+City of Los Angeles, California, Agency, and Bunker Hill Associates, A Limited 
+Partnership, Developer” (1981), pp. i-iv, 1-75, skim the Agreement to see what is 
+included in it 
+ 
+Background Reading: 
+ 
+1. Roger Fisher and William Ury, Getting to Yes (New York: Penguin, 1981, 2011 
+with Bruce Patton) 
+ 
+2. Michael Wheeler, Negotiation Analysis: An Introduction (2000) 
+ 
+Review Session 6, M 3/21, 6:00pm: Review of Public Subsidy Exercise 
+ 
+Class 15. W 3/23 
+The Waterfront Toronto Case, with guest Will Fleissig, former president and CEO, 
+Waterfront Toronto 
+ 
+Required Reading: 
+ 
+1. Guest-specific readings will be assigned. 
+ 
+Class 16. M 3/28 
+The Millennium Development Case, with guest Joe Larkin, Principal, Managing Partner, 
+BostonMillennium 
+ 
+Required Reading: 
+ 
+1. Guest-specific readings will be assigned. 
+ 
+Class 17. W 3/30 
+Provision of Physical Infrastructure 
+ 
+Required Reading: 
+ 
+1. Vicki Elmer and Adam Leigland, Infrastructure Planning and Finance (New 
+York: Routledge, 2014), “Institutions of Infrastructure: The Providers” and “The 
+Financial Context for Infrastructure,” pp. 51-68 
+ 
+Page 13 of 16 
+Public and Private Development 
+Spring 2022 
+ 
+2. David Merriman, Improving Tax Increment Financing (TIF) for Economic 
+Development (Cambridge: Lincoln Institute of Land Policy, 2018), pp. 5-12 
+ 
+3. Urban Land Institute and Heitman, “Markets Respond to Climate Risk through 
+Infrastructure and Policy,” in Climate Risk and Real Estate: Emerging Practices 
+for Market Assessment (2020), pp. 23-31 
+ 
+4. Benjamin Wilson, “It’s Not ‘Just’ Zoning: Environmental Justice and Land 
+Use,” The Urban Lawyer (October 3, 2018), pp. 1-11  
+ 
+Background Reading: 
+ 
+1. Edward L. Glaeser and James M. Poterba, “Economic Analysis and 
+Infrastructure Investment,” National Bureau of Economic Research Working 
+Paper 28215 (2020), pp. 1-31 
+ 
+2. John Donahue, The Privatization Decision: Public Ends, Private Means (New 
+York: Basic Books, 1989), pp. 215-223 
+ 
+3. ICMA, Public-Private Partnerships (P3s): What Local Government Managers 
+Need to Know (2018), pp. 1-9 
+ 
+4. World Bank Group et al., Public-Private Partnerships Reference Guide 
+Version 2.0 (2014), skim pp. 17-63 
+ 
+5. Rachel Weber and Laura Gooddeeris, “Tax Increment Financing: Process and 
+Planning Issues,” Lincoln Institute of Land Policy, Working Paper (2007), pp. 1-
+22 
+ 
+6. HR&A Advisors, “Oklahoma City Innovation District Impact Analysis,” July 
+2019: pp. 11-17 
+ 
+7. Sean Campion, Tax Increment Financing: A Primer, Policy Brief (Citizens 
+Budget Commission, 2017) 
+ 
+Class 18. M 4/4 
+Private Provision of Public Benefits 
+ 
+Required Reading: 
+ 
+1. Alan Altshuler and Jose Gomez-Ibanez, Regulation for Revenue: The Political 
+Economy of Land Use Exactions (Washington, D.C. and Cambridge: Brookings 
+Institution and Lincoln Institute of Land Policy, 1993), pp. 122-139 
+ 
+2. Exactions and Impact Fees (Florida), undated, pp. 1-4 
+ 
+Page 14 of 16 
+Public and Private Development 
+Spring 2022 
+ 
+3. Nico Calavita and Alan Mallach, editors, Inclusionary Housing in International 
+Perspective: Affordable Housing, Social Inclusion, and Land Value Recapture 
+(Cambridge: Lincoln Institute of Land Policy, 2010), pp. 1-13 
+ 
+4. Leao Serva, “How Sao Paulo uses ‘value capture’ to raise billions for 
+infrastructure,” in Citiscope (May 22, 2014) 
+ 
+Background Reading: 
+ 
+1. Fernanda Furtado, “Rethinking Value Capture Policies for Latin America,” in 
+LandLines (Cambridge: Lincoln Institute of Land Policy, 2000), pp. 8-10, 16-21 
+ 
+2. Tony Crook, John Henneberry, and Christine Whitehead, Planning Gain: 
+Providing Infrastructure and Affordable Housing (Chichester, UK: John Wiley 
+and Sons, 2016) 
+ 
+3. Jenny Schuetz, Rachel Meltzer, and Vicki Been, 31 Flavors of Inclusionary 
+Zoning: Comparing Policies from San Francisco, Washington, D.C. and 
+Suburban Boston in Journal of the American Planning Association, Vol. 75, No. 
+4, 2009, pp. 441-456 
+ 
+Class 19. W 4/6 
+Incentive Zoning 
+ 
+Required Reading: 
+ 
+1. Marya Morris, Incentive Zoning: Meeting Urban Design and Affordable 
+Housing Objectives, Planning Advisory Service Report Number 494 (American 
+Planning Association 2000), pp. 9-28 
+ 
+Background Reading: 
+ 
+1. Jerold S. Kayden et al., Privately Owned Public Space: The New York City 
+Experience (New York: Wiley, 2000), pp. 43-59 
+ 
+Class 20. M 4/11 
+The New York City Zoning Case, with guest Edith Hsu-Chen, Director, Manhattan Office, 
+New York City Department of City Planning  
+ 
+Required Reading: 
+ 
+1. Guest-specific readings to be announced. 
+ 
+Class 21. W 4/13 
+Who’s the “Public” in Public and Private Development? 
+ 
+Page 15 of 16 
+Public and Private Development 
+Spring 2022 
+ 
+Required Reading: 
+ 
+1. City of Boston, A Citizen’s Guide to Development Review under Article 80 of 
+the Boston Zoning Code (2014), skim document 
+ 
+2. Katharine Levine Einstein, Maxwell Palmer, and David Glick, “Who 
+Participates in Local Government? Evidence from Meeting Minutes,” in 
+Perspectives on Politics 17(1) (2019), pp. 28-46. 
+ 
+3. Gabriella Velasco, “How Cities Are Paving the Way to Fair Housing: An 
+Expert Discussion,” in Housing Matters, June 16, 2021 
+ 
+4. Roderick Hills and David Schleicher, “Planning an Affordable City,” 101 Iowa 
+L.R. 91 (2015), pp. 93-96 
+ 
+5. Nicholas Marantz, “What Do Community Benefits Agreements Deliver,” in 
+Journal of the American Planning Association, vol. 81, issue 4 (2015), pp. 251-
+267 
+ 
+Background Reading: 
+ 
+1. Laura Wolf-Powers, “Community Benefits Agreements and Local 
+Government: A Review of Recent Evidence,” in Journal of the American 
+Planning Association, vol. 76, no. 20, spring 2010, pp. 1-19 
+ 
+2. Vicki Been, “Community Benefits Agreements: A New Local Government 
+Tool or Another Variation on the Exactions Theme?,” NYU Furman Center for 
+Real Estate and Urban Policy, Working Paper, 2010 
+ 
+3. Atlantic Yards Project, Brooklyn, New York, Community Benefits Agreement, 
+June 27, 2005 (skim the agreement) 
+ 
+Class 22. M 4/18 
+Presentations of Land Disposition and Development Teams 
+ 
+Class 23. W 4/20 
+Remainder of Presentations of Land Disposition and Development Teams 
+AND 
+Business Improvement Districts, Conservancies, and Friends Organizations 
+ 
+Required Reading: 
+ 
+1. Susanna F. Schaller, Business Improvement Districts and the Contradictions of 
+Placemaking: BID Urbanism in Washington, D.C. (Athens: University of Gergia 
+Press, 2019), pp. 1-12 
+ 
+Page 16 of 16 
+Public and Private Development 
+Spring 2022 
+ 
+2. Alex Ulam, “Our Parks Are Not for Sale: From the Gold Coast of New York to 
+the Venice Biennale,” Dissent (Winter 2013), pp. 1-6 
+ 
+Background Reading 
+ 
+1. Michael Murray, “Private Management of Public Spaces: Nonprofit 
+Organizations and Urban Parks,” 34 Harvard Environmental Law Review 179 
+(2010), pp. 179-255 
+ 
+Class 24. M 4/25 
+The Future of Public and Private Development 
+ 
+Required Reading: 
+ 
+1. Lynne B. Sagalyn, “Public/Private Development: Lessons from History, 
+Research, and Practice,” in Journal of the American Planning Association, Vol. 
+73, No. 1, Winter 2007, pp. 7-22 
+ </details>
+ </details>
 ```
