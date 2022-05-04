@@ -13,12 +13,12 @@ I framed this project as a syllabus because I thought it would be a playful way 
 
 At the same time, I want to use the syllabus as a starting point because I want to channel the rigor that a syllabus implies. I don't want to simply dabble, I want to take seriously the chance to "study those who inspire you.[^2]"
 
-Open to any kind of feedback, but some questions I have in my mind:
-  * Does my explanation of Self-Directed Learning and/or Production Culture make sense. 
-  * Intial reactions to questions I'm interested in around pleasure.  
-  * Any suggestions you have about how to keep motivated/focused on academic work or amorphous work (with or without the idea of deadlines). 
+Open to any kind of feedback, but one big question I have on my mind: How do you keep motivated/focused on academic work or amorphous work (with or without externalized deadlines)? 
 
+I'm realizing that there might be a lot of text here compared to a paper. I was imagining that you would glance through this syllabus for +/- the same amount of time that you spend on other final projects. 
 
+Best regards + good luck with the end of the semester!
+Sage
 
 
 
