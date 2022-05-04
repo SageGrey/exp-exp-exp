@@ -122,16 +122,20 @@ Week 11: Death and Life of Great American Cities, Jane Jacobs
  
 In additions to tackling readings, this project will be combined with me exploring and using my own version of the Zettlekasten Method. 
  
- ### Weekly Assignments
+### Weekly Assignments
 By Monday 1:30pm of each week, the assignment for this course will be to:
  * 1. have made **3 permanent notes** based on the prior week's readings
  * 2. have **added the citation information** for that week's reading notes
  * 3. have **re-read last week's notes** and play with them in obsidian  
+  
+### Final Project
+  * 1. Remake the terrain map to reflect the reading/path I took
  
 I see these three weekly tasks as a fairly low bar. The idea is that this is the floor, and that ideally I would end up doing more most weeks. I have set them at a level that I hopefully will not feel shame for not being able to hit a lofty goal, but also would result in 33 permanent notes (which is decently substantial). 
  
+  ### 3 Weekly Assignment Components
  <details> 
-  <summary> 1. Permanent Notes </summary>
+  <summary> 1. What are permanent notes? </summary>
  
   Permanent notes are part of the Zettlekasten method. A method of thinking, writing and notetaking developed by the the prolific 20th-century German Sociologist Niklas Luhmann (1927-1988).  Luhmann's sytem which employed the clever use of a "slip box" is documented in his own writing, "[Kommunikation mit Zettelkästen](http://luhmann.surge.sh/communicating-with-slip-boxes) (Communicating with Slip Boxes) as well as in Sonkhe Ahren's book, [How To Take Smart Notes](https://www.sloww.co/how-to-take-smart-notes/). A fundamental component of the method is taking fleeting notes--the notes we make as we go through our day, listen to a lecture, read a paper-- into **permanent notes**. 
 
@@ -148,11 +152,21 @@ We might remember the keyword, but lose the context or clarity of what exactly a
 By forcing the note taker to write out the idea in full, it provides the note taker a chance to guage how well the information is understood as well as providing an opportunity to return to the source material while it is still close by. 
 
 3. **Ability to then sequence the notes.** Once the note/idea is translated into a permanent note or card, we now heve the incredible ability to connect that note/idea to other notes/ideas. 
+   
+     
+```
+\|/          (__)    
+     `\------(oo)
+       ||    (__)
+       ||w--||     \|/
+   \|/
+  
+ ```
  </details>
 
 
 <details> 
- <summary> 2. citation for reading notes </summary>
+ <summary> 2. What are reading notes? </summary>
  
  The way I usually take reading notes is that I make a quasai table of contents. For example, see notes for Safiya Noble.
  ![image](https://user-images.githubusercontent.com/34726888/166835788-3722c62b-40e2-42c8-a177-d8ac4a6652a5.png)
@@ -160,18 +174,60 @@ By forcing the note taker to write out the idea in full, it provides the note ta
  This method of notetaking generally is a good way for me to jog my memory of what the article was about, and is fairly easy to make. While it is more difficult to do if I consume books orally, creating a rough map of the argument is still possible. The hardest part frequently is making the citation. The idea is to have the citation made at the beginning of the week so that it encourages me to add reading notes. 
  
  All of my reading notes [live here](https://github.com/SageGrey/exp-exp-exp/blob/main/improbabilityDrive/1_bib-bib-bib.md). (I wanna sort this soon, but for the time being, it is in alphabetical order) 
+  
+    
+   ```
+\|/          (__)    
+     `\------(oo)
+       ||    (__)
+       ||w--||     \|/
+   \|/
+  
+ ```
  
  </details>
 
 <details>
- <summary> Obsidian </summary>
+ <summary> 3. What is obsidian </summary>
  
   I have found a tool called obsidian that lets me visualize my "permanent notes" which are currently stored as markdown files in github. I want to play around more with this software and figure out how I can use it to make connections between ideas. 
  
   ![image](https://user-images.githubusercontent.com/34726888/166834128-a1a455fa-c138-45a5-b774-da2f20208870.png)
+    
+```
+\|/          (__)    
+     `\------(oo)
+       ||    (__)
+       ||w--||     \|/
+   \|/
+  
+```
 
- </details>
+</details>
  
+  ```
+  if only i had this man's computer posture
+                                \\\\\\\
+                            \\\\\\\\\\\\
+                          \\\\\\\\\\\\\\\
+  -----------,-|           |C>   // )\\\\|
+           ,','|          /    || ,'/////|
+---------,','  |         (,    ||   /////       
+         ||    |          \\  ||||//''''|
+         ||    |           |||||||     _|
+         ||    |______      `````\____/ \
+         ||    |     ,|         _/_____/ \
+         ||  ,'    ,' |        /          |
+         ||,'    ,'   |       |         \  |
+_________|/    ,'     |      /           | |
+_____________,'      ,',_____|      |    | |
+             |     ,','      |      |    | |
+             |   ,','    ____|_____/    /  |
+             | ,','  __/ |             /   |
+_____________|','   ///_/-------------/   |
+              |===========,'
+```
+
 </details> 
 
 <details> 
@@ -295,6 +351,7 @@ I believe one of the “theories about cities” that damages our ability to cre
  
   ![image](https://user-images.githubusercontent.com/34726888/164143674-6605eac8-dbd7-4fed-80e4-60d3bd5205dd.png)
 ![image](https://user-images.githubusercontent.com/34726888/164143698-f267daa4-bf8f-43f6-b356-506c7295649a.png)
+  
   
   </details>
   
