@@ -9,10 +9,20 @@
            |++++++|=|=|=|=|=| [] |
            |++++++|=|=|=|=|=|[][]|
 
-
+## Resources/Logistics
 
 <details> 
-  <summary> Notes from Review Session </summary>
+  <summary> Julie Perlman's Review Session Slide Decks </summary> 
+  
+  [Review 1: Pro Forma](http://gofile.me/6WhDC/wKcm6ifJO)   
+  [Review 2: Discounted Cash Flow](http://gofile.me/6WhDC/Bz5xwSYMh)  
+  Review 3: Not Recorded  
+  [Review 4: Excel Stabalized Year ProForma](http://gofile.me/6WhDC/vXSroRXvz)   
+  [Review 5: Excel Discounted Cash Flow](http://gofile.me/6WhDC/uy11EjtGE)  
+  </details>
+  
+<details> 
+  <summary> REMINDERS FOR FINAL EXAM </summary>
   
   **Kaydens Summary Predictions**  
   
@@ -30,24 +40,11 @@
   
   **REMINDER** Write down assumptions. 
   
-  **Tax-Increment Financing:** Up until that point, all property tax went to the general budget of the city. NOW, any increase in property value now is earmarked to provide money for infrastructure improvements in the district. So property tax APPRECIATION will go to infrastructure improvements. This might make the value go up, thus creating a virtuous circle. 
-  
-  
-  Borrower is paying interest on outstanding principal. Which is decreasing. 
-  
-  **BID* Geographic bound area
-  
-  history of public subsidies. 
-  CDBG as of right (unlike the categorical grants)!
-  Two different formulas: deemed less helpful to northern cities than the second program. 
-  
-  
-  
-  Social Value: Difference between COST TO PRIVDE and VALUE. VALUE is not the discount. 
+ Social Value: Difference between COST TO PRIVDE and VALUE. VALUE is not the discount. 
   </details>
   
 <details> 
-  <summary> questions for review </summary>
+  <summary> Questions for Review </summary>
   
 ```diff
   In 1934 FHA is established Also created the program of federal housing insurance loans. 
@@ -71,7 +68,7 @@
   </details>
 <details>
   
-  <summary>Class Logistics!</summary>
+  <summary> Class Logistics!</summary>
   
  OH: 2-4pm Wednesday   
       * Gund 105  
@@ -107,9 +104,13 @@ and Private Development](http://gofile.me/6WhDC/cvKMNKgSv), Class Note #1
  <summary> Copy of Final Deliverables for Assignments </summary> 
    
   **ProForma/Discounted Cash Flow Exercise** [Link to Excel File Here](http://gofile.me/6WhDC/PKYmkJsXQ)
-</details>
- 
 
+ 
+ **Land Disposition** [Final Memo Massport](http://gofile.me/6WhDC/Hni9DR8l8)
+ 
+ **Public Subsidy** [excel](http://gofile.me/6WhDC/u1Noa1BFZ) and[memo](http://gofile.me/6WhDC/CBxwZamge)
+
+</details> 
 
 <details> 
  <summary> Vocab Bank </summary> 
@@ -986,13 +987,17 @@ _What about the minority that doesn't want to sell?_ They are forced to sell by 
   </details>
   
   
-
-
+<details> 
+  <Summary> Tax-Increment Financing </summary>
+    
+      **Tax-Increment Financing:** Up until that point, all property tax went to the general budget of the city. NOW, any increase in property value now is earmarked to provide money for infrastructure improvements in the district. So property tax APPRECIATION will go to infrastructure improvements. This might make the value go up, thus creating a virtuous circle. 
+  
+</details>
 
 ### Some Thoughts
 *[Affordable Housing INCREASES the value of land](https://github.com/SageGrey/exp-exp-exp/blob/main/zzzzz_cards/affHousingINCREASESvalue.md)  
 *[Privitization as losing muscle memory](https://github.com/SageGrey/exp-exp-exp/blob/main/zzzzz_cards/MuscleMemoryCapacity.md)
-   ### Unsorted Below This Line
+
 
 <details> 
   <summary> Land Disposition </summary>
