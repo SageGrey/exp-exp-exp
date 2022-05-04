@@ -1,12 +1,35 @@
-W E L C O M E. START READING HERE 
+
 
 <p align="center"><img alt="Pleasure Planning" src="https://user-images.githubusercontent.com/34726888/163224100-940fcf9e-c267-498f-8417-932e645f3ccf.png" width="400" /></p>
 
-# Experimental Infrastructure for Academic Research 
+## Experimental Infrastructure for Academic Research 
 **_Not your grandma's thesis research process_**
 
+Hi Abby! Thank you so much for this class.   
+
+Getting to hang out with the ideas of the course and converse every week has been so wonderful and has made me grateful to be in this program. What I decided to create for the final project is essentially a **summer syllabus** for the research I want to do for my thesis and some **idea mapping** on the topic of pleasure and urban planning. 
+
+I framed this project as a syllabus because I thought it would be a playful way for me to explore my understanded of what I want for this project---self-directed, excitement-led, in-the moment, exploration---as opposed to what I am familliar with---a series of assignments, activities, and readings planned in advance that seek to motivate (discipline?) the student into a well-balaced journey. I am trying to make a sef-directed syllabus that is not just self-directed in that I made it. But also self-directed in that there is minimal attempts to shape what the learning looks like. The "self" I want to be directing the learning is the "self" that exists in the present tense. I want the "self" that is the recipient of the syllabus to set the course, not the "self" that is the syllabus creator. In essence, I see this syllabus as an attempt to do **trip preparation** instead of **trip planning[^1]** I am attempting to organize the tools in my backpack, learn about the route, and think about my intentions. 
+
+At the same time, I want to use the syllabus as a starting point because I want to channel the rigor that a syllabus implies. I don't want to simply dabble, I want to take seriously the chance to "study those who inspire you.[^2]"
+
+Open to any kind of feedback, but some questions I have in my mind:
+  * Does my explanation of Self-Directed Learning and/or Production Culture make sense. 
+  * Intial reactions to questions I'm interested in around pleasure.  
+  * Any suggestions you have about how to keep motivated/focused on academic work or amorphous work (with or without the idea of deadlines). 
+
+
+
+
+
+
+[^1]: This idea comes out of conversations that I have had with my partner Eden Attar about non-coercive learning
+[^2]: Lyrics from Michael Blume's song Lifting You
+
+## Syllabus SES 5381: Urban Planning + Pleasure 
+
 <details> 
-<summary> What am I looking at </summary>
+<summary> Goals of The Class </summary>
   
 
   ### What am I looking at?
