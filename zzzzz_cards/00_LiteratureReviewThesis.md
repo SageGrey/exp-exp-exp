@@ -29,22 +29,25 @@ Open to any kind of feedback, but some questions I have in my mind:
 ## Syllabus SES 5381: Urban Planning + Pleasure 
 
 <details> 
-<summary> Goals of The Class </summary>
+<summary> Goals of The Class + Assumptions </summary>
   
-
-  ### What am I looking at?
+## Broad Objectives
  
-  This is a space where I am organizing my thoughts on how to tackle a thesis project. I'm including information both on the topic I want to think about and the way I want to approach the project. 
-  
-  ### Table Of Contents
-**1. What is My Project Topic:**  P L E A S U R E  
-**2. Who I Want To Read:** A proposed process for learning from authors whose work I find compelling. I see this as an alternative to a more traditional Literature Review  
-**3. Pleasure Mapping** A facilitation guide for pleasure mapping. This is something I want to do to jump-start my own thinking about what makes a pleasurable place.   
-**4. Pleasure Questitions** Some questions/things I currently want to explore.  
-**5. Writing Excerpts** Three excerpts from my current exploration of pleasure and space     
-**6.How Is It Infrastructure** Some notes about how this is expieremental and how it is infrastructure  
-  
- ```
+ 1. Read writers across a variety of disciplines who have inspired me. 
+ 2. Generate a body of "permanent notes" that discuss ideas from works I have read
+ 3. Cultivate enthousiasm for my proposed thesis topic
+ 4. Learn about pleasure
+ 
+## Secondary Objectives 
+ 
+ 1. Develop a "topic" or "reasearch question" that could be used for a Masters Thesis
+ 2. Be able to speak knowledgably about writers I admire
+ 3. Learn more about strategies to stay motivated/dedicated through an amorphous project
+ 
+## Assumptions
+ 1. I will try to work on this project for ~75% of the summer. Summer is 15 weeks, so the project will cover around **11 weeks**
+ 2. I don't wish to set expectations of time, but I imagine trying to make at **least 4 hours** a week for the project. 
+  ```
 \|/          (__)    
      `\------(oo)
        ||    (__)
@@ -52,15 +55,20 @@ Open to any kind of feedback, but some questions I have in my mind:
    \|/
   
  ```
+ 
+</details>
+
+
+
 </details>
 
 <details> 
-  <summary> 1. What is my project </summary>
+  <summary> Subject Matter of The Course: Pleasure </summary>
  
  .. 
-  This project is an idea for how I want to approach an urban planning thesis that focuses on PLEASURE. I'm interested in thinking about pleasure as a political act of liberation taking notes from work such as Audre Lorde's _Erotic As Power_ and Adriene Maree Brown's _Pleasure Activism_. 
+This summer course will be an exploration of P L E A S U R E. I'm interested in thinking about pleasure as a political act of liberation taking notes from work such as Audre Lorde's _Erotic As Power_ and Adriene Maree Brown's _Pleasure Activism_. 
   
-  ## Some Things I'm Interested In (FUZZY LIST)
+  ### Some questions that are kicking-off this exploration of pleasure 
   * What are conditions for equitable pleasure (prison abolition, surveillance, policing)?
   * What can planners learn from sex educators? Can we move away from abstinence-only approaches to public drinking, skateboarding, napping, camping, psychadelic drugs, etc.?
   * What is the relationship between pleasure and growth, denied pleasure and development? 
@@ -81,12 +89,22 @@ Open to any kind of feedback, but some questions I have in my mind:
   </details>
 
 <details> 
-  <summary> 2. Who I Want To Read  </summary>
+  <summary> Map of The Terrain </summary>
  
-  Below is a map of my proposed summer research plan. This reading will be combined with me exploring and using my own version of the [Zettlekasten Method](https://github.com/SageGrey/exp-exp-exp/blob/main/zzzzz_cards/214_ZettlekastenMethod.md)
- ![image](https://user-images.githubusercontent.com/34726888/163025688-c885a776-0ce5-42c8-90d7-ecf0a43b96ab.png)
-  
-  
+  Below is a map of the terrain. These are a group of individuals whose work I am especially interested in looking at.  
+   ![image](https://user-images.githubusercontent.com/34726888/163025688-c885a776-0ce5-42c8-90d7-ecf0a43b96ab.png)
+ 
+**A _sample_ walk through this terrain could look like**
+ 
+Week 1 & 2: Adrienee Maree Brown, Pleasure Activism  
+Week 3 & 4: Deschooling Society, Ivan Illich  
+Week 5 & 6: Braiding Sweet Grass, Robin Will Kimmerrer  
+Week 7: A City Is Not A Tree, Christopher Alexander  
+Week 8: If on a Winter's Night Traveler, Italo Calvino  
+Week 9:  Skyrise For Harlem, June Jordan  
+Week 10: Lo-Tek, Julia Watson  
+Week 11: Death and Life of Great American Cities, Jane Jacobs  
+
   
   
    ```
@@ -347,6 +365,14 @@ My pitch is that I am using this assignment to design the (infra)structure of a 
   
 </details>
 
+  ### Table Of Contents
+**1. What is My Project Topic:**  P L E A S U R E  
+**2. Who I Want To Read:** A proposed process for learning from authors whose work I find compelling. I see this as an alternative to a more traditional Literature Review  
+**3. Pleasure Mapping** A facilitation guide for pleasure mapping. This is something I want to do to jump-start my own thinking about what makes a pleasurable place.   
+**4. Pleasure Questitions** Some questions/things I currently want to explore.  
+**5. Writing Excerpts** Three excerpts from my current exploration of pleasure and space     
+**6.How Is It Infrastructure** Some notes about how this is expieremental and how it is infrastructure  
+  
 
 
 
