@@ -126,7 +126,8 @@ In additions to tackling readings, this project will be combined with me explori
 By Monday 1:30pm of each week, the assignment for this course will be to:
  * 1. have made **3 permanent notes** based on the prior week's readings
  * 2. have added the citation information for that week's reading notes
-
+ * 3. Re-read  last week's notes and play with them in obsidian
+I see both of these assignments as a fairly low bar. The idea is that this is the floor, and that ideally I would end up doing more most weeks. I have set them at a level that I hopefully will not feel shame for not being able to hit a lofty goal, but also would result in 33 permanent notes (which is decently substantial). 
  
  <details> 
   <summary> 1. Permanent Notes </summary>
@@ -154,16 +155,22 @@ By forcing the note taker to write out the idea in full, it provides the note ta
 <details> 
  <summary> 2. citation for reading notes </summary>
  
- The way I usually take reading notes 
+ The way I usually take reading notes is that I make a quasai table of contents. For example, see notes for Safiya Noble.
+ ![image](https://user-images.githubusercontent.com/34726888/166835788-3722c62b-40e2-42c8-a177-d8ac4a6652a5.png)
+
+ This method of notetaking generally is a good way for me to jog my memory of what the article was about, and is fairly easy to make. While it is more difficult to do if I consume books orally, creating a rough map of the argument is still possible. The hardest part frequently is making the citation. The idea is to have the citation made at the beginning of the week so that it encourages me to add reading notes. 
+ 
+ All of my reading notes [live here](https://github.com/SageGrey/exp-exp-exp/blob/main/improbabilityDrive/1_bib-bib-bib.md). (I wanna sort this soon, but for the time being, it is in alphabetical order) 
  
  </details>
 
-
-
-
+<details>
+ <summary> Obsidian </summary>
+ 
   
   ![image](https://user-images.githubusercontent.com/34726888/166834128-a1a455fa-c138-45a5-b774-da2f20208870.png)
 
+ </details>
  
  ## Weekly Assignments
  
