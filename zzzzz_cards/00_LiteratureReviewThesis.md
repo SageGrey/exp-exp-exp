@@ -29,7 +29,7 @@ Open to any kind of feedback, but some questions I have in my mind:
 ## Syllabus SES 5381: Urban Planning + Pleasure 
 
 <details> 
-<summary> Goals of The Class + Assumptions </summary>
+<summary> 1. Goals of The Class + Assumptions </summary>
   
 ## Broad Objectives
  
@@ -63,7 +63,7 @@ Open to any kind of feedback, but some questions I have in my mind:
 </details>
 
 <details> 
-  <summary> Subject Matter of The Course: Pleasure </summary>
+  <summary> 2. Subject Matter of The Course: Pleasure </summary>
  
  .. 
 This summer course will be an exploration of P L E A S U R E. I'm interested in thinking about pleasure as a political act of liberation taking notes from work such as Audre Lorde's _Erotic As Power_ and Adriene Maree Brown's _Pleasure Activism_. 
@@ -89,7 +89,7 @@ This summer course will be an exploration of P L E A S U R E. I'm interested in 
   </details>
 
 <details> 
-  <summary> Map of The Terrain </summary>
+  <summary> 3. Map of The Terrain </summary>
  
   Below is a map of the terrain. These are a group of individuals whose work I am especially interested in looking at.  
    ![image](https://user-images.githubusercontent.com/34726888/163025688-c885a776-0ce5-42c8-90d7-ecf0a43b96ab.png)
@@ -118,7 +118,7 @@ Week 11: Death and Life of Great American Cities, Jane Jacobs
   </details>
   
 <details>
- <summary> Assignments + Tools </summary>
+ <summary> 4. Assignments + Tools </summary>
  
 In additions to tackling readings, this project will be combined with me exploring and using my own version of the Zettlekasten Method. 
  
@@ -172,12 +172,10 @@ By forcing the note taker to write out the idea in full, it provides the note ta
 
  </details>
  
- ## Weekly Assignments
- 
 </details> 
 
 <details> 
-<summary> 3. Pleasure Mapping </summary>
+<summary> 6. Pleasure Mapping </summary>
   
  ## Pleasure Mapping Group Exercise: Beta Test
 The following is a description of an exercise I would like to run with my friends in a casual setting as a way to expand my conception of what spatial pleasure is. 
