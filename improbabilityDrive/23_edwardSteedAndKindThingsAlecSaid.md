@@ -18,6 +18,6 @@
   <details> 
   <summary> this was said in person </summary> 
   
-  "You seem like someone who is always on time"
+  "You seem like someone who arrives on time"
 </details>
   
