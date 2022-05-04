@@ -117,11 +117,20 @@ Week 11: Death and Life of Great American Cities, Jane Jacobs
  ```
   </details>
   
+<details>
+ <summary> Assignments + Tools </summary>
+ 
+This readings of this project will be combined with me exploring and using my own version of the [Zettlekasten Method](https://github.com/SageGrey/exp-exp-exp/blob/main/zzzzz_cards/214_ZettlekastenMethod.md)
+ 
+ ## Weekly Assignments
+ 
+
 <details> 
 <summary> 3. Pleasure Mapping </summary>
   
- ## Pleasure Mapping: Beta Test
-
+ ## Pleasure Mapping Group Exercise: Beta Test
+The following is a description of an exercise I would like to run with my friends in a casual setting as a way to expand my conception of what spatial pleasure is. 
+ 
 **Materials:**  
 2-3 pieces of paper, a writing instrument, a sharpie/thick marker  
 
