@@ -994,10 +994,6 @@ _What about the minority that doesn't want to sell?_ They are forced to sell by 
   
 </details>
 
-### Some Thoughts
-*[Affordable Housing INCREASES the value of land](https://github.com/SageGrey/exp-exp-exp/blob/main/zzzzz_cards/affHousingINCREASESvalue.md)  
-*[Privitization as losing muscle memory](https://github.com/SageGrey/exp-exp-exp/blob/main/zzzzz_cards/MuscleMemoryCapacity.md)
-
 
 <details> 
   <summary> Land Disposition </summary>
@@ -1040,6 +1036,10 @@ STEP FIVE: Gov negotiates with the tentative winner, enters into a binding winne
 </details>
 
   
+### PPD Adjacent Thoughts
+*[Affordable Housing INCREASES the value of land](https://github.com/SageGrey/exp-exp-exp/blob/main/zzzzz_cards/affHousingINCREASESvalue.md)  
+*[Privitization as losing muscle memory](https://github.com/SageGrey/exp-exp-exp/blob/main/zzzzz_cards/MuscleMemoryCapacity.md)
+
   ```
                ________            _______
          /\ \ \ \/_______/     ______/\      \  /\ \/ /\ \/ /\  \_____________
