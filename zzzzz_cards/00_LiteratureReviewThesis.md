@@ -120,10 +120,54 @@ Week 11: Death and Life of Great American Cities, Jane Jacobs
 <details>
  <summary> Assignments + Tools </summary>
  
-This readings of this project will be combined with me exploring and using my own version of the [Zettlekasten Method](https://github.com/SageGrey/exp-exp-exp/blob/main/zzzzz_cards/214_ZettlekastenMethod.md)
+In additions to tackling readings, this project will be combined with me exploring and using my own version of the Zettlekasten Method. 
+ 
+ ### Weekly Assignments
+By Monday 1:30pm of each week, the assignment for this course will be to:
+ * 1. have made **3 permanent notes** based on the prior week's readings
+ * 2. have added the citation information for that week's reading notes
+
+ 
+ <details> 
+  <summary> 1. Permanent Notes </summary>
+ 
+  Permanent notes are part of the Zettlekasten method. A method of thinking, writing and notetaking developed by the the prolific 20th-century German Sociologist Niklas Luhmann (1927-1988).  Luhmann's sytem which employed the clever use of a "slip box" is documented in his own writing, "[Kommunikation mit Zettelkästen](http://luhmann.surge.sh/communicating-with-slip-boxes) (Communicating with Slip Boxes) as well as in Sonkhe Ahren's book, [How To Take Smart Notes](https://www.sloww.co/how-to-take-smart-notes/). A fundamental component of the method is taking fleeting notes--the notes we make as we go through our day, listen to a lecture, read a paper-- into **permanent notes**. 
+
+  A permanent note is:   
+--> A single idea that is fully explained, in your own words, using complete sentences.   
+--> That includes full citation information
+
+There are a few reasons for creating permanent notes:
+
+1. **Longevity of the note** Creating permanent notes allows the idea we have to not dissapear. While a quick note we jot down will make sense to us for a certain time interval, after a few years, notes that are jotted down in the moment lose their meaning. 
+We might remember the keyword, but lose the context or clarity of what exactly a note meant. 
+
+2. **Forces a check for comprehension** Often when we hear or read something, we believe we understand it. It is often not until we go to write it down or carefully explain it to someone else that we realize that there are holes in our understanding, or worse, that the idea doesn't make sense at all. 
+By forcing the note taker to write out the idea in full, it provides the note taker a chance to guage how well the information is understood as well as providing an opportunity to return to the source material while it is still close by. 
+
+3. **Ability to then sequence the notes.** Once the note/idea is translated into a permanent note or card, we now heve the incredible ability to connect that note/idea to other notes/ideas. This begins with where it is placed in the zettlekasten (see link below). 
+
+ Once you have a permanent note, you then **[add it to your "slip box"](216_AddingToTheSlipBox.md)** or "zettlekasten"  
+ </details>
+
+
+<details> 
+ <summary> 2. citation for reading notes </summary>
+ 
+ The way I usually take reading notes 
+ 
+ </details>
+
+
+
+
+  
+  ![image](https://user-images.githubusercontent.com/34726888/166834128-a1a455fa-c138-45a5-b774-da2f20208870.png)
+
  
  ## Weekly Assignments
  
+</details> 
 
 <details> 
 <summary> 3. Pleasure Mapping </summary>
