@@ -77,7 +77,7 @@ This summer course will be an exploration of P L E A S U R E. I'm interested in 
   * Men gets sports fields, where are spaces dedicated for women/femine pleasure?
   * How do subcultures make room for pleasure?
   
-  
+  ![image](https://user-images.githubusercontent.com/34726888/164605316-8cbc89f1-602b-4795-b13b-96a576cdc8d1.png)
    ```
 \|/          (__)    
      `\------(oo)
@@ -125,9 +125,10 @@ In additions to tackling readings, this project will be combined with me explori
  ### Weekly Assignments
 By Monday 1:30pm of each week, the assignment for this course will be to:
  * 1. have made **3 permanent notes** based on the prior week's readings
- * 2. have added the citation information for that week's reading notes
- * 3. Re-read  last week's notes and play with them in obsidian
-I see both of these assignments as a fairly low bar. The idea is that this is the floor, and that ideally I would end up doing more most weeks. I have set them at a level that I hopefully will not feel shame for not being able to hit a lofty goal, but also would result in 33 permanent notes (which is decently substantial). 
+ * 2. have **added the citation information** for that week's reading notes
+ * 3. have **re-read last week's notes** and play with them in obsidian  
+ 
+I see these three weekly tasks as a fairly low bar. The idea is that this is the floor, and that ideally I would end up doing more most weeks. I have set them at a level that I hopefully will not feel shame for not being able to hit a lofty goal, but also would result in 33 permanent notes (which is decently substantial). 
  
  <details> 
   <summary> 1. Permanent Notes </summary>
@@ -146,9 +147,7 @@ We might remember the keyword, but lose the context or clarity of what exactly a
 2. **Forces a check for comprehension** Often when we hear or read something, we believe we understand it. It is often not until we go to write it down or carefully explain it to someone else that we realize that there are holes in our understanding, or worse, that the idea doesn't make sense at all. 
 By forcing the note taker to write out the idea in full, it provides the note taker a chance to guage how well the information is understood as well as providing an opportunity to return to the source material while it is still close by. 
 
-3. **Ability to then sequence the notes.** Once the note/idea is translated into a permanent note or card, we now heve the incredible ability to connect that note/idea to other notes/ideas. This begins with where it is placed in the zettlekasten (see link below). 
-
- Once you have a permanent note, you then **[add it to your "slip box"](216_AddingToTheSlipBox.md)** or "zettlekasten"  
+3. **Ability to then sequence the notes.** Once the note/idea is translated into a permanent note or card, we now heve the incredible ability to connect that note/idea to other notes/ideas. 
  </details>
 
 
@@ -167,7 +166,8 @@ By forcing the note taker to write out the idea in full, it provides the note ta
 <details>
  <summary> Obsidian </summary>
  
-  
+  I have found a tool called obsidian that lets me visualize my "permanent notes" which are currently stored as markdown files in github. I want to play around more with this software and figure out how I can use it to make connections between ideas. 
+ 
   ![image](https://user-images.githubusercontent.com/34726888/166834128-a1a455fa-c138-45a5-b774-da2f20208870.png)
 
  </details>
@@ -175,7 +175,7 @@ By forcing the note taker to write out the idea in full, it provides the note ta
 </details> 
 
 <details> 
-<summary> 6. Pleasure Mapping </summary>
+<summary> 5. Pleasure Mapping </summary>
   
  ## Pleasure Mapping Group Exercise: Beta Test
 The following is a description of an exercise I would like to run with my friends in a casual setting as a way to expand my conception of what spatial pleasure is. 
@@ -228,41 +228,50 @@ There is of course no requirement that you share either of your pages with me, b
 ```
   </details> 
 
+<details> 
+  <summary> 7. Okay, but how is it infrastructure </summary>
+  ...  
+  .. 
   
-  <details> 
-  <summary> 4. Ideas I want to explore  </summary>
-    
-![image](https://user-images.githubusercontent.com/34726888/164605316-8cbc89f1-602b-4795-b13b-96a576cdc8d1.png)
+*"Dont write the only thesis you can write. Write the thesis that only you can write. --Umberto Echo*  
+ 
+### Production Culture + What can be gained from writing a thesis  
+About four weeks ago around fifteen MUPs sat on the floor of 7 Sumner. The group was coming together after having broken off into small discussion groups as part of a student-led design charette to discuss frustrations with MUP Core Studio. After a representative from each group had presented takeaways from their presvious disucssions, someone offered a topic for discussion that had come through the critiques. *Production Culture*. The idea was that what we were contending with is a culture at the GSD (and in society generally) that has chosen to prioritize deliverables over learning. Instead of the core of our education being in service to our desired learning outcomes, we felt that our learning was being treated as a secondary objective in the process to create tangible deliverables. 
 
+This idea of Production Culture has stuck with me over the last few weeks. In this assignment, I have been trying to think about how production culture applies to the MUP thesis process that I am about to begin. The more I thought about these two ideas together, the more it seemed that the masters thesis itself is a relic of productivity culture. The research process is designed around producing a deliverable object that meets specific length requirements and industry standards in the time alloted. In the abstract world where everything goes smoothly, hitting these requirements seems A-ok. But what happens when there are bumps in the road? Periods where time and energy is crucnhed and not sufficient? For me a tell-tale sign of productivity culture is that when sacrifices are made, what is eligbile to be cut is not the deliverable (ex the number of pages the thesis is) but the quality of the learning and thinking that has gone into it (ex just stay up late and fill some pages as quickly as possible). 
+  
+My pitch is that I am using this assignment to design the (infra)structure of a research process that treats the _deliverable/written thesis_ as a secondary outcome to learning. A process that prioritizes internal success ahead of external success *(see below)*  and that attemots to avoids certain pitfals *(see below)*. I do not think there is anything inherently wrong with deliverables. I think the ability to communicate effectively is vitally important. What this instead is attempting to do is to develop a process that will let me find what I want to say first, and then, and only then, communicate. 
+  
+#### Ways that a masters thesis can be considered a success  
+####  External (Production Culture)
+     1. It wins academic awards
+     2. It is published in a journal 
+     3. It is cited by other academics
+     4. It helps the writer get into a phD program (or other job)
+ #### Internal (What Im Aiming For)
+     5. The writer spent a lot of time thinking about exactly what they want to think about
+     6. The writer learns something they care about while writing it
+
+#### Pitfalls To Avoid
+
+      1. A process where you write your argument, then search for materials that support your argument
+      2. A process where you get stuck writing about something that doesn't interest you. 
+      3. A process that when time gets crunched, what is sacrificed is the substance while the "making it look neat/tidy" is treated as the non-negotiable neccesity
+      
+ 
   
 ```
-  Working On It! Check Back Soon. 
-                                \\\\\\\
-                            \\\\\\\\\\\\
-                          \\\\\\\\\\\\\\\
-  -----------,-|           |C>   // )\\\\|
-           ,','|          /    || ,'/////|
----------,','  |         (,    ||   /////       
-         ||    |          \\  ||||//''''|
-         ||    |           |||||||     _|
-         ||    |______      `````\____/ \
-         ||    |     ,|         _/_____/ \
-         ||  ,'    ,' |        /          |
-         ||,'    ,'   |       |         \  |
-_________|/    ,'     |      /           | |
-_____________,'      ,',_____|      |    | |
-             |     ,','      |      |    | |
-             |   ,','    ____|_____/    /  |
-             | ,','  __/ |             /   |
-_____________|','   ///_/-------------/   |
-              |===========,'
-  ```
-</details>
-
+\|/          (__)    
+     `\------(oo)
+       ||    (__)
+       ||w--||     \|/
+   \|/
+```  
   
 <details> 
-  <summary> 5. Writing Excerpts </summary>
+  <summary> 8. Writing Excerpts </summary>
   
+** Hi Abby! ** No pressure to read this section, this is just a place where I've put some writings that I've done in the last few weeks for History and Theory that are about pleasure. 
  # 
   # Pleasure Planning: 
 ### What American cities could learn from sex-positive education. 
@@ -304,29 +313,7 @@ Jacobs, Jane. 1961. “The Kind of Problem a City Is.” In The Death and Life o
 “Parque México.” Wikipedia, 2022. https://es.wikipedia.org/wiki/Parque_M%C3%A9xico
 
   
- # Pleasure and Anti-Growth
-  
-  In a talk this past week describing the explosion of Condominiums and HOAs in the past 50 years, researcher/writer Evan McKenzie brought up the point that there is a pervasive myth that supply is just passively responding to what demand is. When in fact, supply is often aggressively promoting and creating conditions that induce demand. Abby's writing on REA pushing for growth is in essence a perfect example of this.
-I think something that this myth of passive supply does is weaken the awareness of satiation. Growth in the modern capitalist era is not simply an increase of people who want goods/services, but in increase in how much an individual wants. This expansion of how much the individual wants tends to be treated as an unlimited capacity that is only limited by their means. However, where does this notion of unlimited capacity come from? We do not want to eat an unlimited amount, at some point we are full. We do not want to sleep an unlimited amount, at some point we want to get up. We do not want to have unlimited sex, at some point we are satiated. I think a way to think about this unlimited consumption is about ways that our satisfaction or satiation can be hidden or denied, and this is where Supply comes in. Advertisements are launched that tell us that the way that we are currently are is deficient, ugly, unhappy, backwards. They create in other words, an idea that we are Unsatisfied that seeks to overshadow any intrinsic conceptions of satiation. Taken to the extreme, I think that there is an argument to be made that while the general perception is that supply is passively responding to demand, a more realistic framing is that demand is largely just passively responding to supply (and the conditions that supply has created).
-I was especially interested in the quote about "weakening dreams" and I wonder is there  a connection between growth, denial of satisfaction, and weakened dreams?
-Below, an unsupported manifesto:
-  
-```
- Pleasure = Satisfaction
-Satisfaction = Satiated
-Satiated = Enough
-Enough = Anti-Growth
-Pleasure = Anti-Growth
-  
-  
-denied pleasure = dissatisfaction
-dissatisfaction = yearning
-yearning = wanting more
-wanting more = growth
-denied pleasure = growth  
-```
-  
-  
+
  # Necesary Conditions for Pleasure: 
 ## Could Woonerfs be Reparative?
 
@@ -371,6 +358,30 @@ Song, Lily “On Reparative Infrastructure Planning and Design.” Histories and
 
 “Woonerf Woonerf.”  MillCityQuarter.com, 2022. https://www.millcityquarter.com/woonerf.
   
+ 
+ # Pleasure and Anti-Growth
+  
+  In a talk this past week describing the explosion of Condominiums and HOAs in the past 50 years, researcher/writer Evan McKenzie brought up the point that there is a pervasive myth that supply is just passively responding to what demand is. When in fact, supply is often aggressively promoting and creating conditions that induce demand. Abby's writing on REA pushing for growth is in essence a perfect example of this.
+I think something that this myth of passive supply does is weaken the awareness of satiation. Growth in the modern capitalist era is not simply an increase of people who want goods/services, but in increase in how much an individual wants. This expansion of how much the individual wants tends to be treated as an unlimited capacity that is only limited by their means. However, where does this notion of unlimited capacity come from? We do not want to eat an unlimited amount, at some point we are full. We do not want to sleep an unlimited amount, at some point we want to get up. We do not want to have unlimited sex, at some point we are satiated. I think a way to think about this unlimited consumption is about ways that our satisfaction or satiation can be hidden or denied, and this is where Supply comes in. Advertisements are launched that tell us that the way that we are currently are is deficient, ugly, unhappy, backwards. They create in other words, an idea that we are Unsatisfied that seeks to overshadow any intrinsic conceptions of satiation. Taken to the extreme, I think that there is an argument to be made that while the general perception is that supply is passively responding to demand, a more realistic framing is that demand is largely just passively responding to supply (and the conditions that supply has created).
+I was especially interested in the quote about "weakening dreams" and I wonder is there  a connection between growth, denial of satisfaction, and weakened dreams?
+Below, an unsupported manifesto:
+  
+```
+ Pleasure = Satisfaction
+Satisfaction = Satiated
+Satiated = Enough
+Enough = Anti-Growth
+Pleasure = Anti-Growth
+  
+  
+denied pleasure = dissatisfaction
+dissatisfaction = yearning
+yearning = wanting more
+wanting more = growth
+denied pleasure = growth  
+```
+  
+   
 ```
 \|/          (__)    
      `\------(oo)
@@ -381,45 +392,7 @@ Song, Lily “On Reparative Infrastructure Planning and Design.” Histories and
   
 </details>
 
-<details> 
-  <summary> 6. Okay, but how is it infrastructure </summary>
-  ...  
-  .. 
-  
-*"Dont write the only thesis you can write. Write the thesis that only you can write. --Umberto Echo*  
- 
-### Production Culture + What can be gained from writing a thesis  
-About four weeks ago around fifteen MUPs sat on the floor of 7 Sumner. The group was coming together after having broken off into small discussion groups as part of a student-led design charette to discuss frustrations with MUP Core Studio. After a representative from each group had presented takeaways from their presvious disucssions, someone offered a topic for discussion that had come through the critiques. *Production Culture*. The idea was that what we were contending with is a culture at the GSD (and in society generally) that has chosen to prioritize deliverables over learning. Instead of the core of our education being in service to our desired learning outcomes, we felt that our learning was being treated as a secondary objective in the process to create tangible deliverables. 
 
-This idea of Production Culture has stuck with me over the last few weeks. In this assignment, I have been trying to think about how production culture applies to the MUP thesis process that I am about to begin. The more I thought about these two ideas together, the more it seemed that the masters thesis itself is a relic of productivity culture. The research process is designed around producing a deliverable object that meets specific length requirements and industry standards in the time alloted. In the abstract world where everything goes smoothly, hitting these requirements seems A-ok. But what happens when there are bumps in the road? Periods where time and energy is crucnhed and not sufficient? For me a tell-tale sign of productivity culture is that when sacrifices are made, what is eligbile to be cut is not the deliverable (ex the number of pages the thesis is) but the quality of the learning and thinking that has gone into it (ex just stay up late and fill some pages as quickly as possible). 
-  
-My pitch is that I am using this assignment to design the (infra)structure of a research process that treats the _deliverable/written thesis_ as a secondary outcome to learning. A process that prioritizes internal success ahead of external success *(see below)*  and that attemots to avoids certain pitfals *(see below)*. I do not think there is anything inherently wrong with deliverables. I think the ability to communicate effectively is vitally important. What this instead is attempting to do is to develop a process that will let me find what I want to say first, and then, and only then, communicate. 
-  
-#### Ways that a masters thesis can be considered a success  
-####  External (Production Culture)
-     1. It wins academic awards
-     2. It is published in a journal 
-     3. It is cited by other academics
-     4. It helps the writer get into a phD program (or other job)
- #### Internal (What Im Aiming For)
-     5. The writer spent a lot of time thinking about exactly what they want to think about
-     6. The writer learns something they care about while writing it
-
-#### Pitfalls To Avoid
-
-      1. A process where you write your argument, then search for materials that support your argument
-      2. A process where you get stuck writing about something that doesn't interest you. 
-      3. A process that when time gets crunched, what is sacrificed is the substance while the "making it look neat/tidy" is treated as the non-negotiable neccesity
-      
- 
-  
-```
-\|/          (__)    
-     `\------(oo)
-       ||    (__)
-       ||w--||     \|/
-   \|/
-```  
   
 </details>
 
