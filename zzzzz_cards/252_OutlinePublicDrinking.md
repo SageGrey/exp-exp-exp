@@ -16,13 +16,14 @@ Lewis Mumford analysis of manchester
 DONE Keep America Beautiful  
 DONE Lily Song   
 DONE This happened with alcohol in the 1970s.   
-Disinvestment from cities  
-Broken Windows  
-First Law against public drinking   
-All the laws described as new  
+DONE Disinvestment from cities  
+DONE First Law against public drinking   
+DONE All the laws described as new /Decriminalization of vagrancy
 Proliferation of anti-drinking laws laws in 1970s  
 War on drugs (nixon quote)  
 Stonewall Riots  
+DONE Broken Windows  
+
 
 
 
