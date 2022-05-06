@@ -1,4 +1,4 @@
-## Drinking Laws Following Prohibition
+## Not banning drinking itself
 
 Prior to the mid 20th century, all laws surrounding alcohol in the United States had always been either about the sale of alcohol or public drunkeness. Neither the 1919 Volstead Act that enforced prohbition nor the 18th ammendment itself never actually banned *drinking* alcohol, only it's manufacturing, sale and distribution. 
 
