@@ -1,0 +1,3 @@
+The first laws to ban drinking actually comes from Chicago in the 1953. The originator was Chicago Alderman Harry L. Sain who wanted to preemptively get ahead of "bottle gangs," which were made of unhoused or indigent men who lived in the city's then-equivalent of skid row. While the police could arrest the men once they were drunk on charges of "disorderly conduct," Sain saw prohibiting drinking in public as a way to premptively curb the "disruptiveness" of the bottle gangs.   
+
+Citation: Satran, Joe. "The Secret History Of The War On Public Drinking" Huffington Post, 14 Dec. 2013, https://www.huffpost.com/entry/public-drinking-laws_n_4312523/amp. Accessed 26 April, 2022.
