@@ -13,16 +13,16 @@ Industrialists/government cracking down saloons
 Lewis Mumford analysis of manchester
 
 ## Disinvestment/White Flight
-Keep America Beautiful
-Lily Song
-This happened with alcohol in the 1970s. 
-Disinvestment from cities
-Broken Windows
-First Law against public drinking 
-All the laws described as new
-Proliferation of anti-drinking laws laws in 1970s
-War on drugs (nixon quote)
-Stonewall Riots
+DONE Keep America Beautiful  
+DONE Lily Song   
+DONE This happened with alcohol in the 1970s.   
+Disinvestment from cities  
+Broken Windows  
+First Law against public drinking   
+All the laws described as new  
+Proliferation of anti-drinking laws laws in 1970s  
+War on drugs (nixon quote)  
+Stonewall Riots  
 
 
 
