@@ -5,16 +5,11 @@ Introduction:
 
 #### Introduction
 * Story About Public Drinking (Beer and Dogs) 
-* In this paper I argue that legal efforts to shape public drinking behavior have never really been about alochol. Instead, they are efforts to control what happens in public spaces. 
-* 
-* 
-* 
-Furthermore, I want to argue that while public drinking rules affect everybody, their intended audience has always been societies most disenfranchized 
+* **ARGUMMENT** In this paper, I argue that legal efforts to shape public drinking behavior have never really been about alcohol. Instead, they are efforts to control what happens in public spaces. Drinking laws reveal the normative values and desires of a given time period's power brokers, values, and desires that also appear in a given time period's urban planning.  In this paper, I wish to look at three periods of American History in which rules around drinking and urban planning changed in tandem. These are industrialization, disinvestment/white flight, and privatization. In discussing the legal history and urban planning history of these three historical moments together, I hope to argue that while public drinking rules affect everybody, their intended audience has always been society's most disenfranchised. 
 
+## Industrialization
 
-*  
-*    influence behavior that reveal the normative values and desires of a given time period's power brokers. These values also appear in the trends of urban planning. 
-* In this paper, I wish to look at three time-periods in which rules around drinking and urban planning changed in tandem. In discussing these historical timelines together, I hope to highlight how 
+## Disinvestment/White Flight
 
 
 * 
