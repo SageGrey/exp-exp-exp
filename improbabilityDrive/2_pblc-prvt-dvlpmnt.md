@@ -1050,6 +1050,8 @@ STEP FIVE: Gov negotiates with the tentative winner, enters into a binding winne
 *[Privitization as losing muscle memory](https://github.com/SageGrey/exp-exp-exp/blob/main/zzzzz_cards/MuscleMemoryCapacity.md)
 
   ```
+  
+  
                ________            _______
          /\ \ \ \/_______/     ______/\      \  /\ \/ /\ \/ /\  \_____________
         /\ \ \ \/______ /     /\    /:\\      \ ::\  /::\  /::\ /____  ____ __
@@ -1101,6 +1103,132 @@ __________\     \               //\::/\:/___  ___ /       /::\ \:\ \::/\:\ \:\
 ::::::::::\\  \  \             /:\/::\///__/ /__//       /:/\:\ \:\/::\ \:\ \:
 
 ```
+
+<details> 
+  <summary> Notes from Gianina + Ellie </summary>
+  
+   
+
+Implementation Techniques 
+
+Public Subsidies 
+
+Key ideas: “but for” test; necessary, sufficient but not excessive; rule-based vs. discretionary-based 
+
+Grants 
+
+Categorical grant: federal grants given to state and local governments to encourage their cooperation in implementing specific purposes and programs. 
+
+These grants give less flexibility to state governments than block grants. 
+
+Federal officials place significant restrictions on states that accept grants and are quite specific about how funds are to be spent in specific policy “categories.” 
+
+Block grant: federal grants-in-aid that allow states considerable discretion (within broad limits) about how the funds will be spent. 
+
+These give greater flexibility to state political actors to tailor programs to the state’s particular needs than do categorical grants. 
+
+The federal government places few restrictions, allowing states to spend funds within broad programmatic areas. 
+
+E.g. Community Development Block Grant – from the DHUD website, “the CDBG program provides annual grants on a formula basis to states, cities, and counties to develop viable urban communities by providing decent housing and a suitable living environment, and by expanding economic opportunities, principally for low- and moderate-income persons. 
+
+Loans 
+
+Loan insurance: the government can cover debt payments on certain loans if the insured loses their ability to pay due to a covered event 
+
+Loan guarantees: the government can protect a percentage of the business owners’ personal assets if they default on a loan 
+
+Bonds: financial instrument through which the bond issuer borrows money from the government and agrees to pay back periodic interest plus repay the full principal at the end of the bond term 
+
+General Obligation Bonds: are issued by municipalities and secured by the full faith and credit of the issuer 
+
+Special Obligation/Revenue Bonds: are secured by a dedicated revenue source such as a toll road, hospital, higher-education system, etc. 
+
+Related Reading(s): Smart Growth America, Federal Involvement in Real Estate; … 
+
+Tax Incentives 
+
+Deductions: are subtracted from a taxpayer’s otherwise taxable income to compute the tax base; reduce tax liability by the amount of the tax deduction times the tax rate. E.g. A $1k deduction in a 15% tax bracket reduces taxable income by $1k, thereby reducing tax liability by $150. 
+
+Tax abatements (e.g. $20k of a tax bill waived) 
+
+Tax exemptions (not-for-profit/religious institution status) 
+
+Credits: reduce tax liability dollar-for-dollar 
+
+E.g. LIHTC, New Market Tax Credits 
+
+Public Land Disposition 
+
+RFPs 
+
+Five stages of an RFP 
+
+Government prepares RFP (or RFQ) document à government announces RFP à government engages with potential participants through FAQs, conferences, meetings à government reviews development proposals and tentatively designates a winner à government negotiates with the winner and enters an agreement 
+
+Auctions: after a prequalification process, the project is given to the highest responsible bidder – can be an open outcry or sealed bid auction 
+
+Sole Source: working with a single provider throughout 
+
+Public Land Acquisition 
+
+Eminent Domain: refers to the power of government to take private property and convert it into public use. The Fifth Amendment provides that the government may only exercise this power if they provide just compensation to the property owner. 
+
+In Kelo v. City of New London, the Supreme Court held that general benefits which a community would enjoy from the furthering of economic development are sufficient to qualify as a “public use.” 
+
+The technique of last resort. 
+
+Provision of Physical Infrastructure 
+
+Capital Budgets: a budget allocating money for the acquisition or maintenance of fixed assets such as land, buildings, and equipment. 
+
+Public-Private Partnerships: Long-term contracts between a private party and a government entity, for providing a public asset or service, in which the private party bears significant risk and management responsibility.  
+
+PPPs encompass many forms of public-private collaboration, including operation and maintenance contracts; leases; concessions; build, operate, transfer (BOT); build own, operate, and transfer (BOOT).  
+
+The local government must have the authorization of upper-level government to do so and there should be a regulatory framework for contract enforcement and disagreement resolution.  
+
+The project must offer a good risk-adjusted return that is attractive to the private sector. This may involve good cash flow based on revenue (paid by users) or service fees (paid by authority). 
+
+Exactions: something the local zoning authority requires a property owner to give to the community, in order to obtain approval to develop land. The “something” can be almost anything: land; a portion of the value of the land; money (a mitigation fee); or other property.  
+
+Rough proportionality 
+
+Essential nexus 
+
+Land Readjustment 
+
+Landowners will pool their smaller parcels into one large parcel and then have those readjusted. The land is pooled into a readjustment scheme, then given back to the original owners. They don’t get all their lands back. They might get the same land back, or not. But the land is of higher value per acre because it is now serviced land. 
+
+Valorization 
+
+Tax Increment Financing: a value capture revenue tool that uses taxes on future gains in real estate values to pay for new infrastructure improvements. 
+
+ 
+
+Private Provision of Public Benefits 
+
+Exactions 
+
+Inclusionary Zoning 
+
+Linkage 
+
+Incentive Zoning 
+
+Planning Gain 
+
+Development Approval Process (including affirmatively furthering fair housing mandates) 
+
+Community Benefits Agreements 
+
+Business Improvement Districts 
+
+Conservancies 
+
+Friends Organizations 
+ 
+  
+ </details>
 <details> 
   <summary> Syllabus </summary> 
   
