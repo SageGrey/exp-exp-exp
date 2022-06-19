@@ -43,37 +43,46 @@
  Social Value: Difference between COST TO PRIVDE and VALUE. VALUE is not the discount. 
   </details>
   
-<details> 
-  <summary> Questions for Review </summary>
-  
-```diff
-  In 1934 FHA is established Also created the program of federal housing insurance loans. 
-  Even the CREATION of this program was influential, inspiring confidence even with banks not using these loans. 
 
-! can you say more about this point, how were they influential even when they were not using these loans?`
-```
   
-  ```diff
-  
-! `When was this`? Consolidation of Block Grants
-[Consolidation of Categorical Grants into Block Grants](236_blockGrantVsCategorical.md)
-  
-! Concise definition for Capital Subsidy? Subsidy that tries to infuse extra cash to a developer?   
-  
-! Land Banking when to use?   
-  
-! Globally the trend in PPP, often called **Build-Operate-Transfer.**  What is this?   
-
-  ```
-  </details>
-<details>
-  
-  <summary> Class Logistics!</summary>
+  <summary> Class Overview </summary>
   
  OH: 2-4pm Wednesday   
       * Gund 105  
       * Spring 2022      
 
+  Course Outline 
+```
+1.24 Who Develops Cities? 
+
+1.26 Using Real Estate Financial Analysis to Think about Development: The Pro Forma 
+
+2.02 Using Real Estate Financial Analysis to Think about Development: Discounted Cash Flow Analysis 
+
+2.07 Comparing REFA with Other Analytic Methods to Think About Development 
+
+2.09 Legal and Institutional Frameworks 
+
+2.14 Political and Ethical Frameworks 
+
+2.16 Public Subsidies 
+
+3.07 Land Acquisition and Land Readjustment 
+
+3.09 Land Disposition and Development 
+
+3.30 Provisions of Physical Infrastructure 
+
+4.04 Private Provision of Public Benefits 
+
+4.06 Incentive Zoning 
+
+4.13 Who Puts the “Public” in Public and Private Development? 
+
+4.20 Business Improvement Districts, Conservancies, and Friends Organizations 
+
+4.25 Future of Public and Private Development 
+```
 </details>     
 
 <details> 
