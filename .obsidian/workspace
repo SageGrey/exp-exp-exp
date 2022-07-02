@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "3564163deaed49eb",
+        "id": "e5bb0c114f409c5a",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -81,17 +81,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "3564163deaed49eb",
+  "active": "e5bb0c114f409c5a",
   "lastOpenFiles": [
-    "zzzzz_cards/HUB_SelfLearning.md",
-    "zzzzz_cards/XThingEveryDayYMinutes.md",
-    "zzzzz_cards/desire as little as possible, be at grateful as you can for what you already have.md",
     "zzzzz_cards/000_HUBCARDS.md",
-    "zzzzz_cards/32 Color_Blind_.md",
-    "zzzzz_cards/Unchecked Desire Not Time Management.md",
-    "improbabilityDrive/12_balanceTools.md",
-    "improbabilityDrive/17_poetryParts.md",
-    "improbabilityDrive/14_skateSwapWorkingMaterials.md",
-    "improbabilityDrive/planningForClimateChange.md"
+    "zzzzz_cards/HUB_SelfLearning.md",
+    "zzzzz_cards/104_Buchanan_V_Warley_1917.md",
+    "zzzzz_cards/234_HUB_RacisminUrbanPlanning.md",
+    "zzzzz_cards/47_Racial_Covenants_a_Workaround.md",
+    "ooooo_mixedMedia/i2_paintingOfCentral.png",
+    "zzzzz_cards/255_pettingParties.md",
+    "zzzzz_cards/238_chicagoPlanCivicsEducation.md",
+    "zzzzz_cards/MajorityWorld.md",
+    "zzzzz_cards/214_ZettlekastenMethod.md"
   ]
 }
