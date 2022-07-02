@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "8a65afa7a19ca4e3",
+    "id": "92fee151d6223c7d",
     "type": "split",
     "children": [
       {
-        "id": "3a438d7e7bd09910",
+        "id": "384a37d06841485e",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -15,15 +15,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4e880b9c52fbf385",
+    "id": "02753c9e85256280",
     "type": "split",
     "children": [
       {
-        "id": "8fd2235abbd3813d",
+        "id": "fc29cbe78c39181a",
         "type": "tabs",
         "children": [
           {
-            "id": "98f409339c5abf3a",
+            "id": "6ba92c146cbddd9c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -31,7 +31,7 @@
             }
           },
           {
-            "id": "f0c5412054b97196",
+            "id": "ab4b5ed642dd787c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -49,30 +49,29 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "a26f4b01d5b4cea2",
+    "id": "aa70afefc13339d7",
     "type": "split",
     "children": [
       {
-        "id": "a20d9389b9907c6d",
+        "id": "0584572169b0ffc6",
         "type": "tabs",
         "children": [
           {
-            "id": "d3e9af4ae9e4edeb",
+            "id": "21454f056e0e8f5f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": true,
-                "extraContext": true,
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -83,17 +82,6 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3a438d7e7bd09910",
-  "lastOpenFiles": [
-    "zzzzz_cards/32 Color_Blind_.md",
-    "zzzzz_cards/desire as little as possible, be at grateful as you can for what you already have.md",
-    "zzzzz_cards/Unchecked Desire Not Time Management.md",
-    "improbabilityDrive/12_balanceTools.md",
-    "improbabilityDrive/17_poetryParts.md",
-    "improbabilityDrive/14_skateSwapWorkingMaterials.md",
-    "improbabilityDrive/planningForClimateChange.md",
-    "ooooo_mixedMedia/poem_1_AishaSashaJohn.md",
-    "ooooo_mixedMedia/1_essay_skateparkOlmstead.md",
-    "ooooo_mixedMedia/i6_askiCheatFiling.jpg"
-  ]
+  "active": "384a37d06841485e",
+  "lastOpenFiles": []
 }

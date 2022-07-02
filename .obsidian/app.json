@@ -1,5 +1,6 @@
 {
   "legacyEditor": false,
   "livePreview": false,
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "alwaysUpdateLinks": true
 }
