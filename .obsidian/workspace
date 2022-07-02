@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "71d1f80ef11ff4a2",
+        "id": "4910944b5b724725",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zzzzz_cards/000_HUBCARDS.md",
-            "mode": "source",
+            "file": "zzzzz_cards/1-100/6_Eye_Span.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241
+    "width": 570
   },
   "right": {
     "id": "a26f4b01d5b4cea2",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zzzzz_cards/000_HUBCARDS.md",
+                "file": "zzzzz_cards/1-100/6_Eye_Span.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "71d1f80ef11ff4a2",
+  "active": "4910944b5b724725",
   "lastOpenFiles": [
-    "zzzzz_cards/000_HUBCARDS.md",
-    "zzzzz_cards/00_LiteratureReviewThesis.md",
-    "improbabilityDrive/000_nonAcademicBib.md",
-    "zzzzz_cards/Unchecked Desire Not Time Management.md",
-    "zzzzz_cards/HUB_SelfLearning.md",
-    "zzzzz_cards/104_Buchanan_V_Warley_1917.md",
-    "zzzzz_cards/234_HUB_RacisminUrbanPlanning.md",
-    "zzzzz_cards/47_Racial_Covenants_a_Workaround.md",
-    "ooooo_mixedMedia/i2_paintingOfCentral.png",
-    "zzzzz_cards/255_pettingParties.md"
+    "zzzzz_cards/1-100/6_Eye_Span.md",
+    "zzzzz_cards/2.BuildingsPay_CassQuotes.md",
+    "zzzzz_cards/2 Why_do_Blind_Contour_Drawing.md",
+    "zzzzz_cards/1_welcomeMessage.md",
+    "zzzzz_cards/197_HUB__Graphic_Design_Tips.md",
+    "zzzzz_cards/1_Setup_Notes.md",
+    "zzzzz_cards/0_Reconstruction.md",
+    "zzzzz_cards/109_Rutherford_Hayes___Red_Shirts.md",
+    "Welcome_To_CentralAve.md",
+    "2022-07-02.md"
   ]
 }

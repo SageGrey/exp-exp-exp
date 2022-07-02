@@ -1,5 +1,5 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "path:zzzzz_cards",
   "showTags": true,
   "showAttachments": true,
@@ -26,5 +26,5 @@
   "linkStrength": 0.439209401709402,
   "linkDistance": 256,
   "scale": 0.40851148241674085,
-  "close": false
+  "close": true
 }
