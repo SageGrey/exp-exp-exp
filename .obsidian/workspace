@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "e5bb0c114f409c5a",
+        "id": "71d1f80ef11ff4a2",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -86,17 +86,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "e5bb0c114f409c5a",
+  "active": "71d1f80ef11ff4a2",
   "lastOpenFiles": [
     "zzzzz_cards/000_HUBCARDS.md",
+    "zzzzz_cards/00_LiteratureReviewThesis.md",
+    "improbabilityDrive/000_nonAcademicBib.md",
+    "zzzzz_cards/Unchecked Desire Not Time Management.md",
     "zzzzz_cards/HUB_SelfLearning.md",
     "zzzzz_cards/104_Buchanan_V_Warley_1917.md",
     "zzzzz_cards/234_HUB_RacisminUrbanPlanning.md",
     "zzzzz_cards/47_Racial_Covenants_a_Workaround.md",
     "ooooo_mixedMedia/i2_paintingOfCentral.png",
-    "zzzzz_cards/255_pettingParties.md",
-    "zzzzz_cards/238_chicagoPlanCivicsEducation.md",
-    "zzzzz_cards/MajorityWorld.md",
-    "zzzzz_cards/214_ZettlekastenMethod.md"
+    "zzzzz_cards/255_pettingParties.md"
   ]
 }

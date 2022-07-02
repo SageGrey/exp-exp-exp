@@ -13,8 +13,8 @@
 [Racism in Urban Planning/History](234_HUB_RacisminUrbanPlanning.md)  
 [Reconstruction](0_Reconstruction.md)
 
-### 
-[HUB_SelfLearning](zzzzz_cards/HUB_SelfLearning.md)
+### S
+[HUB_SelfLearning](HUB_SelfLearning.md)
 
 ### Z 
 [Zettlekasten](214_ZettlekastenMethod.md)   
