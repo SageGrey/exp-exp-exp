@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "3a438d7e7bd09910",
+        "id": "3564163deaed49eb",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -49,8 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241,
-    "collapsed": true
+    "width": 241
   },
   "right": {
     "id": "a26f4b01d5b4cea2",
@@ -80,20 +79,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "3a438d7e7bd09910",
+  "active": "3564163deaed49eb",
   "lastOpenFiles": [
-    "zzzzz_cards/32 Color_Blind_.md",
+    "zzzzz_cards/HUB_SelfLearning.md",
+    "zzzzz_cards/XThingEveryDayYMinutes.md",
     "zzzzz_cards/desire as little as possible, be at grateful as you can for what you already have.md",
+    "zzzzz_cards/000_HUBCARDS.md",
+    "zzzzz_cards/32 Color_Blind_.md",
     "zzzzz_cards/Unchecked Desire Not Time Management.md",
     "improbabilityDrive/12_balanceTools.md",
     "improbabilityDrive/17_poetryParts.md",
     "improbabilityDrive/14_skateSwapWorkingMaterials.md",
-    "improbabilityDrive/planningForClimateChange.md",
-    "ooooo_mixedMedia/poem_1_AishaSashaJohn.md",
-    "ooooo_mixedMedia/1_essay_skateparkOlmstead.md",
-    "ooooo_mixedMedia/i6_askiCheatFiling.jpg"
+    "improbabilityDrive/planningForClimateChange.md"
   ]
 }
