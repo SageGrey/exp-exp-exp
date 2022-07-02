@@ -15,6 +15,7 @@
 
 ### 
 [HUB_SelfLearning](zzzzz_cards/HUB_SelfLearning.md)
+[HAB_SelfLearning](zzzzz_cards/HUB_SelfLearning.md)
 
 ### Z 
 [Zettlekasten](214_ZettlekastenMethod.md)   
