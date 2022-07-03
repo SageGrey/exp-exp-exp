@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "zzzzz_cards/1-100/6_Eye_Span.md",
-            "mode": "preview",
+            "mode": "source",
             "source": true
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "eye span",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 570
+    "width": 391
   },
   "right": {
     "id": "a26f4b01d5b4cea2",
@@ -89,14 +89,14 @@
   "active": "4910944b5b724725",
   "lastOpenFiles": [
     "zzzzz_cards/1-100/6_Eye_Span.md",
-    "zzzzz_cards/2.BuildingsPay_CassQuotes.md",
     "zzzzz_cards/2 Why_do_Blind_Contour_Drawing.md",
+    "2022-07-02.md",
+    "zzzzz_cards/2.BuildingsPay_CassQuotes.md",
     "zzzzz_cards/1_welcomeMessage.md",
     "zzzzz_cards/197_HUB__Graphic_Design_Tips.md",
     "zzzzz_cards/1_Setup_Notes.md",
     "zzzzz_cards/0_Reconstruction.md",
     "zzzzz_cards/109_Rutherford_Hayes___Red_Shirts.md",
-    "Welcome_To_CentralAve.md",
-    "2022-07-02.md"
+    "Welcome_To_CentralAve.md"
   ]
 }
