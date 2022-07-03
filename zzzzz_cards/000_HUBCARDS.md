@@ -14,7 +14,7 @@
 [Reconstruction](0_Reconstruction.md)
 
 ### S
-[HUB_SelfLearning](HUB_SelfLearning.md)
+[283_HUB_SelfLearning](283_HUB_SelfLearning.md)
 
 ### Z 
 [Zettlekasten](214_ZettlekastenMethod.md)   

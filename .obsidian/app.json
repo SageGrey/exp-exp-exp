@@ -3,5 +3,5 @@
   "livePreview": false,
   "defaultViewMode": "preview",
   "alwaysUpdateLinks": true,
-  "fileSortOrder": "byModifiedTime"
+  "fileSortOrder": "byCreatedTime"
 }

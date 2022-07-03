@@ -1,17 +1,24 @@
 {
   "collapse-filter": false,
-  "search": "path:zzzzz_cards",
+  "search": "",
   "showTags": true,
   "showAttachments": true,
-  "hideUnresolved": true,
+  "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "",
+      "query": "path:yyyyy_reference",
       "color": {
         "a": 1,
         "rgb": 14048348
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
       }
     }
   ],
@@ -21,10 +28,10 @@
   "nodeSizeMultiplier": 1.40938242280285,
   "lineSizeMultiplier": 2.73622327790974,
   "collapse-forces": true,
-  "centerStrength": 0.528205128205128,
-  "repelStrength": 8.78418803418803,
-  "linkStrength": 0.439209401709402,
-  "linkDistance": 256,
-  "scale": 0.40851148241674085,
-  "close": true
+  "centerStrength": 0.468539325842697,
+  "repelStrength": 7.30337078651685,
+  "linkStrength": 0,
+  "linkDistance": 252,
+  "scale": 0.25907587731422216,
+  "close": false
 }

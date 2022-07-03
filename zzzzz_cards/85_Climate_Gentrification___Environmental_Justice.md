@@ -2,7 +2,7 @@
 
 Resilience projects that are put into low-income neighborhoods frequently raise the value of te neighborhood and can subsequently lead to climate gentrification if there are not careful precautions put in place first. 
 
-See Also: [problemOfDoubleAvantGuard](problemOfDoubleAvantGuard.md)
+See Also: [280_problemOfDoubleAvantGuard](280_problemOfDoubleAvantGuard.md)
 
 ### Citation
 
