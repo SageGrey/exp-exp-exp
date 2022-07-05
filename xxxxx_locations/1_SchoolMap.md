@@ -5,7 +5,7 @@
     B- Basement    
     P- Portal  
 
-## [Library](MonteVista/Library/Stacks.md)
+## [Library](Stacks.md)
 
 ## Classrooms
 

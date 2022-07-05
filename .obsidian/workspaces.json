@@ -1,0 +1,321 @@
+{
+  "workspaces": {
+    "Editing_Old_Notes": {
+      "main": {
+        "id": "8a65afa7a19ca4e3",
+        "type": "split",
+        "children": [
+          {
+            "id": "9ce73b5875965f87",
+            "type": "split",
+            "dimension": 55.7476231633535,
+            "children": [
+              {
+                "id": "6457af9dff3ca6af",
+                "type": "leaf",
+                "dimension": 25.906735751295333,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "templates/Keywords.md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "leaf": "6457af9dff3ca6af",
+                      "group": null,
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"templates/Keywords.md\",\"mode\":\"preview\",\"source\":true}}",
+                      "eState": "{}"
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "072e730a06fec555",
+                "type": "leaf",
+                "dimension": 48.18652849740933,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "zzzzz_cards/178_Schooling_of_The_Imagination__reliance_on_institutions__learning_on_ones_own_unreliable_.md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "leaf": "072e730a06fec555",
+                      "group": null,
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zzzzz_cards/178_Schooling_of_The_Imagination__reliance_on_institutions__learning_on_ones_own_unreliable_.md\",\"mode\":\"preview\",\"source\":true}}",
+                      "eState": "{}"
+                    },
+                    {
+                      "leaf": "072e730a06fec555",
+                      "group": null,
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Writing/292_HUB_Writing_Speech_Templates.md\",\"mode\":\"preview\",\"source\":true}}",
+                      "eState": "{}"
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "b1de2167a1176fe6",
+                "type": "leaf",
+                "dimension": 25.906735751295333,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "zzzzz_cards/197_HUB__Graphic_Design_Tips.md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "leaf": "b1de2167a1176fe6",
+                      "group": null,
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zzzzz_cards/197_HUB__Graphic_Design_Tips.md\",\"mode\":\"preview\",\"source\":true}}",
+                      "eState": "{\"scroll\":2.3177081418948116}"
+                    }
+                  ]
+                }
+              }
+            ],
+            "direction": "horizontal"
+          },
+          {
+            "id": "10a224ae40a4bc1f",
+            "type": "split",
+            "dimension": 44.2523768366465,
+            "children": [
+              {
+                "id": "d75fef65e813d0da",
+                "type": "leaf",
+                "dimension": 19.627085377821395,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "zzzzz_cards/290_HUB_Gems.md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "leaf": "d75fef65e813d0da",
+                      "group": null,
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zzzzz_cards/290_HUB_Gems.md\",\"mode\":\"preview\",\"source\":true}}",
+                      "eState": "{\"scroll\":12.911458297115235}"
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "04def4a569f6fdb0",
+                "type": "leaf",
+                "dimension": 19.627085377821395,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "zzzzz_cards/OOOOO_PleasureThesis.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "leaf": "04def4a569f6fdb0",
+                      "group": null,
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zzzzz_cards/OOOOO_PleasureThesis.md\",\"mode\":\"source\",\"source\":true}}",
+                      "eState": "{\"scroll\":3.234374692663563}"
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "a0c99942114a8201",
+                "type": "leaf",
+                "dimension": 19.627085377821395,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "zzzzz_cards/283_HUB_SelfLearning.md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "leaf": "a0c99942114a8201",
+                      "group": null,
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zzzzz_cards/283_HUB_SelfLearning.md\",\"mode\":\"preview\",\"source\":true}}",
+                      "eState": "{\"scroll\":18.76041675565971}"
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "59a80f1015d23900",
+                "type": "leaf",
+                "dimension": 19.627085377821395,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "zzzzz_cards/000_HUBCARDS.md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "leaf": "59a80f1015d23900",
+                      "group": null,
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zzzzz_cards/000_HUBCARDS.md\",\"mode\":\"preview\",\"source\":true}}",
+                      "eState": "{\"scroll\":21.265624611948944}"
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "2bc45b75af9018b2",
+                "type": "leaf",
+                "dimension": 21.491658488714428,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "zzzzz_cards/291_HUB_PrivateProperty.md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                },
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "leaf": "2bc45b75af9018b2",
+                      "group": null,
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zzzzz_cards/291_HUB_PrivateProperty.md\",\"mode\":\"preview\",\"source\":true}}",
+                      "eState": "{\"scroll\":2.9642857142857144}"
+                    }
+                  ]
+                }
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "4e880b9c52fbf385",
+        "type": "split",
+        "children": [
+          {
+            "id": "8fd2235abbd3813d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "98f409339c5abf3a",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "f0c5412054b97196",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "eye span",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 422
+      },
+      "right": {
+        "id": "a26f4b01d5b4cea2",
+        "type": "split",
+        "children": [
+          {
+            "id": "a20d9389b9907c6d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d3e9af4ae9e4edeb",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "templates/Keywords.md",
+                    "collapseAll": true,
+                    "extraContext": true,
+                    "sortOrder": "alphabetical",
+                    "showSearch": true,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "7ff3c47aa3a873c0",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "templates/Keywords.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "8687378d257dcdb6",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 246,
+        "collapsed": true
+      },
+      "active": "6457af9dff3ca6af"
+    }
+  },
+  "active": "Editing_Old_Notes"
+}

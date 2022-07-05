@@ -11,12 +11,12 @@
           {
             "id": "6457af9dff3ca6af",
             "type": "leaf",
-            "dimension": 48.186528497409334,
+            "dimension": 50,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Keywords.md",
-                "mode": "preview",
+                "file": "Welcome_To_CentralAve.md",
+                "mode": "source",
                 "source": true
               }
             },
@@ -26,31 +26,25 @@
                 {
                   "leaf": "6457af9dff3ca6af",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"templates/Keywords.md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{\"scroll\":20.401040200351073}"
-                }
-              ]
-            }
-          },
-          {
-            "id": "072e730a06fec555",
-            "type": "leaf",
-            "dimension": 25.906735751295336,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/292_HUB_Writing_Speech_Templates.md",
-                "mode": "preview",
-                "source": true
-              }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Welcome_To_CentralAve.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
                 {
-                  "leaf": "072e730a06fec555",
+                  "leaf": "6457af9dff3ca6af",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Writing/292_HUB_Writing_Speech_Templates.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"xxxxx_locations/MonteVista/Library/Stacks.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "6457af9dff3ca6af",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zzzzz_cards/294_haveAPadToCaptureThoughts.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "6457af9dff3ca6af",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"templates/Keywords.md\",\"mode\":\"preview\",\"source\":true}}",
                   "eState": "{}"
                 }
               ]
@@ -59,7 +53,7 @@
           {
             "id": "b1de2167a1176fe6",
             "type": "leaf",
-            "dimension": 25.906735751295336,
+            "dimension": 50,
             "state": {
               "type": "markdown",
               "state": {
@@ -228,6 +222,10 @@
             "state": {
               "type": "file-explorer",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -243,6 +241,10 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           }
         ]
@@ -265,7 +267,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writing/292_HUB_Writing_Speech_Templates.md",
+                "file": "Welcome_To_CentralAve.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -274,6 +276,10 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -282,10 +288,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writing/292_HUB_Writing_Speech_Templates.md",
+                "file": "Welcome_To_CentralAve.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -297,6 +307,10 @@
                 "sortOrder": "frequency",
                 "useHierarchy": true
               }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           }
         ]
@@ -306,17 +320,17 @@
     "width": 246,
     "collapsed": true
   },
-  "active": "072e730a06fec555",
+  "active": "6457af9dff3ca6af",
   "lastOpenFiles": [
+    "Welcome_To_CentralAve.md",
+    "xxxxx_locations/MonteVista/Library/Stacks.md",
+    "zzzzz_cards/294_haveAPadToCaptureThoughts.md",
+    "templates/Keywords.md",
+    "zzzzz_cards/178_Schooling_of_The_Imagination__reliance_on_institutions__learning_on_ones_own_unreliable_.md",
     "Writing/292_HUB_Writing_Speech_Templates.md",
     "zzzzz_cards/OOOOO_PleasureThesis.md",
-    "templates/Keywords.md",
     "zzzzz_cards/291_HUB_PrivateProperty.md",
     "zzzzz_cards/000_HUBCARDS.md",
-    "zzzzz_cards/283_HUB_SelfLearning.md",
-    "zzzzz_cards/290_HUB_Gems.md",
-    "zzzzz_cards/197_HUB__Graphic_Design_Tips.md",
-    "zzzzz_cards/215_PermanentNotes.md",
-    "zzzzz_cards/1_Setup_Notes.md"
+    "zzzzz_cards/283_HUB_SelfLearning.md"
   ]
 }
