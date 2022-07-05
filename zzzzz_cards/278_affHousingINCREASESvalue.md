@@ -2,7 +2,7 @@
 
 The Urban Institute in April 2022 released a study that assessed the impact of affordable housing development in Alexandria Virginia. They found that despite perceptions that affordable housing decreases land values, it actually raises them. 
 
-### Citation
+#### Citation
 Stacy, Christina. Davis, Christopher. Assessing the Impact of Affordable Housing on Nearby Property Values  in Alexandria, Virginia. Urban Institute, 2022.   
 
 **Search Terms**: Affordable Housing, NIMBY
@@ -10,4 +10,4 @@ Stacy, Christina. Davis, Christopher. Assessing the Impact of Affordable Housing
 
 
 #### References
-1. [[285_Make SROs Legal]]
+1. [285_Make SROs Legal](285_Make%20SROs%20Legal.md)

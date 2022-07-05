@@ -4,16 +4,212 @@
     "type": "split",
     "children": [
       {
-        "id": "d3fefa572a4c9958",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "zzzzz_cards/279_howMuchVirginCornersWorth.md",
-            "mode": "preview",
-            "source": true
+        "id": "9ce73b5875965f87",
+        "type": "split",
+        "dimension": 55.7476231633535,
+        "children": [
+          {
+            "id": "6457af9dff3ca6af",
+            "type": "leaf",
+            "dimension": 48.186528497409334,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/Keywords.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "6457af9dff3ca6af",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"templates/Keywords.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{\"scroll\":20.401040200351073}"
+                }
+              ]
+            }
+          },
+          {
+            "id": "072e730a06fec555",
+            "type": "leaf",
+            "dimension": 25.906735751295336,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing/292_HUB_Writing_Speech_Templates.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "072e730a06fec555",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Writing/292_HUB_Writing_Speech_Templates.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                }
+              ]
+            }
+          },
+          {
+            "id": "b1de2167a1176fe6",
+            "type": "leaf",
+            "dimension": 25.906735751295336,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zzzzz_cards/197_HUB__Graphic_Design_Tips.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "b1de2167a1176fe6",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zzzzz_cards/197_HUB__Graphic_Design_Tips.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{\"scroll\":2.3177081418948116}"
+                }
+              ]
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "10a224ae40a4bc1f",
+        "type": "split",
+        "dimension": 44.2523768366465,
+        "children": [
+          {
+            "id": "d75fef65e813d0da",
+            "type": "leaf",
+            "dimension": 19.627085377821395,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zzzzz_cards/290_HUB_Gems.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "d75fef65e813d0da",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zzzzz_cards/290_HUB_Gems.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{\"scroll\":12.911458297115235}"
+                }
+              ]
+            }
+          },
+          {
+            "id": "04def4a569f6fdb0",
+            "type": "leaf",
+            "dimension": 19.627085377821395,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zzzzz_cards/OOOOO_PleasureThesis.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "04def4a569f6fdb0",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zzzzz_cards/OOOOO_PleasureThesis.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"scroll\":3.234374692663563}"
+                }
+              ]
+            }
+          },
+          {
+            "id": "a0c99942114a8201",
+            "type": "leaf",
+            "dimension": 19.627085377821395,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zzzzz_cards/283_HUB_SelfLearning.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "a0c99942114a8201",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zzzzz_cards/283_HUB_SelfLearning.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{\"scroll\":18.76041675565971}"
+                }
+              ]
+            }
+          },
+          {
+            "id": "59a80f1015d23900",
+            "type": "leaf",
+            "dimension": 19.627085377821395,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zzzzz_cards/000_HUBCARDS.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "59a80f1015d23900",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zzzzz_cards/000_HUBCARDS.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{\"scroll\":21.265624611948944}"
+                }
+              ]
+            }
+          },
+          {
+            "id": "2bc45b75af9018b2",
+            "type": "leaf",
+            "dimension": 21.491658488714428,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zzzzz_cards/291_HUB_PrivateProperty.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "2bc45b75af9018b2",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zzzzz_cards/291_HUB_PrivateProperty.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{\"scroll\":2.9642857142857144}"
+                }
+              ]
+            }
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -53,7 +249,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 628
+    "width": 422
   },
   "right": {
     "id": "a26f4b01d5b4cea2",
@@ -69,14 +265,37 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zzzzz_cards/279_howMuchVirginCornersWorth.md",
+                "file": "Writing/292_HUB_Writing_Speech_Templates.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7ff3c47aa3a873c0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Writing/292_HUB_Writing_Speech_Templates.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8687378d257dcdb6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           }
@@ -84,19 +303,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 246,
+    "collapsed": true
   },
-  "active": "d3fefa572a4c9958",
+  "active": "072e730a06fec555",
   "lastOpenFiles": [
-    "zzzzz_cards/279_howMuchVirginCornersWorth.md",
-    "zzzzz_cards/280.5_realGuard_vs_AvantGuard.md",
-    "zzzzz_cards/281_Unchecked Desire Not Time Management.md",
-    "zzzzz_cards/280_problemOfDoubleAvantGuard.md",
-    "CopyPaste_PAGE.md",
-    "Welcome_To_CentralAve.md",
-    "wunerf.md",
-    "2022-07-02.md",
-    "MonteVista/Library/Stacks.md",
-    "zzzzz_cards/OOOOO_Pleasurable, illegal things.md"
+    "Writing/292_HUB_Writing_Speech_Templates.md",
+    "zzzzz_cards/OOOOO_PleasureThesis.md",
+    "templates/Keywords.md",
+    "zzzzz_cards/291_HUB_PrivateProperty.md",
+    "zzzzz_cards/000_HUBCARDS.md",
+    "zzzzz_cards/283_HUB_SelfLearning.md",
+    "zzzzz_cards/290_HUB_Gems.md",
+    "zzzzz_cards/197_HUB__Graphic_Design_Tips.md",
+    "zzzzz_cards/215_PermanentNotes.md",
+    "zzzzz_cards/1_Setup_Notes.md"
   ]
 }

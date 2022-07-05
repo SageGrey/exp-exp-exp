@@ -1,13 +1,19 @@
 # #HUB CARD: Graphic Design 
 
 Tips and Theory on good graphic design
+#### Layout
+[[26_Title_Heirarchy_]]
+[[11_Orientation_Sensitivity]]
+[[15_Font_Sizes]]
 
 #### General
 [7. Only as good as worst image](7_Worst_Image.md)
+[[27_Criteria_for_A_Diagram_]]
 
 #### Perception
 [4. Order of Eyesight](4_Order_of_Eyesight.md)   
 [6. Eye Span](6_Eye_Span.md) 
+[[17_Chunking]]
 
 
 #### Emphasize 
@@ -27,7 +33,9 @@ Tips and Theory on good graphic design
 [226. Noli Maps based on $](226_NoliMapsForIncome.md)
 [228. Oligopticon](228_Oligopticon.md)
 
+#### Collages
+[[29_Make_the_Vanishing_Point_Important]]
+[[28_photo_Collages__When_to_Use]]
+[[30_Establish_where_the_viewer_is]]
+[[31_One_Point_vs_Two_Point_Perspective]]
 
- 8,
- 9, 
- 11, 14, 15, 16, 17, 18, 24, 26, 27,  29, 31, 79, 113

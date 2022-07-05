@@ -7,4 +7,4 @@ Journalist H.L Mencken famously quipped: “A Puritan is someone who is deathly 
 **Searchterms:** Pleasure
 
 #### References
-[[OOOOO_Pleasurable, illegal things]]
+[[OOOOO_PleasureThesis]]

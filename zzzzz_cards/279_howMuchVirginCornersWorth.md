@@ -8,4 +8,5 @@ One of the justifications for prohibiting skateboarding/skating in public spaces
 See also: [Hard on Buildings](LivingHardOnHousing.md)
 
 #### References
-[[OOOOO_Pleasurable, illegal things]]
+[OOOOO_PleasureThesis](OOOOO_PleasureThesis.md)
+
