@@ -2,7 +2,8 @@
 
 In the appeal process the court documents (briefs) are passed to appeals court. A Lawyer argues, but there is no heightened drama. Generally no new introduction of evidence. No jury. Less sexy, but remakrably important. 
 
-## null
+**links**
 
 Judicial Theatrics
 
+[[293_HUB_CourtRulings]]

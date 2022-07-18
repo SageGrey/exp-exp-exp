@@ -9,7 +9,7 @@ Briefing a Decision
  6. Holding: Rule of Law emerging from the case that can apply in other cases
  7. Extra-Judicial Reasons for the Decision
 
-## null
+**links**
 
-Templates
+[[292_HUB_Writing_Speech_Templates]][[293_HUB_CourtRulings]]
 

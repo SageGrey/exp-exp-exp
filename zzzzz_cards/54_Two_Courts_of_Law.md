@@ -12,7 +12,4 @@ State Courts:
 2. Appelant Court
 3. Supreme Court of X State
 
-## null
-
-Legal Terms
-
+[[293_HUB_CourtRulings]]

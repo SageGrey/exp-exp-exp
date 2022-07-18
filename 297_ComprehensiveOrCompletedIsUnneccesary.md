@@ -1,0 +1,1 @@
+You do not need to finish something to have gotten benefited from something
