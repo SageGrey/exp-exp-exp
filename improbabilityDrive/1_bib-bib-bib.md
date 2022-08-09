@@ -112,8 +112,8 @@ ZTLKN Notes: [anti-homeless policing](zzzzz_cards/201_anti-homelessPolicing_Indu
  </details>
 
 
- 
-### Graham, Stephen & Thrift, Nigel : Out of Order: Understanding Repair and Maintenance 
+ <details> 
+ <summary> Graham, Stephen & Thrift, Nigel : Out of Order: Understanding Repair and Maintenance </summary>
 Graham, Stephen and Nigel Thrift, “Out of Order: Understanding Repair and 
 Maintenance,” Theory, Culture & Society 24, no. 3 (May 2007): 1–25. 
            1. Maintenance and Earth Worms
@@ -167,9 +167,9 @@ inspection and cleaning. (1994: 112) (6)  Such associations point to the way in 
        _________________________
  
  </details>
-
  
-### Edwards, Jamie: Planning for Skateboarding
+ <details>
+
 <summary> Edwards, Jamie: Planning for Skateboarding </summary> **Edwards, Jamie. 2020. "One more push, to clear the last step: Planning for Skateboarding"** London Southbank University, School of Law and Social Sciences. 
 
             2: Abstract
