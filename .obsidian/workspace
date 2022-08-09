@@ -4,20 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "4911a176b99cdf93",
+        "id": "8dd5e43221ef4317",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "rrrrr_readingNotes/315_ReadingNotes_Illich_DeschoolingSociety.md",
+            "mode": "preview",
+            "source": true
+          }
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "4911a176b99cdf93",
+              "leaf": "8dd5e43221ef4317",
               "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"rrrrr_readingNotes/315_ReadingNotes_Illich_DeschoolingSociety.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":0.4303797537118}"
             }
           ]
         }
@@ -68,8 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 572.5,
-    "collapsed": true
+    "width": 572.5
   },
   "right": {
     "id": "a26f4b01d5b4cea2",
@@ -85,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "rrrrr_readingNotes/315_ReadingNotes_Illich_DeschoolingSociety.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,6 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "rrrrr_readingNotes/315_ReadingNotes_Illich_DeschoolingSociety.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,10 +140,10 @@
     "direction": "horizontal",
     "width": 246
   },
-  "active": "4911a176b99cdf93",
+  "active": "8dd5e43221ef4317",
   "lastOpenFiles": [
     "improbabilityDrive/1_bib-bib-bib.md",
-    "MLACitationGuide.md",
+    "templates/MLACitationGuide.md",
     "improbabilityDrive/2_pblc-prvt-dvlpmnt.md",
     "improbabilityDrive/3_mrkdwn-frmtting.md",
     "improbabilityDrive/000_nonAcademicBib.md",

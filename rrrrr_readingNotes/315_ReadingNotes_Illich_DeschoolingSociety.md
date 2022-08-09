@@ -93,8 +93,8 @@ The negative feelings that many kids have about school and their belief that it 
 **Schooled Imagination**
 One of the results of going to school and being in a society that has a strong reliance on schools is that it incuclates a belief, what Ivan Illich called a "new logic" where we believe that the more interaction or involvement that we have with professionals and institutions, the better the ourcome. Illich writes, "Medical treatment is mistaken for healthcare, social work for the improvement of community life, police protection for safety, military poise for national security, the rat race for productive work." Illich describes this as a confusion of substance and process and a belief that escalation leads to success. <introduction> 
 
-* [[178_erodingTrustInIndependentAlternatives]]
-* [[179 Invention_of_Poverty]]
+* [178_erodingTrustInIndependentAlternatives](../zzzzz_cards/178_erodingTrustInIndependentAlternatives.md)
+* [179 Invention_of_Poverty](../zzzzz_cards/179%20Invention_of_Poverty.md)
 
 
 **Cant carch up in school**
@@ -119,15 +119,15 @@ Compulsory Schooling is akin to Organized Religion. Spirituality or salvation ca
 "performance tests would remove the present absurd discrimination in favor of the persob who learns a given skill with the largest expenditure of public funds or--what is equally likely--has been able to obtain a diploma which has no relation to any useful skill or job." <11, deschooling>
 
 ## Quotes 
-* [[182_Peer_Learning]]
-* [[180_Most_Learning_Happens_Casually_]]
-* [[181_1956_Learning_Spanish_from_High_School_Dropouts]]
-* [[184_Education_for_All_means_Education_by_All]]*
-* [[186_Barrier_to_Education_for_All__Imagination_is_All_Schooled_Up]]*
-* [[187 Durkhein_Dividing_Society_into_Good_and_Bad]]*
+* [182_Peer_Learning](../zzzzz_cards/182_Peer_Learning.md)
+* [180_Most_Learning_Happens_Casually_](../zzzzz_cards/180_Most_Learning_Happens_Casually_.md)
+* [181_1956_Learning_Spanish_from_High_School_Dropouts](../zzzzz_cards/181_1956_Learning_Spanish_from_High_School_Dropouts.md)
+* [184_Education_for_All_means_Education_by_All](../zzzzz_cards/184_Education_for_All_means_Education_by_All.md)*
+* [186_Barrier_to_Education_for_All__Imagination_is_All_Schooled_Up](../zzzzz_cards/186_Barrier_to_Education_for_All__Imagination_is_All_Schooled_Up.md)*
+* [187 Durkhein_Dividing_Society_into_Good_and_Bad](../zzzzz_cards/187%20Durkhein_Dividing_Society_into_Good_and_Bad.md)*
 
 ## Connected ZKN
-* [[177 Deprofessionalization____Ivan_Illich]]
+* [177 Deprofessionalization____Ivan_Illich](../zzzzz_cards/177%20Deprofessionalization____Ivan_Illich.md)
 
 ## Logs
 
