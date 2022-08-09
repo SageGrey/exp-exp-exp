@@ -4,7 +4,7 @@ One Point vs Two Point refers to number of vanishing points along the horizon li
 
 
 **Links**
-[197_HUB__Graphic_Design_Tips](197_HUB__Graphic_Design_Tips.md)
+[197_HUB__Graphic_Design_and_Data_Analysis](197_HUB__Graphic_Design_and_Data_Analysis.md)
 
 **Searchterms**
 #Definitions 

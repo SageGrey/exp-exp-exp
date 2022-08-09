@@ -4,7 +4,7 @@ If everything is oriented in the same direction, a single object (which is simil
 
 **Links:**
 1. [[290_HUB_Gems]]
-2. [[197_HUB__Graphic_Design_Tips]]
+2. [[197_HUB__Graphic_Design_and_Data_Analysis]]
 
 **Citation:**
 PreTerm Workshop, David Gamble [ID 1]

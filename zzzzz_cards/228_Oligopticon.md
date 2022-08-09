@@ -3,7 +3,7 @@
 Idea of seeing whole city through a single layer (ie sewers), comes from Paris: Invisible Cities by Bruno Latour
 
 ### Links
-[HUB Card: Graphic Design](197_HUB__Graphic_Design_Tips.md)
+[HUB Card: Graphic Design](197_HUB__Graphic_Design_and_Data_Analysis.md)
 [Eye Span](6_Eye_Span.md) 
 
 ### Citation:

@@ -13,4 +13,4 @@ or
 .......Object Object Object   
 
 #### Links
-[HUB CARD: Graphic Design](197_HUB__Graphic_Design_Tips.md)  
+[HUB CARD: Graphic Design](197_HUB__Graphic_Design_and_Data_Analysis.md)  

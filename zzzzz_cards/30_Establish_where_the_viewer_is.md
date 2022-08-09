@@ -9,7 +9,7 @@ What are other ways that don't rely on a smartphone. Map? Train ticket?
 PreTerm Workshop, David Gamble 
 
 **Links**
-[197_HUB__Graphic_Design_Tips](197_HUB__Graphic_Design_Tips.md)
+[197_HUB__Graphic_Design_and_Data_Analysis](197_HUB__Graphic_Design_and_Data_Analysis.md)
 
 **Searchterms**
 #GraphicDesign 

@@ -12,7 +12,7 @@ PreTerm Workshop, David Gamble
 
 **Links:**
 [[290_HUB_Gems]]
-[[197_HUB__Graphic_Design_Tips]]
+[[197_HUB__Graphic_Design_and_Data_Analysis]]
 [[292_AccurateAndHonest]]
 
 **Searchterms:**

@@ -6,7 +6,7 @@ In a photo collage have the eye drawn to the vanishing point. This could be some
 PreTerm Workshop, David Gamble 
 
 **Links:**
-[[197_HUB__Graphic_Design_Tips]]
+[[197_HUB__Graphic_Design_and_Data_Analysis]]
 
 **Searchterms:**
 #GraphicDesign 

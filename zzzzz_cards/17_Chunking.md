@@ -4,7 +4,7 @@ The eye wants to associate things together to comprehend them. Consider the diff
 
 **Links**
 [[6_Eye_Span]]
-[[197_HUB__Graphic_Design_Tips]]
+[[197_HUB__Graphic_Design_and_Data_Analysis]]
 
 **Searchterms**
 #GraphicDesign 

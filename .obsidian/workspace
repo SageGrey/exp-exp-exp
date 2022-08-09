@@ -4,206 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "9ce73b5875965f87",
-        "type": "split",
-        "dimension": 55.7476231633535,
-        "children": [
-          {
-            "id": "6457af9dff3ca6af",
-            "type": "leaf",
-            "dimension": 50,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome_To_CentralAve.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "leaf": "6457af9dff3ca6af",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Welcome_To_CentralAve.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "leaf": "6457af9dff3ca6af",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"xxxxx_locations/MonteVista/Library/Stacks.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "6457af9dff3ca6af",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zzzzz_cards/294_haveAPadToCaptureThoughts.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "6457af9dff3ca6af",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"templates/Keywords.md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{}"
-                }
-              ]
+        "id": "4911a176b99cdf93",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "4911a176b99cdf93",
+              "group": null,
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
             }
-          },
-          {
-            "id": "b1de2167a1176fe6",
-            "type": "leaf",
-            "dimension": 50,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zzzzz_cards/197_HUB__Graphic_Design_Tips.md",
-                "mode": "preview",
-                "source": true
-              }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "leaf": "b1de2167a1176fe6",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zzzzz_cards/197_HUB__Graphic_Design_Tips.md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{\"scroll\":2.3177081418948116}"
-                }
-              ]
-            }
-          }
-        ],
-        "direction": "horizontal"
-      },
-      {
-        "id": "10a224ae40a4bc1f",
-        "type": "split",
-        "dimension": 44.2523768366465,
-        "children": [
-          {
-            "id": "d75fef65e813d0da",
-            "type": "leaf",
-            "dimension": 19.627085377821395,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zzzzz_cards/290_HUB_Gems.md",
-                "mode": "preview",
-                "source": true
-              }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "leaf": "d75fef65e813d0da",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zzzzz_cards/290_HUB_Gems.md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{\"scroll\":12.911458297115235}"
-                }
-              ]
-            }
-          },
-          {
-            "id": "04def4a569f6fdb0",
-            "type": "leaf",
-            "dimension": 19.627085377821395,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zzzzz_cards/OOOOO_PleasureThesis.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "leaf": "04def4a569f6fdb0",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zzzzz_cards/OOOOO_PleasureThesis.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"scroll\":3.234374692663563}"
-                }
-              ]
-            }
-          },
-          {
-            "id": "a0c99942114a8201",
-            "type": "leaf",
-            "dimension": 19.627085377821395,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zzzzz_cards/283_HUB_SelfLearning.md",
-                "mode": "preview",
-                "source": true
-              }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "leaf": "a0c99942114a8201",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zzzzz_cards/283_HUB_SelfLearning.md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{\"scroll\":18.76041675565971}"
-                }
-              ]
-            }
-          },
-          {
-            "id": "59a80f1015d23900",
-            "type": "leaf",
-            "dimension": 19.627085377821395,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zzzzz_cards/000_HUBCARDS.md",
-                "mode": "preview",
-                "source": true
-              }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "leaf": "59a80f1015d23900",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zzzzz_cards/000_HUBCARDS.md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{\"scroll\":21.265624611948944}"
-                }
-              ]
-            }
-          },
-          {
-            "id": "2bc45b75af9018b2",
-            "type": "leaf",
-            "dimension": 21.491658488714428,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zzzzz_cards/291_HUB_PrivateProperty.md",
-                "mode": "preview",
-                "source": true
-              }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "leaf": "2bc45b75af9018b2",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zzzzz_cards/291_HUB_PrivateProperty.md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{\"scroll\":2.9642857142857144}"
-                }
-              ]
-            }
-          }
-        ],
-        "direction": "horizontal"
+          ]
+        }
       }
     ],
     "direction": "vertical"
@@ -234,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "eye span",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -251,7 +68,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 422
+    "width": 572.5,
+    "collapsed": true
   },
   "right": {
     "id": "a26f4b01d5b4cea2",
@@ -267,13 +85,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome_To_CentralAve.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
+                "searchQuery": "rubiks",
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             },
@@ -288,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome_To_CentralAve.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -317,20 +133,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246,
-    "collapsed": true
+    "width": 246
   },
-  "active": "6457af9dff3ca6af",
+  "active": "4911a176b99cdf93",
   "lastOpenFiles": [
-    "Welcome_To_CentralAve.md",
-    "xxxxx_locations/MonteVista/Library/Stacks.md",
-    "zzzzz_cards/294_haveAPadToCaptureThoughts.md",
-    "templates/Keywords.md",
-    "zzzzz_cards/178_Schooling_of_The_Imagination__reliance_on_institutions__learning_on_ones_own_unreliable_.md",
-    "Writing/292_HUB_Writing_Speech_Templates.md",
-    "zzzzz_cards/OOOOO_PleasureThesis.md",
-    "zzzzz_cards/291_HUB_PrivateProperty.md",
-    "zzzzz_cards/000_HUBCARDS.md",
-    "zzzzz_cards/283_HUB_SelfLearning.md"
+    "improbabilityDrive/1_bib-bib-bib.md",
+    "MLACitationGuide.md",
+    "improbabilityDrive/2_pblc-prvt-dvlpmnt.md",
+    "improbabilityDrive/3_mrkdwn-frmtting.md",
+    "improbabilityDrive/000_nonAcademicBib.md",
+    "improbabilityDrive/15_confirmationNumbersThatDontMatter.md",
+    "improbabilityDrive/14_skateSwapWorkingMaterials.md",
+    "zzzzz_cards/311_TNS_MusicGate.md",
+    "yyyyy_GSD_reference/22_PresentationStrengths.md",
+    "wwwww_zineReference/8_RelationshipTools.md"
   ]
 }

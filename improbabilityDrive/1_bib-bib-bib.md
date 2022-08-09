@@ -1,48 +1,9 @@
 
 # The Stacks[^1]
-###### Reading Notes  of All Authors
+
+This file shows citation information for all writings in the stacks
 
 
-### Resources
-<details>
- <summary> Citation Reference Guide </summary>
- 
- ``` 
- MLA CITATION ELEMENTS
- 
- Author.
-Title of source.
-Title of container,
-Other contributors,
-Version,
-Number,
-Publisher,
-Publication date,
-Location.
-```
-#### A book should be in italics:
-Henley, Patricia. The Hummingbird House. MacMurray, 1999.
-
-#### An individual webpage 
- webpage title should be in quotation marks. The name of the parent website, which MLA treats as a "container," should follow in italics:  
- Lundman, Susan. "How to Make Vegetarian Chili." eHow, www.ehow.com/how_10727_make-vegetarian-chili.html.*
-
- #### News Article
-  Taylor, Rumsey. "Fitzcarraldo." Slant, 13 Jun. 2003, www.slantmagazine.com/film/review/fitzcarraldo/. Accessed 29 Sep. 2009. 
- 
-#### A periodical (journal, magazine, newspaper) 
-article should be in quotation marks:  
-Bagchi, Alaknanda. "Conflicting Nationalisms: The Voice of the Subaltern in Mahasweta Devi's Bashai Tudu." Tulsa Studies in Women's Literature, vol. 15, no. 1, 1996, pp. 41-50.  
-
-#### A song or piece of music 
- song title The name of the album should then follow in italics:
-
-Beyoncé. "Pray You Catch Me." Lemonade, Parkwood Entertainment, 2016, www.beyonce.com/album/lemonade-visual-album/.
- 
- </details>
- 
- ### Authors
- 
  <details>
  <summary> Brown, Adrienne Maree </summary>
  
@@ -87,16 +48,15 @@ Urban Ghana,” Ethnos 82, no. 4 (July 18, 2017): 648–71.
    <details>
  <summary>   Coughlin-Bogue: Queering Skateable Space </summary>
 **Coughlin-Bogue, Tobin "Queering Skateable Space: How Dispersing Skate Spots Defuses
-Toxic Masculinity."** Urban Pamphleteer #8: Skateboardings, 2020. 18-20
+Toxic Masculinity." Urban Pamphleteer #8: Skateboardings, 2020. 18-20
 
  </details>
  
  <details>
- <summary>   Cowen, Deb: Infrastructures of Empire and Resistance </summary>
+ <summary> Cowen, Deb: Infrastructures of Empire and Resistance </summary>
  
 **Deb Cowen, “[Infrastructures of Empire and Resistance](http://gofile.me/6WhDC/VlARGlPoa)**,” Verso Books blog (January 25, 
 2017): https://www.versobooks.com/blogs/3067-infrastructures-of-empire-and-resistance
-
       2. Naming current struggles for justice
       3. Heathrow and Calais (informal refugee settlement in france or maybe england?)
       4. Infrastructure does not simply reflect existing inequality, but also engineers and entrenches
@@ -109,7 +69,6 @@ Toxic Masculinity."** Urban Pamphleteer #8: Skateboardings, 2020. 18-20
       %% "Infrastructure is by definition future oriented; it is assembled in the service of worlds to come"
       11. Churches and Border Wall
 
-   
 </details>
   
 <details>
@@ -124,9 +83,6 @@ Toxic Masculinity."** Urban Pamphleteer #8: Skateboardings, 2020. 18-20
      
 [Engels, Friedrich.1845. “The Great Towns.”](http://gofile.me/6WhDC/8K48J765f) in The Condition of the Working-Class in England in 1844, in The City Reader, Richard T. LeGates and Frederic Stout, eds. Routledge,
 2003: 58-66.   
-
-
-
 ZTLKN Notes: [anti-homeless policing](zzzzz_cards/201_anti-homelessPolicing_Industrialization.md)  
        
        58:Bio of Engels while writing The Condition of the Working Class in England in 1844 (1845)  
@@ -151,18 +107,15 @@ ZTLKN Notes: [anti-homeless policing](zzzzz_cards/201_anti-homelessPolicing_Indu
  <details> 
  <summary> Greer, Alex Buyout Policy </summary>
  
-**Greer, Alex "A historical assessment of home buyout policy: Are we learning or just failing?"**
-Section 1: Policy Learning Theory (Social, Instrumental) 
+**Greer, Alex "A historical assessment of home buyout policy: Are we learning or just failing?"* Section 1: Policy Learning Theory (Social, Instrumental) 
  
  </details>
- 
- <details> 
- <summary> OPEN ME AND ADD TO ZKN Graham, Stephen & Thrift, Nigel : Out of Order: Understanding Repair and Maintenance </summary>
- 
 
+
+ 
+### Graham, Stephen & Thrift, Nigel : Out of Order: Understanding Repair and Maintenance 
 Graham, Stephen and Nigel Thrift, “Out of Order: Understanding Repair and 
 Maintenance,” Theory, Culture & Society 24, no. 3 (May 2007): 1–25. 
-
            1. Maintenance and Earth Worms
            2. Heidegger
            3. Qualities of maintenance, proliferation of things
@@ -188,7 +141,7 @@ Maintenance,” Theory, Culture & Society 24, no. 3 (May 2007): 1–25.
            _____________________
           TODO: add How Buildings Learn 1994 to reading list
 
-        **ZKN:** What would our lives be like if we took earthworms seriously, took the ground
+**ZKN:** What would our lives be like if we took earthworms seriously, took the ground
 under our feet rather than the skies above our heads, as the place to look as
 well as, eventually, as the place to be? It is as though we have been pointed
 in the wrong direction., Adam Phillips 
@@ -210,21 +163,14 @@ had not even been considered during the design and construction of the
 
 building’. Also light fixtures in the grand lobbies were unreachable for lamp
 replacement, and internal drains from the flat roofs had no access hatches for
-inspection and cleaning. (1994: 112) (6)
-
-
-6 Such associations
-point to the way in which maintenance and repair is increasingly thought
-of as a generic activity, the model for which can be spread across many
-realms of everyday life.(16)
+inspection and cleaning. (1994: 112) (6)  Such associations point to the way in which maintenance and repair is increasingly thought of as a generic activity, the model for which can be spread across many realms of everyday life.(16)
        _________________________
  
  </details>
-       
- <details> 
- <summary> Edwards, Jamie: Planning for Skateboarding </summary>
+
  
-**Edwards, Jamie. 2020. "One more push, to clear the last step: Planning for Skateboarding"** London Southbank University, School of Law and Social Sciences. 
+### Edwards, Jamie: Planning for Skateboarding
+<summary> Edwards, Jamie: Planning for Skateboarding </summary> **Edwards, Jamie. 2020. "One more push, to clear the last step: Planning for Skateboarding"** London Southbank University, School of Law and Social Sciences. 
 
             2: Abstract
             3: TOC
@@ -284,9 +230,7 @@ Johns Hopkins University Press: 165-184.
 </details>
 
 <details> 
- <summary> Howard, Ebenezer: Town and Country Magnet </summary>
- 
-[Howard, Ebenezer. 1898. “Introduction”, ch1 “The Town and Country Magnet,”](http://gofile.me/6WhDC/0dVlJDmEh) ch 2 and “Social Cities,”  ch13 “The Future of London,” in Garden Cities of Tomorrow, 1898. 
+ <summary> Howard, Ebenezer: Town and Country Magnet </summary> [Howard, Ebenezer. 1898. “Introduction”, ch1 “The Town and Country Magnet,”](http://gofile.me/6WhDC/0dVlJDmEh) ch 2 and “Social Cities,”  ch13 “The Future of London,” in Garden Cities of Tomorrow, 1898. 
 
                    41: Disagreements in society, generational
                    42: no disagreement that migration to overcrowded cities is bad, root of all bad
@@ -314,9 +258,7 @@ Johns Hopkins University Press: 165-184.
  </details> 
  
  <details>
- <summary> Illich, Ivan: Deschooling Society </summary> 
- 
-**Illich, Ivan. "Deschooling Society"** Marion Boyers Publishing, 2002
+ <summary> Illich, Ivan: Deschooling Society </summary>  **Illich, Ivan. "Deschooling Society"** Marion Boyers Publishing, 2002
 
                ` 1: Service and Value (institutionalization of value)
                    2: Disservice to the rich and poor
@@ -365,9 +307,7 @@ and Private Development](http://gofile.me/6WhDC/cvKMNKgSv), Class Note #1 (2022)
 </details> 
 
 <details> 
- <summary> Johnson, Walter </summary>
-
-[Johnson, Walter. 2013. “Introduction: Boom,”](http://gofile.me/6WhDC/Ci7UFKV23) River of Dark Dreams: Slavery and Empire in the Cotton Kingdom. Cambridge, MA: Harvard University Press, 2013: 1-17.
+ <summary> Johnson, Walter </summary> [Johnson, Walter. 2013. “Introduction: Boom,”](http://gofile.me/6WhDC/Ci7UFKV23) River of Dark Dreams: Slavery and Empire in the Cotton Kingdom. Cambridge, MA: Harvard University Press, 2013: 1-17.
 
           1. Boat Explosion Story
           2. Context of American Slavery in Missippi Valley
@@ -394,9 +334,7 @@ and Private Development](http://gofile.me/6WhDC/cvKMNKgSv), Class Note #1 (2022)
 
 </details>
 <details> 
- <summary> Krieger, Alex </summary>
- 
-**Krieger, Alex. 2019. “Making Nature Urbane: Olmsted and the Parks Movement,” City on a Hill: Urban Idealism in America from the Puritans to the Present, 2019: 151-173.**
+ <summary> Krieger, Alex </summary> **Krieger, Alex. 2019. “Making Nature Urbane: Olmsted and the Parks Movement,” City on a Hill: Urban Idealism in America from the Puritans to the Present, 2019: 151-173.**
 
          151: eptitaths
          152: Hypothesis of benefits
@@ -437,9 +375,7 @@ and Private Development](http://gofile.me/6WhDC/cvKMNKgSv), Class Note #1 (2022)
  </details>
  
  <details> 
- <summary> Mumford, Lewis </summary> 
- 
-[Mumford, Lewis. 1961. “Paleotechnic Paradise: Coketown.”](http://gofile.me/6WhDC/b36RG7Y3v) In The City in History: Its Origins, Its Transformations, and Its Prospects, London: Secker & Warburg, 1961: 446-481 [skim: focus on sections 5 and 6]  
+ <summary> Mumford, Lewis </summary>  [Mumford, Lewis. 1961. “Paleotechnic Paradise: Coketown.”](http://gofile.me/6WhDC/b36RG7Y3v) In The City in History: Its Origins, Its Transformations, and Its Prospects, London: Secker & Warburg, 1961: 446-481 [skim: focus on sections 5 and 6]  
            
            Skimmed
            446:Loss of work + play balance
@@ -459,9 +395,7 @@ and Private Development](http://gofile.me/6WhDC/cvKMNKgSv), Class Note #1 (2022)
  </details>
  
  <details>
- <summary> Lynch, Kevin: Image of The City </summary>
- 
- Lynch, Kevin. 1960. The Image of the City. Cambridge MA: Technology Press: 1–25 
+ <summary> Lynch, Kevin: Image of The City </summary> Lynch, Kevin. 1960. The Image of the City. Cambridge MA: Technology Press: 1–25 
  
         1. Looking At Cities
         2. Changing, Shaping
@@ -471,15 +405,12 @@ and Private Development](http://gofile.me/6WhDC/cvKMNKgSv), Class Note #1 (2022)
         6. Perception
         7.  
         
-        **Quotes, pg 7** : [relating to historic preservation] A landscape  whose  every  rock tells  a  story  may  make difficult the  creation  of  fresh  
-stories. Although  this  may  not  seem  to  be  a.  critical  issue  in  our  present  urban  chaos,  yet  it  indicates that  what  we  seek  is  not  a   final  but an open-ended order, capable of continuous further development. 
+        **Quotes, pg 7** : [relating to historic preservation] A landscape  whose  every  rock tells  a  story  may  make difficult the  creation  of  fresh  stories. Although  this  may  not  seem  to  be  a.  critical  issue  in  our  present  urban  chaos,  yet  it  indicates that  what  we  seek  is  not  a   final  but an open-ended order, capable of continuous further development. 
 
  </details>
  
  <details> 
- <summary> Marcuse, Peter & Madden, David: Residential is Political </summary>
-
- [Madden, David and Marcuse, Peter. 2016. “Introduction: The Residential is Political,”](http://gofile.me/6WhDC/kUzhyZKyy) In Defense of Housing: The Politics of Crisis. London, New York: Verso, 2016: 7-12
+ <summary> Marcuse, Peter & Madden, David: Residential is Political </summary> [Madden, David and Marcuse, Peter. 2016. “Introduction: The Residential is Political,”](http://gofile.me/6WhDC/kUzhyZKyy) In Defense of Housing: The Politics of Crisis. London, New York: Verso, 2016: 7-12
    
         7: Housing Crisis Context
         8: Need Wider Perspective
@@ -491,9 +422,7 @@ stories. Although  this  may  not  seem  to  be  a.  critical  issue  in  our  p
   
   <details>
  <summary> Nikhil, Anand: Hyrdraulic City </summary>
- 
-**Nikhil Anand, Hydraulic City: Water and the Infrastructures of Citizenship 
-in Mumbai (Durham: Duke University Press, 2017).**
+ **Nikhil Anand, Hydraulic City: Water and the Infrastructures of Citizenship in Mumbai (Durham: Duke University Press, 2017).**
 
         ****Introduction 1-24
         -----> Residences in the Slums can have all the trappings of more established neighborhoods
@@ -504,12 +433,7 @@ in Mumbai (Durham: Duke University Press, 2017).**
         16: Entitlements never quite become rights, being counted as a legitimate citizen
         18: NURM: National Urban Renewal Mission, Pressure to privitize
         19: PPIAF Public Private Infrastructure Advisory Facility, WDIP (Water District Improvement Project)
-       20:
-        
-        'In this book I argue that settlers demand public water systems not because public systems deliver reliable supplies to all. Settlers desire public systems because, relative to private infrastructures, these “bloated,” “inefficient” public systems are known systems that offer many more points of access (of-
-ficials, politicians, social workers, and leaky pipes) through which settlers can be connected to the hydraulic city. Settlers also desire water through the
-public system because its documents (printed on government stationary)
-allow them to claim and access other public urban services and substances of citizenship—like housing, health, and education.  In short, relative to private systems, public systems are known systems that are more accommodating of vital forms of leakage that nourish those marginalized by states and markets in the city. Public infrastructures are more amenable to hidden, partly known, materialized arrangements through which millions of residents access water and live in the city.
+       20: 'In this book I argue that settlers demand public water systems not because public systems deliver reliable supplies to all. Settlers desire public systems because, relative to private infrastructures, these “bloated,” “inefficient” public systems are known systems that offer many more points of access (officials, politicians, social workers, and leaky pipes) through which settlers can be connected to the hydraulic city. Settlers also desire water through the public system because its documents (printed on government stationary) allow them to claim and access other public urban services and substances of citizenship—like housing, health, and education.  In short, relative to private systems, public systems are known systems that are more accommodating of vital forms of leakage that nourish those marginalized by states and markets in the city. Public infrastructures are more amenable to hidden, partly known, materialized arrangements through which millions of residents access water and live in the city.
          
          **** A city in the sea. 25-28 Colonizers fighting through cartography, history
          **** Scarce City Chapter 1: 29-
@@ -567,8 +491,7 @@ essential aspects of distributional justice and planning power. —susan leigh s
            117: Difficulty sharing water with social ties
            121: Continuous water
            122: Outside of Clock Time
-           
-    E.P. Thompson: Womens work in the home is in a rhythm outside of clock-time. 
+           E.P. Thompson: Womens work in the home is in a rhythm outside of clock-time. 
     
           123: Louis Althusser time opinions
           
@@ -580,9 +503,7 @@ essential aspects of distributional justice and planning power. —susan leigh s
         
 <details>
  <summary> Noble, Safiya Umoja: Alogrythms of Opression </summary>
- 
-Noble, **Safiya Umoja Noble, “A Society Searching,” Algorithms of Oppression: How Search 
-Engines Reinforce Racism (New York, N.Y.: New York University Press, 2018), 15-63.**
+ Noble, **Safiya Umoja Noble, “A Society Searching,” Algorithms of Oppression: How Search Engines Reinforce Racism (New York, N.Y.: New York University Press, 2018), 15-63.**
 
         15: ad agency google search project
         6: problem is the engine, algorithm 

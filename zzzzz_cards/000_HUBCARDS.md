@@ -8,7 +8,7 @@
 
 ### G
 [[290_HUB_Gems]]
-[Graphic Design](197_HUB__Graphic_Design_Tips.md)    
+[Graphic Design](197_HUB__Graphic_Design_and_Data_Analysis.md)    
 
 ### I
 [Ideas](196_HUB___Good_Ideas.md)   

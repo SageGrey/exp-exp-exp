@@ -25,7 +25,7 @@ This is initially for the LSAT writing sample, but seems like it will work in a 
 LSAT-Center 
 
 **Links**
-[292_HUB_Writing_Speech_Templates](../Writing/292_HUB_Writing_Speech_Templates.md)
+[292_HUB_Writing_Speech_Templates](292_HUB_Writing_Speech_Templates.md)
 
 **Searchterms**
 #WritingStyle/Technique

@@ -5,5 +5,5 @@ It would be interesting to show a series of NOLI maps documenting difference of 
 
 
 ### Links
-[HUB: Graphic Design](197_HUB__Graphic_Design_Tips.md)   
+[HUB: Graphic Design](197_HUB__Graphic_Design_and_Data_Analysis.md)   
 [HUB: Good Ideas](196_HUB___Good_Ideas.md)

@@ -11,4 +11,4 @@ Graphic Design
 Layout
 
 ### Links
-[HUB: Graphic Design](197_HUB__Graphic_Design_Tips.md)
+[HUB: Graphic Design](197_HUB__Graphic_Design_and_Data_Analysis.md)

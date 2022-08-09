@@ -1,1 +1,18 @@
-{}
+{
+  "editor:fold-all": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "F"
+    }
+  ],
+  "editor:unfold-all": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "O"
+    }
+  ]
+}

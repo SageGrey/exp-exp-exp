@@ -7,5 +7,5 @@ PreTerm Workshop, David Gamble [ID 1]
 
 #### Links
 
-[197. HUB CARD: Graphic Design](197_HUB__Graphic_Design_Tips.md)  
+[197. HUB CARD: Graphic Design](197_HUB__Graphic_Design_and_Data_Analysis.md)  
 [4. Order of Eyesight](4_Order_of_Eyesight.md)
