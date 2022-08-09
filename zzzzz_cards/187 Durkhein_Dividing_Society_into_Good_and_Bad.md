@@ -10,4 +10,4 @@ Illich, Ivan. "Deschooling Society." Marion Boyers Publishing, 2002, 24
 Durkheim as summarized by Ivan Illich, pg 24, Deschooling Society. 
 
 **links**
-[[315_ReadingNotes_Illich_DeschoolingSociety]]
+[[r2_ReadingNotes_Illich_DeschoolingSociety]]

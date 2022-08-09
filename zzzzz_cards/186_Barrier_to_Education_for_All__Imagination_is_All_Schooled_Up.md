@@ -11,5 +11,5 @@ I dont like that this quote is not given a name.
 Illich, Ivan. "Deschooling Society." Marion Boyers Publishing, 2002, 23
 
 **links**
-[[315_ReadingNotes_Illich_DeschoolingSociety]]
+[[r2_ReadingNotes_Illich_DeschoolingSociety]]
 

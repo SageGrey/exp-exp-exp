@@ -6,4 +6,4 @@
 
 Illich, Ivan. "Deschooling Society." Marion Boyers Publishing, 2002, pg 15
 
-[[315_ReadingNotes_Illich_DeschoolingSociety]]
+[[r2_ReadingNotes_Illich_DeschoolingSociety]]

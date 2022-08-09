@@ -6,6 +6,6 @@ Illich, Ivan. "Deschooling Society." Marion Boyers Publishing, 2002, pg 14
 
 
 **Links*
-* *[[161 Get_in_Where_You_Fit_In]]
-* *[[183 Learning_to_Skate]]
-* [[315_ReadingNotes_Illich_DeschoolingSociety]]
+* *[161 Get_in_Where_You_Fit_In](161%20Get_in_Where_You_Fit_In.md)
+* *[183 Learning_to_Skate](183%20Learning_to_Skate.md)
+* [r2_ReadingNotes_Illich_DeschoolingSociety](r2_ReadingNotes_Illich_DeschoolingSociety.md)

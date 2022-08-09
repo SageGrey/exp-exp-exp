@@ -12,6 +12,6 @@ Incidental and Informal
 Illich, Ivan. "Deschooling Society." Marion Boyers Publishing, 2002, pg 22
 
 **links**
-[[315_ReadingNotes_Illich_DeschoolingSociety]]
+[[r2_ReadingNotes_Illich_DeschoolingSociety]]
 [[185 Youtube___Ivan_Illich]]
 

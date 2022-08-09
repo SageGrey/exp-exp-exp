@@ -3,6 +3,6 @@
   "livePreview": false,
   "defaultViewMode": "preview",
   "alwaysUpdateLinks": true,
-  "fileSortOrder": "byCreatedTime",
+  "fileSortOrder": "alphabetical",
   "promptDelete": false
 }

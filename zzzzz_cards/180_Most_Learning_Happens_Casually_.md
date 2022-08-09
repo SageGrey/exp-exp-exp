@@ -6,4 +6,4 @@
 Ivan Illich, Deschooling Society, pg 12 [ID 50]
 
 **links**
-[[315_ReadingNotes_Illich_DeschoolingSociety]]
+[[r2_ReadingNotes_Illich_DeschoolingSociety]]

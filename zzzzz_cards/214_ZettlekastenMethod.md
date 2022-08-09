@@ -9,7 +9,7 @@ Luhmann's sytem which employed the clever use of a "slip box" is documented in h
 Reading Notes   
 
 ### Digital Zettlekasten Tools  
-[GitHub Zettlekasten](../improbabilityDrive/7_zettlekastenGitHubPortal.md)   
+[GitHub Zettlekasten](7_zettlekastenGitHubPortal.md)   
 Obsidian   
 
 ### Personal Reflections
