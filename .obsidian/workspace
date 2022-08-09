@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "rrrrr_readingNotes/315_ReadingNotes_Illich_DeschoolingSociety.md",
-            "mode": "preview",
+            "mode": "source",
             "source": true
           }
         },
@@ -20,7 +20,7 @@
             {
               "leaf": "8dd5e43221ef4317",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"rrrrr_readingNotes/315_ReadingNotes_Illich_DeschoolingSociety.md\",\"mode\":\"preview\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"rrrrr_readingNotes/315_ReadingNotes_Illich_DeschoolingSociety.md\",\"mode\":\"source\",\"source\":true}}",
               "eState": "{\"scroll\":0.4303797537118}"
             }
           ]
