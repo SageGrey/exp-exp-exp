@@ -16,6 +16,8 @@ Parks w/o borders --> taking down fences in NYC parks to integrate with street l
 
 ## People
 
+
+
 **Urban Planning Professionals** 
 * Leslie Reed: CEO of Madison Park Development Corporarion, Roxbury --> lreid@madison-park.org    
 * Lesley Lokko: Founder of Africans Future Institute (AFI)   
@@ -38,4 +40,9 @@ Parks w/o borders --> taking down fences in NYC parks to integrate with street l
 * Sherry Arnstein --> Ladder of Participation
 * Paul Davidoff --> Participation
 
-
+**Set Designers** 
+* Ricardo Hernandez
+* Mimi Lien
+* **Es Devlin**: Adele, Beyonce, Kanye [[329_AudiencesAreSophisticated]],[[330_BitsOfStarchInTheBrain]]
+* David Korins
+* George Tzypin 

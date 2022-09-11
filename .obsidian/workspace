@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "8dd5e43221ef4317",
+        "id": "1f46d42b7d90f936",
         "type": "leaf",
+        "dimension": 83.31943286071728,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "xxxxx_locations/2_loboLobby.md",
+            "file": "rrrrr_Reading&LectureNotes/LectureNotes_Fall2022_Sept.md",
             "mode": "preview",
             "source": true
           }
@@ -18,124 +19,70 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "8dd5e43221ef4317",
+              "leaf": "1f46d42b7d90f936",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"xxxxx_locations/2_loboLobby.md\",\"mode\":\"preview\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"rrrrr_Reading&LectureNotes/LectureNotes_Fall2022_Sept.md\",\"mode\":\"preview\",\"source\":true}}",
               "eState": "{}"
             },
             {
-              "leaf": "8dd5e43221ef4317",
+              "leaf": "1f46d42b7d90f936",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Welcome_To_CentralAve.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{\"scroll\":1.6868686868686869}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zzzzz_cards/337_WillingnessToPay.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":386},\"to\":{\"line\":6,\"ch\":386}},\"scroll\":2.103448173804179}"
             },
             {
-              "leaf": "8dd5e43221ef4317",
+              "leaf": "1f46d42b7d90f936",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"rrrrr_readingNotes/r2_ReadingNotes_Illich_DeschoolingSociety.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"rrrrr_Reading&LectureNotes/LectureNotes_Fall2022_Sept.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":54.74224568736207}"
             },
             {
-              "leaf": "8dd5e43221ef4317",
+              "leaf": "1f46d42b7d90f936",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"yyyyy_GSD_reference/1_bib-bib-bib.md\",\"mode\":\"preview\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zzzzz_cards/335_JohnHylan.md\",\"mode\":\"preview\",\"source\":true}}",
               "eState": "{}"
             },
             {
-              "leaf": "8dd5e43221ef4317",
+              "leaf": "1f46d42b7d90f936",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"NNNNN_NoLongerRElevant/20_RealEstateGrant.md\",\"mode\":\"preview\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zzzzz_cards/337_WillingnessToPay.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
+            },
+            {
+              "leaf": "1f46d42b7d90f936",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"rrrrr_Reading&LectureNotes/LectureNotes_Fall2022_Sept.md\",\"mode\":\"preview\",\"source\":true}}",
               "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "25cbcdf842c31a13",
+        "type": "leaf",
+        "dimension": 16.680567139282733,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "zzzzz_cards/337_WillingnessToPay.md",
+            "mode": "source",
+            "source": true
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "25cbcdf842c31a13",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zzzzz_cards/337_WillingnessToPay.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":20},\"to\":{\"line\":2,\"ch\":0}}}"
             },
             {
-              "leaf": "8dd5e43221ef4317",
+              "leaf": "25cbcdf842c31a13",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"NNNNN_NoLongerRElevant/14_skateSwapWorkingMaterials.md\",\"mode\":\"preview\",\"source\":true}}",
+              "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "8dd5e43221ef4317",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"IIIII_improbabilityDrive/000_nonAcademicBib.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "8dd5e43221ef4317",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"NNNNN_NoLongerRElevant/7_zettlekastenGitHubPortal.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "8dd5e43221ef4317",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ttttt_templates/3_mrkdwn-frmtting.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "8dd5e43221ef4317",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ccccc_ClassAndLectureNotes/4_industrializationNotes.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "8dd5e43221ef4317",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"NNNNN_NoLongerRElevant/7_zettlekastenGitHubPortal.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "8dd5e43221ef4317",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"NNNNN_NoLongerRElevant/14_skateSwapWorkingMaterials.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "8dd5e43221ef4317",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"IIIII_improbabilityDrive/16_DissectingGreatWriting.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "8dd5e43221ef4317",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"IIIII_improbabilityDrive/17_poetryParts.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "8dd5e43221ef4317",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"NNNNN_NoLongerRElevant/20_RealEstateGrant.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "8dd5e43221ef4317",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ccccc_ClassAndLectureNotes/19_HistTheoryNotes.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "8dd5e43221ef4317",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"NNNNN_NoLongerRElevant/20_RealEstateGrant.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{\"scroll\":67.05314009661836}"
-            },
-            {
-              "leaf": "8dd5e43221ef4317",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ccccc_ClassAndLectureNotes/planningForClimateChange.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "8dd5e43221ef4317",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"rrrrr_readingNotes/r1_AbbySpinak.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "8dd5e43221ef4317",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"yyyyy_GSD_reference/AdditionalNotesForPleasureThesis.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{\"scroll\":10.757475083056478}"
             }
           ]
         }
@@ -186,7 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257
+    "width": 584.5
   },
   "right": {
     "id": "a26f4b01d5b4cea2",
@@ -202,14 +149,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "xxxxx_locations/2_loboLobby.md",
+                "file": "rrrrr_Reading&LectureNotes/LectureNotes_Fall2022_Sept.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
-                "searchQuery": "rubiks",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
               }
             },
             "pane-relief:history-v1": {
@@ -223,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "xxxxx_locations/2_loboLobby.md",
+                "file": "rrrrr_Reading&LectureNotes/LectureNotes_Fall2022_Sept.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,17 +202,17 @@
     "width": 246,
     "collapsed": true
   },
-  "active": "8dd5e43221ef4317",
+  "active": "1f46d42b7d90f936",
   "lastOpenFiles": [
-    "Welcome_To_CentralAve.md",
-    "rrrrr_readingNotes/r2_ReadingNotes_Illich_DeschoolingSociety.md",
-    "zzzzz_cards/182_Peer_Learning.md",
-    "yyyyy_GSD_reference/1_bib-bib-bib.md",
-    "NNNNN_NoLongerRElevant/20_RealEstateGrant.md",
-    "NNNNN_NoLongerRElevant/14_skateSwapWorkingMaterials.md",
-    "IIIII_improbabilityDrive/000_nonAcademicBib.md",
-    "NNNNN_NoLongerRElevant/7_zettlekastenGitHubPortal.md",
-    "ttttt_templates/3_mrkdwn-frmtting.md",
-    "ccccc_ClassAndLectureNotes/4_industrializationNotes.md"
+    "zzzzz_cards/337_WillingnessToPay.md",
+    "rrrrr_Reading&LectureNotes/LectureNotes_Fall2022_Sept.md",
+    "zzzzz_cards/339_CostsOfTravel.md",
+    "zzzzz_cards/338_Top3UnlikedActivities.md",
+    "zzzzz_cards/335_JohnHylan.md",
+    "ooooo_mixedMedia/Transpo_Week1.pdf",
+    "ooooo_mixedMedia/Transpo_Week1_SVoorhees.pdf",
+    "zzzzz_cards/OOOOO_PleasureThesis.md",
+    "zzzzz_cards/336_NickleFairs.md",
+    "ooooo_mixedMedia/Pasted image 20220909114659.png"
   ]
 }

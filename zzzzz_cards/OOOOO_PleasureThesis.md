@@ -4,6 +4,23 @@ Created: Jul-02-2022
 
 **Reading Wish List**
 * Arbitrary Lines: How Zoning Broke the American City and How to Fix It Paperback – June 21, 2022
+* Art of Gathering: PP
+* Pleasure Activism: AMB
+* Freedom Dreams
+* Bell Hooks
+
+
+##### Intro
+* What is Pleasure
+* My Guess on how to be a city planner. 
+* 
+ ##### Components of Pleasure
+ * [[327_reliefFromWeather | relief from extremes]]
+ * Gathering 
+	 * How have these changed over time
+	 * Looking at 5 squares in Camberville
+ * Permission to move to music
+ 
 
 ##### Pleasure & Anti-Growth
 * Myth of Passive Supply: [269_MythOfPassiveSupply](269_MythOfPassiveSupply.md)
@@ -37,13 +54,22 @@ Created: Jul-02-2022
 
 ##### Afraid of Pleasure
 * Puritans Afraid of fun. [256_PuritanAfraidFun](256_PuritanAfraidFun.md)
-* Architects have meltdown seeing how people live. [LivingHardOnHousing](LivingHardOnHousing.md)
+* Architects have meltdown seeing how people live. [318_LivingHardOnHousing](318_LivingHardOnHousing.md)
 
 
 ##### Already Written 
 1. [275_RedwoodCity_PleasurePlanning](275_RedwoodCity_PleasurePlanning.md)
 2. [277_WoonerfsReparative](277_WoonerfsReparative.md)
 
+##### pleasurable things
+-Copenhagen Trampoline Sidewalks
+-[[332_GiantSlideDetroit|Giant Slides]]
+-Ropes Courses
+- Sitting on ledges over water
+- A platter of food for 4.99 (Darul Kebab)
+- Climate control on subways. Singapore 
 
 ###### 
 [290_HUB_Gems](290_HUB_Gems.md)
+
+

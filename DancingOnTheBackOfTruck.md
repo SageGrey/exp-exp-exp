@@ -1,0 +1,1 @@
+I resonated with the sentiment that it seemed "somehow naive to talk about anything intereating, or to think that you would ever know anything important"

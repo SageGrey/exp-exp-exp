@@ -16,7 +16,8 @@ Below are some parts of it that really resonated with me::
 3. Discusses the psycological harm of day after day, year after year seeing yourself as unreliable because not everything on your to-do list was crossed off. Yet we know that the way mosts to-do lists function is that they are never fully completed--We add new things before we've caught up to what was already on there.   &#9;&#9;
 **Time Boxing:**
 
-## null
+**links**
+[[283_HUB_SelfLearning]]
 
-Slate: How To Podcast: Put aside distractions once and for all [ID 57]
+**Citation**: Slate: How To Podcast: Put aside distractions once and for all [ID 57]
 

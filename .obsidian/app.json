@@ -3,6 +3,12 @@
   "livePreview": false,
   "defaultViewMode": "preview",
   "alwaysUpdateLinks": true,
-  "fileSortOrder": "alphabetical",
-  "promptDelete": false
+  "fileSortOrder": "alphabeticalReverse",
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }

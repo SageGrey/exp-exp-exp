@@ -1,8 +1,9 @@
 # Lets not add impulse to injury
 
-Chess. 
+Said during a game of chess 
 
-## null
 
-Harlan Lewis [ID 11]
+**Citation** Eden Attar 
+
+[290_HUB_Gems](290_HUB_Gems.md)
 
