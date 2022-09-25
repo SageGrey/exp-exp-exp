@@ -12,7 +12,7 @@
 
 
 > Pleasure Lens
->  This thesis is about how using a **lens of pleasure** in urban planning could enhance the way that we design and curate our built environments. The thesis proposes different improvements  that Boston BlueBikes could implement in order to be redesigned to better  facilitate pleasure. 
+> This thesis is about how using a **lens of pleasure** in urban planning could enhance the way that we design and curate our built environments. The thesis proposes different improvements that Boston Bluebikes could implement in order to be redesigned to better facilitate pleasure. 
 > *  Why Pleasure
 > * Physical Pleasure
 >  * Emotional Pleasure
@@ -22,28 +22,30 @@
 
 
 >**Pleasure Ideas**
-> * voting sytem for bluebikes, monthly vote
+> * voting system for Bluebikes, monthly vote
 >* therapy puppies instead of drug dogs (condition of pleasure: safety, cuddly warmth)
 >* helmet racks (condition of pleasure: safety)
 >* valet service for large events
->* free rides (random free ride day, members get free 3 hour rides)
+>* free rides (random free ride day, members get free 3-hour rides)
 >* Actual compensation bike angels 
 >* more stations (mini stations)
->* juke box in subway station
->* pinball machines, arcade games, cornhole
+>* jukebox in subway station
+>* pinball machines, arcade games, corn hole
 >* misters at stations,
 >* hot bar to hold onto at the end of a ride (condition of pleasure: extreme temperatures)
 >* razor scooters in underground passage ways
 >* sound buffers at loud transit stops
->* ballpark free give-aways
+>* ballpark giveaways
+>* Municipal Mountain Bikes
+>* [[352_BlueHandBikes]]handbike that could plug into bluebike system
 
 
 
-> **BlueBike Topics**
+> **Bluebike Topics**
 > - [ Valeet Service](347_BlueBikeValetService.md)
 > - [[348_ListofOpenDatasets_RelevantToBostonBikeShare|Boston Data Sets]]
 
-> **Rideshare Topics**
+> **Ride-share Topics**
 >-  
 
 > **Notes/Works on Pleasure** 
@@ -54,7 +56,7 @@
 
 
 > **Research Questions** 
->> **Blue Bike Valet**
+>> **Bluebike Valet**
 >> * What is the experience of staff members at these sites? 
 >> * Does a valet service always use a van? 
 >> * How often are they deployed
