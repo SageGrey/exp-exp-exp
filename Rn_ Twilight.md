@@ -45,19 +45,19 @@ https://www.vox.com/2020/6/5/21279530/ta-nehisi-coates-ezra-klein-show-george-fl
 
 ###### Quotes/Excerpts
 
-![Pasted image 20220925162037](Pasted%20image%2020220925162037.png)
-![Pasted image 20220925162203](Pasted%20image%2020220925162203.png)
-![Pasted image 20220925162257](Pasted%20image%2020220925162257.png)
-![Pasted image 20220925162413](Pasted%20image%2020220925162413.png)
+![Pasted image 20220925162037](ooooo_mixedMedia/Pasted%20image%2020220925162037.png)
+![Pasted image 20220925162203](ooooo_mixedMedia/Pasted%20image%2020220925162203.png)
+![Pasted image 20220925162257](ooooo_mixedMedia/Pasted%20image%2020220925162257.png)
+![Pasted image 20220925162413](ooooo_mixedMedia/Pasted%20image%2020220925162413.png)
 
 
 
 <h1 style="font-size: 40;">  <p style="text-align: center">  <b> Timeline: From Appendix of orignial publication </b></p></h1>
 
-![Pasted image 20220925160645](Pasted%20image%2020220925160645.png)
-![Pasted image 20220925160728](Pasted%20image%2020220925160728.png)
-![Pasted image 20220925160755](Pasted%20image%2020220925160755.png)
-![Pasted image 20220925160833](Pasted%20image%2020220925160833.png)
+![Pasted image 20220925160645](ooooo_mixedMedia/Pasted%20image%2020220925160645.png)
+![Pasted image 20220925160728](ooooo_mixedMedia/Pasted%20image%2020220925160728.png)
+![Pasted image 20220925160755](ooooo_mixedMedia/Pasted%20image%2020220925160755.png)
+![Pasted image 20220925160833](ooooo_mixedMedia/Pasted%20image%2020220925160833.png)
 ##### <h1 style="font-size: 40;">  <p style="text-align: center">  <b> Characters: Character Descriptions Pulled From "LitNotes.com" </b></p></h1>
 
 ###### Rodney King

@@ -7,14 +7,28 @@
         "id": "744e3c5922017cc9",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "ooooo_mixedMedia/Pasted image 20220925162413.png"
+            "file": "Rn_ Twilight.md",
+            "mode": "preview",
+            "source": true
           }
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
+            {
+              "leaf": "744e3c5922017cc9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Rn_ Twilight.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "744e3c5922017cc9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DancingOnTheBackOfTruck.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
             {
               "leaf": "744e3c5922017cc9",
               "group": null,
@@ -122,18 +136,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DancingOnTheBackOfTruck.md\",\"mode\":\"preview\",\"source\":true}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "744e3c5922017cc9",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Work list; pleasure.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{\"scroll\":9.287912222055288}"
-            },
-            {
-              "leaf": "744e3c5922017cc9",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"OOO_INDEX_pleasureMovement.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":73,\"ch\":37},\"to\":{\"line\":73,\"ch\":37}},\"scroll\":43.119588635631445}"
             }
           ]
         }
@@ -200,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ooooo_mixedMedia/Pasted image 20220925162413.png",
+                "file": "Rn_ Twilight.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -221,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ooooo_mixedMedia/Pasted image 20220925162413.png",
+                "file": "Rn_ Twilight.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -291,8 +293,10 @@
       }
     ]
   },
-  "active": "98f409339c5abf3a",
+  "active": "744e3c5922017cc9",
   "lastOpenFiles": [
+    "DancingOnTheBackOfTruck.md",
+    "ooooo_mixedMedia/Pasted image 20220925162413.png",
     "Rn_ Twilight.md",
     "yyyyy_GSD_reference/1_bib-bib-bib.md",
     "ttttt_templates/R0000_ReadingNoteTemplate.md",
@@ -300,8 +304,6 @@
     "OOO_INDEX_pleasureMovement.md",
     "Work list; pleasure.md",
     "rrrrr_Reading&LectureNotes/r3_Kelley,Robin_FreedomDreams.md",
-    "zzzzz_cards/352_BlueHandBikes.md",
-    "zzzzz_cards/351_defining pleasure.md",
-    "DancingOnTheBackOfTruck.md"
+    "zzzzz_cards/352_BlueHandBikes.md"
   ]
 }
