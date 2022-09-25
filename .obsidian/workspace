@@ -7,27 +7,25 @@
         "id": "744e3c5922017cc9",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Rn_ Twilight.md",
-            "mode": "preview",
-            "source": true
+            "file": "ooooo_mixedMedia/Pasted image 20220925162413.png"
           }
         },
         "pane-relief:history-v1": {
-          "pos": 1,
+          "pos": 0,
           "stack": [
             {
               "leaf": "744e3c5922017cc9",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"yyyyy_GSD_reference/1_bib-bib-bib.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"ooooo_mixedMedia/Pasted image 20220925162413.png\"}}",
+              "eState": "{}"
             },
             {
               "leaf": "744e3c5922017cc9",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Rn_ Twilight.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Rn_ Twilight.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"scroll\":52.40907103276126}"
             },
             {
               "leaf": "744e3c5922017cc9",
@@ -182,8 +180,7 @@
               "stack": []
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -203,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rn_ Twilight.md",
+                "file": "ooooo_mixedMedia/Pasted image 20220925162413.png",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -224,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rn_ Twilight.md",
+                "file": "ooooo_mixedMedia/Pasted image 20220925162413.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -294,10 +291,10 @@
       }
     ]
   },
-  "active": "744e3c5922017cc9",
+  "active": "98f409339c5abf3a",
   "lastOpenFiles": [
-    "yyyyy_GSD_reference/1_bib-bib-bib.md",
     "Rn_ Twilight.md",
+    "yyyyy_GSD_reference/1_bib-bib-bib.md",
     "ttttt_templates/R0000_ReadingNoteTemplate.md",
     "rrrrr_Reading&LectureNotes/r5_Dixit,Avinash_Microeconomics.md",
     "OOO_INDEX_pleasureMovement.md",
