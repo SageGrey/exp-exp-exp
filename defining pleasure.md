@@ -1,1 +1,0 @@
-Obviously there is no one definition for pleasure. The english words we have for this feeling, "pleasure" is far too vague and has few supporting synonyms. So I will take an abundant meaning that I wish to only claim certain, specific things that ARE pleasure. I will try to avoid any language that implies a take on a opinion of what is NOT pleasure. 

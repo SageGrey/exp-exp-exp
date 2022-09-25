@@ -1,0 +1,4 @@
+Working as a Disaster Response Volunteer for Red Cross I would always drive out to home fires at night. I was working during the day, so the available times to take a shift usually happened at night. 
+For the first month of going to house fires to support residents, it never occured to me to wonder where the water from the hydrants was going. Some of the counter-intuituve violence needed to save a house from fire--taking a chainsaw to cut a hole in the roof for the smoke to escape like a giant TV dinner--were visible. But it wasn't until I visited a house the afternoon after it burned that I saw the basement flooding that fighting fires leads to. 
+
+A mode of fire is urgency. Fire comepls immediate reaction. It compels a belief in whatever means neccessary. 

@@ -1,7 +1,7 @@
 # 289_freedomFromDrudgery
 Created: Jul-03-2022
 
-The only way to have freedom from Drudgery is to cease thinking about what we must do in life as drudgery. Instead, if we can embrace the satisfaction and beauty that can be found in work, moving through space, and everything else we "need" to do. 
+The only way to have "freedom from drudgery" is to cease thinking about what we must do in life as drudgery. Instead, if we can embrace the satisfaction and beauty that can be found in work, moving through space, and everything else we "need" to do. 
 
 
 

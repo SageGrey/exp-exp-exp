@@ -18,19 +18,15 @@ GSD SES 5437
 
 **Highlights*
 - [ Components of Transportation Network](331_ComponentsOfTransportationNetwork%20)
-- [[333_PneumaticTubesOfNyc]]
-- [[334_TransportationNotProfitableBusiness]]
-- [[335_JohnHylan]]
-- [[336_NickleFairs]]
-- [[337_WillingnessToPay]]
+- [333_PneumaticTubesOfNyc](../zzzzz_cards/333_PneumaticTubesOfNyc.md)
+- [334_TransportationNotProfitableBusiness](../zzzzz_cards/334_TransportationNotProfitableBusiness.md)
+- [335_JohnHylan](../zzzzz_cards/335_JohnHylan.md)
+- [336_NickleFairs](../zzzzz_cards/336_NickleFairs.md)
+- [337_WillingnessToPay](../zzzzz_cards/337_WillingnessToPay.md)
 
 **NYC Transit History**
 
 Despite the association of NYC as a city shaped by public transit, the urban form of NYC was actually set by walking. In contrast, Los Angeles was a city shaped by transit that later gave way to highway development. 
-
-|1832-1917 The Horse Railway|First line opened 1832. 12 Horse Railway by 1860. 
-Major Complaints: Congestion + Crowding. Had a regulation that mandated a 5 cent fare (nickle fares)|
-|---|---|
 
 ```
 
@@ -68,9 +64,9 @@ Two Competing Proposals 1894:
 
 **NOTES 9/9/2022**
 
-[[339_CostsOfTravel]]
-[[337_WillingnessToPay]]
-[[338_Top3UnlikedActivities]]
+[339_CostsOfTravel](../zzzzz_cards/339_CostsOfTravel.md)
+[337_WillingnessToPay](../zzzzz_cards/337_WillingnessToPay.md)
+[338_Top3UnlikedActivities](../zzzzz_cards/338_Top3UnlikedActivities.md)
 
 *Non-ZKN Notes:*
 - That travel is a **derived demand** for activity is an axiomatic belief among transportation professions. But the question, would you teleport if given the option challenges this assumption. 
@@ -87,6 +83,95 @@ Two Competing Proposals 1894:
 |How much more do you have to pay someone to take a riskier job?| Hazard Pay|
 |How much are you willing to pay for enhanced safety features like airbags| 
 
+**9.16.2022**
+
+|generic steps| |
+|---|---| 
+|define goals and objectives|
+|[Develop alternatives ](340_develop%20alternatives.md)| |
+|evaluate alternatives||
+|make a decision||
+|confirm evaluation||
+
+* ***Cost Benefit Analysis** does not account for the distribution of benefits. 
+* Often however we instead start with a **cool project idea** that is justified later with other objectives. 
+
+
+
+real vs pecuniary
+direct vs indirect
+tangible vs intangible
+internal vs external 
+user vs non-user
+total vs incremental: one alternative compared to doing nothing
+
+
+IN GENERAL, exclude
+* fares
+* tolls
+* parking charges
+* Fuel taxes and other user fees
+* insurance costs
+
+
+BLUE BIKE; **valet surge attendant**
+
+PROJECTS; 
+BENEFITS: 
+* reduce travel time
+* preserving public land
+* health benefits
+* increased ridership
+* ease of use/convenience
+* development opportunity
+* residential choice
+* symbolism/vibes
+* workplace mobility
+* Equity
+* Safety
+* Reduced Parking Needs
+* Increased Activity
+* Less Trash
+* Improve Transit Data
+
+
+Honolulu, public art in transit spaces
+
+
+BLUE BIKE CERTIFIED
+
+**Discount rate** is the time value of money. Inflation, Opportunity costs, Risk
+
+|PAYMENT TODAY| PAYMENT NEXT YEAR |
+|---|---|
+|100|100|
+|100|105|
+
+Intergenerational Equity, makes sense to finance big investments like rail with debt since it will benefit future generations. 
+
+Reference Cost Forecasting; instead of using bottom-up estimates, you can use the costs per mile of other projects. Or provide a justification for why it is cheaper. This can help combat the optimism in cost estimation. 
+
+Robert Moses notorious for underbudgeting in order to start projects knowing that there is reputational cost associated with stopping a project once the first stake is gone. 
+
+Complicating the comparisson of a nyc and parisian rail line include differences in ada standards and healthcare costs for labor in the us.
+
+**NET PRESENT VALUE;** benefits minus costs
+**BENEFIT TO COST RATIO;** benefits / costs 
+**INTERNAL RATE OF RETURN**; the discount rate that would give you an NPV of 0. 
+**PAYBACK PERIOD**; how long before you get a positive net present value
+**COST EFFECTIVENESS** cost per unit of a particular benefit
+
+
+1$ to get $10 the same as $1,000,000. to get $1,000,009
+
+[[341_Bluebike_Willingnesstopay]]
+ Dwi 
+
+
+**Reading Notes 9.22.22**
+```
+
+```
 
 ### Facilitation
 -   Think about a time when you successfully learned something that was related to a professional role. Which of the features of effective professional learning were in place? How did those features support your learning?
@@ -195,7 +280,7 @@ liminal space: checking your email while someone next on a plane to you starts a
 TEATRO OLIMPICO in Vicenza There is a first enclosed theater. Italian? First theater lit at night. Theater becomes a world to itself. ![](http://yourguidetoitaly.com/slowitaly/wp-content/uploads/2012/07/teatro-olimpico.jpg "teatro-olimpico")
 
 Comedie Frances -- A theater that becomes such a world onto itself that what is happening on stage becoms secondary to the drama going on in the boxes.
-![[Pasted image 20220907185746.png]]
+![Pasted image 20220907185746](../ooooo_mixedMedia/Pasted%20image%2020220907185746.png)
 
 
 
@@ -203,7 +288,7 @@ How to overcome the seperation of stage and street
 
 
 Half Moon Theater: Florian Beigel
-![[Pasted image 20220907190118.png]]
+![Pasted image 20220907190118](../ooooo_mixedMedia/Pasted%20image%2020220907190118.png)
 
 
 **Alice Tully Hall:** like any nyc coorporate structure, its easy to see in, but its hard to penetrate. Look but don't touch. 
@@ -218,3 +303,17 @@ A theater should not be a place where people are reflected but a place where the
 
 
 **Landscape of impatient capital**
+### Infrastructure
+
+**9.13.2022**
+"Only men (humans) know of disasters- if they survive them. Nature knows no disasters" Max Frisch
+
+|no mitigation| mitigation|
+|---|---|
+| threat cannot be predicted, consequences cannot be mitigated | threat cannot be predicted, consequences can be mitigate |
+|threat can be predicted, consequences cannot be mitigated | threat can be predicted, consequences can be mitigated | 
+
+
+cyclones, landslides, tsunamis, flus
+
+

@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "1f46d42b7d90f936",
+        "id": "744e3c5922017cc9",
         "type": "leaf",
-        "dimension": 83.31943286071728,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "rrrrr_Reading&LectureNotes/LectureNotes_Fall2022_Sept.md",
+            "file": "OOO_INDEX_pleasureMovement.md",
             "mode": "preview",
             "source": true
           }
@@ -19,70 +18,124 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "1f46d42b7d90f936",
+              "leaf": "744e3c5922017cc9",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"rrrrr_Reading&LectureNotes/LectureNotes_Fall2022_Sept.md\",\"mode\":\"preview\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"OOO_INDEX_pleasureMovement.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":33.32492539749817}"
+            },
+            {
+              "leaf": "744e3c5922017cc9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Work list; pleasure.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "744e3c5922017cc9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"351_defining pleasure.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":593},\"to\":{\"line\":0,\"ch\":593}}}"
+            },
+            {
+              "leaf": "744e3c5922017cc9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DancingOnTheBackOfTruck.md\",\"mode\":\"preview\",\"source\":true}}",
               "eState": "{}"
             },
             {
-              "leaf": "1f46d42b7d90f936",
+              "leaf": "744e3c5922017cc9",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zzzzz_cards/337_WillingnessToPay.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":386},\"to\":{\"line\":6,\"ch\":386}},\"scroll\":2.103448173804179}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Work list; pleasure.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":9.287912222055288}"
             },
             {
-              "leaf": "1f46d42b7d90f936",
+              "leaf": "744e3c5922017cc9",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"rrrrr_Reading&LectureNotes/LectureNotes_Fall2022_Sept.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{\"scroll\":54.74224568736207}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"OOO_INDEX_pleasureMovement.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":73,\"ch\":37},\"to\":{\"line\":73,\"ch\":37}},\"scroll\":43.119588635631445}"
             },
             {
-              "leaf": "1f46d42b7d90f936",
+              "leaf": "744e3c5922017cc9",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zzzzz_cards/335_JohnHylan.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Work list; pleasure.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":8.145055079198146}"
             },
             {
-              "leaf": "1f46d42b7d90f936",
+              "leaf": "744e3c5922017cc9",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zzzzz_cards/337_WillingnessToPay.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"OOO_INDEX_pleasureMovement.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":61,\"ch\":0},\"to\":{\"line\":61,\"ch\":0}},\"scroll\":39.65516895678465}"
             },
             {
-              "leaf": "1f46d42b7d90f936",
+              "leaf": "744e3c5922017cc9",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"rrrrr_Reading&LectureNotes/LectureNotes_Fall2022_Sept.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "25cbcdf842c31a13",
-        "type": "leaf",
-        "dimension": 16.680567139282733,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "zzzzz_cards/337_WillingnessToPay.md",
-            "mode": "source",
-            "source": true
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "25cbcdf842c31a13",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zzzzz_cards/337_WillingnessToPay.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":20},\"to\":{\"line\":2,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Work list; pleasure.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":0}"
             },
             {
-              "leaf": "25cbcdf842c31a13",
+              "leaf": "744e3c5922017cc9",
               "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"OOO_INDEX_pleasureMovement.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":67,\"ch\":0},\"to\":{\"line\":67,\"ch\":0}},\"scroll\":44.34482446615147}"
+            },
+            {
+              "leaf": "744e3c5922017cc9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Work list; pleasure.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "744e3c5922017cc9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Freedom Dreams.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "744e3c5922017cc9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"heaters on chicago mbta stations.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "744e3c5922017cc9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"LoebLibraryInformation.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":14.926107814801531}"
+            },
+            {
+              "leaf": "744e3c5922017cc9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"noli map.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "744e3c5922017cc9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Work list; pleasure.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":29},\"to\":{\"line\":8,\"ch\":29}},\"scroll\":0.454772416939383}"
+            },
+            {
+              "leaf": "744e3c5922017cc9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ttttt_templates/Standard Note Template.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "744e3c5922017cc9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ttttt_templates/R0000_ReadingNoteTemplate.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+            },
+            {
+              "leaf": "744e3c5922017cc9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Work list; pleasure.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "744e3c5922017cc9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"OOO_INDEX_pleasureMovement.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":84,\"ch\":0},\"to\":{\"line\":79,\"ch\":0}},\"scroll\":51.41692835908762}"
             }
           ]
         }
@@ -133,7 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 584.5
+    "width": 603.5
   },
   "right": {
     "id": "a26f4b01d5b4cea2",
@@ -149,14 +202,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rrrrr_Reading&LectureNotes/LectureNotes_Fall2022_Sept.md",
+                "file": "OOO_INDEX_pleasureMovement.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             },
             "pane-relief:history-v1": {
@@ -170,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rrrrr_Reading&LectureNotes/LectureNotes_Fall2022_Sept.md",
+                "file": "OOO_INDEX_pleasureMovement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,20 +252,58 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246,
+    "width": 100,
     "collapsed": true
   },
-  "active": "1f46d42b7d90f936",
+  "floating": {
+    "id": "2abdb40cb65ac532",
+    "type": "floating",
+    "children": [
+      {
+        "id": "6d37da04c062adec",
+        "type": "window",
+        "children": [
+          {
+            "id": "bde6282af6a841cd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "bde6282af6a841cd",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"346_HUB_BikeShareMusings.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                }
+              ]
+            }
+          }
+        ],
+        "direction": "vertical",
+        "x": 256,
+        "y": 8,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "744e3c5922017cc9",
   "lastOpenFiles": [
-    "zzzzz_cards/337_WillingnessToPay.md",
-    "rrrrr_Reading&LectureNotes/LectureNotes_Fall2022_Sept.md",
-    "zzzzz_cards/339_CostsOfTravel.md",
-    "zzzzz_cards/338_Top3UnlikedActivities.md",
-    "zzzzz_cards/335_JohnHylan.md",
-    "ooooo_mixedMedia/Transpo_Week1.pdf",
-    "ooooo_mixedMedia/Transpo_Week1_SVoorhees.pdf",
-    "zzzzz_cards/OOOOO_PleasureThesis.md",
-    "zzzzz_cards/336_NickleFairs.md",
-    "ooooo_mixedMedia/Pasted image 20220909114659.png"
+    "Work list; pleasure.md",
+    "351_defining pleasure.md",
+    "DancingOnTheBackOfTruck.md",
+    "OOO_INDEX_pleasureMovement.md",
+    "Freedom Dreams.md",
+    "heaters on chicago mbta stations.md",
+    "LoebLibraryInformation.md",
+    "noli map.md",
+    "ttttt_templates/Standard Note Template.md",
+    "ttttt_templates/R0000_ReadingNoteTemplate.md"
   ]
 }
