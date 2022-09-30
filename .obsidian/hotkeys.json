@@ -119,5 +119,23 @@
       ],
       "key": "D"
     }
+  ],
+  "obsidian-zotero-desktop-connector:zdc-ChicagoBib_Bibliography": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "B"
+    }
+  ],
+  "obsidian-zotero-desktop-connector:zdc-ChicagoBib_InlineCitation": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "I"
+    }
   ]
 }

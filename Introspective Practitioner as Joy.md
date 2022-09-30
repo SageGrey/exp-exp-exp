@@ -1,0 +1,1 @@
+I liked theater because the adults there were carefully attending to their craft. Trying to critically interrogate what and how they were doing what they were doing. 

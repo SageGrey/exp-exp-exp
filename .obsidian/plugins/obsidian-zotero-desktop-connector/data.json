@@ -1,0 +1,28 @@
+{
+  "database": "Zotero",
+  "noteImportFolder": "ZoteroImports",
+  "pdfExportImageDPI": 120,
+  "pdfExportImageFormat": "jpg",
+  "pdfExportImageQuality": 90,
+  "citeFormats": [
+    {
+      "name": "ChicagoBib_InlineCitation",
+      "format": "formatted-citation"
+    },
+    {
+      "name": "ChicagoBib_Bibliography",
+      "format": "formatted-bibliography",
+      "cslStyle": "chicago-author-date"
+    }
+  ],
+  "exportFormats": [
+    {
+      "name": "Import #1",
+      "outputPathTemplate": "{{citekey}}.md",
+      "imageOutputPathTemplate": "{{citekey}}/",
+      "imageBaseNameTemplate": "image"
+    }
+  ],
+  "exeVersion": "1.0.12",
+  "shouldShowCiteSuggest": true
+}
