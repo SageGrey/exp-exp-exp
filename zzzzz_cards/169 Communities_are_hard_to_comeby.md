@@ -8,3 +8,5 @@ Stanley Tankel, as quoted by Jane Jacobs in The Death and Life of Great American
 [[290_HUB_Gems]], [[OOOOO_PleasureThesis]]
 
 **More info on Tankel**: https://www.nypap.org/preservation-history/stanley-tankel/
+
+#revisitThesis 

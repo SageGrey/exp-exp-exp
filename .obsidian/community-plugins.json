@@ -3,5 +3,8 @@
   "pane-relief",
   "obsidian-languagetool-plugin",
   "obsidian-pandoc",
-  "obsidian-zotero-desktop-connector"
+  "obsidian-zotero-desktop-connector",
+  "note-refactor-obsidian",
+  "obsidian-outliner",
+  "obsidian-zoom"
 ]

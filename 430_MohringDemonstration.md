@@ -1,0 +1,1 @@
+As you decrease bus frequency, you decrease ridership. As you decrease ridership, the model supports lower frequency. 

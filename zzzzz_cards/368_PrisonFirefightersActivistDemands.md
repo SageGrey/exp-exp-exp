@@ -1,0 +1,3 @@
+Formerly incarcerated members of the fire camps on the whole are advocating not neccesarily to end the use of prison labor to fight fire, but to address the inequities. The fire camps often offer more lenient family visitation rights, let inmates shorten their sentence, and leave the oppresive confines of prison yards. Instead of shutting down the camps entirely, activists want the inmates to be fairly compensated for the dangerous work, and be eligible to work on firecrews after leaving prison. 
+
+($1 an Hour to Fight Largest Fire in CA History, n.d.)

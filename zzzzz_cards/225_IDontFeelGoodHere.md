@@ -1,4 +1,4 @@
-# Ask wHY I dont feel good here
+# Ask WHY I dont feel good here
 
 When discussing physical spaces Mitchel Silver brought up his practice of noticing when he doesn't feel good in a physical space, and then attempting to bring his attention to *why* he may be feeling that way. 
 
@@ -7,3 +7,5 @@ Feels similar to Uta Hagens questions of Why am I here, What do I want, What Am 
 
 ### Citation 
 Mitchell Silver, former comissioner for the NYC Parks Department, GSD Core Studio 2, Spring 2022
+
+#revisitThesis 

@@ -1,0 +1,1 @@
+Reducing carbon footprint is a PR campaign by BP to have us blame ourselves instead of them. 

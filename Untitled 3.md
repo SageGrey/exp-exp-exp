@@ -1,1 +1,0 @@
-How does a word processor do with high thoughts as key performance criteria. 

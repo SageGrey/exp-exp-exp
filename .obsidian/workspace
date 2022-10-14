@@ -4,138 +4,138 @@
     "type": "split",
     "children": [
       {
-        "id": "8f9c8e41e3e6c8b4",
+        "id": "ac4149ea7eaff8ac",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled 5.md",
+            "file": "Untitled 1.md",
             "mode": "source",
-            "source": true
+            "source": false
           }
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "8f9c8e41e3e6c8b4",
+              "leaf": "ac4149ea7eaff8ac",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled 5.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":72.92483029019205}"
-            },
-            {
-              "leaf": "8f9c8e41e3e6c8b4",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"OOO_INDEX_pleasureMovement.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":77,\"ch\":119},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.8091954198376886}"
-            },
-            {
-              "leaf": "8f9c8e41e3e6c8b4",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zzzzz_cards/351_defining pleasure.md\",\"mode\":\"preview\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled 1.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{}"
             },
             {
-              "leaf": "8f9c8e41e3e6c8b4",
+              "leaf": "ac4149ea7eaff8ac",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"OOO_INDEX_pleasureMovement.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{\"scroll\":72.1999981219952}"
-            },
-            {
-              "leaf": "8f9c8e41e3e6c8b4",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Practice Citations.md\",\"mode\":\"source\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"429_CaseForSubsidizingPublicTransit.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "8f9c8e41e3e6c8b4",
+              "leaf": "ac4149ea7eaff8ac",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"rrrrr_Reading&LectureNotes/r3_Kelley,Robin_FreedomDreams.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "8f9c8e41e3e6c8b4",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"354_MariahdessaEkereTallie.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":24},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "8f9c8e41e3e6c8b4",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"rrrrr_Reading&LectureNotes/r3_Kelley,Robin_FreedomDreams.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":133,\"ch\":14},\"to\":{\"line\":133,\"ch\":14}},\"scroll\":114.1672398358926}"
-            },
-            {
-              "leaf": "8f9c8e41e3e6c8b4",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"353_Firestone.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":141},\"to\":{\"line\":4,\"ch\":141}},\"scroll\":0}"
-            },
-            {
-              "leaf": "8f9c8e41e3e6c8b4",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"rrrrr_Reading&LectureNotes/r3_Kelley,Robin_FreedomDreams.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":129,\"ch\":14},\"to\":{\"line\":129,\"ch\":14}},\"scroll\":107.51999073002106}"
-            },
-            {
-              "leaf": "8f9c8e41e3e6c8b4",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"354_SmokeyTheBear.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":252},\"to\":{\"line\":2,\"ch\":252}},\"scroll\":0}"
-            },
-            {
-              "leaf": "8f9c8e41e3e6c8b4",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"355_BeforeFireHoses.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":7,\"ch\":437}},\"scroll\":2.113628890016571}"
-            },
-            {
-              "leaf": "8f9c8e41e3e6c8b4",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"354_SmokeyTheBear.md\",\"mode\":\"source\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"430_MohringDemonstration.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
             },
             {
-              "leaf": "8f9c8e41e3e6c8b4",
+              "leaf": "ac4149ea7eaff8ac",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"353_Combustion.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":0.36105736440612135}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Various Audiences.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":10},\"to\":{\"line\":16,\"ch\":10}},\"scroll\":19.732203112567166}"
             },
             {
-              "leaf": "8f9c8e41e3e6c8b4",
+              "leaf": "ac4149ea7eaff8ac",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"rrrrr_Reading&LectureNotes/r1_AbbySpinak.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{\"scroll\":89.81113919344816}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "8f9c8e41e3e6c8b4",
+              "leaf": "ac4149ea7eaff8ac",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"zzzzz_cards/289_freedomFromDrudgery.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.9513285758810663}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"429_CaseForSubsidizingPublicTransit.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "8f9c8e41e3e6c8b4",
+              "leaf": "ac4149ea7eaff8ac",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"353_Combustion.md\",\"mode\":\"source\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"430_MohringDemonstration.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":118},\"to\":{\"line\":0,\"ch\":118}}}"
+            },
+            {
+              "leaf": "ac4149ea7eaff8ac",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"429_CaseForSubsidizingPublicTransit.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{}"
             },
             {
-              "leaf": "8f9c8e41e3e6c8b4",
+              "leaf": "ac4149ea7eaff8ac",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"We need to start advocating for Public Pools..md\",\"mode\":\"preview\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"428_CostofTransportationRegressive.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "ac4149ea7eaff8ac",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"427_VMT.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":227},\"to\":{\"line\":0,\"ch\":227}}}"
+            },
+            {
+              "leaf": "ac4149ea7eaff8ac",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"426_PigouvianTax.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}}}"
+            },
+            {
+              "leaf": "ac4149ea7eaff8ac",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"425_StrictDefinitions OfPublicGoods.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
+            },
+            {
+              "leaf": "ac4149ea7eaff8ac",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"424_NationalDefenseHighway.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{}"
             },
             {
-              "leaf": "8f9c8e41e3e6c8b4",
+              "leaf": "ac4149ea7eaff8ac",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"423_HighwayTrustFund.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
             },
             {
-              "leaf": "8f9c8e41e3e6c8b4",
+              "leaf": "ac4149ea7eaff8ac",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notepad_FireInParadise.md\",\"mode\":\"preview\",\"source\":true}}",
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"ooooo_mixedMedia/Pasted image 20221013133234.png\"}}",
               "eState": "{}"
+            },
+            {
+              "leaf": "ac4149ea7eaff8ac",
+              "group": null,
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"ooooo_mixedMedia/Pasted image 20221011213626.png\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "ac4149ea7eaff8ac",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"423_HighwayTrustFund.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "ac4149ea7eaff8ac",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"422_HistoryOfTollsOnInterstateHighways.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":16},\"to\":{\"line\":2,\"ch\":16}}}"
+            },
+            {
+              "leaf": "ac4149ea7eaff8ac",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"421_UserFees.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "ac4149ea7eaff8ac",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Various Audiences.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":36,\"ch\":0},\"to\":{\"line\":36,\"ch\":0}},\"scroll\":13.711863898167582}"
             }
           ]
         }
@@ -169,12 +169,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Abby spinak",
+                "query": "facilitati",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
+                "extraContext": true,
+                "sortOrder": "byModifiedTime"
               }
             },
             "pane-relief:history-v1": {
@@ -186,7 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239
+    "width": 610.5089015960693
   },
   "right": {
     "id": "a26f4b01d5b4cea2",
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 5.md",
+                "file": "Untitled 1.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 5.md",
+                "file": "Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,17 +255,17 @@
     "width": 100,
     "collapsed": true
   },
-  "active": "8f9c8e41e3e6c8b4",
+  "active": "ac4149ea7eaff8ac",
   "lastOpenFiles": [
-    "rrrrr_Reading&LectureNotes/r3_Kelley,Robin_FreedomDreams.md",
-    "Untitled 5.md",
-    "OOO_INDEX_pleasureMovement.md",
-    "zzzzz_cards/351_defining pleasure.md",
-    "Practice Citations.md",
-    "354_MariahdessaEkereTallie.md",
-    "353_Firestone.md",
-    "353_Combustion.md",
-    "354_SmokeyTheBear.md",
-    "355_BeforeFireHoses.md"
+    "429_CaseForSubsidizingPublicTransit.md",
+    "430_MohringDemonstration.md",
+    "Various Audiences.md",
+    "Untitled.md",
+    "428_CostofTransportationRegressive.md",
+    "427_VMT.md",
+    "426_PigouvianTax.md",
+    "425_StrictDefinitions OfPublicGoods.md",
+    "424_NationalDefenseHighway.md",
+    "423_HighwayTrustFund.md"
   ]
 }

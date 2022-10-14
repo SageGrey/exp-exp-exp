@@ -1,0 +1,4 @@
+In addition to the extreme wage-gap, another element that inspires outrage  is that once released from jail, prison firefighters are not eligible to become firefighters in California. Despite the fact that california's firefighing program justifies its existence as a job-training program for inmates,  after leaving prisons, formerly incarcerated folks are ineligble to get EMT certified (a required certification) without a judge clearing their record. In addition, when formerly incarcerated folks are able to clear this step, they find that the training that they received in prisons does not count as (or even towards) the training that civilian firefighters need to become firefighters. 
+
+ “$1 an Hour to Fight Largest Fire in CA History: Are Prison Firefighting Programs Slave Labor?” n.d. Democracy Now! Accessed October 3, 2022. 
+

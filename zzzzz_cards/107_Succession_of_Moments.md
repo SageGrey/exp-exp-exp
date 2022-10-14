@@ -1,6 +1,6 @@
 # Succession of Moments
 
-Life is a succession of moments, to live each one is a way of succeding.
+Life is a succession of moments, to live each one is a way of succeeding.
 
 ### Citation
 Corita Kent, as quoted by Mary Taylor From a talk on collective mental health. 

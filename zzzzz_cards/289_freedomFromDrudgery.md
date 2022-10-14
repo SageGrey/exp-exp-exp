@@ -10,7 +10,7 @@ The only way to have "freedom from drudgery" is to cease thinking about what we 
 1. Ivan Illich, On Mobility, Bikes
 2. Robin Killimer, Braiding Sweetgrass
 3. Abby Spinak writing about electric grids
-4. [OOOOO_PleasureThesis](zzzzz_cards/OOOOO_PleasureThesis.md)
+4. [OOOOO_PleasureThesis](OOOOO_PleasureThesis.md)
 
 ### Citation:
 self 

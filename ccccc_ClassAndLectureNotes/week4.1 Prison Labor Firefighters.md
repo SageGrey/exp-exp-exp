@@ -1,0 +1,12 @@
+California is reliant on prison labor for wildfire containment. In 2018, the state employed roughly 7,000 full-time and seasonal firefighters and 3,500 prisoners  (DemoccracyNow, 2018).  These numbers, reveal that nearly a third of the State's fire response personnel are incarcerated. 
+
+The gulf between the financial compensation for incarcerated and free fire-fighters is dramatic. The mean salary for a California firefighter is $74,000 (DeomcracyNow, 2018), meanwhile prison firefighters are paid $2.56 a day with a bonus of $1 an hour when deployed to an active fire (Lowe, 2021). This rate "saves" the state of California an estimated 80-100 million dollars annual. (DemocracyNow, 2018)
+
+In addition to the extreme wage-gap, another element that inspires outrage  is that once released from jail, prison firefighters are not eligible to become firefighters in California. Despite the fact that California's firefighting program justifies its existence as a job-training program for inmates,  after leaving prisons, formerly incarcerated folks are ineligible to become firefighters in California. A key requirement for fighters is that they must be EMT certified, formerly incarcerated people cannot get EMT certification without a judge clearing their record. In addition, when formerly incarcerated folks are able to clear this step, they find that the training that they received in prison does not count as (or even towards) the training that civilian firefighters need to become firefighters. This is true even when they have extensive front-line experience and held leadership positions.  
+
+Activists on the whole are advocating not necessarily to end the use of prisoners to fight fire, but to address the inequities and exploitive system. The fire camps often offer more lenient family visitation rights, let inmates shorten their sentence, and leave the oppressive confines of prison yards. Instead of shutting down the camps entirely, activists want the inmates to be fairly compensated for the dangerous work, and be eligible to work on fire crews after leaving prison. 
+
+
+“$1 an Hour to Fight Largest Fire in CA History: Are Prison Firefighting Programs Slave Labor?” n.d. Democracy Now! Accessed October 3, 2022. https://www.democracynow.org/2018/8/9/1_an_hour_to_fight_largest. 
+
+Lowe, Jaime. 2021. _Breathing Fire: Female Inmate Firefighters on the Front Lines of California’s Wildfires_. New York: MCD.

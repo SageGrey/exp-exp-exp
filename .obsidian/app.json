@@ -1,6 +1,6 @@
 {
   "legacyEditor": false,
-  "livePreview": false,
+  "livePreview": true,
   "defaultViewMode": "preview",
   "alwaysUpdateLinks": true,
   "fileSortOrder": "alphabeticalReverse",
@@ -22,7 +22,14 @@
     "Hideki",
     "wildlands",
     "Spinak",
-    "Bikeshare"
+    "Bikeshare",
+    "DemocracyNow",
+    "DeomcracyNow",
+    "DemoccracyNow",
+    "bikeshare"
   ],
-  "spellcheck": false
+  "spellcheck": true,
+  "showLineNumber": true,
+  "autoPairBrackets": false,
+  "autoPairMarkdown": false
 }

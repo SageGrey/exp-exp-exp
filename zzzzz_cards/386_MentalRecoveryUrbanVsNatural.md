@@ -1,0 +1,3 @@
+In a study children were taken on two walks, one in a lush university campus and a second through an urban context. They then asked the children to participate in an attention task to measure "mental recovery." The interpretation of this study was that natural environments allowed for better recovery and less mental strain. (Hauter, 49) Hauter is referencing Schutte, Anne et al. Impact of Urban Nature on Executive Functioning in Early and Middle Childhood)
+
+Habtour, Rebecca. 2016. “Designing Happiness: Architecture and Urban Design for Joy and Well-Being.” ProQuest Dissertations Publishing. [https://search.proquest.com/docview/1842240610?pq-origsite=primo](https://search.proquest.com/docview/1842240610?pq-origsite=primo).

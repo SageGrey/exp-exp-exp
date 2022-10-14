@@ -5,3 +5,6 @@ Convergence of Adrienne Maree Brown "what we pay attention to" and Jenny Odell's
 ## null
 
 14
+
+
+#revisitThesis 

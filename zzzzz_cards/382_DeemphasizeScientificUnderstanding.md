@@ -1,0 +1,1 @@
+I dont think we have to have a scientific understanding of happiness in order to have it as a goal any more than a musician needs a scientific understanding of how brains respond to chord patterns. The scientific understanding is interesting, potentially revealing. But an intutive understanding, or an understanding grounded in observation is sufficient.  

@@ -1,4 +1,4 @@
-# Whites benefiting from Affirmitive Action
+# Whites benefiting from Affirmative Action
 
 White folks through red-lining and GI Bill benefited from affirmative action. Black folks came back from a war with nothing, White folks came back with a fast track to the american dream. 
 

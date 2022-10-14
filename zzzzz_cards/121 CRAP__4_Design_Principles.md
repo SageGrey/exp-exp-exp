@@ -2,7 +2,7 @@
 
 Contrast
 Repetition
-Allignment
+Alignment
 Proximity 
 
 ## null

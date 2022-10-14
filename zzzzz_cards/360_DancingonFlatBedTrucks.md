@@ -1,0 +1,1 @@
+When she was growing up, my mother would have tap dancing performances where the girls would dance on the bed of a flatbed truck. She was reminded of this both when she lived in belgium, and then 60 years later with me as we walked along the High Line in NYC. 

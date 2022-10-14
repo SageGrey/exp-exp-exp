@@ -1,0 +1,3 @@
+-Within environmental psychology Restorative Theory refers to the concept that natural settings facilitate beneficial physiological processes that help ease stress and fatigue through "attention restoration mechanisms" (Habtour, 45)
+
+Habtour, Rebecca. 2016. “Designing Happiness: Architecture and Urban Design for Joy and Well-Being.” ProQuest Dissertations Publishing. [https://search.proquest.com/docview/1842240610?pq-origsite=primo](https://search.proquest.com/docview/1842240610?pq-origsite=primo). 
