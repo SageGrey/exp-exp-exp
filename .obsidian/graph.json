@@ -1,22 +1,51 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "path: BLueBikePleasureDome",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "tag:#IDEA",
+      "color": {
+        "a": 1,
+        "rgb": 14074460
+      }
+    },
+    {
+      "query": "tag:#Category",
+      "color": {
+        "a": 1,
+        "rgb": 9616354
+      }
+    },
+    {
+      "query": "tag:#LevelOne",
+      "color": {
+        "a": 1,
+        "rgb": 7910516
+      }
+    },
+    {
+      "query": "tag:#LevelTwo",
+      "color": {
+        "a": 1,
+        "rgb": 12124083
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "textFadeMultiplier": -2.4,
+  "nodeSizeMultiplier": 1.56968098958333,
+  "lineSizeMultiplier": 0.835,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "centerStrength": 0.508268229166667,
+  "repelStrength": 20,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.11329859524943524,
-  "close": false
+  "linkDistance": 30,
+  "scale": 0.4897934887231985,
+  "close": true
 }

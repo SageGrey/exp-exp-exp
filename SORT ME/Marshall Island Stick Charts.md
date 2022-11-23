@@ -1,0 +1,9 @@
+The Marshall Island Stick Charts come from a tradition that vastly predates a .csv dataset, but it's hardly a stretch to call this 18th-century navigation technology data-driven art. These intricate arrangements use materials such as sticks and cowrie shells to portray the complex and almost-invisible geography of the pacific ocean. In most of the charts, shells represent islands, straight lines represent travel routes, and the curved lines show ocean swells. These charts were not used during navigation, but rather, used by navigators to memorize the terrain prior to a voyage. Part of the training for men learning to be navigators was the task of developing sensory awareness according to Dr. Jenny Nevell, a curator at the Australian Museum. Young men aspiring to become navigators would go out on canoes with master navigators and lie down in the hull as a way to cultivate an understanding between the rocking of the boat and the direction of the current.
+
+A striking component of the stick charts is that they are visualizations that are intended to be internalized. This way of navigating seems to be becoming increasingly unimaginable as we integrate technology further into daily life. The occasional consultation of a paper map is supplanted with step-by-step guidance of some brand of Siri. In a society that has gotten increasingly comfortable with technology mediating decision-making, I wonder what a visualization meant to be internalized could look like. What kind of information do we want to have internalized? 
+
+Source
+* http://thenonist.com/index.php/thenonist/permalink/stick_charts/
+* http://dataphys.org/list/marshall-islands-stick-charts/
+
+Photo Credit: National Library of Australia, https://nla.gov.au/nla.obj-232466882/view

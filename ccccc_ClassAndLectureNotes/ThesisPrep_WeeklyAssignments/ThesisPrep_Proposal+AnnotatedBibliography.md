@@ -1,111 +1,100 @@
 
 
-Thesis Proposal
+**DRAFT** Thesis Proposal
 Sage Voorhees
 9/29/22
 
-#### Overview
+### **Research/Design Question**:
+	What are ways that Greater Boston could incorporate more opportunities for pleasure within it's public transportation system? 
+
+### **Why this merits study**
+
+There are two principal reasons why I want to look at public transportation through the lens of pleasure. 
+
+**Reason 1: Closing the Pleasure Gap as a means of shifting riders to public transit:** 
+The City of Boston, like other metro regions in the United States, has publicly announced its intention to shift transportation away from cars towards public transit and non-motorized options such as walking and biking. Go Boston 2030, the city's comprehensive plan published in 2017, is filled with goals such as hit a fourfold increase in bicycle riders, increase transit use by 33%, and reach carbon neutrality by 2050. To successfully realize these goals and coax more people out of their cars, Boston will need to improve public transportation options so that they are competitive with cars when considering reliability, cost, and speed. But while reliability, cost, and speed are crucial, I want to use this thesis to argue that they are not the only improvements worth investing in. 
+If we see cars exclusively as a tool to get from A to B, we miss key information about the differences between private vehicles and public transit. Cars do a lot more than simply transport. For some, cars are a way to broadcast identity, for others cars are a way that they can arrive to a place feeling put-together, for others they are a tactical command-center that can hold supplies for a complex day. One way these additional facets of driving are connected is that they contribute to pleasure, either by making the journey more pleasant, or by allowing their users to engage in pleasurable activities throughout the city. Whether or not they are ultimately successful at this goal, Cars are sold with a promise of pleasure. When we think about  inequity between car riders and transit riders, we should be thinking about more than just time in transit. Making adjustments that center pleasure in public transit obviously alone cannot solve decades of disinvestment, but as we think about ways to work towards transportation justice and decrease car use, I think looking for opportunities to center and explore pleasure is fertile ground.
+
+![[Blank diagram (3).png]]
+** Reason 2: Centering Pleasure as Reparative Planning**
+It's hard to fathom the sheer magnitude of harm caused by transportation planning's past in Boston and around the country. Decisions made in past eras, like the destruction of Black neighborhoods so that white suburban residents could drive on highways, still shape and harm communities across the country. But like other aching injustices, the path to righting past wrongs and fighting for transit justice remains a dispiriting and painful process . A reason to think about transportation through the lens of pleasure is that it makes room for analysis and community visioning that is allowed to dwell on something beyond the problems. In this project I want to look to precedent such as abolitionist activists Adrienne Maree Brown and Robin D. G. Kelley, asset-based planning, and the work of the grassroot activist organization ACT-LA. I'm interested in looking at pleasure and public transportation as an expansive way to think about public transit in a way that examines the experience of riders on public transit and proposes ways to address their needs. The MBTA is facing hard days with a system facing the consequence of long-overdue repairs. Right now the system can not afford the investments that it would need to meaningfully improve routes across the city. But could paying attention to ways that the system could be more mindful of pleasure help absorb the shock of a flailing system? 
+
 
 *Without new visions, we don’t know what to build, only what to knock down. We not only end up confused, rudderless, and cynical, but we forget that making a revolution is not a series of clever maneuvers and tactics but a process that can and must transform us. (Kelley, 2022)*
 
-**Research Proposition**
-In the coming year, I wish to develop a design thesis that explores how urban planners can use pleasure as a lens to see urban environments. In order to illustrate and develop this idea, I will primarily look at a specific urban institution---Boston Bluebikes--- and try to show how analyzing this system against components (and conditions) of pleasure can lead to designs that center joy. This thesis would extend into the realm of urban planning the work of theorists such as Adrienne Maree Brown, Robin D. G. Kelley, Audre Lorde, Bell Hooks who have written about the importance of centering pleasure and visions of the future in the quest towards liberation. The thesis would also situate itself within the existing body of literature on Bikeshare programs. 
+### **Where this Sits in the Literature**
 
-**What do I mean by Pleasure**
-Obviously there is no single all-encompassing definition for pleasure. The words in English we use to describe pleasure--Joy, Comfort, Satisfaction--are all words that claim an enormous share of disparate human sensations. What one person finds pleasurable is often pleasurable to many others, but not to all. When I use pleasure, I mean to describe a spectrum of enjoyable human sensations. A central component of this thesis would be developing a more evolved framework to discuss conditions and components of pleasure. Below are some jumping off points that I'm using to conceptualize pleasure. 
-
-The first jumping-off point are **conditions of pleasure**. In this thesis, I would want to focus on these conditions with the understanding that BIPOC and disabled communities are often denied these conditions in public spaces (Hendren, 2020). 
-
-|Conditions of Pleasure|
-|---|
-|Access|
-|Safety|
+HI! Heads up that this section is especially DRAFTY. I've been focused more on trying to get through material than pulling it all together. Will work on transitions/cohesion soon. 
 
 
-The second jumping-off point is thinking about **components of pleasure.** Currently, I imagine that a more-developed version of this would form the structure of the thesis. I would examine the Bluebike system through these various components.  
+** Happiness in Cities/Urban Design** 
 
-|Physical Pleasure|Emotional Pleasure|Enabling Pleasure|
-|---|---|---|
-|[Relief from extremes](327_reliefFromWeather.md)|Autonomy + Control|Physical Access|
-| Playful or Enjoyable Sensations| Self Expression | All Hour Access | 
-| Comfort |Aesthetic Beauty||
- | Conserved Effort|Speed||| 
- ||Endorphins||
+ Charles Montgomery's book the Happy City is a book that writes to a non-planning audience about ways that urban design can center happiness. His analysis looks at the consequences of what he describes as the "dispersed city," the way that city planning became focused on sprawling typographies and the social, economic, and environmental cost of this decision. Montgomery's book looks at efforts globally to center happiness in Urban Planning, such as Bogota's development under leadership of Enrique Peñalosa or NYC under Janette Sadik-Khan. Montgomery makes the argument in his book that the environmental city and the happy city are the same place.   
 
-Another way that I want to think about pleasure is about how pleasure is experienced.
+Not Just Bikes is a wildly popular youtube channel that looks at urban planning, especially transportation planning, and documents best practices from countries across Europe, in particular the Netherlands. The channel also spends many of the videos critiquing American planning such as sprawl, Stroads, and out-of-control highway development.  
 
-|**Pleasure Dimensions**| |
-|---|---|---|
-|*Experienced Pleasure/Displeasure*|*Anticipated Pleasure*|*Definitional Pleasure*|
-|I enjoyed that|I'm looking forward to that|This is a thing I enjoy|
+**Abolitionist Planning + Freedom Dreams**
+This work is grounded in an appreciation for visionaries such as Audre Lorde, Bell Hooks, Grace Lee Boggs, Octavia Butler, Robin DG Kelley, and Adrienne Maree Brown who argue that in the face of crippling injustice, we can and must employ our imagination, and turn towards hope and pleasure and joy as a way forward.   Robin D. G. Kelley's freedom dreams and Adrienne Maree Brown's articulation of pleasure activism are especially central to my current thinking. This project is in essence an attempt to cultivate what Kelley calls, 'New Visions'[^1] and answers Adrienne Maree Brown's provocation, "How would we organize and move our communities if we shifted to focus on what we long for and love rather than what we are reacting to?" [^2]
 
-**Approach with Bluebikes**
+**Pleasure as part of Just Transition** 
+The Just Transition framework (shown below) is described by Climate Justice Alliance as "a vision-led, unifying and place-based set of principles, processes and practices that build economic and political power to shift from an extractive economy to a regenerative economy."[^3] The framework is a synthesis of ideology that traces its roots to labor unions and environmental justice groups. 
 
-Component A: Learn everything I can about Boston Bluebikes and Bikeshare 
-Component B: Think about Bluebikes through questions such as "how does bluebikes allow for 'comfort in hot/cold temperatures'" or "how could bluebikes allow for more access to concerts at North Station"
-Component C: Talk with others in "pleasure mapping" exercises
+The framework articulates the strategy needed to shift from an extractive economy to what is described as a living economy. The extractive economy, the current status quo, is a paradigm where resources are recklessly extracted, consumed and discarded, labor is exploited, and wealth and power is denied to all but a small minority. This extractive economy is supported by state violence and a worldview that embraces growth, consumption, and colonial extraction.  The living economy in contrast is one where resources are collected in a sustainable and regenerative fashion with non-extractive labor practices based on cooperation. Instead of enriching a small minority, the benefits of this economy are distributed. The system is not governed by imperial powers and violence but through a system where decision making is brought back to the smallest relevant scale and individuals are in control of decisions that impact their lives. This system is guided by a worldview that centers caring and treating life and environments as sacred. 
 
+The overall strategy for this transition is to "starve and stop" the extractive economy and "feed and grow" the living economy. 
 
-**Initial Ideas** 
-	*Included to give a general gist of what Im interested in looking at*
- * Adding Bluebike Tricycles with Big Cargo Baskets that would broaden who feels safe riding a blue bike and what kinds of tasks can be accomplished on bikes (Component of Pleasure: Access, Versatility)
- * Introduce *Electric Hand Bikes* which could allow some folks who use wheelchairs to access the Bluebike fleet. 
- * Introduce some form of "voting" or participatory budgeting into where new stations are located (Component of Pleasure: Sense of Control/Voice)
- * Examine how "valet service" could be used more often for "pleasurable events" (not just commuting rush-hour) (Component of Pleasure: Access to Pleasure)
- * Metal Pole: A Low-Energy Hand Warmer at Winter Stations (Component of Pleasure: Relief From Extremes)
+The following are six components denoted as part of this transition. 
+* Reallocate economic resources and power away from international forces towards community control. 
+* Create more in income distribution and workplaces (Democratize the Workplace )
+* Push for more ecological restoration of degraded environments
+* Work towards racial justice and social equity
+* Create systems of production and consumption that keep the system local
+* Support and restore cultural traditions and knowledge
 
 
-#### Annotated Bibliography
-
-Kelley, Robin D. G. 2022. _Freedom Dreams: The Black Radical Imagination_. Twentieth anniversary edition. Boston: Beacon Press.
-
-> Book examining the history of the Black Radical Imagination and argues for the creation of "Freedom Dreams" new visions that articulate new ways of being that are free from oppression. I want to read to understand how "freedom dreams" or articulations of a radical new future could specifically speak to plans for urban environments. 
-
-Brown, Adrienne M. 2019. _Pleasure Activism: The Politics of Feeling Good_. Chico, CA: AK Press.
-
-> Book that builds on work of Aurde Lorde, Octavia Butler, Bell Hooks to argue for pleasure being a central consideration in communities fighting for liberation/abolition.  Want to read to learn about the history of pleasure activism and framework for thinking about pleasure. 
-
-Hendren, Sara. 2020. _What Can a Body Do?: How We Meet the Built World_. New York: Riverhead Books.
-
-> Book discussing access to public space through an ability-lens. I want to look at this book to understand better issues of access. 
-
-Fishman, Elliot. 2016. “Bikeshare: A Review of Recent Literature.” _Transport Reviews_ 36 (1): 92–113. [https://doi.org/10.1080/01441647.2015.1033036](https://doi.org/10.1080/01441647.2015.1033036).
-
-> Want to read to understand some discussions of bikeshare, this lit review is somewhat dated (2016), so likely would spend time trying to find a more recent version in addition. 
-
-Habtour, Rebecca. 2016. “Designing Happiness: Architecture and Urban Design for Joy and Well-Being.” ProQuest Dissertations Publishing. [https://search.proquest.com/docview/1842240610?pq-origsite=primo](https://search.proquest.com/docview/1842240610?pq-origsite=primo).
-
-> Master’s thesis written on an adjacent topic, want to skim in order to see how she approached the topic. Citation chasing also seems useful here. 
-
-Montgomery, Charles. 2013. _Happy City: Transforming Our Lives through Urban Design_. First edition. New York: Farrar, Straus and Giroux.
-
->Popular book discussing pleasure and Urban Design. Want to read to see what kind of conversations already happening. 
+![[Pasted image 20221026142116.png]]
+[^Image Source: Movement Generation]
 
 
-**Other Sources**
+The most obvious way that centering pleasure in our transportation networks intersects with Just Transition principles is how it aligns with the world view that the living economy requires. The just transition seeks to move a culture obsessed with growth and consumption into a culture that centers care and sustainability. 
 
-Buning, Richard J., and Vijay Lulla. 2020. “Visitor Bikeshare Usage: Tracking Visitor Spatiotemporal Behavior Using Big Data.” _Journal of Sustainable Tourism_ 29 (4): 711–31. [https://doi.org/10.1080/09669582.2020.1825456](https://doi.org/10.1080/09669582.2020.1825456).
+If we strive to embed care into public transportation, we are in essence striving to care for the people who use it. We are not focusing on incorporating pleasure only because it will get workers to work faster, increase the amount consumers would spend, or that it would reduce the amount of spending on social services. Instead we would do it as a way to respect and care for those using the system. Its possible that embedding pleasure could have positive repercussions, such as buoyed mood, reduced mental strain, social interaction---but these factors would likely do little to further the consolidation of wealth and power and would instead contribute to what the just transition describes as 'Ecological and Social Well-being'
 
-Burns, Andrea A. 2020. “Building a ‘Stately Pleasure Dome’: AutoWorld and Postindustrial Urban Planning in Flint, Michigan.” _The Public Historian_ 42 (4): 63–96. [https://doi.org/10.1525/tph.2020.42.4.63](https://doi.org/10.1525/tph.2020.42.4.63).
+**Other Sections**
+* Boston Transportation Plans (GO Boston 2030, 
+* Metro As Sanctuary (ACT-LA)
 
-Cloutier, Scott, Lincoln Larson, and Jenna Jambeck. 2013. “Are Sustainable Cities ‘Happy’ Cities? Associations between Sustainable Development and Human Well-Being in Urban Areas of the United States.” _Environment, Development and Sustainability_ 16 (3): 633–47. [https://doi.org/10.1007/s10668-013-9499-0](https://doi.org/10.1007/s10668-013-9499-0).
+**![](https://lh5.googleusercontent.com/pTcu_dtZ6V5HyNxRrC1YsbnLjZiBxBQ7VWXJrzwzbQHuPrdDKjsA90AwMquuTg8ogyfn3-7krbaLvLNrWffaf2wyTouiifxdiMa0wj3KqS1uPG1uCSwLdqPrYsYPBLL95ke8GJGrbDWzndrozIzTKs01hHjpUfQIj7HvIwMnHZLqzOCcr8n5_WBBk_eLFELQ=nw)**
 
-D’Acci, Luca. 2012. “Hedonic Inertia and Underground Happiness.” _Social Indicators Research_ 113 (September). [https://doi.org/10.1007/s11205-012-0137-2](https://doi.org/10.1007/s11205-012-0137-2).
+### **Approach**
+The broad outline of my project approach is that I want to first look for precedent about efforts to center pleasure in urban planning in transportation systems throughout the US and Internationally. Then will pitch designs that are specific to Boston's transportation system. 
 
-Gebhart, Kyle, and Robert B. Noland. 2014. “The Impact of Weather Conditions on Bikeshare Trips in Washington, DC.” _Transportation (Dordrecht)_ 41 (6): 1205–25. [https://doi.org/10.1007/s11116-014-9540-7](https://doi.org/10.1007/s11116-014-9540-7).
+Chapter 1: Exploring Pleasure and Movement
+	In the introduction chapter, I want to build up a matrix that 1. identifies different components and conditions of pleasure relevant to transportation and 2. identifies examples of ideas to incorporate that component of pleasure into transit networks. I have not started formatting this into a matrix, but as I do research, I am building up a map that will eventually become the basis for this matrix. 
+	
+	![[Pasted image 20221111082046.png]]
+In the next three chapters I want to take a deep dive into three of the components/realms of pleasure that were identified in the first chapter.
 
-Gehrke, Steven R., Bita Sadeghinasr, Qi Wang, and Timothy G. Reardon. 2021. “Patterns and Predictors of Dockless Bikeshare Trip Generation and Duration in Boston’s Suburbs.” _Case Studies on Transport Policy_ 9 (2): 756–66. [https://doi.org/10.1016/j.cstp.2021.03.012](https://doi.org/10.1016/j.cstp.2021.03.012).
+* Chapter 2: What to do with stuff
+	* In this chapter I want to look at ways that the pleasure gap could be closed regarding schlepping.  I want to look at
+		* History around the development and closure of public lockers and luggage checks at stations
+		* Needs of public lockers in unhoused communities 
+		* Design Idea: Bringing back public lockers in a way that addresses security concerns and serves needs of housed and unhoused users
+		* Design Idea: Incorporating Cargo Bikes into Bluebike System
+		* Design Idea: Hooks in transit vehicles
 
-Jacobs, Jane. 1961. _The Death and Life of Great American Cities_. New York: Random House.
+* Chapter 3: Feeling Welcomed
+	* Looks at the ratio of policing to care in transit networks
+	* Looks at community policing on transit 
 
-Kroes, James R., Andrew S. Manikas, and Thomas F. Gattiker. 2020. “Generating Efficient Rebalancing Routes for Bikeshare Programs Using a Genetic Algorithm.” _Journal of Cleaner Production_ 244: 118880-. [https://doi.org/10.1016/j.jclepro.2019.118880](https://doi.org/10.1016/j.jclepro.2019.118880).
+**![](https://lh6.googleusercontent.com/HRXIEI9gVPhezfqm2hU-MlTB6ARvqKrIRIZvnXUUvRJyQ8DBMLKqIUB1SnIkG1r0fl1ybtcJKbU8MmNRoujqVIpHa5qNbXB5wf-ThBdq-dc6NB6J155xZsImU5SLXqpdt0tGOh00AjW8JDZol3A_KN0b7UrernL1shuvfq9cXzvmrkHp0uoYW6Q__E_HaEGd=nw)**
+* Chapter 4: Haven't Decided Yet
 
-Leyden, Kevin M., Abraham Goldberg, and Philip Michelbach. 2011. “Understanding the Pursuit of Happiness in Ten Major Cities.” _Urban Affairs Review (Thousand Oaks, Calif.)_ 47 (6): 861–88. [https://doi.org/10.1177/1078087411403120](https://doi.org/10.1177/1078087411403120).
+Chapter 5: Conclusion
 
-Smith, Cynthia E. 2016. _By the People: Designing a Better America_. New York: Cooper Hewitt, Smithsonian Design Museum.
+### **Timeline**
+Not Updated since MidReviews
 
-Wernick, Jane and RIBA Building Futures. 2008. _Building Happiness: Architecture to Make You Smile_. London: Black Dog.
+The following is a screenshot from Clickup, the time management software I'm using to track the project. 
+**![](https://lh3.googleusercontent.com/i1nsKNLo2MPj9hoj3j1XJEyY6dt1lA4gOKvbCUjn3ISCEhf2cNnSSXSPsXuO58-RMY05LhSfqu-fQupGki0EicR7RMhT8lzoE7EQ10ElUdDQw5OTlDoPobFFUWagoVS3iiWFlBQxp_wDsbl4ehbR5ZGvJtJ3io_68jZmZDijDN7DylsTH4jIHYQsVHrYddm3=nw)**
 
-Wilson, Elizabeth. 1992. _The Sphinx in the City: Urban Life, the Control of Disorder, and Women_. 1st University of California Press ed. Berkeley: University of California Press.
-
-Yglesias, Matthew. n.d. “We Can Do Better than Special Accommodations.” Accessed September 29, 2022. [https://www.slowboring.com/p/we-can-do-better-than-special-accommodations?publication_id=159185&isFreemail=false](https://www.slowboring.com/p/we-can-do-better-than-special-accommodations?publication_id=159185&isFreemail=false).

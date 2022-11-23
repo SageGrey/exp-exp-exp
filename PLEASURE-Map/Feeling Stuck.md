@@ -1,0 +1,3 @@
+[[Feeling Stranded]]
+[[Feeling Trapped]]
+

@@ -1,0 +1,11 @@
+Photo:  @yameansupreme
+
+28 Days of Dance Mediation is a community project that was initiated by Dr. Shamell Bell, an activists, scholar, and choreographer. Dr. Shamell Bell was one of original co-founders of Black Lives Matter Los Angeles and a large part of her contribution to the space was centering dance and movement into protest spaces. Dr. Bell would bring dance, especially Street Dance (a collection of hip hop dance styles) into organizing spaces and movements as a way to build community, express joy, and heal. 
+
+In 2020 Dr. Bell started to develop the framework that would eventually become the 28 days of global dance meditation, a series that brought dozens of BIPOC artists, healers, dancers, organizers together along with other community members together for each day of October through videos, guided meditations, journaling prompts, and zoom gatherings.
+
+Each day of the 28 day sequence starts with a video grounding or introducing that day, one or two videos featuring artists leading some form of meditation or showcase of their work, journaling prompt questions, quotes, music, and a short white-paper discussing vocabulary such as, "Racial Triangulation" or "Ableism." The intention of the 28 days is to create space for healing, community, and building capacity. 
+
+Dr. Bell describes the origins of the Global Dance Mediation as something that came to her in a dream. "In my dream I was crying because I saw dancers globally. I saw them dancing to this music that had its own unique frequency. I understood it to be healing."  She went on to describe the effort as an opportunity to recalibrate and "tap into tools that we have, but didn't realize we had. To tap into communities and people and frequencies and sounds. Everyday things that we haven't had the opportunity to slow down and pay attention to."
+
+Sabela Grimes is an artist that has posted instagram videos of their participation through the 28 day meditation. Link to a video of their work overlaid with audio pulled from the 28 day series can be seen here: https://www.instagram.com/p/CEdso9IDY4T/

@@ -1,0 +1,5 @@
+The most obvious way that centering pleasure in our transportation networks intersects with Just Transition principles is how it aligns with the world view that the living economy requires. The just transition seeks to move a culture obsessed with growth and consumption into a culture that centers care and sustainability. 
+
+If we strive to embed care into public transportation, we are in essence striving to care for the people who use it. We are not focusing on incorporating pleasure because it will get workers to work faster, increase the amount consumers would spend, or that it would reduce the amount of spending on social services. Instead we would do it as a way to respect and care for those using the system. Its possible that embedding pleasure could have positive repercussions, such as buoyed mood, reduced mental strain, social interaction---but these factors would likely do little to further the consolidation of wealth and power and would instead contribute to what the just transition describes as 'Ecological and Social Well-being' 
+
+see also [[438 Just Transition]]

@@ -167,11 +167,94 @@ Complicating the comparisson of a nyc and parisian rail line include differences
 [[341_Bluebike_Willingnesstopay]]
  Dwi 
 
-
-**Reading Notes 9.22.22**
-```
+## Equity 
 
 ```
+> Inputs --> Outputs --> Benefits
+> eg. How do you collect revenue --> Delivering Mobility --> Use of the System 
+```
+
+**Metrics**
+``` 
+Efficiency = Output/Input = Output/$ 
+Effectiveness = Benefits/Output = Ridership/Vehicle Revenue Mile (VRM)
+Cost Effectiveness = Benefits/Input =Ridership/$
+```
+
+### Base of Equity
+**Place-Based Equity**
+Politicians are based on place (not someone representing the millennials, baby boomers, etc.)
+
+**People Based Equity**
+Focusing on specific population 
+
+What is the "right" distribution? (This is a branch of moral philosophy). 
+	* Utilitarianism (Jeremy Bentham/Greatest Good For Greatest Number Of People)
+	* Strict Egalitarianism (Karl Marx, From each according to their ability to each to their need) Distribute Equally
+	* Libertarianism (Robert Nozick), Markets work well, allow people to make their own decisions. About the process. 
+	* Pareto Efficiency (Vilefrido Pareto)
+	* Difference Principle (John Rawls) Inequality is justified if the result of that inequality makes everyone better off. (ie justification for income inequality).
+	* Capabilities Approach (Amarty Sen/Martha Nassbaum) (from wikipedia) is a normative approach to human [welfare](https://en.wikipedia.org/wiki/Welfare "Welfare") that concentrates on the actual capability of persons to achieve lives they value rather than solely having a [right](https://en.wikipedia.org/wiki/Right "Right") or [freedom](https://en.wikipedia.org/wiki/Freedom "Freedom") to do so. Concerned with adequacy. 
+	* Equal Opportunity 
+
+>> 
+
+> **What would be needed in order to optimize Bluebike stations according to these different philosophies of "right distribution"**
+> 
+	Utilitarianism: Bluebike stations put at locations where they would be used by the greatest number of people. 
+	What you would need: Knowledge about where bike demand is highest. 
+	How could you get this: You could look at current demand and makes guesses, as well as conducting service to see where folks would like to see demand. 
+	Worst Case: 
+
+	Capabilities Approach: Bluebike stations within a 10 minute walk of every address in Boston proportional to the population of that area
+	What you would need/How you could get it: Create walksheds of stations and layer over population demographics. 
+
+	Libertarianism: Bluebike stations where they would be used the most with least need for station rebalancing. 
+
+### Ways to Pay For Transportation
+
+| __| Save + Wait| Borrow |
+|---|---|---|
+|User Fees||
+|Sales Tax|||
+|Income Tax|||
+|Property Tax|||
+|Tax-Increment Financing|||
+|Federal Funds||
+|Private Investment|| 
+
+Arguments for Borrowing: Future generations will be better off than we are, future generations will benefit from the infrastructure, decently easy for government to print money. People who live in a place once the infrastructure is constructed. 
+
+Arguments for Wait + Save: (Doesn't Really Happen) Future generations might not value what we value 
+
+Printing Money: A form of taxation (because of inflation)
+
+```
+> Inputs --> Outputs --> Benefits
+> eg. How do you collect revenue --> Delivering Mobility --> Use of the System 
+```
+
+**Metrics**
+``` 
+Efficiency = Output/Input = Output/$ 
+Effectiveness = Benefits/Output = Ridership/Vehicle Revenue Mile (VRM)
+Cost Effectiveness = Benefits/Input =Ridership/$
+```
+
+
+```
+> Inputs --> Outputs --> Benefits
+> eg. How do you collect revenue --> Delivering Mobility --> Use of the System 
+```
+
+**Metrics**
+``` 
+Efficiency = Output/Input = Output/$ 
+Effectiveness = Benefits/Output = Ridership/Vehicle Revenue Mile (VRM)
+Cost Effectiveness = Benefits/Input =Ridership/$
+```
+
+
 
 ### Facilitation
 -   Think about a time when you successfully learned something that was related to a professional role. Which of the features of effective professional learning were in place? How did those features support your learning?
@@ -303,6 +386,8 @@ A theater should not be a place where people are reflected but a place where the
 
 
 **Landscape of impatient capital**
+
+
 ### Infrastructure
 
 **9.13.2022**

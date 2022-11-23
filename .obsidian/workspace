@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled 1.md",
+            "file": "Untitled 6.md",
             "mode": "source",
             "source": false
           }
@@ -20,26 +20,20 @@
             {
               "leaf": "ac4149ea7eaff8ac",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled 1.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "ac4149ea7eaff8ac",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"429_CaseForSubsidizingPublicTransit.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled 6.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "ac4149ea7eaff8ac",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"430_MohringDemonstration.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Various Audiences.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "ac4149ea7eaff8ac",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Various Audiences.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":10},\"to\":{\"line\":16,\"ch\":10}},\"scroll\":19.732203112567166}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"WhatIsFire.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "ac4149ea7eaff8ac",
@@ -50,92 +44,98 @@
             {
               "leaf": "ac4149ea7eaff8ac",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"429_CaseForSubsidizingPublicTransit.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Once We Get Racks on Our Bikes.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "ac4149ea7eaff8ac",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"430_MohringDemonstration.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":118},\"to\":{\"line\":0,\"ch\":118}}}"
-            },
-            {
-              "leaf": "ac4149ea7eaff8ac",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"429_CaseForSubsidizingPublicTransit.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "ac4149ea7eaff8ac",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"428_CostofTransportationRegressive.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"MarshallIslandStickMaps.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "ac4149ea7eaff8ac",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"427_VMT.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":227},\"to\":{\"line\":0,\"ch\":227}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"BulletProofVestsAndHelmets.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "ac4149ea7eaff8ac",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"426_PigouvianTax.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ChallengesToRepresentingFire.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "ac4149ea7eaff8ac",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"425_StrictDefinitions OfPublicGoods.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
-            },
-            {
-              "leaf": "ac4149ea7eaff8ac",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"424_NationalDefenseHighway.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "ac4149ea7eaff8ac",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"423_HighwayTrustFund.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
-            },
-            {
-              "leaf": "ac4149ea7eaff8ac",
-              "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"ooooo_mixedMedia/Pasted image 20221013133234.png\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "ac4149ea7eaff8ac",
-              "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"ooooo_mixedMedia/Pasted image 20221011213626.png\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "ac4149ea7eaff8ac",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"423_HighwayTrustFund.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "ac4149ea7eaff8ac",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"422_HistoryOfTollsOnInterstateHighways.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":16},\"to\":{\"line\":2,\"ch\":16}}}"
-            },
-            {
-              "leaf": "ac4149ea7eaff8ac",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"421_UserFees.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DesigningWIthFire.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "ac4149ea7eaff8ac",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Various Audiences.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":36,\"ch\":0},\"to\":{\"line\":36,\"ch\":0}},\"scroll\":13.711863898167582}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "ac4149ea7eaff8ac",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"WhatIsFire.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "ac4149ea7eaff8ac",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled 6.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "ac4149ea7eaff8ac",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled 5.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "ac4149ea7eaff8ac",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"MarshallIslandStickMaps.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":640},\"to\":{\"line\":0,\"ch\":640}},\"scroll\":0}"
+            },
+            {
+              "leaf": "ac4149ea7eaff8ac",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ChallengesToRepresentingFire.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":712},\"to\":{\"line\":3,\"ch\":0}},\"scroll\":3.452674768513051}"
+            },
+            {
+              "leaf": "ac4149ea7eaff8ac",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DesigningWIthFire.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "ac4149ea7eaff8ac",
+              "group": null,
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"Pasted image 20221016141012.png\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "ac4149ea7eaff8ac",
+              "group": null,
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"Pasted image 20221016123603.png\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "ac4149ea7eaff8ac",
+              "group": null,
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"Pasted image 20221014170842.png\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "ac4149ea7eaff8ac",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         }
@@ -186,7 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 610.5089015960693
+    "width": 286.5191993713379
   },
   "right": {
     "id": "a26f4b01d5b4cea2",
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Untitled 6.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Untitled 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,20 +252,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100,
-    "collapsed": true
+    "width": 100
   },
   "active": "ac4149ea7eaff8ac",
   "lastOpenFiles": [
-    "429_CaseForSubsidizingPublicTransit.md",
-    "430_MohringDemonstration.md",
     "Various Audiences.md",
+    "WhatIsFire.md",
     "Untitled.md",
-    "428_CostofTransportationRegressive.md",
-    "427_VMT.md",
-    "426_PigouvianTax.md",
-    "425_StrictDefinitions OfPublicGoods.md",
-    "424_NationalDefenseHighway.md",
-    "423_HighwayTrustFund.md"
+    "Once We Get Racks on Our Bikes.md",
+    "MarshallIslandStickMaps.md",
+    "BulletProofVestsAndHelmets.md",
+    "ChallengesToRepresentingFire.md",
+    "DesigningWIthFire.md",
+    "Untitled 6.md",
+    "Untitled 5.md"
   ]
 }
