@@ -57,7 +57,7 @@ Component C: Talk with others in "pleasure mapping" exercises
 
 Kelley, Robin D. G. 2022. _Freedom Dreams: The Black Radical Imagination_. Twentieth anniversary edition. Boston: Beacon Press.
 
-> Book examining the history of the Black Radical Imagination and argues for the creation of "Freedom Dreams" new visions that articulate new ways of being that are free from opression. I want to read to understand how "freedom dreams" or articulations of a radical new future could specifically speak to plans for urban environemnts. 
+> Book examining the history of the Black Radical Imagination and argues for the creation of "Freedom Dreams" new visions that articulate new ways of being that are free from oppression. I want to read to understand how "freedom dreams" or articulations of a radical new future could specifically speak to plans for urban environemnts. 
 
 Brown, Adrienne M. 2019. _Pleasure Activism: The Politics of Feeling Good_. Chico, CA: AK Press.
 

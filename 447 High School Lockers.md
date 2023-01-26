@@ -1,0 +1,3 @@
+According to reporting by Washington Post, lockers are being used less by high schoolers. In part due to the changing nature of school supplies (laptops, online textbooks, smart phones) high schoolers use their lockers in a different way than past generations, more likely to keep everything on them. For example, at Rock Ridge High School in Ashburn the principal estimated that of the 2100 students, 90% of sophomores, juniors and seniors did not use their lockers.
+
+https://www.washingtonpost.com/local/education/schools-and-lockers-no-longer-the-right-combination/2018/01/24/9aa4222a-fa09-11e7-ad8c-ecbb62019393_story.html

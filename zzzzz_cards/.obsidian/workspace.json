@@ -1,0 +1,117 @@
+{
+  "main": {
+    "id": "92fee151d6223c7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "2336380fc72748c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c67a3da5d34792c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gund Staff.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c192c52cc7cca653",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "354_MariahdessaEkereTallie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "02753c9e85256280",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc29cbe78c39181a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ba92c146cbddd9c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ab4b5ed642dd787c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "freedom dreams",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "aa70afefc13339d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "0584572169b0ffc6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21454f056e0e8f5f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "354_MariahdessaEkereTallie.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c192c52cc7cca653",
+  "lastOpenFiles": [
+    "Judged by Entering it's prisons.md",
+    "Gund Staff.md"
+  ]
+}

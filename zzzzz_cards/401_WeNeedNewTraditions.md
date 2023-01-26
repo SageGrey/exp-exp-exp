@@ -4,3 +4,4 @@ In her talk Dr. Ayana Johnson emphasize that when we think about large-scale mov
 Dr. Ayana Elizabeth Johnson with Virginia Prescott. 2022. “Keynote: Loeb Fellowship 50th Anniversary Symposium.” Harvard Graduate School of Design, October 6.
 
 
+[[401_WeNeedNewTraditions]]

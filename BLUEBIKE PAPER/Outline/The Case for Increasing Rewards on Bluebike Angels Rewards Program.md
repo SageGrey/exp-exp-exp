@@ -2,6 +2,15 @@
 ## The Case for Increasing Rewards on Bluebike Angels Rewards Program
 Sage Voorhees
 
+```OUTLINE
+Overview
+Intro to Blue Bike Angel Program
+Arguments for Increased Compensation
+What Could Increased Compensation Look Like
+Potential Problems
+Conclusion
+```
+
  The Boston Bike Share program, Bluebikes, has been having a pretty good couple of years. The system launched in 2011 with 60 stations and 610 Bikes in Boston[^1]. In 2012 the system expanded to Somerville, Cambridge, Brookline[^2]. Everett joined in 2019 and in 2020 Arlington, Chelsea, Newton, Revere, and Watertown followed suit[^3]. Salem, Malden and Medford are the most recent recruits joining since the pandemic[^4]. Currently, across the Greater Boston region, Bluebikes boasts more than 400 stations and 4000+ bikes[^5]. In May, during the orange line shutdown, Bluebike broke single day ridership records 10 times and set a new annual ridership record, in May[^6]. 
 
  Yet despite the success of Bluebikes in terms of growth and ridership, the experience of using a Bluebike is often a frustrating one. Issues of proper bike balancing--stations having either too not enough bikes for demand, or not enough stations for returning bikes-- remains a persistent feature of the system, severely undercutting its reliability. According to survey results from a 2020 paper, trouble with renting/returning was found as a leading barrier for those using the Bluebike system[^7].  
@@ -18,15 +27,12 @@ The Bluebike Angels program is an incentive program to encourage riders to take 
 
 **1.3 Current State of Rewards System**
 
-A friend of mine who is a frequent Bluebike rider once described to me the Bluebike Angel points as "very fun, but largely meaningless." As the rewards stand right now, the satisfaction in earning points leads up to small rewards. The points are divided into two categories. Monthly points which reset each month, and lifetime points that accrue over time. Rewards for monthly passes include a 24hour guest pass, a week-long membership extensions, and eventually $1 for every 10 points.  Currently there is only one reward for Lifetime rewards, a Blue Bike Angels pin for 250 points. 
+A friend of mine who is a frequent Bluebike rider once described to me the Bluebike Angel points as "very fun, but largely meaningless." As the rewards stand right now, the satisfaction in earning points leads up to small rewards. The points are divided into two categories. Monthly points which reset each month, and lifetime points that accrue over time. Rewards for monthly passes include a 24hour guest pass, a week-long membership extensions, and eventually $1 for every 10 points.  Currently theNumre is only one reward for Lifetime rewards, a Blue Bike Angels pin for 250 points. 
 
 These points are similar to 
 
 Monthly Rewards
-|City|Public or Privately Owned|10 Points|20-80 Points| 80-200 Points| 200+ Points|
-|---|---|---|---|---|---|---|
-|Boston Bluebike|Public|24-Hr "Adventure Pass" for a friend|1-Week Membership extension for every 20 points|$1 Gift Card for Every 10 Points|
-|San Francisco Bay Wheels|||||
+80-2
 |
 
 During a press release Abby Braughton, a senior operations manager at Lyft described the program, ""This is more about kind of getting people excited and more involved with balancing a healthy bike system, based on where you're going." 

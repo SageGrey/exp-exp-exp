@@ -1,0 +1,1 @@
+Does this create new rituals?
